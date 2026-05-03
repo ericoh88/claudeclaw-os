@@ -5,7 +5,7 @@ import { loadAgentConfig, listAgentIds, resolveAgentDir, resolveAgentClaudeMd } 
 import { createBot } from './bot.js';
 import { createSignalBot, SignalBot } from './signal-bot.js';
 import { checkPendingMigrations } from './migrations.js';
-import { ALLOWED_CHAT_ID, activeBotToken, STORE_DIR, PROJECT_ROOT, CLAUDECLAW_CONFIG, GOOGLE_API_KEY, setAgentOverrides, SECURITY_PIN_HASH, IDLE_LOCK_MINUTES, EMERGENCY_KILL_PHRASE, WARROOM_ENABLED, WARROOM_PORT, MESSENGER_TYPE, SIGNAL_AUTHORIZED_RECIPIENTS, SIGNAL_PHONE_NUMBER } from './config.js';
+import { ALLOWED_CHAT_ID, activeBotToken, STORE_DIR, PROJECT_ROOT, CLAUDECLAW_CONFIG, GOOGLE_API_KEY, setAgentOverrides, SECURITY_PIN_HASH, IDLE_LOCK_MINUTES, EMERGENCY_KILL_PHRASE, WARROOM_ENABLED, WARROOM_PORT, MESSENGER_TYPE, SIGNAL_AUTHORIZED_RECIPIENTS, SIGNAL_PHONE_NUMBER, DISCORD_BOT_TOKEN } from './config.js';
 import { startDashboard } from './dashboard.js';
 import { initDatabase, cleanupOldMissionTasks, insertAuditLog } from './db.js';
 import { initSecurity, setAuditCallback } from './security.js';
@@ -14,6 +14,7 @@ import { cleanupOldUploads } from './media.js';
 import { runConsolidation } from './memory-consolidate.js';
 import { runDecaySweep } from './memory.js';
 import { initOAuthHealthCheck } from './oauth-health.js';
+import { initDiscord } from './discord.js';
 import { initOrchestrator } from './orchestrator.js';
 import { initScheduler } from './scheduler.js';
 import { setTelegramConnected, setBotInfo } from './state.js';
@@ -25,8 +26,12 @@ const AGENT_ID = agentFlagIndex !== -1 ? process.argv[agentFlagIndex + 1] : 'mai
 // Export AGENT_ID to env so child processes (schedule-cli, etc.) inherit it
 process.env.CLAUDECLAW_AGENT_ID = AGENT_ID;
 
+// Track whether this agent runs headless (scheduler-only, no Telegram bot).
+let IS_HEADLESS = false;
+
 if (AGENT_ID !== 'main') {
   const agentConfig = loadAgentConfig(AGENT_ID);
+  IS_HEADLESS = agentConfig.headless === true;
   const agentDir = resolveAgentDir(AGENT_ID);
   const claudeMdPath = resolveAgentClaudeMd(AGENT_ID);
   let systemPrompt: string | undefined;
@@ -45,7 +50,7 @@ if (AGENT_ID !== 'main') {
     mcpServers: agentConfig.mcpServers,
     skillsAllowlist: agentConfig.skillsAllowlist,
   });
-  logger.info({ agentId: AGENT_ID, name: agentConfig.name }, 'Running as agent');
+  logger.info({ agentId: AGENT_ID, name: agentConfig.name, headless: IS_HEADLESS }, 'Running as agent');
 } else {
   // For main bot: load CLAUDE.md from CLAUDECLAW_CONFIG/agents/main/ (same
   // pattern as sub-agents). Falls back to CLAUDECLAW_CONFIG/CLAUDE.md for
@@ -123,7 +128,7 @@ async function main(): Promise<void> {
       logger.error('SIGNAL_PHONE_NUMBER not set. Link signal-cli first, then set it in .env.');
       process.exit(1);
     }
-  } else {
+  } else if (!IS_HEADLESS) {
     if (!activeBotToken) {
       if (AGENT_ID === 'main') {
         logger.error('Bot token is not set. Run npm run setup to configure it.');
@@ -191,9 +196,10 @@ async function main(): Promise<void> {
   // ── Messenger: create either the Telegram bot (grammy) or the Signal bot
   // (signal-cli JSON-RPC). Both expose a messenger-agnostic `sendToPrimary`
   // helper used by scheduler, War Room status messages, and OAuth alerts.
-  const useSignal = MESSENGER_TYPE === 'signal';
-  const bot = useSignal ? null : createBot();
-  const signalBot: SignalBot | null = useSignal ? createSignalBot() : null;
+  // Headless agents skip bot creation entirely — they only run the scheduler.
+  const useSignal = !IS_HEADLESS && MESSENGER_TYPE === 'signal';
+  const bot = (IS_HEADLESS || useSignal) ? null : createBot();
+  const signalBot: SignalBot | null = (!IS_HEADLESS && useSignal) ? createSignalBot() : null;
 
   // Recipient for status messages (scheduler output, War Room errors, etc.).
   // Telegram: ALLOWED_CHAT_ID. Signal: first entry in SIGNAL_AUTHORIZED_RECIPIENTS,
@@ -363,8 +369,42 @@ async function main(): Promise<void> {
     } else {
       logger.info('OAuth health check disabled (set OAUTH_HEALTH_ENABLED=true in .env to enable)');
     }
-  } else {
+  } else if (!IS_HEADLESS) {
     logger.warn('No primary recipient configured — scheduler disabled');
+  }
+
+  // ── Headless agents: scheduler-only mode. No Telegram/Signal bot, just
+  // poll mission_tasks and execute assigned work. Keep the process alive
+  // with a heartbeat interval.
+  if (IS_HEADLESS) {
+    // Headless agents still need the scheduler even without a primaryRecipient.
+    // If initScheduler wasn't called above (no primaryRecipient), init it now
+    // with a no-op sender — headless agents don't send Telegram messages, but
+    // mission task results are stored in the DB and the main bot relays them.
+    if (!primaryRecipient) {
+      initScheduler(
+        async () => { /* headless: no messenger, results go to mission_tasks.result */ },
+        AGENT_ID,
+      );
+    }
+
+    const shutdown = () => {
+      logger.info('Shutting down headless agent...');
+      releaseLock();
+      process.exit(0);
+    };
+    process.on('SIGINT', shutdown);
+    process.on('SIGTERM', shutdown);
+
+    console.log(`\n  ClaudeClaw agent [${AGENT_ID}] online (headless — scheduler only)\n`);
+    logger.info({ agentId: AGENT_ID }, 'Headless agent running. Polling mission tasks...');
+
+    // Keep the process alive. The scheduler's setInterval already prevents
+    // Node from exiting, but this heartbeat logs a proof-of-life periodically.
+    setInterval(() => {
+      logger.debug({ agentId: AGENT_ID }, 'Headless heartbeat');
+    }, 60_000);
+    return;
   }
 
   const shutdown = async () => {
@@ -397,6 +437,11 @@ async function main(): Promise<void> {
   }
 
   if (!bot) throw new Error('Telegram bot not created and Signal not active — check MESSENGER_TYPE.');
+
+  // Start Discord bot (main agent only)
+  if (AGENT_ID === 'main' && DISCORD_BOT_TOKEN) {
+    initDiscord().catch((err) => logger.error({ err }, 'Discord failed to start'));
+  }
 
   // Clear any existing webhook so polling works cleanly (e.g., if token was
   // previously used with a webhook-based bot or another ClaudeClaw instance).

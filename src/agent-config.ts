@@ -16,6 +16,10 @@ export interface AgentConfig {
   description: string;
   botTokenEnv: string;
   botToken: string;
+  /** When true, agent runs scheduler-only (mission tasks) without a Telegram bot.
+   *  No bot token required. The agent picks up work from the mission queue and
+   *  results are relayed through the main bot's Telegram connection. */
+  headless?: boolean;
   model?: string;
   mcpServers?: string[];
   obsidian?: {
@@ -76,16 +80,24 @@ export function loadAgentConfig(agentId: string): AgentConfig {
 
   const name = raw['name'] as string;
   const description = (raw['description'] as string) ?? '';
-  const botTokenEnv = raw['telegram_bot_token_env'] as string;
+  const headless = raw['headless'] === true;
+  const botTokenEnv = (raw['telegram_bot_token_env'] as string) || '';
   const model = raw['model'] as string | undefined;
 
-  if (!name || !botTokenEnv) {
-    throw new Error(`Agent config ${configPath} must have 'name' and 'telegram_bot_token_env'`);
+  if (!name) {
+    throw new Error(`Agent config ${configPath} must have 'name'`);
   }
 
-  const env = readEnvFile([botTokenEnv]);
-  const botToken = process.env[botTokenEnv] || env[botTokenEnv] || '';
-  if (!botToken) {
+  if (!headless && !botTokenEnv) {
+    throw new Error(`Agent config ${configPath} must have 'telegram_bot_token_env' (or set headless: true)`);
+  }
+
+  let botToken = '';
+  if (botTokenEnv) {
+    const env = readEnvFile([botTokenEnv]);
+    botToken = process.env[botTokenEnv] || env[botTokenEnv] || '';
+  }
+  if (!headless && !botToken) {
     throw new Error(`Bot token not found: set ${botTokenEnv} in .env`);
   }
 
@@ -118,6 +130,7 @@ export function loadAgentConfig(agentId: string): AgentConfig {
     description,
     botTokenEnv,
     botToken,
+    headless,
     model,
     mcpServers,
     obsidian,

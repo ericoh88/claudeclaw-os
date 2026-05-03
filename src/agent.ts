@@ -132,6 +132,7 @@ export interface AgentResult {
   newSessionId: string | undefined;
   usage: UsageInfo | null;
   aborted?: boolean;
+  subtype?: string;
 }
 
 /**
@@ -213,6 +214,7 @@ export async function runAgent(
   let resultText: string | null = null;
   let usage: UsageInfo | null = null;
   let didCompact = false;
+  let resultSubtype: string | undefined;
   let preCompactTokens: number | null = null;
   let lastCallCacheRead = 0;
   let lastCallInputTokens = 0;
@@ -377,6 +379,7 @@ export async function runAgent(
           );
         }
 
+        resultSubtype = (ev['subtype'] as string) ?? undefined;
         logger.info(
           { hasResult: !!resultText, subtype: ev['subtype'] },
           'Agent result received',
@@ -401,7 +404,7 @@ export async function runAgent(
     clearInterval(typingInterval);
   }
 
-  return { text: resultText, newSessionId, usage };
+  return { text: resultText, newSessionId, usage, subtype: resultSubtype };
 }
 
 // ── Retry wrapper ─────────────────────────────────────────────────

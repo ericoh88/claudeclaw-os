@@ -63,3 +63,20 @@ agents/*/CLAUDE.md
 # Local MCP / Claude settings — machine-specific, contains user paths
 .claude/settings.json
 .claude/settings.local.json
+.claude/claudex/
+.gitnexus
+
+# Playwright MCP artifacts — session snapshots, downloads, temp files
+.playwright-mcp/
+
+# Reports — personal video notes, research, session summaries
+reports/
+
+# Task tracking — personal session notes
+tasks/
+
+# Todo scratch
+todo.md
+
+# Batch scripts — personal automation
+scripts/batch-watch-*.sh
