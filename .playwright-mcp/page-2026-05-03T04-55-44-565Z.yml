@@ -1,0 +1,4 @@
+- generic [ref=e144]:
+  - heading "Something went wrong" [level=2] [ref=e145]
+  - paragraph [ref=e146]: crypto.randomUUID is not a function
+  - button "Try again" [ref=e147]

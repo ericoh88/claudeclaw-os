@@ -1,0 +1,174 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: "\"Brad Bonanno\""
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e57]:
+        - tablist [ref=e62]:
+          - tab "All" [selected] [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: All
+          - tab "Shorts" [ref=e75] [cursor=pointer]:
+            - generic [ref=e77]: Shorts
+          - tab "Unwatched" [ref=e84] [cursor=pointer]:
+            - generic [ref=e86]: Unwatched
+          - tab "Watched" [ref=e93] [cursor=pointer]:
+            - generic [ref=e95]: Watched
+          - tab "Videos" [ref=e102] [cursor=pointer]:
+            - generic [ref=e104]: Videos
+          - tab "Recently uploaded" [ref=e111] [cursor=pointer]:
+            - generic [ref=e113]: Recently uploaded
+          - tab "Live" [ref=e120] [cursor=pointer]:
+            - generic [ref=e122]: Live
+        - generic [ref=e127]:
+          - button "Search filters" [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: Filters
+          - tooltip "tooltip"
+      - generic [ref=e141]:
+        - generic [ref=e143]:
+          - link [ref=e145] [cursor=pointer]:
+            - /url: /@bradbonanno2052
+          - generic [ref=e148]:
+            - link "brad bonanno @bradbonanno2052" [ref=e149] [cursor=pointer]:
+              - /url: /@bradbonanno2052
+              - generic [ref=e150]:
+                - generic [ref=e154]: brad bonanno
+                - generic [ref=e155]: "@bradbonanno2052"
+            - link "Subscribe" [ref=e160] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253D%252522Brad%252BBonanno%252522%26continue_action%3DQUFFLUhqa0pNd3FhemNTd3gtMXNfZHBQOS0yRjBFQXNpQXxBQ3Jtc0trWllwZ185S2pqdWNOeU4zUkVPYTBuOTRfSUp6eGd4QzE4aTBXVUU5QUpDeHdqdzRuUk9wQ2pJcmg0d3Q3Y3RsNEkxc3hhWjF2LU96Z0NxMU1LUnNheFBuWnpULTg3VEhIV183RS1reXNEZHczcDdsbC1mS0EyYUFNRVc3dUtlUDJ0a0FJZ2tId0NpYWo0ZFlFWmFOZDF6eUlBbFRGa0dua01fQm9GNnVXZ183SW84U2ZnVXg5UUR3UGdDZ3NrQXZvS1Uwb3E&hl=en
+              - generic [ref=e161]: Subscribe
+        - generic [ref=e166] [cursor=pointer]:
+          - link [ref=e167]:
+            - /url: /watch?v=I3NeOKbe5wA&list=PLDuoBK82Ng2UkrMcdl_8YwAtsgCVbabj5
+            - generic [ref=e179]: 7 videos
+          - generic [ref=e182]:
+            - heading "straight classics vol. 1" [level=3] [ref=e183]:
+              - link "straight classics vol. 1" [ref=e184]:
+                - /url: /watch?v=I3NeOKbe5wA&list=PLDuoBK82Ng2UkrMcdl_8YwAtsgCVbabj5
+            - generic [ref=e186]:
+              - group [ref=e187]:
+                - link "brad bonanno" [ref=e190]:
+                  - /url: /@bradbonanno2052
+                - generic [ref=e191]: •
+                - link "Playlist" [ref=e194]:
+                  - /url: /@bradbonanno2052
+              - group [ref=e195]
+              - group [ref=e196]:
+                - link "Elton John - Tiny Dancer - Official Video - 1080p HD · 6:14" [ref=e198]:
+                  - /url: /watch?v=I3NeOKbe5wA&list=PLDuoBK82Ng2UkrMcdl_8YwAtsgCVbabj5
+              - group [ref=e199]:
+                - link "Rocket Man (I Think It's Going To Be A Long, Long Time) · 4:42" [ref=e201]:
+                  - /url: /watch?v=BdEe5SpdIuo&list=PLDuoBK82Ng2UkrMcdl_8YwAtsgCVbabj5
+              - group [ref=e202]
+              - group [ref=e203]:
+                - link "View full playlist" [ref=e206]:
+                  - /url: /playlist?list=PLDuoBK82Ng2UkrMcdl_8YwAtsgCVbabj5
+        - generic [ref=e208] [cursor=pointer]:
+          - link [ref=e209]:
+            - /url: /watch?v=tRvZR1k2MKw&list=PLDuoBK82Ng2Vm-TrTSh1LvXR0GGFPjMeb
+            - generic [ref=e221]: 23 videos
+          - generic [ref=e224]:
+            - heading "90s rock" [level=3] [ref=e225]:
+              - link "90s rock" [ref=e226]:
+                - /url: /watch?v=tRvZR1k2MKw&list=PLDuoBK82Ng2Vm-TrTSh1LvXR0GGFPjMeb
+            - generic [ref=e228]:
+              - group [ref=e229]:
+                - link "brad bonanno" [ref=e232]:
+                  - /url: /@bradbonanno2052
+                - generic [ref=e233]: •
+                - link "Playlist" [ref=e236]:
+                  - /url: /@bradbonanno2052
+              - group [ref=e237]
+              - group [ref=e238]:
+                - link "Hey Man Nice Shot (¼ lb) · 5:04" [ref=e240]:
+                  - /url: /watch?v=tRvZR1k2MKw&list=PLDuoBK82Ng2Vm-TrTSh1LvXR0GGFPjMeb&pp=0gcJCRoBOCosWNin
+              - group [ref=e241]:
+                - link "TOOL - The Pot (Official Audio) · 6:24" [ref=e243]:
+                  - /url: /watch?v=civuoU_NE38&list=PLDuoBK82Ng2Vm-TrTSh1LvXR0GGFPjMeb&pp=0gcJCRoBOCosWNin
+              - group [ref=e244]
+              - group [ref=e245]:
+                - link "View full playlist" [ref=e248]:
+                  - /url: /playlist?list=PLDuoBK82Ng2Vm-TrTSh1LvXR0GGFPjMeb
+        - generic [ref=e253]:
+          - img [ref=e259]
+          - generic [ref=e261] [cursor=pointer]:
+            - generic [ref=e262]:
+              - link "Seedance 2.0 Official Launch" [ref=e265]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtvHO-cfyaf7fCbyc88EPhpSqqQrN-cTKhgGeza7o0BVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBL0CT9BHX3XBhAk9gvD2mkC8G4C3Iw4pnWwKvGJ6KKCwX-bhejqJnmAyhAZfFNDww9AfBS9F191X72lknYdZiDYipj_JWzBqHVTRxQE4YrHSp2HwG6t_bvxK7xPwKiODRn8qy97ubBa6LeyIMY1KDaeN_wDOuXIxKZmlLWc3MS3WJpoWSGGd9thdi-BxUg3h2Mu7D-m0Osm3IxuNL5OqD5YLl1C_oLJQeSYBUm8HBbOoYRatBkYG7oxcKBJP3HvKLNsd8OANDPw9MpEwDYky1GZfU3aq6y7ApOWnEX1RjvZgh2bUO2CShDLuz2i-YjlrW1Ewwr2qo_Qu_BZCLBdsIHnp9mzOMl56QrfwvhzLpwSqJA2a7Ms6wolMfVvD1O6KBMBb_WbfmxeSnWt538QDhRjR92gP_KALIDSU85vBDsuIBZK7_rtYkgUICBN4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFi4m-bezJSUA5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJPoOryEROaLbICQCYCwG6Cz0IAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE2X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNl9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDvOfw_sYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIvsDm3syUlAMVPM48Ah0GiiqlEAEYASAAEgKKcPD_BwE&num=1&cid=CAASwwHkaPxoz9zbIvZUEfvrA54xV6KSu_WjKZ-XUpYZJTjVd2ZYehTPMPBEFPfwjRjA3EpkVxgMinTZ6opYfRV3y5PDxxLUR8mtpVOs14xVkavPeHOSYDjaCSxnjh1P4KBxbncMI4n0WA1MxYCcdtEgTRCKjZdZA3wkpWD0wCh0E-oeZm91_W_68sJA6rHu5x8kdgi-mI5bssM3NK1iceWBN2lI-vEYzxVGsVDSKic16kcQ3UxyKcjWnQylaOBD5ntK8KALttU&sig=AOD64_3VYe-6s7Nyd13DT_UyDfAz7hun2w&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 official release, no wait. Be first, not left in AI dust." [ref=e268]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtvHO-cfyaf7fCbyc88EPhpSqqQrN-cTKhgGeza7o0BVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBL0CT9BHX3XBhAk9gvD2mkC8G4C3Iw4pnWwKvGJ6KKCwX-bhejqJnmAyhAZfFNDww9AfBS9F191X72lknYdZiDYipj_JWzBqHVTRxQE4YrHSp2HwG6t_bvxK7xPwKiODRn8qy97ubBa6LeyIMY1KDaeN_wDOuXIxKZmlLWc3MS3WJpoWSGGd9thdi-BxUg3h2Mu7D-m0Osm3IxuNL5OqD5YLl1C_oLJQeSYBUm8HBbOoYRatBkYG7oxcKBJP3HvKLNsd8OANDPw9MpEwDYky1GZfU3aq6y7ApOWnEX1RjvZgh2bUO2CShDLuz2i-YjlrW1Ewwr2qo_Qu_BZCLBdsIHnp9mzOMl56QrfwvhzLpwSqJA2a7Ms6wolMfVvD1O6KBMBb_WbfmxeSnWt538QDhRjR92gP_KALIDSU85vBDsuIBZK7_rtYkgUICBN4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFi4m-bezJSUA5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJPoOryEROaLbICQCYCwG6Cz0IAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE2X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNl9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDvOfw_sYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIvsDm3syUlAMVPM48Ah0GiiqlEAEYASAAEgKKcPD_BwE&num=1&cid=CAASwwHkaPxoz9zbIvZUEfvrA54xV6KSu_WjKZ-XUpYZJTjVd2ZYehTPMPBEFPfwjRjA3EpkVxgMinTZ6opYfRV3y5PDxxLUR8mtpVOs14xVkavPeHOSYDjaCSxnjh1P4KBxbncMI4n0WA1MxYCcdtEgTRCKjZdZA3wkpWD0wCh0E-oeZm91_W_68sJA6rHu5x8kdgi-mI5bssM3NK1iceWBN2lI-vEYzxVGsVDSKic16kcQ3UxyKcjWnQylaOBD5ntK8KALttU&sig=AOD64_3VYe-6s7Nyd13DT_UyDfAz7hun2w&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e269]:
+                - generic [ref=e271]:
+                  - generic [ref=e272]: Sponsored
+                  - text: ·
+                - generic [ref=e274]: BytePlus
+            - button "My Ad Center" [ref=e277]
+        - generic [ref=e284] [cursor=pointer]:
+          - link [ref=e285]:
+            - /url: /watch?v=2PnlAAgOOW4&list=PLDuoBK82Ng2VEs94KDvRKdkW7xTDl8qka
+            - generic [ref=e297]: 13 videos
+          - generic [ref=e300]:
+            - heading "Bubba" [level=3] [ref=e301]:
+              - link "Bubba" [ref=e302]:
+                - /url: /watch?v=2PnlAAgOOW4&list=PLDuoBK82Ng2VEs94KDvRKdkW7xTDl8qka
+            - generic [ref=e304]:
+              - group [ref=e305]:
+                - link "brad bonanno" [ref=e308]:
+                  - /url: /@bradbonanno2052
+                - generic [ref=e309]: •
+                - link "Playlist" [ref=e312]:
+                  - /url: /@bradbonanno2052
+              - group [ref=e313]
+              - group [ref=e314]:
+                - link "Takem' To The Water · 4:32" [ref=e316]:
+                  - /url: /watch?v=2PnlAAgOOW4&list=PLDuoBK82Ng2VEs94KDvRKdkW7xTDl8qka
+              - group [ref=e317]:
+                - link "Well Water · 4:46" [ref=e319]:
+                  - /url: /watch?v=FoH1LqjlZng&list=PLDuoBK82Ng2VEs94KDvRKdkW7xTDl8qka
+              - group [ref=e320]
+              - group [ref=e321]:
+                - link "View full playlist" [ref=e324]:
+                  - /url: /playlist?list=PLDuoBK82Ng2VEs94KDvRKdkW7xTDl8qka
+        - generic [ref=e326] [cursor=pointer]:
+          - link [ref=e327]:
+            - /url: /watch?v=qns3HSVFW9I&list=PLDuoBK82Ng2XSusENDhewwEkcfooGR3K5
+            - generic [ref=e339]: 21 videos
+          - generic [ref=e342]:
+            - heading "Zion I Classics Vol 1" [level=3] [ref=e343]:
+              - link "Zion I Classics Vol 1" [ref=e344]:
+                - /url: /watch?v=qns3HSVFW9I&list=PLDuoBK82Ng2XSusENDhewwEkcfooGR3K5
+            - generic [ref=e346]:
+              - group [ref=e347]:
+                - link "brad bonanno" [ref=e350]:
+                  - /url: /@bradbonanno2052
+                - generic [ref=e351]: •
+                - link "Playlist" [ref=e354]:
+                  - /url: /@bradbonanno2052
+              - group [ref=e355]
+              - group [ref=e356]:
+                - link "Creation · 0:56" [ref=e358]:
+                  - /url: /watch?v=qns3HSVFW9I&list=PLDuoBK82Ng2XSusENDhewwEkcfooGR3K5
+              - group [ref=e359]:
+                - link "Revolution (B-Boy Anthem) · 4:12" [ref=e361]:
+                  - /url: /watch?v=J4YNuepatvY&list=PLDuoBK82Ng2XSusENDhewwEkcfooGR3K5
+              - group [ref=e362]
+              - group [ref=e363]:
+                - link "View full playlist" [ref=e366]:
+                  - /url: /playlist?list=PLDuoBK82Ng2XSusENDhewwEkcfooGR3K5

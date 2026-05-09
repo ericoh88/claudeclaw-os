@@ -1,0 +1,143 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e4]:
+    - region "Announcement" [ref=e5]:
+      - paragraph [ref=e6]: Free Shipping Within West Malaysia For Orders RM180 And Above
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - link "Dorsata Honey" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - img "Dorsata Honey" [ref=e12]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - button "About" [ref=e18] [cursor=pointer]:
+                - text: About
+                - img [ref=e19]
+            - listitem [ref=e21]:
+              - button "Shop" [ref=e22] [cursor=pointer]:
+                - text: Shop
+                - img [ref=e23]
+            - listitem [ref=e25]:
+              - button "Explore" [ref=e26] [cursor=pointer]:
+                - text: Explore
+                - img [ref=e27]
+            - listitem [ref=e29]:
+              - link "Contact" [ref=e30] [cursor=pointer]:
+                - /url: /pages/contact
+        - generic [ref=e32]:
+          - button "Search" [ref=e33] [cursor=pointer]:
+            - img [ref=e34]
+            - generic [ref=e36]: Search
+          - link "Log in" [ref=e37] [cursor=pointer]:
+            - /url: /account/login
+            - img [ref=e38]
+            - generic [ref=e40]: Log in
+          - link "Cart" [ref=e41] [cursor=pointer]:
+            - /url: /cart
+            - img [ref=e42]
+            - generic [ref=e44]: Cart
+  - generic [ref=e45]:
+    - main [ref=e46]:
+      - generic [ref=e49]:
+        - heading "Brand Story" [level=1] [ref=e51]
+        - generic [ref=e52]:
+          - paragraph [ref=e54]:
+            - img "brand story dorsata honey" [ref=e55]
+            - text: Rich in Polyphenols, every drop of Dorsata Honey contributes to a wholesome and rejuvenating experience. Harvested with care to protect wild bee colonies, it ensures sustainability and supports the preservation of Malaysia’s forest heritage for future generations.
+          - paragraph [ref=e56]: With its natural sweetness and purity, Dorsata Honey undergoes stringent testing and ongoing research to maintain high quality and consistency.
+          - paragraph [ref=e57]: Choosing Dorsata Honey means supporting local producers and contributing to the local economy. Its cost-effective and sustainable nature makes it an ideal addition to your balanced lifestyle a thoughtful gift for loved ones.
+          - generic [ref=e58]:
+            - heading "OUR MISSION" [level=3] [ref=e61]:
+              - generic [ref=e62]:
+                - strong [ref=e63]: OUR
+                - text: MISSION
+            - paragraph [ref=e66]: To raise awareness about the powerful benefits of polyphenols found in mature honey. We aim to inspire people to nourish themselves, as the way nature has intended it to be. Achieving a balanced lifestyle aligned with natural wellness.
+            - heading "OUR VISION" [level=3] [ref=e69]:
+              - generic [ref=e70]:
+                - strong [ref=e71]: OUR
+                - strong [ref=e72]: VISION
+            - list [ref=e75]:
+              - listitem [ref=e76]: To empower individuals health to reach their fullest potential by promoting cellular wellness through high polyphenol honey, the foundation to optimal health. (modernising honey)
+              - listitem [ref=e77]: To bring to public awareness that Malaysia’s rainforest(World’s Oldest Tropical Rainforest) possesses vast importance and benefits to the health of mankind and the need to preserve it for sustainable consumption and production of high polyphenol honey.
+              - listitem [ref=e78]: solidifying the foundation of honey as a traditional medicine via scientific and measurable methods and creating more job opportunities and industries downstream.
+          - heading "OUR TEAM" [level=3] [ref=e79]:
+            - generic [ref=e80]:
+              - strong [ref=e81]: OUR
+              - strong [ref=e82]: TEAM
+          - paragraph [ref=e83]: Our team is built on the strong support of family, friends, dedicated staff, partners and precious customers who have helped Dorsata Honey to grow.
+          - paragraph [ref=e84]: We would also like to acknowledge our dedicated researchers from MILA University, USM, UKM to help us understand the real potential of High Polyphenols Honey.
+          - paragraph [ref=e85]
+    - contentinfo [ref=e88]:
+      - generic [ref=e90]:
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: Quick links
+          - list [ref=e94]:
+            - listitem [ref=e95]:
+              - link "Home" [ref=e96] [cursor=pointer]:
+                - /url: https://www.dorsatahoney.com/
+            - listitem [ref=e97]:
+              - link "Brand Story" [ref=e98] [cursor=pointer]:
+                - /url: /pages/brand-story
+            - listitem [ref=e99]:
+              - link "How To Purchase" [ref=e100] [cursor=pointer]:
+                - /url: /pages/how-to-purchase
+            - listitem [ref=e101]:
+              - link "FAQ" [ref=e102] [cursor=pointer]:
+                - /url: /pages/faq
+            - listitem [ref=e103]:
+              - link "Career" [ref=e104] [cursor=pointer]:
+                - /url: /pages/career
+            - listitem [ref=e105]:
+              - link "Dorsata Honey, High in Plant Phenolics" [ref=e106] [cursor=pointer]:
+                - /url: /pages/dorsata-honey-high-in-plant-phenolics
+            - listitem [ref=e107]:
+              - link "Power of Plant Phenolics" [ref=e108] [cursor=pointer]:
+                - /url: /pages/power-of-plant-phenolics
+        - generic [ref=e110]:
+          - paragraph [ref=e111]: Newsletter
+          - generic [ref=e114]:
+            - textbox "Email address" [ref=e115]
+            - button "Subscribe" [ref=e117] [cursor=pointer]
+      - separator [ref=e118]
+      - generic [ref=e120]:
+        - list [ref=e122]:
+          - listitem [ref=e123]:
+            - link "Facebook" [ref=e124] [cursor=pointer]:
+              - /url: https://www.facebook.com/DorsataHoney
+              - img [ref=e125]
+              - generic [ref=e127]: Facebook
+          - listitem [ref=e128]:
+            - link "Twitter" [ref=e129] [cursor=pointer]:
+              - /url: https://twitter.com/dorsatahoney
+              - img [ref=e130]
+              - generic [ref=e132]: Twitter
+          - listitem [ref=e133]:
+            - link "Pinterest" [ref=e134] [cursor=pointer]:
+              - /url: https://www.pinterest.com/dorsatahoney
+              - img [ref=e135]
+              - generic [ref=e137]: Pinterest
+          - listitem [ref=e138]:
+            - link "Instagram" [ref=e139] [cursor=pointer]:
+              - /url: https://www.instagram.com/dorsatahoney/
+              - img [ref=e140]
+              - generic [ref=e144]: Instagram
+          - listitem [ref=e145]:
+            - link "YouTube" [ref=e146] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC6JVNyQpvRjWzbYKQ_-Y4UQ
+              - img [ref=e147]
+              - generic [ref=e149]: YouTube
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - text: © 2026,
+            - link "Dorsata Honey" [ref=e152] [cursor=pointer]:
+              - /url: /
+          - generic [ref=e153]:
+            - link:
+              - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+            - text: ", MFI DORSATA HONEY (002385043-T)"
+    - generic [ref=e154]: Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device

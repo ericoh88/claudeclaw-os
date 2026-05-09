@@ -1,0 +1,439 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - heading "Checkout" [level=1] [ref=e6]
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - generic [ref=e12]:
+            - generic [ref=e13]:
+              - figure [ref=e14]:
+                - link [ref=e15] [cursor=pointer]:
+                  - /url: https://markkashef.gumroad.com/l/council-skill-claude-code
+                  - img [ref=e16]
+              - generic [ref=e17]:
+                - generic [ref=e18]: "Qty: 1"
+                - text: "1"
+            - generic [ref=e19]:
+              - heading "The Council Skill for Claude Code 👑" [level=4] [ref=e20]:
+                - link "The Council Skill for Claude Code 👑" [ref=e21] [cursor=pointer]:
+                  - /url: https://markkashef.gumroad.com/l/council-skill-claude-code
+              - link "Mark Kashef" [ref=e22] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com
+              - generic [ref=e24]:
+                - button "Edit" [ref=e26] [cursor=pointer]
+                - button "Remove" [ref=e27] [cursor=pointer]
+            - generic "Price" [ref=e29]: US$0
+        - generic [ref=e32] [cursor=pointer]:
+          - switch "Give as a gift?" [ref=e34]
+          - heading "Give as a gift?" [level=4] [ref=e35]
+      - list [ref=e36]
+      - generic [ref=e38]:
+        - heading "Customers who bought this item also bought" [level=2] [ref=e39]
+        - generic [ref=e41]:
+          - article [ref=e42]:
+            - figure [ref=e43]:
+              - img [ref=e44]
+            - generic [ref=e45]:
+              - link "ClaudeClaw - Mega Prompt + Visual Guide 🦞" [ref=e46] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com/l/claudeclaw?layout=profile&recommended_by=more_like_this&recommender_model_name=sales
+                - heading "ClaudeClaw - Mega Prompt + Visual Guide 🦞" [level=4] [ref=e47]
+              - link "Mark Kashef" [ref=e48] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com?recommended_by=more_like_this
+                - img [ref=e49]
+                - text: Mark Kashef
+              - generic "Rating" [ref=e50]:
+                - img [ref=e51]
+                - generic [ref=e53]: "5.0"
+                - generic "5 ratings" [ref=e54]: (24)
+            - generic [ref=e61]: CAD$0+
+          - article [ref=e64]:
+            - figure [ref=e65]:
+              - img [ref=e66]
+            - generic [ref=e67]:
+              - link "ClaudeClaw OS Blueprint Kit 🦀" [ref=e68] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com/l/gnwsm?layout=profile&recommended_by=more_like_this&recommender_model_name=sales
+                - heading "ClaudeClaw OS Blueprint Kit 🦀" [level=4] [ref=e69]
+              - link "Mark Kashef" [ref=e70] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com?recommended_by=more_like_this
+                - img [ref=e71]
+                - text: Mark Kashef
+              - generic "Rating" [ref=e72]:
+                - img [ref=e73]
+                - generic [ref=e75]: "4.8"
+                - generic "4.8 ratings" [ref=e76]: (22)
+            - generic [ref=e83]: CAD$0+
+          - article [ref=e86]:
+            - figure [ref=e87]:
+              - img [ref=e88]
+            - generic [ref=e89]:
+              - link "📓 Claude Certified Architect Study Guide" [ref=e90] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com/l/claude-architect-study-guide?layout=profile&recommended_by=more_like_this&recommender_model_name=sales
+                - heading "📓 Claude Certified Architect Study Guide" [level=4] [ref=e91]
+              - link "Mark Kashef" [ref=e92] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com?recommended_by=more_like_this
+                - img [ref=e93]
+                - text: Mark Kashef
+              - generic "Rating" [ref=e94]:
+                - img [ref=e95]
+                - generic [ref=e97]: "5.0"
+                - generic "5 ratings" [ref=e98]: (7)
+            - generic [ref=e105]: CAD$0+
+          - article [ref=e108]:
+            - figure [ref=e109]:
+              - img [ref=e110]
+            - generic [ref=e111]:
+              - link "The OpenClaw Mind Virus Cure 💊" [ref=e112] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com/l/openclaw-mind-virus-cure?layout=profile&recommended_by=more_like_this&recommender_model_name=sales
+                - heading "The OpenClaw Mind Virus Cure 💊" [level=4] [ref=e113]
+              - link "Mark Kashef" [ref=e114] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com?recommended_by=more_like_this
+                - img [ref=e115]
+                - text: Mark Kashef
+              - generic "Rating" [ref=e116]:
+                - img [ref=e117]
+                - generic [ref=e119]: "5.0"
+                - generic "5 ratings" [ref=e120]: (8)
+            - generic [ref=e127]: CAD$0+
+          - article [ref=e130]:
+            - figure [ref=e131]:
+              - img [ref=e132]
+            - generic [ref=e133]:
+              - link "Second Brain Starter Kit - Obsidian + Claude Code 🧠" [ref=e134] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com/l/second-brain-obsidian-claude-code?layout=profile&recommended_by=more_like_this&recommender_model_name=sales
+                - heading "Second Brain Starter Kit - Obsidian + Claude Code 🧠" [level=4] [ref=e135]
+              - link "Mark Kashef" [ref=e136] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com?recommended_by=more_like_this
+                - img [ref=e137]
+                - text: Mark Kashef
+              - generic "Rating" [ref=e138]:
+                - img [ref=e139]
+                - generic [ref=e141]: "5.0"
+                - generic "5 ratings" [ref=e142]: (5)
+            - generic [ref=e149]: CAD$0+
+          - article [ref=e152]:
+            - figure [ref=e153]:
+              - img [ref=e154]
+            - generic [ref=e155]:
+              - link "NotebookLM Reimagined - Complete Build Kit 🛠️" [ref=e156] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com/l/vmrahj?layout=profile&recommended_by=more_like_this&recommender_model_name=sales
+                - heading "NotebookLM Reimagined - Complete Build Kit 🛠️" [level=4] [ref=e157]
+              - link "Mark Kashef" [ref=e158] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com?recommended_by=more_like_this
+                - img [ref=e159]
+                - text: Mark Kashef
+            - generic [ref=e166]: CAD$0+
+    - generic "Payment form" [ref=e169]:
+      - generic [ref=e172]:
+        - heading "Contact information" [level=4] [ref=e173]
+        - group "Email address" [ref=e174]:
+          - generic [ref=e176] [cursor=pointer]: Email address
+          - textbox "Email address" [ref=e179]
+        - group "Full name" [ref=e180]:
+          - generic [ref=e182] [cursor=pointer]: Full name
+          - textbox "Full name" [ref=e183]
+        - group "Country" [ref=e185]:
+          - generic [ref=e187] [cursor=pointer]: Country
+          - generic [ref=e188]:
+            - combobox "Country" [ref=e189]:
+              - option "Afghanistan (not supported)"
+              - option "Albania"
+              - option "Algeria"
+              - option "American Samoa"
+              - option "Andorra"
+              - option "Angola"
+              - option "Anguilla"
+              - option "Antarctica"
+              - option "Antigua and Barbuda"
+              - option "Argentina"
+              - option "Armenia"
+              - option "Aruba"
+              - option "Australia"
+              - option "Austria"
+              - option "Azerbaijan"
+              - option "Bahamas"
+              - option "Bahrain"
+              - option "Bangladesh"
+              - option "Barbados"
+              - option "Belarus"
+              - option "Belgium"
+              - option "Belize"
+              - option "Benin"
+              - option "Bermuda"
+              - option "Bhutan"
+              - option "Bolivia"
+              - option "Bonaire, Sint Eustatius and Saba"
+              - option "Bosnia and Herzegovina"
+              - option "Botswana"
+              - option "Bouvet Island"
+              - option "Brazil"
+              - option "British Indian Ocean Territory"
+              - option "Brunei Darussalam"
+              - option "Bulgaria"
+              - option "Burkina Faso"
+              - option "Burundi"
+              - option "Cabo Verde"
+              - option "Cambodia"
+              - option "Cameroon"
+              - option "Canada"
+              - option "Cayman Islands"
+              - option "Central African Republic"
+              - option "Chad"
+              - option "Chile"
+              - option "China"
+              - option "Christmas Island"
+              - option "Cocos (Keeling) Islands"
+              - option "Colombia"
+              - option "Comoros"
+              - option "Congo"
+              - option "Congo, The Democratic Republic of the (not supported)"
+              - option "Cook Islands"
+              - option "Costa Rica"
+              - option "Croatia"
+              - option "Cuba (not supported)"
+              - option "Curaçao"
+              - option "Cyprus"
+              - option "Czechia"
+              - option "Côte d'Ivoire (not supported)"
+              - option "Denmark"
+              - option "Djibouti"
+              - option "Dominica"
+              - option "Dominican Republic"
+              - option "Ecuador"
+              - option "Egypt"
+              - option "El Salvador"
+              - option "Equatorial Guinea"
+              - option "Eritrea"
+              - option "Estonia"
+              - option "Eswatini"
+              - option "Ethiopia"
+              - option "Falkland Islands (Malvinas)"
+              - option "Faroe Islands"
+              - option "Fiji"
+              - option "Finland"
+              - option "France"
+              - option "French Guiana"
+              - option "French Polynesia"
+              - option "French Southern Territories"
+              - option "Gabon"
+              - option "Gambia"
+              - option "Georgia"
+              - option "Germany"
+              - option "Ghana"
+              - option "Gibraltar"
+              - option "Greece"
+              - option "Greenland"
+              - option "Grenada"
+              - option "Guadeloupe"
+              - option "Guam"
+              - option "Guatemala"
+              - option "Guernsey"
+              - option "Guinea"
+              - option "Guinea-Bissau"
+              - option "Guyana"
+              - option "Haiti"
+              - option "Heard Island and McDonald Islands"
+              - option "Holy See (Vatican City State)"
+              - option "Honduras"
+              - option "Hong Kong"
+              - option "Hungary"
+              - option "Iceland"
+              - option "India"
+              - option "Indonesia"
+              - option "Iran (not supported)"
+              - option "Iraq (not supported)"
+              - option "Ireland"
+              - option "Isle of Man"
+              - option "Israel"
+              - option "Italy"
+              - option "Jamaica"
+              - option "Japan"
+              - option "Jersey"
+              - option "Jordan"
+              - option "Kazakhstan"
+              - option "Kenya"
+              - option "Kiribati"
+              - option "Kosovo"
+              - option "Kuwait"
+              - option "Kyrgyzstan"
+              - option "Lao People's Democratic Republic"
+              - option "Latvia"
+              - option "Lebanon (not supported)"
+              - option "Lesotho"
+              - option "Liberia (not supported)"
+              - option "Libya (not supported)"
+              - option "Liechtenstein"
+              - option "Lithuania"
+              - option "Luxembourg"
+              - option "Macao"
+              - option "Madagascar"
+              - option "Malawi"
+              - option "Malaysia" [selected]
+              - option "Maldives"
+              - option "Mali"
+              - option "Malta"
+              - option "Marshall Islands"
+              - option "Martinique"
+              - option "Mauritania"
+              - option "Mauritius"
+              - option "Mayotte"
+              - option "Mexico"
+              - option "Micronesia, Federated States of"
+              - option "Moldova"
+              - option "Monaco"
+              - option "Mongolia"
+              - option "Montenegro"
+              - option "Montserrat"
+              - option "Morocco"
+              - option "Mozambique"
+              - option "Myanmar (not supported)"
+              - option "Namibia"
+              - option "Nauru"
+              - option "Nepal"
+              - option "Netherlands"
+              - option "New Caledonia"
+              - option "New Zealand"
+              - option "Nicaragua"
+              - option "Niger"
+              - option "Nigeria"
+              - option "Niue"
+              - option "Norfolk Island"
+              - option "North Korea (not supported)"
+              - option "North Macedonia"
+              - option "Northern Mariana Islands"
+              - option "Norway"
+              - option "Oman"
+              - option "Pakistan"
+              - option "Palau"
+              - option "Palestine, State of"
+              - option "Panama"
+              - option "Papua New Guinea"
+              - option "Paraguay"
+              - option "Peru"
+              - option "Philippines"
+              - option "Pitcairn"
+              - option "Poland"
+              - option "Portugal"
+              - option "Puerto Rico"
+              - option "Qatar"
+              - option "Romania"
+              - option "Russian Federation"
+              - option "Rwanda"
+              - option "Réunion"
+              - option "Saint Barthélemy"
+              - option "Saint Helena, Ascension and Tristan da Cunha"
+              - option "Saint Kitts and Nevis"
+              - option "Saint Lucia"
+              - option "Saint Martin (French part)"
+              - option "Saint Pierre and Miquelon"
+              - option "Saint Vincent and the Grenadines"
+              - option "Samoa"
+              - option "San Marino"
+              - option "Sao Tome and Principe"
+              - option "Saudi Arabia"
+              - option "Senegal"
+              - option "Serbia"
+              - option "Seychelles"
+              - option "Sierra Leone"
+              - option "Singapore"
+              - option "Sint Maarten (Dutch part)"
+              - option "Slovakia"
+              - option "Slovenia"
+              - option "Solomon Islands"
+              - option "Somalia (not supported)"
+              - option "South Africa"
+              - option "South Georgia and the South Sandwich Islands"
+              - option "South Korea"
+              - option "South Sudan"
+              - option "Spain"
+              - option "Sri Lanka"
+              - option "Sudan (not supported)"
+              - option "Suriname"
+              - option "Svalbard and Jan Mayen"
+              - option "Sweden"
+              - option "Switzerland"
+              - option "Syrian Arab Republic (not supported)"
+              - option "Taiwan"
+              - option "Tajikistan"
+              - option "Tanzania"
+              - option "Thailand"
+              - option "Timor-Leste"
+              - option "Togo"
+              - option "Tokelau"
+              - option "Tonga"
+              - option "Trinidad and Tobago"
+              - option "Tunisia"
+              - option "Turkmenistan"
+              - option "Turks and Caicos Islands"
+              - option "Tuvalu"
+              - option "Türkiye"
+              - option "Uganda"
+              - option "Ukraine"
+              - option "United Arab Emirates"
+              - option "United Kingdom"
+              - option "United States"
+              - option "United States Minor Outlying Islands"
+              - option "Uruguay"
+              - option "Uzbekistan"
+              - option "Vanuatu"
+              - option "Venezuela"
+              - option "Vietnam"
+              - option "Virgin Islands, British"
+              - option "Virgin Islands, U.S."
+              - option "Wallis and Futuna"
+              - option "Western Sahara"
+              - option "Yemen (not supported)"
+              - option "Zambia"
+              - option "Zimbabwe (not supported)"
+              - option "Åland Islands"
+            - img
+      - generic [ref=e192]:
+        - heading "Pay with" [level=4] [ref=e193]
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - img [ref=e196]
+            - generic [ref=e200]: Card
+          - group "Card information" [ref=e203]:
+            - generic [ref=e205] [cursor=pointer]: Card information
+            - generic "Card information" [ref=e206]:
+              - generic [ref=e208]:
+                - iframe [ref=e209]:
+                  - generic [ref=f6e1]:
+                    - generic: 0123456789０１２３４５６７８９
+                    - textbox [disabled]
+                    - generic [ref=f6e2]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                            - generic:
+                              - img
+                      - generic [ref=f6e3]:
+                        - generic [ref=f6e4]:
+                          - generic: Number
+                          - generic [ref=f6e6]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - img
+                                  - generic:
+                                    - img
+                            - textbox "Credit or debit card number" [ref=f6e9]:
+                              - /placeholder: Card number
+                        - generic [ref=f6e10]:
+                          - textbox "Credit or debit card expiration date" [ref=f6e14]:
+                            - /placeholder: MM / YY
+                          - textbox "Credit or debit card CVC/CVV" [ref=f6e18]:
+                            - /placeholder: CVC
+                    - textbox [disabled]
+                    - button
+                - textbox [disabled]
+        - button "Pay" [disabled] [ref=e211]
+      - iframe [ref=e215]:
+        - generic [ref=f7e6]:
+          - text: protected by
+          - strong [ref=f7e7]: reCAPTCHA
+    - link "Continue shopping" [ref=e216] [cursor=pointer]:
+      - /url: https://markkashef.gumroad.com/

@@ -1,0 +1,129 @@
+- generic [ref=e2]:
+  - alert [ref=e171]:
+    - img [ref=e172]
+    - generic [ref=e175]: You must input an amount
+  - region "Product information bar":
+    - generic [ref=e4]:
+      - generic [ref=e9]: CAD$0+
+      - link "I want this!" [ref=e13] [cursor=pointer]:
+        - /url: https://gumroad.com/checkout?product=zuihmk&quantity=1
+  - article [ref=e16]:
+    - figure "Product preview" [ref=e17]:
+      - tabpanel [ref=e19]:
+        - img [ref=e20]
+    - generic [ref=e21]:
+      - heading "The Council Skill for Claude Code 👑" [level=1] [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e30]: CAD$0+
+        - link "Mark Kashef" [ref=e34] [cursor=pointer]:
+          - /url: https://markkashef.gumroad.com/
+          - img [ref=e35]
+          - text: Mark Kashef
+        - generic [ref=e37]:
+          - img [ref=e38]
+          - img [ref=e40]
+          - img [ref=e42]
+          - img [ref=e44]
+          - img [ref=e46]
+          - generic [ref=e48]: 2 ratings
+      - generic [ref=e51]:
+        - heading "What You Get" [level=1] [ref=e52]
+        - list [ref=e53]:
+          - listitem [ref=e54]:
+            - paragraph [ref=e55]:
+              - strong [ref=e56]: "The Council Skill (.skill file):"
+              - text: Drop it into Claude Code and immediately tap into OpenAI and Google models without leaving your terminal. Invoke with /council or natural language like "get a second opinion."
+          - listitem [ref=e57]:
+            - paragraph [ref=e58]:
+              - strong [ref=e59]: "OpenRouter Config:"
+              - text: Pre-configured model routing that sends bug fixes to GPT-5.3-Codex, frontend questions to Gemini 3.1 Pro, and architecture decisions to Claude Opus. Edit one JSON file to change anything.
+          - listitem [ref=e60]:
+            - paragraph [ref=e61]:
+              - strong [ref=e62]: "Setup README:"
+              - text: Step-by-step instructions to get your OpenRouter API key and install the skill in under 5 minutes.
+        - paragraph [ref=e63]: "---"
+        - heading "Why This Works" [level=2] [ref=e64]:
+          - strong [ref=e65]: Why This Works
+        - paragraph [ref=e66]: Claude Code is already your best coding partner. But every model has blind spots.
+        - paragraph [ref=e67]: Council lets you tap into Gemini or Codex for a second opinion without switching apps, switching contexts, or picking sides. Claude stays in charge. The other models advise.
+        - paragraph [ref=e68]: "The result: better code, better copy, better decisions - using the right model for the right job at the right time."
+        - paragraph [ref=e69]: "---"
+        - paragraph [ref=e70]:
+          - strong [ref=e71]:
+            - emphasis [ref=e72]: Want access to every skill I build and a community of builders using them?
+          - link "https://www.skool.com/earlyaidopters/about" [ref=e75] [cursor=pointer]:
+            - /url: https://www.skool.com/earlyaidopters/about
+            - generic [ref=e76]: https://www.skool.com/earlyaidopters/about
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - group "Name a fair price:" [ref=e79]:
+          - generic [ref=e81] [cursor=pointer]: "Name a fair price:"
+          - generic [ref=e82]:
+            - generic [ref=e83]: CAD$
+            - textbox "Price" [active] [ref=e84]:
+              - /placeholder: 43+
+        - link "I want this!" [ref=e85] [cursor=pointer]:
+          - /url: https://gumroad.com/checkout?product=zuihmk&quantity=1&_gl=1*13w60jv*_ga*MzQ1MzI0OTkxLjE3NzczNzIzOTk.*_ga_6LJN6D94N6*czE3NzczNzIzOTkkbzEkZzEkdDE3NzczNzI2MTEkajYwJGwwJGgw
+        - paragraph [ref=e87]: Use every AI model from inside Claude Code - without switching apps or picking sides.
+        - generic [ref=e88]:
+          - combobox "Add to wishlist" [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]: Add to wishlist
+            - img [ref=e92]
+          - button "Share" [ref=e95] [cursor=pointer]:
+            - img [ref=e96]
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - heading "Ratings" [level=3] [ref=e100]
+          - generic [ref=e101]:
+            - img [ref=e102]
+            - generic [ref=e104]: "3"
+            - text: (2 ratings)
+        - region "Ratings histogram" [ref=e105]:
+          - generic [ref=e106]: 5 stars
+          - meter "5 stars" [ref=e107]
+          - generic [ref=e108]: 50%
+          - generic [ref=e109]: 4 stars
+          - meter "4 stars" [ref=e110]
+          - generic [ref=e111]: 0%
+          - generic [ref=e112]: 3 stars
+          - meter "3 stars" [ref=e113]
+          - generic [ref=e114]: 0%
+          - generic [ref=e115]: 2 stars
+          - meter "2 stars" [ref=e116]
+          - generic [ref=e117]: 0%
+          - generic [ref=e118]: 1 star
+          - meter "1 star" [ref=e119]
+          - generic [ref=e120]: 50%
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - generic "5 stars" [ref=e123]:
+              - img [ref=e124]
+              - img [ref=e126]
+              - img [ref=e128]
+              - img [ref=e130]
+              - img [ref=e132]
+            - paragraph [ref=e134]: Mark always impresses us with his great knowledge about skills.
+            - generic [ref=e136]:
+              - img [ref=e137]
+              - heading "N Maqsood" [level=5] [ref=e138]
+              - img "Verified Buyer" [ref=e141]
+          - separator [ref=e143]
+          - generic [ref=e144]:
+            - generic "1 star" [ref=e145]:
+              - img [ref=e146]
+              - img [ref=e148]
+              - img [ref=e150]
+              - img [ref=e152]
+              - img [ref=e154]
+              - generic [ref=e156]: New
+            - paragraph [ref=e157]: text is all garbled
+            - generic [ref=e159]:
+              - img [ref=e160]
+              - heading "Joe Glines" [level=5] [ref=e161]
+              - img "Verified Buyer" [ref=e164]
+  - contentinfo [ref=e166]:
+    - generic [ref=e167]:
+      - text: Powered by
+      - link "Gumroad" [ref=e168] [cursor=pointer]:
+        - /url: https://gumroad.com/
+        - generic [ref=e169]: Gumroad

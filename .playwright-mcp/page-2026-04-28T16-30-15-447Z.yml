@@ -1,0 +1,859 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2707]:
+    - generic [ref=e2709]:
+      - generic [ref=e2710]:
+        - generic [ref=e2712]:
+          - link "Early AI-dopters" [ref=e2713] [cursor=pointer]:
+            - /url: /earlyaidopters
+            - generic [ref=e2717]: Early AI-dopters
+          - button [ref=e2722] [cursor=pointer]:
+            - img [ref=e2724]
+        - generic [ref=e2731]:
+          - img [ref=e2734]
+          - textbox "Search" [ref=e2736]: ASCII
+          - button [ref=e2737] [cursor=pointer]:
+            - img [ref=e2739]
+        - generic [ref=e2742]:
+          - button [ref=e2748] [cursor=pointer]:
+            - img [ref=e2750]
+          - generic [ref=e2753]:
+            - generic: 99+
+            - button [ref=e2758] [cursor=pointer]:
+              - img [ref=e2760]
+          - button "Eric Oh" [ref=e2768] [cursor=pointer]:
+            - generic "Eric Oh" [ref=e2771]:
+              - img "Eric Oh" [ref=e2772]
+      - generic [ref=e2774]:
+        - button "Community 31"
+        - button "Classroom 7" [ref=e2775] [cursor=pointer]
+        - button "Members 0" [ref=e2776] [cursor=pointer]
+    - generic [ref=e2779]:
+      - generic [ref=e2784]:
+        - img [ref=e2787]
+        - textbox "Search" [ref=e2789]: ASCII
+        - button [ref=e2790] [cursor=pointer]:
+          - img [ref=e2792]
+      - generic [ref=e2795]:
+        - button [ref=e2801] [cursor=pointer]:
+          - img [ref=e2803]
+        - generic [ref=e2806]:
+          - generic: 99+
+          - button [ref=e2811] [cursor=pointer]:
+            - img [ref=e2813]
+        - button "Eric Oh" [ref=e2821] [cursor=pointer]:
+          - generic "Eric Oh" [ref=e2824]:
+            - img "Eric Oh" [ref=e2825]
+    - generic [ref=e2827]:
+      - generic [ref=e2831]:
+        - generic [ref=e2836] [cursor=pointer]:
+          - generic [ref=e2837]:
+            - generic [ref=e2838]:
+              - generic [ref=e2839]:
+                - link "Mark Kashef" [ref=e2843]:
+                  - /url: /@mark-kashef-7464?g=earlyaidopters
+                  - generic [ref=e2844]:
+                    - generic "Mark Kashef" [ref=e2845]:
+                      - img "Mark Kashef" [ref=e2846]
+                    - img [ref=e2848]:
+                      - generic [ref=e2850]: "9"
+                - generic [ref=e2851]:
+                  - generic [ref=e2852]:
+                    - link "Mark Kashef" [ref=e2856]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e2859]: Mark Kashef
+                    - generic [ref=e2860]: 👑
+                    - generic [ref=e2861]: 🔥
+                  - generic [ref=e2862]:
+                    - generic [ref=e2864]: Mar 4 •
+                    - link "🎥 Loom Bites" [ref=e2865]:
+                      - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+                      - generic [ref=e2866]: 🎥 Loom Bites
+              - link "🟢 ASCII Art Skills for Claude Code - Learn Anything Visually" [ref=e2867]:
+                - /url: /earlyaidopters/ascii-art-skills-for-claude-code-learn-anything-visually
+                - generic [ref=e2871]:
+                  - text: 🟢
+                  - emphasis [ref=e2872]: ASCII
+                  - text: Art Skills for Claude Code - Learn Anything Visually
+              - generic [ref=e2874]:
+                - text: "Here's how it works: instead of spending heavy tokens on full builds or research, you use"
+                - emphasis [ref=e2875]: ASCII
+                - text: art to sketch things out first → cheaper to run, conserves ... models work with zero AI knowledge and it broke down every layer from tokenizer to output in a visual walkthrough Slash
+                - emphasis [ref=e2876]: ASCII
+                - text: "Design: sketch out app ... your context window, and you can even run it on Haiku Slash"
+                - emphasis [ref=e2877]: ASCII
+                - text: "Architecture: ask it to diagram anything technical → I asked it to explain how language ... project level first, then make them global once you're comfortable Pro tip: if Claude Code drops a new feature you don't understand, just ask for an"
+                - emphasis [ref=e2878]: ASCII
+                - text: ... committing a single line of code The real insight here is that most of the time we don't have a skill issue with Claude Code, we have a communication issue →
+                - emphasis [ref=e2879]: ASCII
+              - generic [ref=e2880]:
+                - generic [ref=e2881]:
+                  - button [ref=e2882]:
+                    - img [ref=e2884]
+                  - generic [ref=e2889]: "74"
+                - generic [ref=e2890]:
+                  - img [ref=e2893]
+                  - generic [ref=e2895]: "67"
+                - generic [ref=e2896]:
+                  - generic [ref=e2897]:
+                    - generic "Mark Kashef" [ref=e2900]:
+                      - img "Mark Kashef" [ref=e2901]
+                    - generic "Saima Ahmed" [ref=e2904]:
+                      - img "Saima Ahmed" [ref=e2905]
+                    - generic "Dev Dappr" [ref=e2908]:
+                      - img "Dev Dappr" [ref=e2909]
+                    - generic "Fabienne Wintle" [ref=e2912]:
+                      - img "Fabienne Wintle" [ref=e2913]
+                    - link "Lutfiya Miller" [ref=e2915]:
+                      - /url: /earlyaidopters/ascii-art-skills-for-claude-code-learn-anything-visually?p=60a518ab
+                      - generic "Lutfiya Miller" [ref=e2917]:
+                        - img "Lutfiya Miller" [ref=e2918]
+                  - link "New comment 21d ago" [ref=e2920]:
+                    - /url: /earlyaidopters/ascii-art-skills-for-claude-code-learn-anything-visually?p=60a518ab
+            - generic [ref=e2921]:
+              - img "🟢 ASCII Art Skills for Claude Code - Learn Anything Visually" [ref=e2922]
+              - img [ref=e2924]
+          - generic [ref=e2929]:
+            - link "Jimmy Fuentes" [ref=e2933]:
+              - /url: /@jimmy?g=earlyaidopters
+              - generic [ref=e2934]:
+                - generic "Jimmy Fuentes" [ref=e2935]:
+                  - img "Jimmy Fuentes" [ref=e2936]
+                - img [ref=e2938]:
+                  - generic [ref=e2940]: "6"
+            - generic [ref=e2941]:
+              - generic [ref=e2943]:
+                - link "Jimmy Fuentes" [ref=e2948]:
+                  - /url: /@jimmy?g=earlyaidopters
+                  - generic [ref=e2951]: Jimmy Fuentes
+                - generic [ref=e2952]: 8 likes • Mar 4
+              - generic [ref=e2953]:
+                - text: PlantUML block - Mind-map outline
+                - emphasis [ref=e2954]: Ascii
+                - text: is my main mode though. ... I also use Box-drawing Unicode tree & "
+                - emphasis [ref=e2955]: ASCII
+                - text: flowchart" for SOP style boxed flow chart. ... Dude,
+                - emphasis [ref=e2956]: ascii
+                - text: "is so underrated. This is one of those things I picked up from your videos (about something else haha) like last year. SO HELPFUL! ... Theres a bunch of others: - Indented bullet/list -"
+                - emphasis [ref=e2957]: ASCII
+                - text: style - Box-drawing Unicode tree - Markdown table - Mermaid diagram - Graphviz (DOT) graph -
+        - generic [ref=e2962] [cursor=pointer]:
+          - generic [ref=e2964]:
+            - generic [ref=e2965]:
+              - link "Mirza Iqbal" [ref=e2969]:
+                - /url: /@mirza-iqbal-6463?g=earlyaidopters
+                - generic [ref=e2970]:
+                  - generic "Mirza Iqbal" [ref=e2971]:
+                    - img "Mirza Iqbal" [ref=e2972]
+                  - img [ref=e2974]:
+                    - generic [ref=e2976]: "6"
+              - generic [ref=e2977]:
+                - link "Mirza Iqbal" [ref=e2981]:
+                  - /url: /@mirza-iqbal-6463?g=earlyaidopters
+                  - generic [ref=e2984]: Mirza Iqbal
+                - generic [ref=e2985]:
+                  - generic [ref=e2987]: 16d •
+                  - link "🎙️Discussion" [ref=e2988]:
+                    - /url: /earlyaidopters?c=d5bf22e251fe4163963fc845082f2502
+                    - generic [ref=e2989]: 🎙️Discussion
+            - link "does anyone know about that?" [ref=e2990]:
+              - /url: /earlyaidopters/does-anyone-know-about-that
+              - generic [ref=e2992]: does anyone know about that?
+            - generic [ref=e2995]: I can’t remember exactly, but at some point in this community, someone asked how @Mark Kashef creates images to simplify complex topics in a visual and structured way while explaining them. I’m not sure who asked the question or which video it referred to. I need that same kind of creativity for one or two of my sessions with clients. Does anyone happen to know which video/Post it was?
+            - generic [ref=e2996]:
+              - generic [ref=e2997]:
+                - button [ref=e2998]:
+                  - img [ref=e3000]
+                - generic [ref=e3005]: "3"
+              - generic [ref=e3006]:
+                - img [ref=e3009]
+                - generic [ref=e3011]: "8"
+              - generic [ref=e3012]:
+                - generic [ref=e3013]:
+                  - generic "David Di Lallo" [ref=e3016]:
+                    - img "David Di Lallo" [ref=e3017]
+                  - generic "Abhishek Padmanabhan" [ref=e3020]:
+                    - img "Abhishek Padmanabhan" [ref=e3021]
+                  - generic "Mark Kashef" [ref=e3024]:
+                    - img "Mark Kashef" [ref=e3025]
+                  - link "Mirza Iqbal" [ref=e3027]:
+                    - /url: /earlyaidopters/does-anyone-know-about-that?p=3f7d7ef6
+                    - generic "Mirza Iqbal" [ref=e3029]:
+                      - img "Mirza Iqbal" [ref=e3030]
+                - link "New comment 16d ago" [ref=e3032]:
+                  - /url: /earlyaidopters/does-anyone-know-about-that?p=3f7d7ef6
+          - generic [ref=e3035]:
+            - link "Abhishek Padmanabhan" [ref=e3039]:
+              - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+              - generic [ref=e3040]:
+                - generic "Abhishek Padmanabhan" [ref=e3041]:
+                  - img "Abhishek Padmanabhan" [ref=e3042]
+                - img [ref=e3044]:
+                  - generic [ref=e3046]: "6"
+            - generic [ref=e3047]:
+              - generic [ref=e3049]:
+                - link "Abhishek Padmanabhan" [ref=e3054]:
+                  - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                  - generic [ref=e3057]: Abhishek Padmanabhan
+                - generic [ref=e3058]: 1 like • 16d
+              - generic [ref=e3059]:
+                - text: Is it the
+                - emphasis [ref=e3060]: ASCII
+                - text: diagram post?
+        - generic [ref=e3065] [cursor=pointer]:
+          - generic [ref=e3066]:
+            - generic [ref=e3067]:
+              - generic [ref=e3068]:
+                - link "Ryan Williams" [ref=e3072]:
+                  - /url: /@ryan-williams-5738?g=earlyaidopters
+                  - generic [ref=e3073]:
+                    - generic "Ryan Williams" [ref=e3074]:
+                      - img "Ryan Williams" [ref=e3075]
+                    - img [ref=e3077]:
+                      - generic [ref=e3079]: "2"
+                - generic [ref=e3080]:
+                  - link "Ryan Williams" [ref=e3084]:
+                    - /url: /@ryan-williams-5738?g=earlyaidopters
+                    - generic [ref=e3087]: Ryan Williams
+                  - generic [ref=e3088]:
+                    - generic [ref=e3090]: Mar 19 •
+                    - link "🎙️Discussion" [ref=e3091]:
+                      - /url: /earlyaidopters?c=d5bf22e251fe4163963fc845082f2502
+                      - generic [ref=e3092]: 🎙️Discussion
+              - link "Does anyone know how Mark is making these visuals?" [ref=e3093]:
+                - /url: /earlyaidopters/does-anyone-know-how-mark-is-making-these-visuals
+                - generic [ref=e3095]: Does anyone know how Mark is making these visuals?
+              - generic [ref=e3098]: I offer support and onboarding for a tool called HighLevel and one of my biggest challenges is explaining complex concepts without losing people in conversation with words alone. I've been watching your content and the way you use images to tell a story is something I want to learn. The brain diagram with the different sections, the system diagrams showing how everything connects — they communicate in 3 seconds what would take a few minutes of conversations and misunderstandings to finally clarify. I can see he is using Excalidraw as his canvas, but I can't figure out the actual creative process behind it. Is he prompting Claude to generate the visuals? Notebook LM? Something else? For anyone else doing something similar — would love to hear how you're building this into your workflow too.
+              - generic [ref=e3099]:
+                - generic [ref=e3100]:
+                  - button [ref=e3101]:
+                    - img [ref=e3103]
+                  - generic [ref=e3108]: "15"
+                - generic [ref=e3109]:
+                  - img [ref=e3112]
+                  - generic [ref=e3114]: "23"
+                - generic [ref=e3115]:
+                  - generic [ref=e3116]:
+                    - generic "Mark Kashef" [ref=e3119]:
+                      - img "Mark Kashef" [ref=e3120]
+                    - generic "Michael Kidder" [ref=e3123]:
+                      - img "Michael Kidder" [ref=e3124]
+                    - generic "Kamal Ambaram" [ref=e3127]:
+                      - img "Kamal Ambaram" [ref=e3128]
+                    - generic "Ashwin K" [ref=e3131]:
+                      - img "Ashwin K" [ref=e3132]
+                    - link "Michael Graham" [ref=e3134]:
+                      - /url: /earlyaidopters/does-anyone-know-how-mark-is-making-these-visuals?p=7c2bf64b
+                      - generic "Michael Graham" [ref=e3136]:
+                        - img "Michael Graham" [ref=e3137]
+                  - link "New comment Mar 26" [ref=e3139]:
+                    - /url: /earlyaidopters/does-anyone-know-how-mark-is-making-these-visuals?p=7c2bf64b
+            - img "Does anyone know how Mark is making these visuals?" [ref=e3141]
+          - generic [ref=e3144]:
+            - link "Glen Wilson" [ref=e3148]:
+              - /url: /@glen-wilson-7220?g=earlyaidopters
+              - generic [ref=e3149]:
+                - generic "Glen Wilson" [ref=e3150]:
+                  - img "Glen Wilson" [ref=e3151]
+                - img [ref=e3153]:
+                  - generic [ref=e3155]: "3"
+            - generic [ref=e3156]:
+              - generic [ref=e3158]:
+                - link "Glen Wilson" [ref=e3163]:
+                  - /url: /@glen-wilson-7220?g=earlyaidopters
+                  - generic [ref=e3166]: Glen Wilson
+                - generic [ref=e3167]: 3 likes • Mar 19
+              - generic [ref=e3168]:
+                - text: I know you showed how to use the
+                - emphasis [ref=e3169]: ascii
+                - text: art, and there was a mention of using paperbanana??
+        - generic [ref=e3174] [cursor=pointer]:
+          - generic [ref=e3175]:
+            - generic [ref=e3176]:
+              - generic [ref=e3177]:
+                - link "Mark Kashef" [ref=e3181]:
+                  - /url: /@mark-kashef-7464?g=earlyaidopters
+                  - generic [ref=e3182]:
+                    - generic "Mark Kashef" [ref=e3183]:
+                      - img "Mark Kashef" [ref=e3184]
+                    - img [ref=e3186]:
+                      - generic [ref=e3188]: "9"
+                - generic [ref=e3189]:
+                  - generic [ref=e3190]:
+                    - link "Mark Kashef" [ref=e3194]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e3197]: Mark Kashef
+                    - generic [ref=e3198]: 👑
+                    - generic [ref=e3199]: 🔥
+                  - generic [ref=e3200]:
+                    - generic [ref=e3202]: Sep '25 •
+                    - link "📹 Courses & Podcasts" [ref=e3203]:
+                      - /url: /earlyaidopters?c=846e1c8a25cd421492f3421e8e1ac8cb
+                      - generic [ref=e3204]: 📹 Courses & Podcasts
+              - 'link "Claude Code Day 13: Replace Superapps with Claude Code ☢️" [ref=e3205]':
+                - /url: /earlyaidopters/claude-code-day-13-replace-superapps-with-claude-code
+                - generic [ref=e3207]: "Claude Code Day 13: Replace Superapps with Claude Code ☢️"
+              - generic [ref=e3210]: "With this technique, you can say BYE BYE to apps like Manus 🙏🏽 10 minutes to turn Claude Code into your all-in-one business automation suite - generating complete AI audit packages that would take days in other tools. What you'll watch: Building an entire consulting package in 40 minutes: - Process automation summaries for HVAC business - Mermaid diagrams for every workflow - ASCII art for client presentations - Project timelines with cost estimates - All from ONE prompt The mega-prompt that replaces Manus: \"Create folders with assets: process automations, mermaid diagrams, ASCII art for Miro boards, project plans with timelines and costs at $120/hour plus 40% agency premium\" Live client example shown: - Capital Comfort Systems (Ottawa HVAC) - Web scraping for business understanding - AI implementation strategy - Complete automation roadmap Assets generated automatically: /process_automation_summary - Lead generation workflows - Emergency dispatch automation - Quote conversion systems /mermaid_diagrams - Complete workflow visualizations - Lead scoring with emojis - Human-in-the-loop indicators /ascii_art - Customer journey maps - Architecture diagrams - Implementation roadmaps /project_plans - Timeline breakdowns - Cost estimates per automation - ROI projections Complete prompt provided below - copy, customize for your industry, deliver professional consulting packages in under an hour. \"Okay, so I want you to come up with a full plan on how we could implement AI in this business. But I don't just want you to come back with a verbal plan. I want you to create multiple folders with assets that you generate per folder, ideally in a Markdown file each. One is I want you to go through what this business might need in terms of AI and automation and be practical, don't be airy-fairy. Don't use random stuff, as of 2023, because your data is limited, you're stuck, and it's 3 years past your last training. So we have things like right now we have N8N, we have Make.com, we have Zapier. N8N has this thing called an AI Agent Module that lets an AI agent use different tools and have some like a chat trigger. You can even use it to build let's say chatbots instead of using something like VoiceFlow or Bot Press, but those are options as well. Given the nature of this business, go through and come up with a series of processes that could theoretically be automated and implemented. You can imagine what the lead generation process for such a business might be, what the lead nurture process might look like, what answering the phone might look like. Now in 2025, we have something like voice agents, so you can go do some research if you want on things like VAPI on retail on different platforms that exist in 2025 that again you're unaware of given your training. So go through all of that and come up with a series of processes and store the processes and the summary of what can be done in a folder called Process Automation Summary. Then create another folder where you create a Mermaid diagram to represent what it would look like to automate the part of the process. Some of these processes might be able to be handled A-to-Z, so maybe an email process where there's an inbox they have managed on Gmail, then they get inquiries. We could theoretically handle the inquiry responses end-to-end or it could be a draft. But there will be many parts of the business that need a human in the loop, so for those parts of the business outline where the human intervention is needed and outline as well what could be done from an automation standpoint and what platforms might be useful. And in the Mermaid diagram try to be platform-agnostic, so you can just say AI agent as a proxy if you think AI agent is good, but remember that being more deterministic is better when it comes to building these workflows. Folder number two should be our Mermaid diagrams corresponding to your suggested automations. Number three should be ASCII art that I can paste onto a Miro board, so when I'm walking through the client on our first discovery call together, what we can do for them in terms of automation, I would have a diagram that I can easily import into something like Miro and make it easier for me to explain my point visually. And after that, I want you to create one more folder where we go through what the timelines might look like and the project might look like for each and every automation from the initial timeline to get it done, the most likely the necessary feedback loops we would have throughout the process, where we would need check-ins, and try to come up with an estimate of cost per automation, so assume that my hour is $120 USD per hour, and try to think through how many hours it might take to actually complete that, and try to add some form of a 40% premium for my agency to come up with a project plan as well as associated costs with every single automation in the other folders, and naturally, I want you to put this in another folder as well.\""
+              - generic [ref=e3211]:
+                - generic [ref=e3212]:
+                  - button [ref=e3213]:
+                    - img [ref=e3215]
+                  - generic [ref=e3220]: "38"
+                - generic [ref=e3221]:
+                  - img [ref=e3224]
+                  - generic [ref=e3226]: "52"
+                - generic [ref=e3227]:
+                  - generic [ref=e3228]:
+                    - generic "Jimmy Fuentes" [ref=e3231]:
+                      - img "Jimmy Fuentes" [ref=e3232]
+                    - generic "Mark Kashef" [ref=e3235]:
+                      - img "Mark Kashef" [ref=e3236]
+                    - generic "Miguel Simon" [ref=e3239]:
+                      - img "Miguel Simon" [ref=e3240]
+                    - generic "Lukáš Mitlener" [ref=e3243]:
+                      - img "Lukáš Mitlener" [ref=e3244]
+                    - link "Justin vom Eigen" [ref=e3246]:
+                      - /url: /earlyaidopters/claude-code-day-13-replace-superapps-with-claude-code?p=02e73a3a
+                      - generic "Justin vom Eigen" [ref=e3248]:
+                        - img "Justin vom Eigen" [ref=e3249]
+                  - link "New comment Jan 12" [ref=e3251]:
+                    - /url: /earlyaidopters/claude-code-day-13-replace-superapps-with-claude-code?p=02e73a3a
+            - generic [ref=e3252]:
+              - 'img "Claude Code Day 13: Replace Superapps with Claude Code ☢️" [ref=e3253]'
+              - img [ref=e3255]
+          - generic [ref=e3258]:
+            - generic [ref=e3260]:
+              - link "Philipp Kowalski" [ref=e3264]:
+                - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                - generic [ref=e3265]:
+                  - generic "Philipp Kowalski" [ref=e3266]:
+                    - img "Philipp Kowalski" [ref=e3267]
+                  - img [ref=e3269]:
+                    - generic [ref=e3271]: "6"
+              - generic [ref=e3272]:
+                - generic [ref=e3274]:
+                  - link "Philipp Kowalski" [ref=e3279]:
+                    - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                    - generic [ref=e3282]: Philipp Kowalski
+                  - generic [ref=e3283]: 1 like • Sep '25
+                - generic [ref=e3284]:
+                  - text: Why do you explicitly ask about
+                  - emphasis [ref=e3285]: ASCII
+                  - text: art diagrams, and you mentioned you're going to use them in Miro?
+            - generic [ref=e3287]:
+              - link "Mark Kashef" [ref=e3291]:
+                - /url: /@mark-kashef-7464?g=earlyaidopters
+                - generic [ref=e3292]:
+                  - generic "Mark Kashef" [ref=e3293]:
+                    - img "Mark Kashef" [ref=e3294]
+                  - img [ref=e3296]:
+                    - generic [ref=e3298]: "9"
+              - generic [ref=e3299]:
+                - generic [ref=e3301]:
+                  - generic [ref=e3303]:
+                    - link "Mark Kashef" [ref=e3307]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e3310]: Mark Kashef
+                    - generic [ref=e3311]: 👑
+                    - generic [ref=e3312]: 🔥
+                  - generic [ref=e3313]: 1 like • Sep '25
+                - generic [ref=e3314]:
+                  - text: great question you can't import
+                  - emphasis [ref=e3315]: ASCII
+                  - text: diagrams, but I personally use them to help me break down concept ideas visually in a way that might resonate with
+        - generic [ref=e3320] [cursor=pointer]:
+          - generic [ref=e3321]:
+            - generic [ref=e3322]:
+              - generic [ref=e3323]:
+                - link "Mark Kashef" [ref=e3327]:
+                  - /url: /@mark-kashef-7464?g=earlyaidopters
+                  - generic [ref=e3328]:
+                    - generic "Mark Kashef" [ref=e3329]:
+                      - img "Mark Kashef" [ref=e3330]
+                    - img [ref=e3332]:
+                      - generic [ref=e3334]: "9"
+                - generic [ref=e3335]:
+                  - generic [ref=e3336]:
+                    - link "Mark Kashef" [ref=e3340]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e3343]: Mark Kashef
+                    - generic [ref=e3344]: 👑
+                    - generic [ref=e3345]: 🔥
+                  - generic [ref=e3346]:
+                    - generic [ref=e3348]: Mar 11 •
+                    - link "🎥 Loom Bites" [ref=e3349]:
+                      - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+                      - generic [ref=e3350]: 🎥 Loom Bites
+              - link "🟢 What I Learned Teaching My Last Claude Code Workshop" [ref=e3351]:
+                - /url: /earlyaidopters/what-i-learned-teaching-my-last-claude-code-workshop
+                - generic [ref=e3353]: 🟢 What I Learned Teaching My Last Claude Code Workshop
+              - generic [ref=e3356]: "I teach a lot of AI workshops and this one humbled me - here's what went wrong and what you can take from it The company was fully Windows 11 with strict IT security → Warp kept getting auto-uninstalled by their firewall → what I planned as 15 minutes of setup turned into over half the session → the fix was embarrassingly simple: just use PowerShell and install Node.js from the browser directly The lesson: send a checklist 24-48 hours before any workshop, every time, no matter how confident you are that your setup process works Bigger realization: I pushed them toward Claude Code when Claude Cowork would have been the smarter starting point → Cowork has one-click connectors to Microsoft 365, Outlook, etc → once IT whitelists Cowork, every underlying tool and MCP is whitelisted by proxy → their use cases were honestly fine for Cowork and we could have spent the whole session on actual learning Here's how I'm thinking about the teaching ladder now: → Shallow end: Cowork and Desktop - easiest install, easiest vocab, builds confidence first → Middle ground: Claude Code with skills - for companies with flexible IT and deeper use cases → Deep end: agents, CLIs, parallel sub-agents - only when the company is ready from an infrastructure and personnel standpoint One insight on skills for teams: if a skill is mostly written instructions with very few functions, it will behave inconsistently across models and context lengths → more Pythonic functions = more deterministic output = more reliable for a team sharing the same skill Questions I'm now asking before every engagement: → what does your IT stack look like? → can you install MCP servers? → are you allowed to access external services via skills? If you're selling AI workshops or education, learn from my scar so you don't have to earn your own"
+              - generic [ref=e3357]:
+                - generic [ref=e3358]:
+                  - button [ref=e3359]:
+                    - img [ref=e3361]
+                  - generic [ref=e3366]: "65"
+                - generic [ref=e3367]:
+                  - img [ref=e3370]
+                  - generic [ref=e3372]: "60"
+                - generic [ref=e3373]:
+                  - generic [ref=e3374]:
+                    - generic "Mohamed Rashwan" [ref=e3377]:
+                      - img "Mohamed Rashwan" [ref=e3378]
+                    - generic "Chad Whaley" [ref=e3381]:
+                      - img "Chad Whaley" [ref=e3382]
+                    - generic "Adeel Hasan" [ref=e3385]:
+                      - img "Adeel Hasan" [ref=e3386]
+                    - generic "Gerard Martelly" [ref=e3389]:
+                      - img "Gerard Martelly" [ref=e3390]
+                    - link "Liam B" [ref=e3392]:
+                      - /url: /earlyaidopters/what-i-learned-teaching-my-last-claude-code-workshop?p=c4dc8358
+                      - generic "Liam B" [ref=e3394]:
+                        - img "Liam B" [ref=e3395]
+                  - link "New comment Mar 27" [ref=e3397]:
+                    - /url: /earlyaidopters/what-i-learned-teaching-my-last-claude-code-workshop?p=c4dc8358
+            - generic [ref=e3398]:
+              - img "🟢 What I Learned Teaching My Last Claude Code Workshop" [ref=e3399]
+              - img [ref=e3401]
+          - generic [ref=e3406]:
+            - link "Teresa Greasley" [ref=e3410]:
+              - /url: /@teresa-greasley-7682?g=earlyaidopters
+              - generic [ref=e3411]:
+                - generic "Teresa Greasley" [ref=e3412]:
+                  - img "Teresa Greasley" [ref=e3413]
+                - img [ref=e3415]:
+                  - generic [ref=e3417]: "4"
+            - generic [ref=e3418]:
+              - generic [ref=e3420]:
+                - link "Teresa Greasley" [ref=e3425]:
+                  - /url: /@teresa-greasley-7682?g=earlyaidopters
+                  - generic [ref=e3428]: Teresa Greasley
+                - generic [ref=e3429]: 2 likes • Mar 11
+              - generic [ref=e3430]:
+                - text: I asked because I really like how you are doing your diagrams lately, I feel like you did a video on this but I can't find it now (not the
+                - emphasis [ref=e3431]: ASCII
+                - text: Art one
+        - generic [ref=e3436] [cursor=pointer]:
+          - generic [ref=e3438]:
+            - generic [ref=e3439]:
+              - link "Norbert Szabó" [ref=e3443]:
+                - /url: /@norbert-szabo-6617?g=earlyaidopters
+                - generic [ref=e3444]:
+                  - generic "Norbert Szabó" [ref=e3445]:
+                    - img "Norbert Szabó" [ref=e3446]
+                  - img [ref=e3448]:
+                    - generic [ref=e3450]: "5"
+              - generic [ref=e3451]:
+                - link "Norbert Szabó" [ref=e3455]:
+                  - /url: /@norbert-szabo-6617?g=earlyaidopters
+                  - generic [ref=e3458]: Norbert Szabó
+                - generic [ref=e3459]:
+                  - generic [ref=e3461]: Sep '25 •
+                  - link "🔥 WINS" [ref=e3462]:
+                    - /url: /earlyaidopters?c=11dc076ef272499e8d3c653b094389dd
+                    - generic [ref=e3463]: 🔥 WINS
+            - link "I really feel like Superman" [ref=e3464]:
+              - /url: /earlyaidopters/i-really-feel-like-superman
+              - generic [ref=e3466]: I really feel like Superman
+            - generic [ref=e3469]: "Re: How to CHEAT Time and Get 10X More Done With AI It is crazy. I've just watched your video in the morning than my boss called me that we should somehow systematize our website building and design flow. I did it in claude project first but then wrote a flow in claude code where I iterate claude rewrites the prompt, regenerates the website template and does a final review. In acouple hours I got a pretty reliable landing page generator. I love these kinds of videos @Mark Kashef This is true leverage. No more manual tinkering with the design because now every time I run the prompt the results are pretty consistent. I will try to break it with other niches to make it more universal and resilient but I'm pretty content with the result so far. And it is just the beginning!"
+            - generic [ref=e3470]:
+              - generic [ref=e3471]:
+                - button [ref=e3472]:
+                  - img [ref=e3474]
+                - generic [ref=e3479]: "9"
+              - generic [ref=e3480]:
+                - img [ref=e3483]
+                - generic [ref=e3485]: "8"
+              - generic [ref=e3486]:
+                - generic [ref=e3487]:
+                  - generic "Mark Kashef" [ref=e3490]:
+                    - img "Mark Kashef" [ref=e3491]
+                  - generic "Norbert Szabó" [ref=e3494]:
+                    - img "Norbert Szabó" [ref=e3495]
+                  - generic "Sheria P" [ref=e3498]:
+                    - img "Sheria P" [ref=e3499]
+                  - generic "Baz Ozturk" [ref=e3502]:
+                    - img "Baz Ozturk" [ref=e3503]
+                  - link "Harrison Smith" [ref=e3505]:
+                    - /url: /earlyaidopters/i-really-feel-like-superman?p=50c2331d
+                    - generic "Harrison Smith" [ref=e3507]:
+                      - img "Harrison Smith" [ref=e3508]
+                - link "New comment Sep '25" [ref=e3510]:
+                  - /url: /earlyaidopters/i-really-feel-like-superman?p=50c2331d
+          - generic [ref=e3513]:
+            - link "Norbert Szabó" [ref=e3517]:
+              - /url: /@norbert-szabo-6617?g=earlyaidopters
+              - generic [ref=e3518]:
+                - generic "Norbert Szabó" [ref=e3519]:
+                  - img "Norbert Szabó" [ref=e3520]
+                - img [ref=e3522]:
+                  - generic [ref=e3524]: "5"
+            - generic [ref=e3525]:
+              - generic [ref=e3527]:
+                - link "Norbert Szabó" [ref=e3532]:
+                  - /url: /@norbert-szabo-6617?g=earlyaidopters
+                  - generic [ref=e3535]: Norbert Szabó
+                - generic [ref=e3536]: 1 like • Sep '25
+              - generic [ref=e3537]:
+                - text: "@Mark Kashef I was a bit shy to boast that I used your"
+                - emphasis [ref=e3538]: ascii
+                - text: design trick to make claude draw the best way to cut the plywood boards I was about to order
+        - generic [ref=e3543] [cursor=pointer]:
+          - generic [ref=e3544]:
+            - generic [ref=e3545]:
+              - generic [ref=e3546]:
+                - link "Mark Kashef" [ref=e3550]:
+                  - /url: /@mark-kashef-7464?g=earlyaidopters
+                  - generic [ref=e3551]:
+                    - generic "Mark Kashef" [ref=e3552]:
+                      - img "Mark Kashef" [ref=e3553]
+                    - img [ref=e3555]:
+                      - generic [ref=e3557]: "9"
+                - generic [ref=e3558]:
+                  - generic [ref=e3559]:
+                    - link "Mark Kashef" [ref=e3563]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e3566]: Mark Kashef
+                    - generic [ref=e3567]: 👑
+                    - generic [ref=e3568]: 🔥
+                  - generic [ref=e3569]:
+                    - generic [ref=e3571]: Feb 14 •
+                    - link "🎥 Loom Bites" [ref=e3572]:
+                      - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+                      - generic [ref=e3573]: 🎥 Loom Bites
+              - link "Agent Teams for Non-Technical Tasks - 92 Slide Deck in Minutes" [ref=e3574]:
+                - /url: /earlyaidopters/agent-teams-for-non-technical-tasks-92-slide-deck-in-minutes
+                - generic [ref=e3576]: Agent Teams for Non-Technical Tasks - 92 Slide Deck in Minutes
+              - generic [ref=e3579]: "I found a really strong application for Claude Code agent team I have less than 24 hours to build a 100-slide course deck for O'Reilly Media, so I put agent teams to work on the entire process Step one: Claude Code generated 92 slides with visuals covering a full 4-5 hour live course Step two: I had it spawn 4 agent team members - Sarah, James, Priya, and Carlos - each taking on a different persona of someone who might take this course Their job was to roast every slide → score comprehension out of 5 → flag anywhere I assumed knowledge that a complete beginner wouldn't have James was brutal - calling out things like \"you assume I know what a CLAUDE MD is\" and \"three concepts dropped at once with no introduction\" Step three: I fed all the audit logs back in and spawned a new agent team to fix every slide where comprehension wasn't a perfect 5 out of 5 Then a cleanup team caught 941 formatting issues across 92 slides - overlapping titles, duplicate footers, diagram problems The key insight is that agent teams shine on meaty non-technical tasks like slide decks, proposals, Excel files, and PDFs because they break the work into batches instead of bloating your context window This same approach works for any large content creation task - you just need to provide the direction and let the teams audit and refine in waves Big disclaimer: agent teams do consume more tokens, but the ROI here was massive for the time saved"
+              - generic [ref=e3580]:
+                - generic [ref=e3581]:
+                  - button [ref=e3582]:
+                    - img [ref=e3584]
+                  - generic [ref=e3589]: "49"
+                - generic [ref=e3590]:
+                  - img [ref=e3593]
+                  - generic [ref=e3595]: "61"
+                - generic [ref=e3596]:
+                  - generic [ref=e3597]:
+                    - generic "Sean Crowe" [ref=e3600]:
+                      - img "Sean Crowe" [ref=e3601]
+                    - generic "Mark Kashef" [ref=e3604]:
+                      - img "Mark Kashef" [ref=e3605]
+                    - generic "Anthony Medina" [ref=e3608]:
+                      - img "Anthony Medina" [ref=e3609]
+                    - generic "Kelvin Parker" [ref=e3612]:
+                      - img "Kelvin Parker" [ref=e3613]
+                    - link "Carlo Dreyer" [ref=e3615]:
+                      - /url: /earlyaidopters/agent-teams-for-non-technical-tasks-92-slide-deck-in-minutes?p=24336c0d
+                      - generic "Carlo Dreyer" [ref=e3617]:
+                        - img "Carlo Dreyer" [ref=e3618]
+                  - link "New comment Mar 18" [ref=e3620]:
+                    - /url: /earlyaidopters/agent-teams-for-non-technical-tasks-92-slide-deck-in-minutes?p=24336c0d
+            - generic [ref=e3621]:
+              - img "Agent Teams for Non-Technical Tasks - 92 Slide Deck in Minutes" [ref=e3622]
+              - img [ref=e3624]
+          - generic [ref=e3629]:
+            - link "Mark Kashef" [ref=e3633]:
+              - /url: /@mark-kashef-7464?g=earlyaidopters
+              - generic [ref=e3634]:
+                - generic "Mark Kashef" [ref=e3635]:
+                  - img "Mark Kashef" [ref=e3636]
+                - img [ref=e3638]:
+                  - generic [ref=e3640]: "9"
+            - generic [ref=e3641]:
+              - generic [ref=e3643]:
+                - generic [ref=e3645]:
+                  - link "Mark Kashef" [ref=e3649]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e3652]: Mark Kashef
+                  - generic [ref=e3653]: 👑
+                  - generic [ref=e3654]: 🔥
+                - generic [ref=e3655]: 1 like • Feb 14
+              - generic [ref=e3656]:
+                - text: For the PowerPoint themselves, I basically create an Excalidra diagram or
+                - emphasis [ref=e3657]: ASCII
+                - text: art, and then I create that as the foundation or schematic, and then create
+        - generic [ref=e3662] [cursor=pointer]:
+          - generic [ref=e3663]:
+            - generic [ref=e3664]:
+              - generic [ref=e3665]:
+                - link "Abhishek Padmanabhan" [ref=e3669]:
+                  - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                  - generic [ref=e3670]:
+                    - generic "Abhishek Padmanabhan" [ref=e3671]:
+                      - img "Abhishek Padmanabhan" [ref=e3672]
+                    - img [ref=e3674]:
+                      - generic [ref=e3676]: "6"
+                - generic [ref=e3677]:
+                  - link "Abhishek Padmanabhan" [ref=e3681]:
+                    - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                    - generic [ref=e3684]: Abhishek Padmanabhan
+                  - generic [ref=e3685]:
+                    - generic [ref=e3687]: Mar 27 •
+                    - link "🎙️Discussion" [ref=e3688]:
+                      - /url: /earlyaidopters?c=d5bf22e251fe4163963fc845082f2502
+                      - generic [ref=e3689]: 🎙️Discussion
+              - link "LinkedIn content tip" [ref=e3690]:
+                - /url: /earlyaidopters/linkedin-content-tip
+                - generic [ref=e3692]: LinkedIn content tip
+              - generic [ref=e3695]: "Sharing something that clicked for me recently: I used to think these crazy good LinkedIn creatives were just… better designers. Like people using Figma, Illustrator, all that. I was mostly on Canva — and honestly, my stuff always felt slightly off.Fonts, spacing, something just didn’t hit. Then this shifted for me: These posts are basically just web pages in a different format. - headline = hero section - content = feature blocks - layout = just structured UI So instead of fighting with AI images or Canva… I tried this: 1. Took a post I liked 2. Got it recreated in HTML 3. Saved as png The output was way cleaner instantly. No weird fonts. No alignment issues. No back-and-forth. Attaching 3 versions below —you can literally see the difference. version one is from the original Influencer version two is what was built with the HTML style version three is the output that the image and models gave me. Curious if anyone else has tried something like this?"
+              - generic [ref=e3696]:
+                - generic [ref=e3697]:
+                  - button [ref=e3698]:
+                    - img [ref=e3700]
+                  - generic [ref=e3705]: "16"
+                - generic [ref=e3706]:
+                  - img [ref=e3709]
+                  - generic [ref=e3711]: "25"
+                - generic [ref=e3712]:
+                  - generic [ref=e3713]:
+                    - generic "Carl Gutierrez" [ref=e3716]:
+                      - img "Carl Gutierrez" [ref=e3717]
+                    - generic "Abhishek Padmanabhan" [ref=e3720]:
+                      - img "Abhishek Padmanabhan" [ref=e3721]
+                    - generic "Sheria P" [ref=e3724]:
+                      - img "Sheria P" [ref=e3725]
+                    - generic "Alexandra Spalato" [ref=e3728]:
+                      - img "Alexandra Spalato" [ref=e3729]
+                    - link "Pamela Moren" [ref=e3731]:
+                      - /url: /earlyaidopters/linkedin-content-tip?p=67ce94ee
+                      - generic "Pamela Moren" [ref=e3733]:
+                        - img "Pamela Moren" [ref=e3734]
+                  - link "New comment 26d ago" [ref=e3736]:
+                    - /url: /earlyaidopters/linkedin-content-tip?p=67ce94ee
+            - img "LinkedIn content tip" [ref=e3738]
+          - generic [ref=e3741]:
+            - link "Abhishek Padmanabhan" [ref=e3745]:
+              - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+              - generic [ref=e3746]:
+                - generic "Abhishek Padmanabhan" [ref=e3747]:
+                  - img "Abhishek Padmanabhan" [ref=e3748]
+                - img [ref=e3750]:
+                  - generic [ref=e3752]: "6"
+            - generic [ref=e3753]:
+              - generic [ref=e3755]:
+                - link "Abhishek Padmanabhan" [ref=e3760]:
+                  - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                  - generic [ref=e3763]: Abhishek Padmanabhan
+                - generic [ref=e3764]: 0 likes • 26d
+              - generic [ref=e3765]:
+                - text: Make images in html and react and use open source icon libraries, show me the images in
+                - emphasis [ref=e3766]: ascii
+                - text: before making it," - you can then begin driving it with feedback
+        - generic [ref=e3771] [cursor=pointer]:
+          - generic [ref=e3772]:
+            - generic [ref=e3773]:
+              - generic [ref=e3774]:
+                - link "Zein Kaskas" [ref=e3778]:
+                  - /url: /@zein-kaskas-6105?g=earlyaidopters
+                  - generic [ref=e3779]:
+                    - generic "Zein Kaskas" [ref=e3780]:
+                      - img "Zein Kaskas" [ref=e3781]
+                    - img [ref=e3783]:
+                      - generic [ref=e3785]: "3"
+                - generic [ref=e3786]:
+                  - link "Zein Kaskas" [ref=e3790]:
+                    - /url: /@zein-kaskas-6105?g=earlyaidopters
+                    - generic [ref=e3793]: Zein Kaskas
+                  - generic [ref=e3794]:
+                    - generic [ref=e3796]: Mar 8 •
+                    - link "🔥 WINS" [ref=e3797]:
+                      - /url: /earlyaidopters?c=11dc076ef272499e8d3c653b094389dd
+                      - generic [ref=e3798]: 🔥 WINS
+              - link "# Cool Stuff I've Done with Claude Code to Make It Fit My Needs" [ref=e3799]:
+                - /url: /earlyaidopters/cool-stuff-ive-done-with-claude-code-to-make-it-fit-my-needs
+                - generic [ref=e3801]: "# Cool Stuff I've Done with Claude Code to Make It Fit My Needs"
+              - generic [ref=e3804]: "## 1. A Regex-Based Intent Router That Picks the Right Model Before Claude Even Sees the Message Most people just send everything to one model and call it a day. I built a classification layer that sits between Telegram and Claude. It's pure regex, no API call, runs in under 50ms, and routes every single message to one of three model tiers based on what you're actually asking for. Say \"hey\" or \"thanks\" and it goes to Haiku ($1/1M tokens). Ask it to send an email or check your calendar and it goes to Sonnet ($3/1M). Ask it to write a proposal or build a feature and it goes to Opus ($15/1M). The router has 14 intent categories with around 100 regex patterns, and it logs every classification to SQLite so I can pull up a `/router_stats` command and see exactly where my money is going. Real-world distribution: about 84% of messages hit Sonnet, 14% hit Haiku, and only 2% need Opus, saving me roughly 70-80% compared to running everything on Opus. --- ## 2. A Subagent Army with an Autonomous Action System Instead of one monolithic AI that does everything, I have six specialized agents that each own a domain. When a message comes in, the main orchestrator reads a delegation table and spawns the right subagent. The comms agent handles emails, calendar, and WhatsApp. The finance agent handles invoices and payments. The research agent runs multi-platform research. And so on. What makes this actually useful (and not just architecture for architecture's sake) is the autonomous action system layered on top. When I say \"message Sarah the deck is ready\", it resolves the contact, checks for exactly one match, and sends it immediately. No \"are you sure?\" prompt. But if it finds two Sarahs, or if the message involves money or pricing, it stops and asks. The rules are explicit: imperative command plus single contact match equals auto-execute. Anything ambiguous, risky, or involving money equals confirm first. It tracks which subagent handled each message in SQLite, so I can see delegation percentages in my router stats. --- ## 3. A Free Research Pipeline That's 7,500x Cheaper Than Doing It All with Claude This is probably the one I'm most proud of. When I ask my assistant to do research (competitor analysis, brand audit, trend analysis, whatever), it doesn't just dump everything into Claude and burn tokens. Instead, it runs a three-stage pipeline where the expensive parts are replaced with free tools. Stage one: Python scripts scrape data from Instagram, TikTok, YouTube, Google Trends, and Meta's Ad Library. All free, using open-source libraries like Instaloader, yt-dlp, and pytrends. Stage two: that raw data gets fed into Google's NotebookLM, which synthesizes it into a coherent report, also for free. Stage three: Claude just formats the final output for Telegram delivery, burning maybe 1-5K tokens instead of 50K+. The result is that a research request that used to cost $5-20 now costs about $0.01-0.03. Everything is tracked in a research index so notebooks get reused instead of recreated if I ask about the same topic within a week. --- These three systems work together. The intent router classifies the message and picks the cheapest model. If it's a research task, the orchestrator prepends instructions that trigger the free pipeline. If it's a messaging task, it delegates to the comms agent which auto-sends or confirms based on explicit rules. Everything is logged to SQLite so I can audit costs, see which agents are being used, and make data-backed decisions about what to optimize next. If you're building something similar with Claude Code, the key insight is: Claude is incredible at reasoning and orchestration, but it doesn't need to do everything. Offload the mechanical stuff to free tools, route simple tasks to cheaper models, and let the expensive model focus on what it's actually good at."
+              - generic [ref=e3805]:
+                - generic [ref=e3806]:
+                  - button [ref=e3807]:
+                    - img [ref=e3809]
+                  - generic [ref=e3814]: "10"
+                - generic [ref=e3815]:
+                  - img [ref=e3818]
+                  - generic [ref=e3820]: "8"
+                - generic [ref=e3821]:
+                  - generic [ref=e3822]:
+                    - generic "Zein Kaskas" [ref=e3825]:
+                      - img "Zein Kaskas" [ref=e3826]
+                    - generic "Catherine Dawson" [ref=e3829]:
+                      - img "Catherine Dawson" [ref=e3830]
+                    - generic "Mark Aitch" [ref=e3833]:
+                      - img "Mark Aitch" [ref=e3834]
+                    - generic "Martin Aranovitch" [ref=e3837]:
+                      - img "Martin Aranovitch" [ref=e3838]
+                    - link "Alexandra Spalato" [ref=e3840]:
+                      - /url: /earlyaidopters/cool-stuff-ive-done-with-claude-code-to-make-it-fit-my-needs?p=0a3d8f42
+                      - generic "Alexandra Spalato" [ref=e3842]:
+                        - img "Alexandra Spalato" [ref=e3843]
+                  - link "New comment Mar 11" [ref=e3845]:
+                    - /url: /earlyaidopters/cool-stuff-ive-done-with-claude-code-to-make-it-fit-my-needs?p=0a3d8f42
+            - img "# Cool Stuff I've Done with Claude Code to Make It Fit My Needs" [ref=e3847]
+          - generic [ref=e3850]:
+            - link "Martin Aranovitch" [ref=e3854]:
+              - /url: /@martin-aranovitch-7128?g=earlyaidopters
+              - generic [ref=e3855]:
+                - generic "Martin Aranovitch" [ref=e3856]:
+                  - img "Martin Aranovitch" [ref=e3857]
+                - img [ref=e3859]:
+                  - generic [ref=e3861]: "5"
+            - generic [ref=e3862]:
+              - generic [ref=e3864]:
+                - link "Martin Aranovitch" [ref=e3869]:
+                  - /url: /@martin-aranovitch-7128?g=earlyaidopters
+                  - generic [ref=e3872]: Martin Aranovitch
+                - generic [ref=e3873]: 1 like • Mar 9
+              - generic [ref=e3874]:
+                - text: Hey @Zein Kaskas thank you for sharing this post and the
+                - emphasis [ref=e3875]: ASCII
+                - text: architecture diagrams!
+        - generic [ref=e3880] [cursor=pointer]:
+          - generic [ref=e3881]:
+            - generic [ref=e3882]:
+              - generic [ref=e3883]:
+                - link "Carl Gutierrez" [ref=e3887]:
+                  - /url: /@carl-gutierrez-5621?g=earlyaidopters
+                  - generic [ref=e3888]:
+                    - generic "Carl Gutierrez" [ref=e3889]:
+                      - img "Carl Gutierrez" [ref=e3890]
+                    - img [ref=e3892]:
+                      - generic [ref=e3894]: "5"
+                - generic [ref=e3895]:
+                  - link "Carl Gutierrez" [ref=e3899]:
+                    - /url: /@carl-gutierrez-5621?g=earlyaidopters
+                    - generic [ref=e3902]: Carl Gutierrez
+                  - generic [ref=e3903]:
+                    - generic [ref=e3905]: Dec '25 •
+                    - link "💖 Sharing Is Caring" [ref=e3906]:
+                      - /url: /earlyaidopters?c=a5957507ea4146d18e58418876f4f407
+                      - generic [ref=e3907]: 💖 Sharing Is Caring
+              - link "Loveable - 2 months for free!" [ref=e3908]:
+                - /url: /earlyaidopters/loveable-2-months-for-free
+                - generic [ref=e3910]: Loveable - 2 months for free!
+              - generic [ref=e3913]: Use code NEXTPLAY-LOV-25 when upgrading to a Pro plan.
+              - generic [ref=e3914]:
+                - generic [ref=e3915]:
+                  - button [ref=e3916]:
+                    - img [ref=e3918]
+                  - generic [ref=e3923]: "5"
+                - generic [ref=e3924]:
+                  - img [ref=e3927]
+                  - generic [ref=e3929]: "7"
+                - generic [ref=e3930]:
+                  - generic [ref=e3931]:
+                    - generic "Grant Charge" [ref=e3934]:
+                      - img "Grant Charge" [ref=e3935]
+                    - generic "Alexandra Spalato" [ref=e3938]:
+                      - img "Alexandra Spalato" [ref=e3939]
+                    - generic "Redwan Abdella" [ref=e3942]:
+                      - img "Redwan Abdella" [ref=e3943]
+                    - link "Carl Gutierrez" [ref=e3945]:
+                      - /url: /earlyaidopters/loveable-2-months-for-free?p=e6708568
+                      - generic "Carl Gutierrez" [ref=e3947]:
+                        - img "Carl Gutierrez" [ref=e3948]
+                  - link "New comment Dec '25" [ref=e3950]:
+                    - /url: /earlyaidopters/loveable-2-months-for-free?p=e6708568
+            - img "Loveable - 2 months for free!" [ref=e3952]
+          - generic [ref=e3955]:
+            - link "Alexandra Spalato" [ref=e3959]:
+              - /url: /@alexandra-spalato?g=earlyaidopters
+              - generic [ref=e3960]:
+                - generic "Alexandra Spalato" [ref=e3961]:
+                  - img "Alexandra Spalato" [ref=e3962]
+                - img [ref=e3964]:
+                  - generic [ref=e3966]: "7"
+            - generic [ref=e3967]:
+              - generic [ref=e3969]:
+                - link "Alexandra Spalato" [ref=e3974]:
+                  - /url: /@alexandra-spalato?g=earlyaidopters
+                  - generic [ref=e3977]: Alexandra Spalato
+                - generic [ref=e3978]: 3 likes • Dec '25
+              - generic [ref=e3979]:
+                - text: folder in your code editor and ask Claude Code to take it as ref for the app you're building You can also first plan the app in CC, create a wireframe in
+                - emphasis [ref=e3980]: ASCII
+        - status [ref=e3981]
+        - generic [ref=e3983]:
+          - generic [ref=e3984]:
+            - button "Previous" [disabled] [ref=e3985]:
+              - img [ref=e3987]
+              - generic [ref=e3989]: Previous
+            - button "1" [ref=e3990] [cursor=pointer]:
+              - generic [ref=e3991]: "1"
+            - button "2" [ref=e3992] [cursor=pointer]:
+              - generic [ref=e3993]: "2"
+            - button "3" [ref=e3994] [cursor=pointer]:
+              - generic [ref=e3995]: "3"
+            - button "4" [ref=e3996] [cursor=pointer]:
+              - generic [ref=e3997]: "4"
+            - button "Next" [ref=e3998] [cursor=pointer]:
+              - generic [ref=e3999]: Next
+              - img [ref=e4001]
+          - generic [ref=e4003]: 1-10 of 31
+      - generic [ref=e4006]:
+        - generic [ref=e4008]:
+          - img "Early AI-dopters" [ref=e4010]
+          - generic [ref=e4013]:
+            - generic [ref=e4014]:
+              - link "Early AI-dopters" [ref=e4017] [cursor=pointer]:
+                - /url: /earlyaidopters
+              - generic [ref=e4018] [cursor=pointer]: skool.com/earlyaidopters
+            - generic [ref=e4021]:
+              - generic [ref=e4022]: Become the AI expert in the room.
+              - generic [ref=e4024]: Expert-led courses, 1:1 coaching, daily insights from the field.
+              - generic [ref=e4026]: All signal, none of the hype 🦾
+            - generic [ref=e4029]:
+              - generic [ref=e4030]:
+                - link "1.3k Members" [ref=e4032] [cursor=pointer]:
+                  - /url: /earlyaidopters/-/members
+                  - generic [ref=e4033]:
+                    - generic [ref=e4034]: 1.3k
+                    - generic [ref=e4035]: Members
+                - link "77 Online" [ref=e4036] [cursor=pointer]:
+                  - /url: /earlyaidopters/-/members?t=online
+                  - generic [ref=e4037]:
+                    - generic [ref=e4038]: "77"
+                    - generic [ref=e4039]: Online
+                - link "16 Admins" [ref=e4040] [cursor=pointer]:
+                  - /url: /earlyaidopters/-/members?t=admin
+                  - generic [ref=e4041]:
+                    - generic [ref=e4042]: "16"
+                    - generic [ref=e4043]: Admins
+              - generic [ref=e4044]:
+                - link "Mark Kashef" [ref=e4047] [cursor=pointer]:
+                  - /url: /@mark-kashef-7464?g=earlyaidopters
+                  - generic "Mark Kashef" [ref=e4049]:
+                    - img "Mark Kashef" [ref=e4050]
+                - link "Andre Franklin" [ref=e4053] [cursor=pointer]:
+                  - /url: /@andre-franklin-4232?g=earlyaidopters
+                  - generic "Andre Franklin" [ref=e4055]:
+                    - img "Andre Franklin" [ref=e4056]
+                - link "Anthony Mccann" [ref=e4059] [cursor=pointer]:
+                  - /url: /@anthony-mccann-1245?g=earlyaidopters
+                  - generic "Anthony Mccann" [ref=e4061]:
+                    - img "Anthony Mccann" [ref=e4062]
+                - link "Bastian Brand" [ref=e4065] [cursor=pointer]:
+                  - /url: /@bastian-brand-4054?g=earlyaidopters
+                  - generic "Bastian Brand" [ref=e4067]:
+                    - img "Bastian Brand" [ref=e4068]
+                - link "Billy Jordan" [ref=e4071] [cursor=pointer]:
+                  - /url: /@billy-jordan-9298?g=earlyaidopters
+                  - generic "Billy Jordan" [ref=e4073]:
+                    - img "Billy Jordan" [ref=e4074]
+                - link "Jody Graffunder" [ref=e4077] [cursor=pointer]:
+                  - /url: /@jody-graffunder-5729?g=earlyaidopters
+                  - generic "Jody Graffunder" [ref=e4079]:
+                    - img "Jody Graffunder" [ref=e4080]
+                - link "Casey Margell" [ref=e4083] [cursor=pointer]:
+                  - /url: /@casey-margell-6131?g=earlyaidopters
+                  - generic "Casey Margell" [ref=e4085]:
+                    - img "Casey Margell" [ref=e4086]
+                - link "Fred Vinson" [ref=e4089] [cursor=pointer]:
+                  - /url: /@fred-vinson-3464?g=earlyaidopters
+                  - generic "Fred Vinson" [ref=e4091]:
+                    - img "Fred Vinson" [ref=e4092]
+            - generic [ref=e4094]: Invite people
+        - link "Powered by" [ref=e4095] [cursor=pointer]:
+          - /url: /signup?utm_source=skooldotcom&utm_medium=website&utm_content=powered_by_skool&utm_campaign=signup_skool_logo_link
+          - generic [ref=e4096]:
+            - generic [ref=e4097]: Powered by
+            - img [ref=e4099]
+  - alert [ref=e2704]: Search "ASCII" in Early AI-dopters

@@ -1,0 +1,394 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=e43]:
+        - button "Settings" [ref=e48] [cursor=pointer]
+        - link "Sign in" [ref=e52] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCuwtMh6t7GCytXH8lBewdKw&hl=en&ec=65620
+          - generic [ref=e55]: Sign in
+  - main [ref=e60]:
+    - generic [ref=e67]:
+      - generic [ref=e75]:
+        - generic [ref=e83]:
+          - heading "Indie Hacker News" [level=1] [ref=e85]
+          - generic [ref=e86]:
+            - group [ref=e87]:
+              - generic [ref=e88]: "@indiehackernews"
+            - generic [ref=e89]: •
+            - group [ref=e90]:
+              - generic "2.1 thousand subscribers" [ref=e91]: 2.1K subscribers
+              - generic [ref=e92]: •
+              - generic [ref=e93]: 145 videos
+          - generic [ref=e95] [cursor=pointer]:
+            - generic [ref=e96]: Daily news digest for indie hackers, bootstrappers, and solo founders.
+            - button "Description. Daily news digest for indie hackers, bootstrappers, and sol...tap for more." [ref=e97]:
+              - generic [ref=e98]: ...more
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - link "indiehacker.news" [ref=e103] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbFhLeERUM25HbVAzSmxFbEd4cXh6YWF2aVVjZ3xBQ3Jtc0tuVTlUYUtfRlk0N21PTllDUVJ1aFNFb3ZfLW9xbWpNRjVELW5JUFlZVWZwQnh3VWZqRVR5MXhaNGVSM3NlTzhRRl9BVVJUNVl3V0gwM3ZOeDdDZ2owRk5JWnNrY2hUdkRsRERweHRUQUQtOFlfQnU3dw&q=https%3A%2F%2Findiehacker.news
+            - button "and 2 more links" [ref=e106] [cursor=pointer]
+          - button "Subscribe" [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: Subscribe
+      - tablist [ref=e119]:
+        - tablist [ref=e123]:
+          - tab "Videos" [selected] [ref=e124] [cursor=pointer]:
+            - generic [ref=e125]: Videos
+          - tab "Shorts" [ref=e126] [cursor=pointer]:
+            - generic [ref=e127]: Shorts
+          - button "Search" [ref=e131] [cursor=pointer]
+    - generic [ref=e138]:
+      - tablist [ref=e141]:
+        - tab "Latest" [selected] [ref=e145] [cursor=pointer]:
+          - generic [ref=e147]: Latest
+        - tab "Popular" [ref=e154] [cursor=pointer]:
+          - generic [ref=e156]: Popular
+        - tab "Oldest" [ref=e163] [cursor=pointer]:
+          - generic [ref=e165]: Oldest
+      - generic [ref=e169]:
+        - generic [ref=e173]:
+          - link [ref=e176] [cursor=pointer]:
+            - /url: /watch?v=m8U0dPfuoN8
+          - generic [ref=e179] [cursor=pointer]:
+            - heading "The 36K-star Claude Code folder Matt Pocock just open-sourced 7 minutes, 15 seconds" [level=3] [ref=e180]:
+              - link "The 36K-star Claude Code folder Matt Pocock just open-sourced 7 minutes, 15 seconds" [ref=e181]:
+                - /url: /watch?v=m8U0dPfuoN8
+                - generic [ref=e182]: The 36K-star Claude Code folder Matt Pocock just open-sourced
+            - generic [ref=e185]:
+              - generic [ref=e186]: 7.1K views
+              - generic [ref=e187]: •5 hours ago
+        - generic [ref=e191]:
+          - link [ref=e194] [cursor=pointer]:
+            - /url: /watch?v=9FoEsXNGLwI
+          - generic [ref=e197] [cursor=pointer]:
+            - heading "Someone open-sourced a hedge fund (53k stars on GitHub) 8 minutes, 27 seconds" [level=3] [ref=e198]:
+              - link "Someone open-sourced a hedge fund (53k stars on GitHub) 8 minutes, 27 seconds" [ref=e199]:
+                - /url: /watch?v=9FoEsXNGLwI
+                - generic [ref=e200]: Someone open-sourced a hedge fund (53k stars on GitHub)
+            - generic [ref=e203]:
+              - generic [ref=e204]: 35K views
+              - generic [ref=e205]: •1 day ago
+        - generic [ref=e209]:
+          - link [ref=e212] [cursor=pointer]:
+            - /url: /watch?v=hLmZHKYC6FU
+          - generic [ref=e215] [cursor=pointer]:
+            - heading "OpenAI just killed Microsoft's exclusivity (and the AGI clause) 6 minutes, 2 seconds" [level=3] [ref=e216]:
+              - link "OpenAI just killed Microsoft's exclusivity (and the AGI clause) 6 minutes, 2 seconds" [ref=e217]:
+                - /url: /watch?v=hLmZHKYC6FU
+                - generic [ref=e218]: OpenAI just killed Microsoft's exclusivity (and the AGI clause)
+            - generic [ref=e221]:
+              - generic [ref=e222]: 453 views
+              - generic [ref=e223]: •1 day ago
+        - generic [ref=e227]:
+          - link [ref=e230] [cursor=pointer]:
+            - /url: /watch?v=O6t94PrYimI
+          - generic [ref=e233] [cursor=pointer]:
+            - 'heading "GitNexus: the 30k-star knowledge graph your AI agent needs (and doesn''t have) 8 minutes, 24 seconds" [level=3] [ref=e234]':
+              - 'link "GitNexus: the 30k-star knowledge graph your AI agent needs (and doesn''t have) 8 minutes, 24 seconds" [ref=e235]':
+                - /url: /watch?v=O6t94PrYimI
+                - generic [ref=e236]: "GitNexus: the 30k-star knowledge graph your AI agent needs (and doesn't have)"
+            - generic [ref=e239]:
+              - generic [ref=e240]: 2.6K views
+              - generic [ref=e241]: •2 days ago
+        - generic [ref=e245]:
+          - link [ref=e248] [cursor=pointer]:
+            - /url: /watch?v=U2Fzftv58yw
+          - generic [ref=e251] [cursor=pointer]:
+            - 'heading "DeepSeek V4: Claude-level coding, 98% off 5 minutes, 55 seconds" [level=3] [ref=e252]':
+              - 'link "DeepSeek V4: Claude-level coding, 98% off 5 minutes, 55 seconds" [ref=e253]':
+                - /url: /watch?v=U2Fzftv58yw
+                - generic [ref=e254]: "DeepSeek V4: Claude-level coding, 98% off"
+            - generic [ref=e257]:
+              - generic [ref=e258]: 967 views
+              - generic [ref=e259]: •3 days ago
+        - generic [ref=e263]:
+          - link [ref=e266] [cursor=pointer]:
+            - /url: /watch?v=OMYgz___HeY
+          - generic [ref=e269] [cursor=pointer]:
+            - heading "This dev got tired of paying $29/month for Screen Studio, so he built a free clone… 6 minutes, 33 seconds" [level=3] [ref=e270]:
+              - link "This dev got tired of paying $29/month for Screen Studio, so he built a free clone… 6 minutes, 33 seconds" [ref=e271]:
+                - /url: /watch?v=OMYgz___HeY
+                - generic [ref=e272]: This dev got tired of paying $29/month for Screen Studio, so he built a free clone…
+            - generic [ref=e275]:
+              - generic [ref=e276]: 114 views
+              - generic [ref=e277]: •3 days ago
+        - generic [ref=e281]:
+          - link [ref=e284] [cursor=pointer]:
+            - /url: /watch?v=02X6k_zECFw
+          - generic [ref=e287] [cursor=pointer]:
+            - heading "Why Claude Felt Dumber For a Month 6 minutes, 49 seconds" [level=3] [ref=e288]:
+              - link "Why Claude Felt Dumber For a Month 6 minutes, 49 seconds" [ref=e289]:
+                - /url: /watch?v=02X6k_zECFw
+                - generic [ref=e290]: Why Claude Felt Dumber For a Month
+            - generic [ref=e293]:
+              - generic [ref=e294]: 1.9K views
+              - generic [ref=e295]: •4 days ago
+        - generic [ref=e299]:
+          - link [ref=e302] [cursor=pointer]:
+            - /url: /watch?v=6F5Gp5f8Z3g&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e305] [cursor=pointer]:
+            - heading "A Roblox cheat just broke Vercel (and OpenAI's frontend) 7 minutes, 29 seconds" [level=3] [ref=e306]:
+              - link "A Roblox cheat just broke Vercel (and OpenAI's frontend) 7 minutes, 29 seconds" [ref=e307]:
+                - /url: /watch?v=6F5Gp5f8Z3g&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e308]: A Roblox cheat just broke Vercel (and OpenAI's frontend)
+            - generic [ref=e311]:
+              - generic [ref=e312]: 185 views
+              - generic [ref=e313]: •4 days ago
+        - generic [ref=e317]:
+          - link [ref=e320] [cursor=pointer]:
+            - /url: /watch?v=g0s25tcbWp4
+          - generic [ref=e323] [cursor=pointer]:
+            - heading "What the HELL is Spud? - OpenAI's GPT-5.5 Explained 8 minutes, 56 seconds" [level=3] [ref=e324]:
+              - link "What the HELL is Spud? - OpenAI's GPT-5.5 Explained 8 minutes, 56 seconds" [ref=e325]:
+                - /url: /watch?v=g0s25tcbWp4
+                - generic [ref=e326]: What the HELL is Spud? - OpenAI's GPT-5.5 Explained
+            - generic [ref=e329]:
+              - generic [ref=e330]: 442 views
+              - generic [ref=e331]: •5 days ago
+        - generic [ref=e335]:
+          - link [ref=e338] [cursor=pointer]:
+            - /url: /watch?v=XCb6qweCsMc
+          - generic [ref=e341] [cursor=pointer]:
+            - heading "This $50 AI hacker is terrifying 6 minutes, 57 seconds" [level=3] [ref=e342]:
+              - link "This $50 AI hacker is terrifying 6 minutes, 57 seconds" [ref=e343]:
+                - /url: /watch?v=XCb6qweCsMc
+                - generic [ref=e344]: This $50 AI hacker is terrifying
+            - generic [ref=e347]:
+              - generic [ref=e348]: 241 views
+              - generic [ref=e349]: •6 days ago
+        - generic [ref=e353]:
+          - link [ref=e356] [cursor=pointer]:
+            - /url: /watch?v=kWrZhIKmRJs
+          - generic [ref=e359] [cursor=pointer]:
+            - heading "Qwen 3.6 ties Opus on Anthropic's own benchmark 6 minutes, 39 seconds" [level=3] [ref=e360]:
+              - link "Qwen 3.6 ties Opus on Anthropic's own benchmark 6 minutes, 39 seconds" [ref=e361]:
+                - /url: /watch?v=kWrZhIKmRJs
+                - generic [ref=e362]: Qwen 3.6 ties Opus on Anthropic's own benchmark
+            - generic [ref=e365]:
+              - generic [ref=e366]: 314 views
+              - generic [ref=e367]: •6 days ago
+        - generic [ref=e371]:
+          - link [ref=e374] [cursor=pointer]:
+            - /url: /watch?v=i3IrA81FoLU
+          - generic [ref=e377] [cursor=pointer]:
+            - heading "ChatGPT Images 2.0 broke the Image Arena 6 minutes, 50 seconds" [level=3] [ref=e378]:
+              - link "ChatGPT Images 2.0 broke the Image Arena 6 minutes, 50 seconds" [ref=e379]:
+                - /url: /watch?v=i3IrA81FoLU
+                - generic [ref=e380]: ChatGPT Images 2.0 broke the Image Arena
+            - generic [ref=e383]:
+              - generic [ref=e384]: 283 views
+              - generic [ref=e385]: •7 days ago
+        - generic [ref=e389]:
+          - link [ref=e392] [cursor=pointer]:
+            - /url: /watch?v=n9EYIQdyJ8A
+          - generic [ref=e395] [cursor=pointer]:
+            - heading "Is Elon buying Cursor? 6 minutes, 16 seconds" [level=3] [ref=e396]:
+              - link "Is Elon buying Cursor? 6 minutes, 16 seconds" [ref=e397]:
+                - /url: /watch?v=n9EYIQdyJ8A
+                - generic [ref=e398]: Is Elon buying Cursor?
+            - generic [ref=e401]:
+              - generic [ref=e402]: 954 views
+              - generic [ref=e403]: •7 days ago
+        - generic [ref=e407]:
+          - link [ref=e410] [cursor=pointer]:
+            - /url: /watch?v=xIaGuMlNxEA
+          - generic [ref=e413] [cursor=pointer]:
+            - 'heading "Kimi K2.6: China''s Open Model Just Beat Claude Opus 7 minutes, 16 seconds" [level=3] [ref=e414]':
+              - 'link "Kimi K2.6: China''s Open Model Just Beat Claude Opus 7 minutes, 16 seconds" [ref=e415]':
+                - /url: /watch?v=xIaGuMlNxEA
+                - generic [ref=e416]: "Kimi K2.6: China's Open Model Just Beat Claude Opus"
+            - generic [ref=e419]:
+              - generic [ref=e420]: 2.6K views
+              - generic [ref=e421]: •8 days ago
+        - generic [ref=e425]:
+          - link [ref=e428] [cursor=pointer]:
+            - /url: /watch?v=wCH63grKOtA
+          - generic [ref=e431] [cursor=pointer]:
+            - heading "The $9 chip that sees through walls (47K stars, HN is fighting) 8 minutes, 18 seconds" [level=3] [ref=e432]:
+              - link "The $9 chip that sees through walls (47K stars, HN is fighting) 8 minutes, 18 seconds" [ref=e433]:
+                - /url: /watch?v=wCH63grKOtA
+                - generic [ref=e434]: The $9 chip that sees through walls (47K stars, HN is fighting)
+            - generic [ref=e437]:
+              - generic [ref=e438]: 4.7K views
+              - generic [ref=e439]: •9 days ago
+        - generic [ref=e443]:
+          - link [ref=e446] [cursor=pointer]:
+            - /url: /watch?v=SKxLauv_gCk
+          - generic [ref=e449] [cursor=pointer]:
+            - heading "HeyGen quietly shipped HyperFrames... 8 minutes, 11 seconds" [level=3] [ref=e450]:
+              - link "HeyGen quietly shipped HyperFrames... 8 minutes, 11 seconds" [ref=e451]:
+                - /url: /watch?v=SKxLauv_gCk
+                - generic [ref=e452]: HeyGen quietly shipped HyperFrames...
+            - generic [ref=e455]:
+              - generic [ref=e456]: 2.9K views
+              - generic [ref=e457]: •9 days ago
+        - generic [ref=e461]:
+          - link [ref=e464] [cursor=pointer]:
+            - /url: /watch?v=WlDDbPQ9fmo
+          - generic [ref=e467] [cursor=pointer]:
+            - heading "Claude Design just took 7% from Figma in one day 5 minutes, 49 seconds" [level=3] [ref=e468]:
+              - link "Claude Design just took 7% from Figma in one day 5 minutes, 49 seconds" [ref=e469]:
+                - /url: /watch?v=WlDDbPQ9fmo
+                - generic [ref=e470]: Claude Design just took 7% from Figma in one day
+            - generic [ref=e473]:
+              - generic [ref=e474]: 806 views
+              - generic [ref=e475]: •9 days ago
+        - generic [ref=e479]:
+          - link [ref=e482] [cursor=pointer]:
+            - /url: /watch?v=J7gmaMVHt3Q
+          - generic [ref=e485] [cursor=pointer]:
+            - heading "This $89 necklace records your entire life (10K stars, open source) 7 minutes, 48 seconds" [level=3] [ref=e486]:
+              - link "This $89 necklace records your entire life (10K stars, open source) 7 minutes, 48 seconds" [ref=e487]:
+                - /url: /watch?v=J7gmaMVHt3Q
+                - generic [ref=e488]: This $89 necklace records your entire life (10K stars, open source)
+            - generic [ref=e491]:
+              - generic [ref=e492]: 95 views
+              - generic [ref=e493]: •10 days ago
+        - generic [ref=e497]:
+          - link [ref=e500] [cursor=pointer]:
+            - /url: /watch?v=tIY7rU7R5pQ
+          - generic [ref=e503] [cursor=pointer]:
+            - heading "OpenAI just gave Codex hands on your Mac (3M devs/week) 9 minutes, 22 seconds" [level=3] [ref=e504]:
+              - link "OpenAI just gave Codex hands on your Mac (3M devs/week) 9 minutes, 22 seconds" [ref=e505]:
+                - /url: /watch?v=tIY7rU7R5pQ
+                - generic [ref=e506]: OpenAI just gave Codex hands on your Mac (3M devs/week)
+            - generic [ref=e509]:
+              - generic [ref=e510]: 404 views
+              - generic [ref=e511]: •11 days ago
+        - generic [ref=e515]:
+          - link [ref=e518] [cursor=pointer]:
+            - /url: /watch?v=I0haauvBPPs
+          - generic [ref=e521] [cursor=pointer]:
+            - heading "OpenAI turned Codex into a desktop agent that uses your Mac 7 minutes, 45 seconds" [level=3] [ref=e522]:
+              - link "OpenAI turned Codex into a desktop agent that uses your Mac 7 minutes, 45 seconds" [ref=e523]:
+                - /url: /watch?v=I0haauvBPPs
+                - generic [ref=e524]: OpenAI turned Codex into a desktop agent that uses your Mac
+            - generic [ref=e527]:
+              - generic [ref=e528]: 2.1K views
+              - generic [ref=e529]: •12 days ago
+        - generic [ref=e533]:
+          - link [ref=e536] [cursor=pointer]:
+            - /url: /watch?v=hptLfB4RVA0
+          - generic [ref=e539] [cursor=pointer]:
+            - heading "This open-source engine gives AI agents real memory (15.7K stars) 8 minutes, 43 seconds" [level=3] [ref=e540]:
+              - link "This open-source engine gives AI agents real memory (15.7K stars) 8 minutes, 43 seconds" [ref=e541]:
+                - /url: /watch?v=hptLfB4RVA0
+                - generic [ref=e542]: This open-source engine gives AI agents real memory (15.7K stars)
+            - generic [ref=e545]:
+              - generic [ref=e546]: 528 views
+              - generic [ref=e547]: •12 days ago
+        - generic [ref=e551]:
+          - link [ref=e554] [cursor=pointer]:
+            - /url: /watch?v=6php8icEtKk
+          - generic [ref=e557] [cursor=pointer]:
+            - heading "The open-source ElevenLabs just hit 18K stars (Voicebox) 10 minutes, 18 seconds" [level=3] [ref=e558]:
+              - link "The open-source ElevenLabs just hit 18K stars (Voicebox) 10 minutes, 18 seconds" [ref=e559]:
+                - /url: /watch?v=6php8icEtKk
+                - generic [ref=e560]: The open-source ElevenLabs just hit 18K stars (Voicebox)
+            - generic [ref=e563]:
+              - generic [ref=e564]: 304 views
+              - generic [ref=e565]: •12 days ago
+        - generic [ref=e569]:
+          - link [ref=e572] [cursor=pointer]:
+            - /url: /watch?v=nVZYv6xHH-Y
+          - generic [ref=e575] [cursor=pointer]:
+            - heading "Claude Opus 4.7 in 5 minutes 5 minutes, 17 seconds" [level=3] [ref=e576]:
+              - link "Claude Opus 4.7 in 5 minutes 5 minutes, 17 seconds" [ref=e577]:
+                - /url: /watch?v=nVZYv6xHH-Y
+                - generic [ref=e578]: Claude Opus 4.7 in 5 minutes
+            - generic [ref=e581]:
+              - generic [ref=e582]: 237 views
+              - generic [ref=e583]: •13 days ago
+        - generic [ref=e587]:
+          - link [ref=e590] [cursor=pointer]:
+            - /url: /watch?v=XByKV44FLlc
+          - generic [ref=e593] [cursor=pointer]:
+            - 'heading "He sold his company for €100M, then built GitHub''s #1 repo 6 minutes, 28 seconds" [level=3] [ref=e594]':
+              - 'link "He sold his company for €100M, then built GitHub''s #1 repo 6 minutes, 28 seconds" [ref=e595]':
+                - /url: /watch?v=XByKV44FLlc
+                - generic [ref=e596]: "He sold his company for €100M, then built GitHub's #1 repo"
+            - generic [ref=e599]:
+              - generic [ref=e600]: 232 views
+              - generic [ref=e601]: •13 days ago
+        - generic [ref=e605]:
+          - link [ref=e608] [cursor=pointer]:
+            - /url: /watch?v=TSPPWbTrZHw
+          - generic [ref=e611] [cursor=pointer]:
+            - heading "Multica turns coding agents into real teammates (12k stars in 3 months) 7 minutes, 19 seconds" [level=3] [ref=e612]:
+              - link "Multica turns coding agents into real teammates (12k stars in 3 months) 7 minutes, 19 seconds" [ref=e613]:
+                - /url: /watch?v=TSPPWbTrZHw
+                - generic [ref=e614]: Multica turns coding agents into real teammates (12k stars in 3 months)
+            - generic [ref=e617]:
+              - generic [ref=e618]: 270 views
+              - generic [ref=e619]: •2 weeks ago
+        - generic [ref=e623]:
+          - link [ref=e626] [cursor=pointer]:
+            - /url: /watch?v=MBsuTEUbaRw
+          - generic [ref=e629] [cursor=pointer]:
+            - heading "The Spacedrive guy just killed ElevenLabs 5 minutes, 50 seconds" [level=3] [ref=e630]:
+              - link "The Spacedrive guy just killed ElevenLabs 5 minutes, 50 seconds" [ref=e631]:
+                - /url: /watch?v=MBsuTEUbaRw
+                - generic [ref=e632]: The Spacedrive guy just killed ElevenLabs
+            - generic [ref=e635]:
+              - generic [ref=e636]: 41 views
+              - generic [ref=e637]: •2 weeks ago
+        - generic [ref=e641]:
+          - link [ref=e644] [cursor=pointer]:
+            - /url: /watch?v=NyH63NFxa78
+          - generic [ref=e647] [cursor=pointer]:
+            - 'heading "Kronos: the open-source model that reads candlestick charts (17K stars) 11 minutes, 18 seconds" [level=3] [ref=e648]':
+              - 'link "Kronos: the open-source model that reads candlestick charts (17K stars) 11 minutes, 18 seconds" [ref=e649]':
+                - /url: /watch?v=NyH63NFxa78
+                - generic [ref=e650]: "Kronos: the open-source model that reads candlestick charts (17K stars)"
+            - generic [ref=e653]:
+              - generic [ref=e654]: 629 views
+              - generic [ref=e655]: •2 weeks ago
+        - generic [ref=e659]:
+          - link [ref=e662] [cursor=pointer]:
+            - /url: /watch?v=X2dDyhoNTTE
+          - generic [ref=e665] [cursor=pointer]:
+            - heading "Zhipu's 754B open model just beat GPT-5.4 on SWE-Bench Pro 9 minutes, 39 seconds" [level=3] [ref=e666]:
+              - link "Zhipu's 754B open model just beat GPT-5.4 on SWE-Bench Pro 9 minutes, 39 seconds" [ref=e667]:
+                - /url: /watch?v=X2dDyhoNTTE
+                - generic [ref=e668]: Zhipu's 754B open model just beat GPT-5.4 on SWE-Bench Pro
+            - generic [ref=e671]:
+              - generic [ref=e672]: 934 views
+              - generic [ref=e673]: •2 weeks ago
+        - generic [ref=e677]:
+          - link [ref=e680] [cursor=pointer]:
+            - /url: /watch?v=ld4uX_bnFFQ
+          - generic [ref=e683] [cursor=pointer]:
+            - heading "Meta's new AI has ZERO open weights 6 minutes, 48 seconds" [level=3] [ref=e684]:
+              - link "Meta's new AI has ZERO open weights 6 minutes, 48 seconds" [ref=e685]:
+                - /url: /watch?v=ld4uX_bnFFQ
+                - generic [ref=e686]: Meta's new AI has ZERO open weights
+            - generic [ref=e689]:
+              - generic [ref=e690]: 177 views
+              - generic [ref=e691]: •2 weeks ago
+        - generic [ref=e695]:
+          - link [ref=e698] [cursor=pointer]:
+            - /url: /watch?v=dxQYt9QnNeQ
+          - generic [ref=e701] [cursor=pointer]:
+            - heading "This AI improves while you sleep! 9 minutes, 54 seconds" [level=3] [ref=e702]:
+              - link "This AI improves while you sleep! 9 minutes, 54 seconds" [ref=e703]:
+                - /url: /watch?v=dxQYt9QnNeQ
+                - generic [ref=e704]: This AI improves while you sleep!
+            - generic [ref=e707]:
+              - generic [ref=e708]: 37 views
+              - generic [ref=e709]: •2 weeks ago

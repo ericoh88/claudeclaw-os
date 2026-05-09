@@ -1,0 +1,86 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e48]:
+    - generic [ref=e59]:
+      - generic [ref=e60]: Sign in to confirm you’re not a bot
+      - generic [ref=e61]:
+        - text: This helps protect our community.
+        - link "Learn more" [ref=e62] [cursor=pointer]:
+          - /url: https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube
+      - link "Sign in" [ref=e66] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253D9FoEsXNGLwI&hl=en
+        - generic [ref=e67]: Sign in
+    - generic [ref=e74]:
+      - generic [ref=e76]:
+        - heading "Someone open-sourced a hedge fund (53k stars on GitHub)" [level=1] [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - link [ref=e82] [cursor=pointer]:
+                - /url: /@indiehackernews
+              - generic [ref=e84]:
+                - generic "Indie Hacker News" [ref=e88]:
+                  - link "Indie Hacker News" [ref=e89] [cursor=pointer]:
+                    - /url: /@indiehackernews
+                - generic "521 subscribers" [ref=e90]
+            - button "Subscribe to Indie Hacker News." [ref=e96] [cursor=pointer]:
+              - generic [ref=e97]: Subscribe
+          - generic [ref=e104]:
+            - button "Share" [ref=e108] [cursor=pointer]:
+              - generic [ref=e111]: Share
+            - button "Save to playlist" [ref=e118] [cursor=pointer]:
+              - generic [ref=e121]: Save
+            - button "More actions" [ref=e126] [cursor=pointer]
+        - generic [ref=e134] [cursor=pointer]:
+          - generic [ref=e135]:
+            - generic [ref=e137]:
+              - text: 1,420 views 19 hours ago
+              - link "#TradingAgents" [ref=e138]:
+                - /url: /hashtag/tradingagents
+              - link "#LLMAgents" [ref=e139]:
+                - /url: /hashtag/llmagents
+              - link "#OpenSource" [ref=e140]:
+                - /url: /hashtag/opensource
+            - tooltip "tooltip"
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - generic [ref=e145]: Somebody just open-sourced a hedge fund. TradingAgents is a Python framework that simulates an entire Wall Street trading firm using LLM agents. Fou
+              - generic: …
+            - button "...more" [ref=e146]
+      - text: •
+      - generic [ref=e151]:
+        - generic [ref=e160]:
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e162]:
+              - link "Seedance 2.0 First Come First" [ref=e165]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cq1ZnzSLyaY7uMp-Hr7wP7OToiA7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBKADT9D6S3hVuItC8K_ZClqAkSg1wVjzcNdKFIOg1AfNLEabHP8T-yTBQ_yJtB8rvQVdZLji9s_UE6fTgrNLerkdc8kz2LmIv-StstAFdPPyTOZjHspi-L88iy0xxuLFxeFW5lT-nHTTjfNSB4KUxXC7HjBhvxAeCLyCCu82aQUC-lD0gO2chrOyfKYmL_jJ6MrPByZzCEuXjQUzos2LY8_-Whu0W87LAagcbAP_jKpHnRmcydeQ8HkORa0nQGUb94DjWIkrirDeNvGse07IC9mxw6lTJpdcCxeZV6SKAxxP4CBkNbrBWvOWjwC20OA1vK3_Ryft0ofDMJnl3UFpBM0nxOWt8n4NJdwszuMByV0kO09MeisxJ5c2DuVy4ns4H4ATT_8jinRqdQJd3YJreSt-_99yz_Oi3488G21VOOXL0w6kEBaVEciG4GqvlY41b9_3kAwpiRCIk29kaXjpn2TyK2n16siaX1PBN7ePHR3YV3anih9P3E7Rqp7UQ8WTguPu4GIYFaclaW66WLlYYLQe0Y18dLwwEblN7en8lIUGUO6IBZK7_rtYkgUKCBNoAniGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNj2xJyvk5QD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJlODEMozzFOLICQCYCwGhCyeh02IhReswugs_CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awd2aXRwZXJi0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzojFnK-TlAMVn8OLAR1sMhrhEAEYASAAEgKRqvD_BwE&num=1&cid=CAASwwHkaJ_U8F1330nJwIcS_nNN8p6K8frPrTmfkqHRdWrRzgJaceLmB2L2QMoH_tgJttOwqnKZ0Yfaj4VFAargZS1NE4I1EPyj1KoyzNERZ9bZ_zGMLmU7Msov3eHIngrgojfp06TEw-Zi9eRuYlEc5HYcbF754d1f0NgEmqu5eau0O0ikUx-F53dSoxOPYN-s-HS7zoyN_DO1ogTL1pffVSqkOV2LYEuTsHk1T_BxVwvvFr-H8IPI4MlaQnARgN578ez8oqc&sig=AOD64_0KHOUHY4YJfv_M4M7xUP6gDNOpaA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 official release, no wait. Be first, not left in AI dust." [ref=e168]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cq1ZnzSLyaY7uMp-Hr7wP7OToiA7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBKADT9D6S3hVuItC8K_ZClqAkSg1wVjzcNdKFIOg1AfNLEabHP8T-yTBQ_yJtB8rvQVdZLji9s_UE6fTgrNLerkdc8kz2LmIv-StstAFdPPyTOZjHspi-L88iy0xxuLFxeFW5lT-nHTTjfNSB4KUxXC7HjBhvxAeCLyCCu82aQUC-lD0gO2chrOyfKYmL_jJ6MrPByZzCEuXjQUzos2LY8_-Whu0W87LAagcbAP_jKpHnRmcydeQ8HkORa0nQGUb94DjWIkrirDeNvGse07IC9mxw6lTJpdcCxeZV6SKAxxP4CBkNbrBWvOWjwC20OA1vK3_Ryft0ofDMJnl3UFpBM0nxOWt8n4NJdwszuMByV0kO09MeisxJ5c2DuVy4ns4H4ATT_8jinRqdQJd3YJreSt-_99yz_Oi3488G21VOOXL0w6kEBaVEciG4GqvlY41b9_3kAwpiRCIk29kaXjpn2TyK2n16siaX1PBN7ePHR3YV3anih9P3E7Rqp7UQ8WTguPu4GIYFaclaW66WLlYYLQe0Y18dLwwEblN7en8lIUGUO6IBZK7_rtYkgUKCBNoAniGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNj2xJyvk5QD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJlODEMozzFOLICQCYCwGhCyeh02IhReswugs_CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awd2aXRwZXJi0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzojFnK-TlAMVn8OLAR1sMhrhEAEYASAAEgKRqvD_BwE&num=1&cid=CAASwwHkaJ_U8F1330nJwIcS_nNN8p6K8frPrTmfkqHRdWrRzgJaceLmB2L2QMoH_tgJttOwqnKZ0Yfaj4VFAargZS1NE4I1EPyj1KoyzNERZ9bZ_zGMLmU7Msov3eHIngrgojfp06TEw-Zi9eRuYlEc5HYcbF754d1f0NgEmqu5eau0O0ikUx-F53dSoxOPYN-s-HS7zoyN_DO1ogTL1pffVSqkOV2LYEuTsHk1T_BxVwvvFr-H8IPI4MlaQnARgN578ez8oqc&sig=AOD64_0KHOUHY4YJfv_M4M7xUP6gDNOpaA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e171]: BytePlus
+            - button "My Ad Center" [ref=e174]
+          - link "Visit site" [ref=e181] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cq1ZnzSLyaY7uMp-Hr7wP7OToiA7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBKADT9D6S3hVuItC8K_ZClqAkSg1wVjzcNdKFIOg1AfNLEabHP8T-yTBQ_yJtB8rvQVdZLji9s_UE6fTgrNLerkdc8kz2LmIv-StstAFdPPyTOZjHspi-L88iy0xxuLFxeFW5lT-nHTTjfNSB4KUxXC7HjBhvxAeCLyCCu82aQUC-lD0gO2chrOyfKYmL_jJ6MrPByZzCEuXjQUzos2LY8_-Whu0W87LAagcbAP_jKpHnRmcydeQ8HkORa0nQGUb94DjWIkrirDeNvGse07IC9mxw6lTJpdcCxeZV6SKAxxP4CBkNbrBWvOWjwC20OA1vK3_Ryft0ofDMJnl3UFpBM0nxOWt8n4NJdwszuMByV0kO09MeisxJ5c2DuVy4ns4H4ATT_8jinRqdQJd3YJreSt-_99yz_Oi3488G21VOOXL0w6kEBaVEciG4GqvlY41b9_3kAwpiRCIk29kaXjpn2TyK2n16siaX1PBN7ePHR3YV3anih9P3E7Rqp7UQ8WTguPu4GIYFaclaW66WLlYYLQe0Y18dLwwEblN7en8lIUGUO6IBZK7_rtYkgUKCBNoAniGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNj2xJyvk5QD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJlODEMozzFOLICQCYCwGhCyeh02IhReswugs_CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awd2aXRwZXJi0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzojFnK-TlAMVn8OLAR1sMhrhEAEYASAAEgKRqvD_BwE&num=1&cid=CAASwwHkaJ_U8F1330nJwIcS_nNN8p6K8frPrTmfkqHRdWrRzgJaceLmB2L2QMoH_tgJttOwqnKZ0Yfaj4VFAargZS1NE4I1EPyj1KoyzNERZ9bZ_zGMLmU7Msov3eHIngrgojfp06TEw-Zi9eRuYlEc5HYcbF754d1f0NgEmqu5eau0O0ikUx-F53dSoxOPYN-s-HS7zoyN_DO1ogTL1pffVSqkOV2LYEuTsHk1T_BxVwvvFr-H8IPI4MlaQnARgN578ez8oqc&sig=AOD64_0KHOUHY4YJfv_M4M7xUP6gDNOpaA&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=e182]: Visit site
+        - link [ref=e188] [cursor=pointer]:
+          - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+        - link [ref=e191] [cursor=pointer]:
+          - /url: /watch?v=gNMMuoTvSBc
+        - link [ref=e194] [cursor=pointer]:
+          - /url: /watch?v=18DheCuVYRI

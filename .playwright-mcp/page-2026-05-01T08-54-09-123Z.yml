@@ -1,0 +1,819 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - 'link "Envato: Go unlimited!" [ref=e4] [cursor=pointer]':
+      - /url: https://elements.envato.com/pricing?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_headerbar_14APR2025
+      - generic [ref=e5]:
+        - strong [ref=e6]: "Envato:"
+        - text: Go unlimited!
+    - generic [ref=e7]:
+      - link "Mixkit - Free assets for your next video project" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+      - generic [ref=e15]:
+        - generic [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: Music
+          - generic:
+            - generic: Videos
+            - generic: Music
+            - generic: Sound Effects
+            - generic: Templates
+            - generic: Icons
+        - generic [ref=e18]:
+          - searchbox "Enter Search Text" [ref=e19]: Cinematic
+          - button "Clear" [ref=e20] [cursor=pointer]:
+            - img [ref=e21]
+      - button "Toggle Navigation" [ref=e24] [cursor=pointer]
+      - navigation "global-navigation":
+        - link "Video" [ref=e26] [cursor=pointer]:
+          - /url: /free-stock-video/
+        - link "Music" [ref=e27] [cursor=pointer]:
+          - /url: /free-stock-music/
+        - link "Sound Effects" [ref=e28] [cursor=pointer]:
+          - /url: /free-sound-effects/
+        - generic [ref=e29]:
+          - link "Templates" [ref=e30] [cursor=pointer]:
+            - /url: /free-video-templates/
+          - generic [ref=e31]:
+            - link "Premiere Pro" [ref=e32] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/
+            - link "After Effects" [ref=e33] [cursor=pointer]:
+              - /url: /free-after-effects-templates/
+            - link "Final Cut Pro" [ref=e34] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/
+            - link "DaVinci Resolve" [ref=e35] [cursor=pointer]:
+              - /url: /free-davinci-resolve-templates/
+        - link "Unlimited stock assets" [ref=e37] [cursor=pointer]:
+          - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_nav_switcher_31JULY2024
+    - navigation [ref=e39]:
+      - link "Genre" [ref=e41] [cursor=pointer]:
+        - /url: "#"
+      - link "Mood" [ref=e43] [cursor=pointer]:
+        - /url: "#"
+      - link "Instrument" [ref=e45] [cursor=pointer]:
+        - /url: "#"
+      - link "Tag" [ref=e47] [cursor=pointer]:
+        - /url: "#"
+  - main [ref=e48]:
+    - generic [ref=e49]:
+      - generic [ref=e50]:
+        - link "Mixkit" [ref=e51] [cursor=pointer]:
+          - /url: /
+        - link "Free Stock Music" [ref=e52] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/
+        - link "Tag" [ref=e53] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/tag/
+        - text: Cinematic
+      - generic [ref=e54]:
+        - heading "Free Cinematic Stock Music" [level=1] [ref=e55]
+        - generic [ref=e57]:
+          - text: 108 Free Cinematic Stock Music Tracks. All audio tracks are completely free and ready to be used in your next project under the
+          - link "Mixkit License" [ref=e58] [cursor=pointer]:
+            - /url: /license/#musicFree
+          - text: . Also check out
+          - link "Synth" [ref=e59] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/instrument/synth/
+          - text: ","
+          - link "Drums" [ref=e60] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/instrument/drums/
+          - text: ","
+          - link "Bass" [ref=e61] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/instrument/bass/
+          - text: ","
+          - link "Piano" [ref=e62] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/instrument/piano/
+          - text: ","
+          - link "Electric Guitar" [ref=e63] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/instrument/electric-guitar/
+          - text: ","
+          - link "Percussion" [ref=e64] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/instrument/percussion/
+          - text: and
+          - link "Positive" [ref=e65] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/mood/positive/
+          - text: .
+    - generic [ref=e66]:
+      - generic [ref=e69]:
+        - generic [ref=e71]:
+          - link "Envato Elements" [ref=e73] [cursor=pointer]:
+            - /url: https://elements.envato.com/audio/royalty-free-music/cinematic?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_music_tag_31JULY2024
+            - img "Envato Elements" [ref=e74]
+          - generic [ref=e75]:
+            - paragraph [ref=e76]: Quality artist-created musics
+            - paragraph [ref=e77]: Create with unlimited music, sound effects, stock video & more, all in one value-packed subscription.
+          - link "Start creating now" [ref=e79] [cursor=pointer]:
+            - /url: https://elements.envato.com/audio/royalty-free-music/cinematic?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_music_tag_31JULY2024
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - button "play" [ref=e89] [cursor=pointer]
+            - generic [ref=e91]:
+              - heading "Cinematic" [level=2] [ref=e92]
+              - link "View on Envato" [ref=e93] [cursor=pointer]:
+                - /url: https://elements.envato.com/cinematic-45B88BU?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_music_tag_31JULY2024
+          - generic [ref=e94]:
+            - button "play" [ref=e101] [cursor=pointer]
+            - generic [ref=e103]:
+              - heading "Dramatic Epical Trailer" [level=2] [ref=e104]
+              - link "View on Envato" [ref=e105] [cursor=pointer]:
+                - /url: https://elements.envato.com/dramatic-epical-trailer-YKYQ5B5?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_music_tag_31JULY2024
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e109]:
+            - button "play" [ref=e116] [cursor=pointer]
+            - generic [ref=e118]:
+              - heading "Silent Descent" [level=2] [ref=e119]
+              - paragraph [ref=e120]: by Eugenio Mininni
+              - generic [ref=e121]:
+                - generic [ref=e124]:
+                  - link "Film Score" [ref=e125] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Reflective" [ref=e126] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/reflective/
+                - generic [ref=e129]: 2:40
+                - button "Download Free Music" [ref=e131] [cursor=pointer]
+          - generic [ref=e133]:
+            - button "play" [ref=e140] [cursor=pointer]
+            - generic [ref=e142]:
+              - heading "Fright Night" [level=2] [ref=e143]
+              - paragraph [ref=e144]: by Michael Ramir C.
+              - generic [ref=e145]:
+                - generic [ref=e148]:
+                  - link "Film Score" [ref=e149] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Dramatic" [ref=e150] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/dramatic/
+                - generic [ref=e153]: 1:41
+                - button "Download Free Music" [ref=e155] [cursor=pointer]
+          - generic [ref=e157]:
+            - button "play" [ref=e164] [cursor=pointer]
+            - generic [ref=e166]:
+              - heading "Piano Horror" [level=2] [ref=e167]
+              - paragraph [ref=e168]: by Francisco Alvear
+              - generic [ref=e169]:
+                - generic [ref=e172]:
+                  - link "Drone Music" [ref=e173] [cursor=pointer]:
+                    - /url: /free-stock-music/drone-music/
+                  - link "Film Score" [ref=e174] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                - generic [ref=e177]: 1:53
+                - button "Download Free Music" [ref=e179] [cursor=pointer]
+          - generic [ref=e181]:
+            - button "play" [ref=e188] [cursor=pointer]
+            - generic [ref=e190]:
+              - heading "Epical Drums 01" [level=2] [ref=e191]
+              - paragraph [ref=e192]: by Grigoriy Nuzhny
+              - generic [ref=e193]:
+                - link "Sound Elements" [ref=e197] [cursor=pointer]:
+                  - /url: /free-stock-music/sound-elements/
+                - generic [ref=e200]: 1:46
+                - button "Download Free Music" [ref=e202] [cursor=pointer]
+          - generic [ref=e204]:
+            - button "play" [ref=e211] [cursor=pointer]
+            - generic [ref=e213]:
+              - heading "Games Worldbeat" [level=2] [ref=e214]
+              - paragraph [ref=e215]: by Bernardo R.
+              - generic [ref=e216]:
+                - generic [ref=e219]:
+                  - link "World" [ref=e220] [cursor=pointer]:
+                    - /url: /free-stock-music/world/
+                  - link "Medieval" [ref=e221] [cursor=pointer]:
+                    - /url: /free-stock-music/medieval/
+                - generic [ref=e224]: 1:47
+                - button "Download Free Music" [ref=e226] [cursor=pointer]
+          - generic [ref=e228]:
+            - button "play" [ref=e235] [cursor=pointer]
+            - generic [ref=e237]:
+              - heading "Echoes" [level=2] [ref=e238]
+              - paragraph [ref=e239]: by Andrew Ev
+              - generic [ref=e240]:
+                - link "Atmospheres" [ref=e244] [cursor=pointer]:
+                  - /url: /free-stock-music/atmospheres/
+                - generic [ref=e247]: 3:46
+                - button "Download Free Music" [ref=e249] [cursor=pointer]
+          - generic [ref=e251]:
+            - button "play" [ref=e258] [cursor=pointer]
+            - generic [ref=e260]:
+              - heading "Vastness" [level=2] [ref=e261]
+              - paragraph [ref=e262]: by Andrew Ev
+              - generic [ref=e263]:
+                - generic [ref=e266]:
+                  - link "Ambient" [ref=e267] [cursor=pointer]:
+                    - /url: /free-stock-music/ambient/
+                  - link "Electronica" [ref=e268] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                - generic [ref=e271]: 3:50
+                - button "Download Free Music" [ref=e273] [cursor=pointer]
+          - generic [ref=e275]:
+            - button "play" [ref=e282] [cursor=pointer]
+            - generic [ref=e284]:
+              - heading "Romantic 05" [level=2] [ref=e285]
+              - paragraph [ref=e286]: by Lily J
+              - generic [ref=e287]:
+                - link "Underscore" [ref=e291] [cursor=pointer]:
+                  - /url: /free-stock-music/underscore/
+                - generic [ref=e294]: 1:52
+                - button "Download Free Music" [ref=e296] [cursor=pointer]
+          - generic [ref=e298]:
+            - button "play" [ref=e305] [cursor=pointer]
+            - generic [ref=e307]:
+              - heading "Relaxing in Nature" [level=2] [ref=e308]
+              - paragraph [ref=e309]: by Diego Nava
+              - generic [ref=e310]:
+                - generic [ref=e313]:
+                  - link "Electronica" [ref=e314] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                  - link "Ethereal" [ref=e315] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/ethereal/
+                - generic [ref=e318]: 1:37
+                - button "Download Free Music" [ref=e320] [cursor=pointer]
+          - generic [ref=e322]:
+            - button "play" [ref=e329] [cursor=pointer]
+            - generic [ref=e331]:
+              - heading "Epical Drums 05" [level=2] [ref=e332]
+              - paragraph [ref=e333]: by Grigoriy Nuzhny
+              - generic [ref=e334]:
+                - link "Orchestral Hybrid" [ref=e338] [cursor=pointer]:
+                  - /url: /free-stock-music/orchestral-hybrid/
+                - generic [ref=e341]: 1:42
+                - button "Download Free Music" [ref=e343] [cursor=pointer]
+          - generic [ref=e345]:
+            - button "play" [ref=e352] [cursor=pointer]
+            - generic [ref=e354]:
+              - heading "Forest Walk" [level=2] [ref=e355]
+              - paragraph [ref=e356]: by Eugenio Mininni
+              - generic [ref=e357]:
+                - generic [ref=e360]:
+                  - link "Electronica" [ref=e361] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                  - link "Ambient" [ref=e362] [cursor=pointer]:
+                    - /url: /free-stock-music/ambient/
+                - generic [ref=e365]: 2:54
+                - button "Download Free Music" [active] [ref=e367] [cursor=pointer]
+          - generic [ref=e369]:
+            - button "play" [ref=e376] [cursor=pointer]
+            - generic [ref=e378]:
+              - heading "Epical Drums 02" [level=2] [ref=e379]
+              - paragraph [ref=e380]: by Grigoriy Nuzhny
+              - generic [ref=e381]:
+                - link "Percussion Trailer" [ref=e385] [cursor=pointer]:
+                  - /url: /free-stock-music/percussion-trailer/
+                - generic [ref=e388]: 2:03
+                - button "Download Free Music" [ref=e390] [cursor=pointer]
+          - generic [ref=e392]:
+            - button "play" [ref=e399] [cursor=pointer]
+            - generic [ref=e401]:
+              - heading "Tapis" [level=2] [ref=e402]
+              - paragraph [ref=e403]: by Eugenio Mininni
+              - generic [ref=e404]:
+                - generic [ref=e407]:
+                  - link "Film Score" [ref=e408] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Mysterious" [ref=e409] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/mysterious/
+                - generic [ref=e412]: 2:43
+                - button "Download Free Music" [ref=e414] [cursor=pointer]
+          - generic [ref=e416]:
+            - button "play" [ref=e423] [cursor=pointer]
+            - generic [ref=e425]:
+              - heading "Romantic Vacation" [level=2] [ref=e426]
+              - paragraph [ref=e427]: by Ahjay Stelino
+              - generic [ref=e428]:
+                - generic [ref=e431]:
+                  - link "Jazz Blues" [ref=e432] [cursor=pointer]:
+                    - /url: /free-stock-music/jazz-blues/
+                  - link "Jazz" [ref=e433] [cursor=pointer]:
+                    - /url: /free-stock-music/jazz/
+                - generic [ref=e436]: 1:52
+                - button "Download Free Music" [ref=e438] [cursor=pointer]
+          - generic [ref=e440]:
+            - button "play" [ref=e447] [cursor=pointer]
+            - generic [ref=e449]:
+              - heading "Cyberpunk City" [level=2] [ref=e450]
+              - paragraph [ref=e451]: by Alejandro Magaña (A. M.)
+              - generic [ref=e452]:
+                - generic [ref=e455]:
+                  - link "Ambient" [ref=e456] [cursor=pointer]:
+                    - /url: /free-stock-music/ambient/
+                  - link "Electronica" [ref=e457] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                - generic [ref=e460]: 1:40
+                - button "Download Free Music" [ref=e462] [cursor=pointer]
+          - generic [ref=e464]:
+            - button "play" [ref=e471] [cursor=pointer]
+            - generic [ref=e473]:
+              - heading "Summer Fun" [level=2] [ref=e474]
+              - paragraph [ref=e475]: by Ahjay Stelino
+              - generic [ref=e476]:
+                - generic [ref=e479]:
+                  - link "Folk Pop" [ref=e480] [cursor=pointer]:
+                    - /url: /free-stock-music/folk-pop/
+                  - link "Relaxed" [ref=e481] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/relaxed/
+                - generic [ref=e484]: 2:19
+                - button "Download Free Music" [ref=e486] [cursor=pointer]
+          - generic [ref=e488]:
+            - button "play" [ref=e495] [cursor=pointer]
+            - generic [ref=e497]:
+              - heading "PlaceIt World 01" [level=2] [ref=e498]
+              - paragraph [ref=e499]: by Lily J
+              - generic [ref=e500]:
+                - link "Corporate Music" [ref=e504] [cursor=pointer]:
+                  - /url: /free-stock-music/corporate-music/
+                - generic [ref=e507]: 1:36
+                - button "Download Free Music" [ref=e509] [cursor=pointer]
+          - generic [ref=e511]:
+            - button "play" [ref=e518] [cursor=pointer]
+            - generic [ref=e520]:
+              - heading "Sicilian Coffee" [level=2] [ref=e521]
+              - paragraph [ref=e522]: by Eugenio Mininni
+              - generic [ref=e523]:
+                - generic [ref=e526]:
+                  - link "Film Score" [ref=e527] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Mysterious" [ref=e528] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/mysterious/
+                - generic [ref=e531]: 2:33
+                - button "Download Free Music" [ref=e533] [cursor=pointer]
+          - generic [ref=e535]:
+            - button "play" [ref=e542] [cursor=pointer]
+            - generic [ref=e544]:
+              - heading "Dark Shadows" [level=2] [ref=e545]
+              - paragraph [ref=e546]: by Ahjay Stelino
+              - generic [ref=e547]:
+                - generic [ref=e550]:
+                  - link "Traditional" [ref=e551] [cursor=pointer]:
+                    - /url: /free-stock-music/traditional/
+                  - link "Eerie" [ref=e552] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/eerie/
+                - generic [ref=e555]: 1:46
+                - button "Download Free Music" [ref=e557] [cursor=pointer]
+          - generic [ref=e559]:
+            - button "play" [ref=e566] [cursor=pointer]
+            - generic [ref=e568]:
+              - heading "River Flow" [level=2] [ref=e569]
+              - paragraph [ref=e570]: by Eugenio Mininni
+              - generic [ref=e571]:
+                - generic [ref=e574]:
+                  - link "Electronica" [ref=e575] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                  - link "Disturbing" [ref=e576] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/disturbing/
+                - generic [ref=e579]: 4:30
+                - button "Download Free Music" [ref=e581] [cursor=pointer]
+          - generic [ref=e583]:
+            - button "play" [ref=e590] [cursor=pointer]
+            - generic [ref=e592]:
+              - heading "Epical Drums 03" [level=2] [ref=e593]
+              - paragraph [ref=e594]: by Grigoriy Nuzhny
+              - generic [ref=e595]:
+                - link "Orchestral Hybrid" [ref=e599] [cursor=pointer]:
+                  - /url: /free-stock-music/orchestral-hybrid/
+                - generic [ref=e602]: 3:03
+                - button "Download Free Music" [ref=e604] [cursor=pointer]
+          - generic [ref=e606]:
+            - button "play" [ref=e613] [cursor=pointer]
+            - generic [ref=e615]:
+              - heading "Epical Drums 04" [level=2] [ref=e616]
+              - paragraph [ref=e617]: by Grigoriy Nuzhny
+              - generic [ref=e618]:
+                - link "Orchestral Hybrid" [ref=e622] [cursor=pointer]:
+                  - /url: /free-stock-music/orchestral-hybrid/
+                - generic [ref=e625]: 2:01
+                - button "Download Free Music" [ref=e627] [cursor=pointer]
+          - generic [ref=e629]:
+            - button "play" [ref=e636] [cursor=pointer]
+            - generic [ref=e638]:
+              - heading "Follow Me Home" [level=2] [ref=e639]
+              - paragraph [ref=e640]: by Arulo
+              - generic [ref=e641]:
+                - generic [ref=e644]:
+                  - link "Pop" [ref=e645] [cursor=pointer]:
+                    - /url: /free-stock-music/pop/
+                  - link "Uplifting" [ref=e646] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/uplifting/
+                - generic [ref=e649]: 1:14
+                - button "Download Free Music" [ref=e651] [cursor=pointer]
+          - generic [ref=e653]:
+            - button "play" [ref=e660] [cursor=pointer]
+            - generic [ref=e662]:
+              - heading "I Won't surrender" [level=2] [ref=e663]
+              - paragraph [ref=e664]: by Michael Ramir C.
+              - generic [ref=e665]:
+                - generic [ref=e668]:
+                  - link "Film Score" [ref=e669] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Trailer Music" [ref=e670] [cursor=pointer]:
+                    - /url: /free-stock-music/trailer-music/
+                - generic [ref=e673]: 1:54
+                - button "Download Free Music" [ref=e675] [cursor=pointer]
+          - generic [ref=e677]:
+            - button "play" [ref=e684] [cursor=pointer]
+            - generic [ref=e686]:
+              - heading "Romantic Getaway" [level=2] [ref=e687]
+              - paragraph [ref=e688]: by Ahjay Stelino
+              - generic [ref=e689]:
+                - generic [ref=e692]:
+                  - link "Classical" [ref=e693] [cursor=pointer]:
+                    - /url: /free-stock-music/classical/
+                  - link "Emotional" [ref=e694] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/emotional/
+                - generic [ref=e697]: 1:44
+                - button "Download Free Music" [ref=e699] [cursor=pointer]
+          - generic [ref=e701]:
+            - button "play" [ref=e708] [cursor=pointer]
+            - generic [ref=e710]:
+              - heading "Rising Sun" [level=2] [ref=e711]
+              - paragraph [ref=e712]: by Diego Nava
+              - generic [ref=e713]:
+                - generic [ref=e716]:
+                  - link "EDM" [ref=e717] [cursor=pointer]:
+                    - /url: /free-stock-music/edm/
+                  - link "Electropop" [ref=e718] [cursor=pointer]:
+                    - /url: /free-stock-music/electropop/
+                - generic [ref=e721]: 1:32
+                - button "Download Free Music" [ref=e723] [cursor=pointer]
+          - generic [ref=e725]:
+            - button "play" [ref=e732] [cursor=pointer]
+            - generic [ref=e734]:
+              - heading "Autofahren" [level=2] [ref=e735]
+              - paragraph [ref=e736]: by Mauro Urbina
+              - generic [ref=e737]:
+                - generic [ref=e740]:
+                  - link "Deep House" [ref=e741] [cursor=pointer]:
+                    - /url: /free-stock-music/deep-house/
+                  - link "Hypnotic" [ref=e742] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/hypnotic/
+                - generic [ref=e745]: 4:44
+                - button "Download Free Music" [ref=e747] [cursor=pointer]
+          - generic [ref=e749]:
+            - button "play" [ref=e756] [cursor=pointer]
+            - generic [ref=e758]:
+              - heading "The Journey" [level=2] [ref=e759]
+              - paragraph [ref=e760]: by Ahjay Stelino
+              - generic [ref=e761]:
+                - generic [ref=e764]:
+                  - link "Film Score" [ref=e765] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Reflective" [ref=e766] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/reflective/
+                - generic [ref=e769]: 1:48
+                - button "Download Free Music" [ref=e771] [cursor=pointer]
+          - generic [ref=e773]:
+            - button "play" [ref=e780] [cursor=pointer]
+            - generic [ref=e782]:
+              - heading "Drawing the Sky" [level=2] [ref=e783]
+              - paragraph [ref=e784]: by Eugenio Mininni
+              - generic [ref=e785]:
+                - generic [ref=e788]:
+                  - link "Orchestral Pop" [ref=e789] [cursor=pointer]:
+                    - /url: /free-stock-music/orchestral-pop/
+                  - link "Dramatic" [ref=e790] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/dramatic/
+                - generic [ref=e793]: 3:27
+                - button "Download Free Music" [ref=e795] [cursor=pointer]
+          - generic [ref=e797]:
+            - button "play" [ref=e804] [cursor=pointer]
+            - generic [ref=e806]:
+              - heading "Wedding Song 03" [level=2] [ref=e807]
+              - paragraph [ref=e808]: by Arulo
+              - generic [ref=e809]:
+                - generic [ref=e812]:
+                  - link "Chillout" [ref=e813] [cursor=pointer]:
+                    - /url: /free-stock-music/chillout/
+                  - link "Hip Hop" [ref=e814] [cursor=pointer]:
+                    - /url: /free-stock-music/hip-hop/
+                - generic [ref=e817]: 1:36
+                - button "Download Free Music" [ref=e819] [cursor=pointer]
+          - generic [ref=e821]:
+            - button "play" [ref=e828] [cursor=pointer]
+            - generic [ref=e830]:
+              - heading "Romantic 04" [level=2] [ref=e831]
+              - paragraph [ref=e832]: by Lily J
+              - generic [ref=e833]:
+                - generic [ref=e836]:
+                  - link "Ambient" [ref=e837] [cursor=pointer]:
+                    - /url: /free-stock-music/ambient/
+                  - link "Atmospheric" [ref=e838] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/atmospheric/
+                - generic [ref=e841]: 2:15
+                - button "Download Free Music" [ref=e843] [cursor=pointer]
+          - generic [ref=e845]:
+            - button "play" [ref=e852] [cursor=pointer]
+            - generic [ref=e854]:
+              - heading "Wedding Music" [level=2] [ref=e855]
+              - paragraph [ref=e856]: by Arulo
+              - generic [ref=e857]:
+                - generic [ref=e860]:
+                  - link "Orchestral Pop" [ref=e861] [cursor=pointer]:
+                    - /url: /free-stock-music/orchestral-pop/
+                  - link "Uplifting" [ref=e862] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/uplifting/
+                - generic [ref=e865]: 2:09
+                - button "Download Free Music" [ref=e867] [cursor=pointer]
+          - generic [ref=e869]:
+            - button "play" [ref=e876] [cursor=pointer]
+            - generic [ref=e878]:
+              - heading "Lo-Fi 03" [level=2] [ref=e879]
+              - paragraph [ref=e880]: by Lily J
+              - generic [ref=e881]:
+                - generic [ref=e884]:
+                  - link "Lounge" [ref=e885] [cursor=pointer]:
+                    - /url: /free-stock-music/lounge/
+                  - link "Jazz" [ref=e886] [cursor=pointer]:
+                    - /url: /free-stock-music/jazz/
+                - generic [ref=e889]: 1:53
+                - button "Download Free Music" [ref=e891] [cursor=pointer]
+          - generic [ref=e893]:
+            - button "play" [ref=e900] [cursor=pointer]
+            - generic [ref=e902]:
+              - heading "Jungle Voices" [level=2] [ref=e903]
+              - paragraph [ref=e904]: by Diego Nava
+              - generic [ref=e905]:
+                - generic [ref=e908]:
+                  - link "Electronic" [ref=e909] [cursor=pointer]:
+                    - /url: /free-stock-music/electronic/
+                  - link "Electronica" [ref=e910] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                - generic [ref=e913]: 1:38
+                - button "Download Free Music" [ref=e915] [cursor=pointer]
+          - generic [ref=e917]:
+            - button "play" [ref=e924] [cursor=pointer]
+            - generic [ref=e926]:
+              - heading "Moon Walk" [level=2] [ref=e927]
+              - paragraph [ref=e928]: by Eugenio Mininni
+              - generic [ref=e929]:
+                - generic [ref=e932]:
+                  - link "Electronica" [ref=e933] [cursor=pointer]:
+                    - /url: /free-stock-music/electronica/
+                  - link "Disturbing" [ref=e934] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/disturbing/
+                - generic [ref=e937]: 3:25
+                - button "Download Free Music" [ref=e939] [cursor=pointer]
+          - generic [ref=e941]:
+            - button "play" [ref=e948] [cursor=pointer]
+            - generic [ref=e950]:
+              - heading "Vampires in the City" [level=2] [ref=e951]
+              - paragraph [ref=e952]: by Michael Ramir C.
+              - generic [ref=e953]:
+                - generic [ref=e956]:
+                  - link "Film Score" [ref=e957] [cursor=pointer]:
+                    - /url: /free-stock-music/film-score/
+                  - link "Mysterious" [ref=e958] [cursor=pointer]:
+                    - /url: /free-stock-music/mood/mysterious/
+                - generic [ref=e961]: 1:40
+                - button "Download Free Music" [ref=e963] [cursor=pointer]
+        - generic [ref=e964]:
+          - link "Go to page 1" [ref=e965] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/tag/cinematic/
+            - text: "1"
+          - link "Go to page 2" [ref=e966] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/tag/cinematic/?page=2
+            - text: "2"
+          - link "Go to page 3" [ref=e967] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/tag/cinematic/?page=3
+            - text: "3"
+          - link "Go to next page" [ref=e968] [cursor=pointer]:
+            - /url: https://mixkit.co/free-stock-music/tag/cinematic/?page=2
+            - img [ref=e969]
+    - generic [ref=e971]:
+      - generic [ref=e972]: Related Music Categories
+      - generic [ref=e974]:
+        - link "Synth" [ref=e975] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/instrument/synth/
+        - link "Drums" [ref=e976] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/instrument/drums/
+        - link "Bass" [ref=e977] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/instrument/bass/
+        - link "Piano" [ref=e978] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/instrument/piano/
+        - link "Electric Guitar" [ref=e979] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/instrument/electric-guitar/
+        - link "Percussion" [ref=e980] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/instrument/percussion/
+        - link "Positive" [ref=e981] [cursor=pointer]:
+          - /url: https://mixkit.co/free-stock-music/mood/positive/
+    - generic [ref=e983]:
+      - link "Envato Elements" [ref=e984] [cursor=pointer]:
+        - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_banner_31JULY2024
+        - img "Envato Elements" [ref=e985]
+      - paragraph [ref=e986]: Unlimited creative stock assets, all in one place.
+      - list [ref=e987]:
+        - listitem [ref=e988]: Millions of premium assets
+        - listitem [ref=e989]: Lifetime commercial licence
+      - link "Start creating now" [ref=e990] [cursor=pointer]:
+        - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_banner_31JULY2024
+  - generic "Modal" [ref=e1127]:
+    - generic [ref=e1128]:
+      - button "Close" [ref=e1129] [cursor=pointer]
+      - generic [ref=e1130]:
+        - heading "Your download has started" [level=3] [ref=e1131]
+        - img "Mixkit icon." [ref=e1133]
+        - generic [ref=e1134]:
+          - link "Envato Elements" [ref=e1135] [cursor=pointer]:
+            - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_post_download_modal_music_31JULY2024
+            - img "Envato Elements" [ref=e1136]
+          - paragraph [ref=e1137]: The ultimate creative subscription
+          - generic [ref=e1138]:
+            - list [ref=e1139]:
+              - listitem [ref=e1140]: Unlimited stock assets
+              - listitem [ref=e1141]: Millions of premium assets
+              - listitem [ref=e1142]: Lifetime commercial licence
+            - link "Start creating now" [ref=e1144] [cursor=pointer]:
+              - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_post_download_modal_music_31JULY2024
+  - contentinfo [ref=e991]:
+    - generic [ref=e992]:
+      - generic [ref=e993]:
+        - generic [ref=e994]:
+          - link "Videos" [ref=e996] [cursor=pointer]:
+            - /url: /free-stock-video/
+          - generic [ref=e997]:
+            - link "4K Videos" [ref=e998] [cursor=pointer]:
+              - /url: /free-stock-video/discover/?resolution=4k
+            - link "Nature" [ref=e999] [cursor=pointer]:
+              - /url: /free-stock-video/nature/
+            - link "Lifestyle" [ref=e1000] [cursor=pointer]:
+              - /url: /free-stock-video/lifestyle/
+            - link "Business" [ref=e1001] [cursor=pointer]:
+              - /url: /free-stock-video/business/
+            - link "Animals" [ref=e1002] [cursor=pointer]:
+              - /url: /free-stock-video/animal/
+            - link "Zoom Backgrounds" [ref=e1003] [cursor=pointer]:
+              - /url: /free-stock-video/zoom-virtual-background/
+            - link "Vertical" [ref=e1004] [cursor=pointer]:
+              - /url: /free-vertical-videos/
+            - link "Backgrounds" [ref=e1005] [cursor=pointer]:
+              - /url: /free-video-backgrounds/
+        - generic [ref=e1006]:
+          - link "Music" [ref=e1008] [cursor=pointer]:
+            - /url: /free-stock-music/
+          - generic [ref=e1009]:
+            - link "Ambient" [ref=e1010] [cursor=pointer]:
+              - /url: /free-stock-music/ambient/
+            - link "Drum & Bass" [ref=e1011] [cursor=pointer]:
+              - /url: /free-stock-music/drum-and-bass/
+            - link "Funk" [ref=e1012] [cursor=pointer]:
+              - /url: /free-stock-music/funk/
+            - link "Hip-Hop" [ref=e1013] [cursor=pointer]:
+              - /url: /free-stock-music/hip-hop/
+            - link "Jazz" [ref=e1014] [cursor=pointer]:
+              - /url: /free-stock-music/jazz/
+        - generic [ref=e1015]:
+          - link "Sound Effects" [ref=e1017] [cursor=pointer]:
+            - /url: /free-sound-effects/
+          - generic [ref=e1018]:
+            - link "Animals" [ref=e1019] [cursor=pointer]:
+              - /url: /free-sound-effects/animals/
+            - link "Game" [ref=e1020] [cursor=pointer]:
+              - /url: /free-sound-effects/game/
+            - link "Human" [ref=e1021] [cursor=pointer]:
+              - /url: /free-sound-effects/human/
+            - link "Instrument" [ref=e1022] [cursor=pointer]:
+              - /url: /free-sound-effects/instrument/
+            - link "Lifestyle" [ref=e1023] [cursor=pointer]:
+              - /url: /free-sound-effects/lifestyle/
+            - link "Nature" [ref=e1024] [cursor=pointer]:
+              - /url: /free-sound-effects/nature/
+            - link "Technology" [ref=e1025] [cursor=pointer]:
+              - /url: /free-sound-effects/technology/
+            - link "Transition" [ref=e1026] [cursor=pointer]:
+              - /url: /free-sound-effects/transition/
+            - link "Warfare" [ref=e1027] [cursor=pointer]:
+              - /url: /free-sound-effects/warfare/
+        - generic [ref=e1028]:
+          - link "Premiere Pro" [ref=e1030] [cursor=pointer]:
+            - /url: /free-premiere-pro-templates
+          - generic [ref=e1031]:
+            - link "Subscribe" [ref=e1032] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/subscribe/
+            - link "Instagram" [ref=e1033] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/instagram/
+            - link "Logo" [ref=e1034] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/logo/
+            - link "Lower-thirds" [ref=e1035] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/lower-thirds/
+            - link "Opener" [ref=e1036] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/openers/
+            - link "Slideshows" [ref=e1037] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/slideshow/
+            - link "Titles" [ref=e1038] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/titles/
+            - link "Transitions" [ref=e1039] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/transitions/
+            - link "YouTube" [ref=e1040] [cursor=pointer]:
+              - /url: /free-premiere-pro-templates/youtube/
+        - generic [ref=e1041]:
+          - link "After Effects" [ref=e1043] [cursor=pointer]:
+            - /url: /free-after-effects-templates
+          - generic [ref=e1044]:
+            - link "Audio visualizer" [ref=e1045] [cursor=pointer]:
+              - /url: /free-after-effects-templates/audio-visualizer/
+            - link "Call-outs" [ref=e1046] [cursor=pointer]:
+              - /url: /free-after-effects-templates/call-outs/
+            - link "Instagram" [ref=e1047] [cursor=pointer]:
+              - /url: /free-after-effects-templates/instagram/
+            - link "Lower-thirds" [ref=e1048] [cursor=pointer]:
+              - /url: /free-after-effects-templates/lower-thirds/
+            - link "Opener" [ref=e1049] [cursor=pointer]:
+              - /url: /free-after-effects-templates/openers/
+            - link "Slideshows" [ref=e1050] [cursor=pointer]:
+              - /url: /free-after-effects-templates/slideshow/
+            - link "Titles" [ref=e1051] [cursor=pointer]:
+              - /url: /free-after-effects-templates/title/
+            - link "Transitions" [ref=e1052] [cursor=pointer]:
+              - /url: /free-after-effects-templates/transitions/
+            - link "YouTube" [ref=e1053] [cursor=pointer]:
+              - /url: /free-after-effects-templates/youtube/
+        - generic [ref=e1054]:
+          - link "Final Cut Pro" [ref=e1056] [cursor=pointer]:
+            - /url: /free-final-cut-pro-templates
+          - generic [ref=e1057]:
+            - link "Instagram" [ref=e1058] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/instagram/
+            - link "Logo" [ref=e1059] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/logo/
+            - link "Lower-thirds" [ref=e1060] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/lower-thirds/
+            - link "Opener" [ref=e1061] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/openers/
+            - link "Promotion" [ref=e1062] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/promotion/
+            - link "Slideshows" [ref=e1063] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/slideshow/
+            - link "Titles" [ref=e1064] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/title/
+            - link "Transitions" [ref=e1065] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/transitions/
+            - link "YouTube" [ref=e1066] [cursor=pointer]:
+              - /url: /free-final-cut-pro-templates/youtube/
+        - generic [ref=e1067]:
+          - link "DaVinci Resolve" [ref=e1069] [cursor=pointer]:
+            - /url: /free-davinci-resolve-templates
+          - generic [ref=e1070]:
+            - link "Call-outs" [ref=e1071] [cursor=pointer]:
+              - /url: /free-davinci-resolve-templates/call-outs/
+            - link "Instagram" [ref=e1072] [cursor=pointer]:
+              - /url: /free-davinci-resolve-templates/instagram/
+            - link "Lower-thirds" [ref=e1073] [cursor=pointer]:
+              - /url: /free-davinci-resolve-templates/lower-thirds/
+            - link "Titles" [ref=e1074] [cursor=pointer]:
+              - /url: /free-davinci-resolve-templates/titles/
+            - link "YouTube" [ref=e1075] [cursor=pointer]:
+              - /url: /free-davinci-resolve-templates/youtube/
+        - generic [ref=e1076]:
+          - link "Mixkit" [ref=e1078] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e1079]:
+            - link "License" [ref=e1080] [cursor=pointer]:
+              - /url: /license/
+            - link "Terms" [ref=e1081] [cursor=pointer]:
+              - /url: /terms/
+            - link "Sitemap" [ref=e1082] [cursor=pointer]:
+              - /url: /sitemap/
+            - link "Privacy" [ref=e1083] [cursor=pointer]:
+              - /url: https://envato.com/privacy/
+            - link "Cookies" [ref=e1084] [cursor=pointer]:
+              - /url: https://www.envato.com/cookies/
+            - link "Cookie Settings" [ref=e1085] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - link "Do not sell or share my personal information" [ref=e1086] [cursor=pointer]:
+              - /url: https://www.envato.com/privacy/my-personal-information/
+            - link "Hey AI, learn about Mixkit" [ref=e1087] [cursor=pointer]:
+              - /url: /llm-info/
+            - link "Art" [ref=e1088] [cursor=pointer]:
+              - /url: /free-stock-art/
+      - generic [ref=e1089]:
+        - link "Mixkit home." [ref=e1091] [cursor=pointer]:
+          - /url: /
+          - img "Mixkit home." [ref=e1092]
+        - paragraph [ref=e1094]:
+          - text: Copyright © 2026. All rights reserved - Made by
+          - link "Envato" [ref=e1095] [cursor=pointer]:
+            - /url: https://elements.envato.com/?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_footer_31JULY2024
+        - generic [ref=e1096]:
+          - link "Twitter" [ref=e1097] [cursor=pointer]:
+            - /url: https://twitter.com/mixkit_co
+            - img "Twitter" [ref=e1098]
+          - link "YouTube" [ref=e1100] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCtmuFBbkECnsHJujGDcE9SA
+            - img "YouTube" [ref=e1101]
+          - link "Instagram" [ref=e1104] [cursor=pointer]:
+            - /url: https://instagram.com/mixkit_co
+            - img "Instagram" [ref=e1105]
+          - link "TikTok" [ref=e1107] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@mixkit.co
+            - img "TikTok" [ref=e1108]
+  - generic [ref=e1111]:
+    - link "Envato Elements The ultimate creative subscription Unlimited stock assets Millions of premium assets Lifetime commercial licence" [ref=e1112] [cursor=pointer]:
+      - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_global_promo_31JULY2024
+      - img "Envato Elements" [ref=e1113]
+      - generic [ref=e1114]:
+        - paragraph [ref=e1115]: The ultimate creative subscription
+        - list [ref=e1117]:
+          - listitem [ref=e1118]: Unlimited stock assets
+          - listitem [ref=e1119]: Millions of premium assets
+          - listitem [ref=e1120]: Lifetime commercial licence
+    - link "Start creating now" [ref=e1121] [cursor=pointer]:
+      - /url: https://elements.envato.com/all-items?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_global_promo_31JULY2024
+    - button "Close" [ref=e1122] [cursor=pointer]:
+      - img [ref=e1123]
+  - iframe [ref=e1110]:
+    

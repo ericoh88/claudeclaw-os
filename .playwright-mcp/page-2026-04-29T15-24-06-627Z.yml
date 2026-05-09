@@ -1,0 +1,98 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - link "Kome Logo" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - img "Kome Logo" [ref=e5]
+    - generic [ref=e6]:
+      - link "Join" [ref=e7] [cursor=pointer]:
+        - /url: /auth/signup
+      - button "Toggle menu" [ref=e8] [cursor=pointer]:
+        - img "Open menu" [ref=e9]
+  - generic [ref=e10]:
+    - heading "YouTube Transcript Generator" [level=1] [ref=e11]
+    - paragraph [ref=e12]: Generate YouTube transcripts for free with Kome. Get the full text of any YouTube video in seconds.
+    - generic [ref=e14]:
+      - textbox [disabled] [ref=e15]:
+        - /placeholder: Enter a YouTube URL
+      - button [disabled] [ref=e16]: Generate
+  - generic [ref=e17]:
+    - heading "Why Use YouTube Transcript Generator?" [level=2] [ref=e18]
+    - article [ref=e19]:
+      - heading "Fast and Accurate" [level=3] [ref=e20]
+      - paragraph [ref=e21]: "Transcripts: Experience the power of technology as our advanced AI algorithms generate precise and reliable transcripts in mere seconds. Trust Kome to deliver text that reflects the content of your videos with remarkable accuracy."
+    - article [ref=e22]:
+      - heading "Free of Charge" [level=3] [ref=e23]
+      - paragraph [ref=e24]: We believe in democratizing accessibility to essential tools for content creators. Our YouTube Transcript Generator is entirely free to use with some limits.
+    - article [ref=e25]:
+      - heading "Multilanguage Support" [level=3] [ref=e26]
+      - paragraph [ref=e27]: Kome's YouTube Transcript Generator supports over 120 languages, including English, Spanish, French, German, Italian, Japanese, Korean, Chinese, and more. We are continually expanding our language support to ensure that our users can access our services in their native tongue.
+    - heading "How It Works" [level=2] [ref=e28]
+    - article [ref=e29]:
+      - paragraph [ref=e30]: "Using Kome's YouTube Transcript Generator is a breeze. Follow these simple steps to get your transcript in no time:"
+      - list [ref=e31]:
+        - listitem [ref=e32]: "Paste Video URL: Copy and paste the URL of the YouTube video you want to transcribe into our easy-to-use interface."
+        - listitem [ref=e33]: "Click Generate Transcript: Hit the button, and we will swiftly process the video to produce a text-based transcript."
+        - listitem [ref=e34]: "Copy and Use: With just a click, the transcript will be copied to your clipboard."
+  - generic [ref=e35]:
+    - heading "Summarize YouTube Videos" [level=2] [ref=e36]
+    - paragraph [ref=e37]:
+      - text: Extract key information from any YouTube video with Kome's efficient video summarization tool. Helps you to
+      - strong [ref=e38]: save 25 hours per month!
+    - generic [ref=e39]:
+      - link "Loading..." [ref=e40] [cursor=pointer]:
+        - /url: https://chrome.google.com/webstore/detail/kome-ai/hidkfmpdopckdjpogoencckkbngdfggf
+        - img "Loading..." [ref=e41]
+      - generic [ref=e42]:
+        - img "Google Chrome Logo" [ref=e43]
+        - 'img "Rating score: 5/5" [ref=e44]'
+  - generic [ref=e45]:
+    - generic [ref=e46]:
+      - link "Kome Logo" [ref=e47] [cursor=pointer]:
+        - /url: /
+        - img "Kome Logo" [ref=e48]
+      - generic [ref=e49]: © 2025 Kome. All rights reserved.
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]: Tools
+        - link "AI-Powered Summarizer" [ref=e53] [cursor=pointer]:
+          - /url: /summarizer
+        - link "Bookmark Manager" [ref=e54] [cursor=pointer]:
+          - /url: /bookmark
+        - link "Smart Compose" [ref=e55] [cursor=pointer]:
+          - /url: /compose
+        - link "YouTube Transcript Generator" [ref=e56] [cursor=pointer]:
+          - /url: /tools/youtube-transcript-generator
+        - link "PDF to Text Convert" [ref=e57] [cursor=pointer]:
+          - /url: /tools/pdf-to-text
+        - link "Convert Text to PDF" [ref=e58] [cursor=pointer]:
+          - /url: /tools/text-to-pdf
+      - generic [ref=e59]:
+        - generic [ref=e60]: Guides
+        - link "Frequently Asked Questions" [ref=e61] [cursor=pointer]:
+          - /url: /faq
+        - link "How to summarize YouTube videos" [ref=e62] [cursor=pointer]:
+          - /url: /summarizer/how-to-summarize-youtube-videos
+        - link "How to summarize PDF files" [ref=e63] [cursor=pointer]:
+          - /url: /summarizer/how-to-summarize-pdf-files
+        - link "How to summarize news articles" [ref=e64] [cursor=pointer]:
+          - /url: /summarizer/how-to-summarize-news
+        - link "How to summarize Twitter threads" [ref=e65] [cursor=pointer]:
+          - /url: /summarizer/how-to-summarize-twitter-threads
+        - link "How to use Chrome bookmark manager" [ref=e66] [cursor=pointer]:
+          - /url: /bookmark/chrome-bookmark-manager
+      - generic [ref=e67]:
+        - generic [ref=e68]: Company
+        - link "Terms" [ref=e69] [cursor=pointer]:
+          - /url: /terms
+        - link "Privacy" [ref=e70] [cursor=pointer]:
+          - /url: /privacy
+        - link "Login" [ref=e71] [cursor=pointer]:
+          - /url: /auth/login
+        - link "Forgot my password" [ref=e72] [cursor=pointer]:
+          - /url: /auth/forgot
+        - link "Contact" [ref=e73] [cursor=pointer]:
+          - /url: mailto:hello@kome.ai
+        - link "Feedback" [ref=e74] [cursor=pointer]:
+          - /url: https://forms.gle/DePqQ3fg8d5Wype47
+    - link "Follow @KomeApp on 𝕏" [ref=e76] [cursor=pointer]:
+      - /url: https://twitter.com/KomeApp

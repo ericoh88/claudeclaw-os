@@ -1,0 +1,257 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: MY
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e34]
+            - button "Search" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e54]:
+    - complementary [ref=e60]:
+      - generic "YouTube Video Player" [ref=e63]:
+        - button "Play" [ref=e67] [cursor=pointer]:
+          - img
+        - button "Channel watermark" [ref=e70] [cursor=pointer]:
+          - img "Channel watermark" [ref=e71]
+        - generic [ref=e72]:
+          - generic [ref=e73] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+            - slider "Seek slider" [ref=e74]
+            - generic:
+              - generic:
+                - generic:
+                  - slider "Click or scroll the panel for the precise seeking."
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - button "Pause (k)" [ref=e172] [cursor=pointer]:
+                - img
+              - generic [ref=e173]:
+                - button "Mute (m)" [ref=e175] [cursor=pointer]:
+                  - img
+                - slider "Volume"
+              - button "0 Minutes 0 Seconds of 23 Minutes 4 Seconds" [ref=e179] [cursor=pointer]: 0:00 / 23:04
+              - button "Intro" [ref=e181] [cursor=pointer]:
+                - generic "Intro" [ref=e182]
+                - generic [ref=e183]:
+                  - img
+            - generic [ref=e184]:
+              - generic [ref=e185]:
+                - button "Autoplay is on" [ref=e186] [cursor=pointer]
+                - button "Subtitles/closed captions unavailable" [ref=e189] [cursor=pointer]:
+                  - generic [ref=e190]:
+                    - img
+                - button "Settings" [ref=e191] [cursor=pointer]:
+                  - img
+              - generic [ref=e192]:
+                - button "Theater mode (t)" [ref=e193] [cursor=pointer]:
+                  - img
+                - button "Full screen (f)" [ref=e194] [cursor=pointer]:
+                  - img
+    - generic [ref=e198]:
+      - generic [ref=e200]:
+        - heading "Before I do anything on Proxmox, I do this first..." [level=1] [ref=e202]
+        - generic [ref=e203]:
+          - generic [ref=e204]:
+            - generic [ref=e205]:
+              - link [ref=e206] [cursor=pointer]:
+                - /url: /@TechnoTim
+              - generic [ref=e208]:
+                - generic [ref=e209]:
+                  - generic "Techno Tim" [ref=e212]:
+                    - link "Techno Tim" [ref=e213] [cursor=pointer]:
+                      - /url: /@TechnoTim
+                  - img "Verified" [ref=e218]
+                - generic "328 thousand subscribers" [ref=e220]: 328K subscribers
+              - button "Join this channel" [ref=e227] [cursor=pointer]:
+                - generic [ref=e228]: Join
+            - button "Subscribe to Techno Tim." [ref=e237] [cursor=pointer]:
+              - generic [ref=e238]: Subscribe
+          - generic [ref=e245]:
+            - generic [ref=e246]:
+              - generic [ref=e250]:
+                - button "like this video along with 26,437 other people" [ref=e254] [cursor=pointer]:
+                  - generic [ref=e257]: 26K
+                - button "Dislike this video" [ref=e264] [cursor=pointer]
+              - button "Share" [ref=e272] [cursor=pointer]:
+                - generic [ref=e275]: Share
+            - button "Save to playlist" [ref=e282] [cursor=pointer]:
+              - generic [ref=e285]: Save
+            - button "More actions" [ref=e290] [cursor=pointer]
+        - generic [ref=e298] [cursor=pointer]:
+          - generic [ref=e299]:
+            - generic [ref=e301]:
+              - text: 1.1M views 5 years ago
+              - link "#Proxmox" [ref=e302]:
+                - /url: /hashtag/proxmox
+              - link "#Homelab" [ref=e303]:
+                - /url: /hashtag/homelab
+              - link "#TechnoTim" [ref=e304]:
+                - /url: /hashtag/technotim
+            - tooltip "tooltip"
+          - generic [ref=e305]:
+            - generic [ref=e306]:
+              - generic [ref=e309]: After setting up my Proxmox servers, there are a few things I do before I use them for their intended purpose. This ranges from updates, to storage, to networking and VLANS, to uploading ISOs, to clustering, to NIC teaming with LACP, and more. Join me as we pick up where the rest of the proxmox tutorials stop, and that's everything yo
+              - generic: …
+            - button "...more" [ref=e310]
+      - text: •
+      - generic [ref=e313]:
+        - heading "Shop the Techno Tim store" [ref=e314]
+        - button "Actions menu" [ref=e318] [cursor=pointer]
+      - generic [ref=e326]:
+        - generic [ref=e335]:
+          - generic [ref=e336] [cursor=pointer]:
+            - generic [ref=e337]:
+              - link "Seedance 2.0 Official Launch" [ref=e340]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0y0CakLzabS6FciP_PcP7LrM6QPN-cTKhgGeza7o0BVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBIADT9CPB7LPZsyhWpSPAD8USTF5YU-BtibgYQSkDyVjeqIcnyPvIhFWbqkkKkN7Zwf3EKO8Ah9a6ogy1dTPhoZPRb9ScBHQmrwzaQQJzziU10pnCTUi7xebgpbkK7Vq8k7f7G8Nv-Mf1VKd9susDms9PbLcDKHd_D09gxaeyUBexG7-PBaSINCKXYkXZdrveITHfXivTBs8Bvz7yJiMHK2AAi8ns5w0PDikQ-QfoHCh8qbfykRHMEnh5J8ZPfiTQLL5NRz03Mwv041yOkDW4GsOrgi4aGgs9tqogMlC_C3WkRoYFIzNflb6s6Pv24YUnm2xd7Rl-k9zsLswQTrK3n5sgiCZVqaL59Hxaciv0X-sHB6wrGTF6eJ-4AB2WQZ9xdPA00LQz_-MvyzIES5eaIaSzYQfh5pMcV6HcFke4DOeH325qSbIzgRsdytOa_rSuq23YnovN4ClHT26NXhXR_kLa1ETI2NHn0f75TTzADFL3Zq6H0P6o2uf_AwWfqvnm1jMiAWSu_67WJIFCggTaAJ4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIg63BwZWUA_IIH2NhLXl0LWhvc3QtcHViLTE4NzI2MTkyNTgyMDc4ODWaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCT6Dq8hETmi2yAkAmAsBoQscBpo82_xOYboLQwgBEAUYFiAIKAEwGkABSABYAWAAaABwAYgBAJgBAaIBCgoAcAGoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTZfZmxmJnV0bV90ZXJtPTIwMjYwNDE2X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAO85_D-xi4E____________wGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMItJetwcGVlAMVyAf_CB1sHTM9EAEYASAAEgK2EvD_BwE&num=1&cid=CAASwgHkaACXq3mqk_PynXe7XX9ekcOLSNUcrnedbQ-hEd-F4EHqEdVzebGnSzNIE74Pbh9p1d580nG3Z4yJ0rHjj1FVIFDBhsqFA8b4shlw4zR6Ck7W84YdvFYE_MOB3EmHp_5ByoTGufCWlHHsA9fgKe9YmBebsug_RPi0su1oLfZCtjPTfgkULXFBuagG6ZXQMGK6xlmDv5RMiBFUEz-nEqHsBY6WWZQz9GF17nm85E8WM9qG6ONKYDGdZZ7mWE0e7xf2Yw&sig=AOD64_0eaJCwaxykDVD4H-sCT3JE8cf0qg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 official release, no wait. Be first, not left in AI dust." [ref=e343]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0y0CakLzabS6FciP_PcP7LrM6QPN-cTKhgGeza7o0BVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBIADT9CPB7LPZsyhWpSPAD8USTF5YU-BtibgYQSkDyVjeqIcnyPvIhFWbqkkKkN7Zwf3EKO8Ah9a6ogy1dTPhoZPRb9ScBHQmrwzaQQJzziU10pnCTUi7xebgpbkK7Vq8k7f7G8Nv-Mf1VKd9susDms9PbLcDKHd_D09gxaeyUBexG7-PBaSINCKXYkXZdrveITHfXivTBs8Bvz7yJiMHK2AAi8ns5w0PDikQ-QfoHCh8qbfykRHMEnh5J8ZPfiTQLL5NRz03Mwv041yOkDW4GsOrgi4aGgs9tqogMlC_C3WkRoYFIzNflb6s6Pv24YUnm2xd7Rl-k9zsLswQTrK3n5sgiCZVqaL59Hxaciv0X-sHB6wrGTF6eJ-4AB2WQZ9xdPA00LQz_-MvyzIES5eaIaSzYQfh5pMcV6HcFke4DOeH325qSbIzgRsdytOa_rSuq23YnovN4ClHT26NXhXR_kLa1ETI2NHn0f75TTzADFL3Zq6H0P6o2uf_AwWfqvnm1jMiAWSu_67WJIFCggTaAJ4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIg63BwZWUA_IIH2NhLXl0LWhvc3QtcHViLTE4NzI2MTkyNTgyMDc4ODWaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCT6Dq8hETmi2yAkAmAsBoQscBpo82_xOYboLQwgBEAUYFiAIKAEwGkABSABYAWAAaABwAYgBAJgBAaIBCgoAcAGoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTZfZmxmJnV0bV90ZXJtPTIwMjYwNDE2X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAO85_D-xi4E____________wGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMItJetwcGVlAMVyAf_CB1sHTM9EAEYASAAEgK2EvD_BwE&num=1&cid=CAASwgHkaACXq3mqk_PynXe7XX9ekcOLSNUcrnedbQ-hEd-F4EHqEdVzebGnSzNIE74Pbh9p1d580nG3Z4yJ0rHjj1FVIFDBhsqFA8b4shlw4zR6Ck7W84YdvFYE_MOB3EmHp_5ByoTGufCWlHHsA9fgKe9YmBebsug_RPi0su1oLfZCtjPTfgkULXFBuagG6ZXQMGK6xlmDv5RMiBFUEz-nEqHsBY6WWZQz9GF17nm85E8WM9qG6ONKYDGdZZ7mWE0e7xf2Yw&sig=AOD64_0eaJCwaxykDVD4H-sCT3JE8cf0qg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e344]:
+                - generic [ref=e346]:
+                  - generic [ref=e347]: Sponsored
+                  - text: ·
+                - generic [ref=e349]: BytePlus
+            - button "My Ad Center" [ref=e352]
+          - link "Visit site" [ref=e359] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0y0CakLzabS6FciP_PcP7LrM6QPN-cTKhgGeza7o0BVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBIADT9CPB7LPZsyhWpSPAD8USTF5YU-BtibgYQSkDyVjeqIcnyPvIhFWbqkkKkN7Zwf3EKO8Ah9a6ogy1dTPhoZPRb9ScBHQmrwzaQQJzziU10pnCTUi7xebgpbkK7Vq8k7f7G8Nv-Mf1VKd9susDms9PbLcDKHd_D09gxaeyUBexG7-PBaSINCKXYkXZdrveITHfXivTBs8Bvz7yJiMHK2AAi8ns5w0PDikQ-QfoHCh8qbfykRHMEnh5J8ZPfiTQLL5NRz03Mwv041yOkDW4GsOrgi4aGgs9tqogMlC_C3WkRoYFIzNflb6s6Pv24YUnm2xd7Rl-k9zsLswQTrK3n5sgiCZVqaL59Hxaciv0X-sHB6wrGTF6eJ-4AB2WQZ9xdPA00LQz_-MvyzIES5eaIaSzYQfh5pMcV6HcFke4DOeH325qSbIzgRsdytOa_rSuq23YnovN4ClHT26NXhXR_kLa1ETI2NHn0f75TTzADFL3Zq6H0P6o2uf_AwWfqvnm1jMiAWSu_67WJIFCggTaAJ4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIg63BwZWUA_IIH2NhLXl0LWhvc3QtcHViLTE4NzI2MTkyNTgyMDc4ODWaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCT6Dq8hETmi2yAkAmAsBoQscBpo82_xOYboLQwgBEAUYFiAIKAEwGkABSABYAWAAaABwAYgBAJgBAaIBCgoAcAGoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTZfZmxmJnV0bV90ZXJtPTIwMjYwNDE2X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAO85_D-xi4E____________wGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMItJetwcGVlAMVyAf_CB1sHTM9EAEYASAAEgK2EvD_BwE&num=1&cid=CAASwgHkaACXq3mqk_PynXe7XX9ekcOLSNUcrnedbQ-hEd-F4EHqEdVzebGnSzNIE74Pbh9p1d580nG3Z4yJ0rHjj1FVIFDBhsqFA8b4shlw4zR6Ck7W84YdvFYE_MOB3EmHp_5ByoTGufCWlHHsA9fgKe9YmBebsug_RPi0su1oLfZCtjPTfgkULXFBuagG6ZXQMGK6xlmDv5RMiBFUEz-nEqHsBY6WWZQz9GF17nm85E8WM9qG6ONKYDGdZZ7mWE0e7xf2Yw&sig=AOD64_0eaJCwaxykDVD4H-sCT3JE8cf0qg&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=e360]: Visit site
+        - generic [ref=e365] [cursor=pointer]:
+          - link [ref=e366]:
+            - /url: /watch?v=pxwUXJmAER4
+            - generic [ref=e373]: 14:38
+          - generic [ref=e375]:
+            - generic [ref=e376]:
+              - heading "Virtualize vs. Containerize (Which should I choose?) 14 minutes, 38 seconds" [level=3] [ref=e377]:
+                - link "Virtualize vs. Containerize (Which should I choose?) 14 minutes, 38 seconds" [ref=e378]:
+                  - /url: /watch?v=pxwUXJmAER4
+                  - text: Virtualize vs. Containerize (Which should I choose?)
+              - generic [ref=e380]:
+                - group [ref=e381]:
+                  - generic [ref=e382]:
+                    - text: Techno Tim
+                    - img [ref=e385]
+                - group [ref=e386]:
+                  - generic [ref=e387]: 208K views
+                  - generic [ref=e388]: •
+                  - generic [ref=e389]: 5 years ago
+            - button "More actions" [ref=e392]
+        - generic [ref=e399] [cursor=pointer]:
+          - link [ref=e400]:
+            - /url: /watch?v=kcpu4z5eSEU
+            - generic [ref=e407]: 24:15
+          - generic [ref=e409]:
+            - generic [ref=e410]:
+              - heading "Proxmox Automation with Proxmox Helper Scripts! 24 minutes" [level=3] [ref=e411]:
+                - link "Proxmox Automation with Proxmox Helper Scripts! 24 minutes" [ref=e412]:
+                  - /url: /watch?v=kcpu4z5eSEU
+                  - text: Proxmox Automation with Proxmox Helper Scripts!
+              - generic [ref=e414]:
+                - group [ref=e415]:
+                  - generic [ref=e416]:
+                    - text: Techno Tim
+                    - img [ref=e419]
+                - group [ref=e420]:
+                  - generic [ref=e421]: 225K views
+                  - generic [ref=e422]: •
+                  - generic [ref=e423]: 1 year ago
+            - button "More actions" [ref=e426]
+        - generic [ref=e433] [cursor=pointer]:
+          - link [ref=e434]:
+            - /url: /watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e441]: 29:49
+          - generic [ref=e443]:
+            - generic [ref=e444]:
+              - 'heading "Andrej Karpathy: From Vibe Coding to Agentic Engineering 29 minutes" [level=3] [ref=e445]':
+                - 'link "Andrej Karpathy: From Vibe Coding to Agentic Engineering 29 minutes" [ref=e446]':
+                  - /url: /watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D
+                  - text: "Andrej Karpathy: From Vibe Coding to Agentic Engineering"
+              - generic [ref=e448]:
+                - group [ref=e449]:
+                  - generic [ref=e450]: Sequoia Capital
+                - group [ref=e451]:
+                  - generic [ref=e452]: 168K views
+                  - generic [ref=e453]: •
+                  - generic [ref=e454]: 20 hours ago
+                - group [ref=e455]:
+                  - generic [ref=e459]: New
+            - button "More actions" [ref=e462]
+        - generic [ref=e469] [cursor=pointer]:
+          - link [ref=e470]:
+            - /url: /watch?v=zngSuqCM4d8&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e477]: 20:14
+          - generic [ref=e479]:
+            - generic [ref=e480]:
+              - heading "So, you want to start self-hosting? Part 1 - How to install Proxmox and pick your hardware. 20 minutes" [level=3] [ref=e481]:
+                - link "So, you want to start self-hosting? Part 1 - How to install Proxmox and pick your hardware. 20 minutes" [ref=e482]:
+                  - /url: /watch?v=zngSuqCM4d8&pp=ugUEEgJlbg%3D%3D
+                  - text: So, you want to start self-hosting? Part 1 - How to install Proxmox and pick your hardware.
+              - generic [ref=e484]:
+                - group [ref=e485]:
+                  - generic [ref=e486]: Tailscale
+                - group [ref=e487]:
+                  - generic [ref=e488]: 401K views
+                  - generic [ref=e489]: •
+                  - generic [ref=e490]: 11 months ago
+            - button "More actions" [ref=e493]

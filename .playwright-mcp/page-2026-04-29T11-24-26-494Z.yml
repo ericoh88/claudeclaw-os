@@ -1,0 +1,940 @@
+- generic [ref=e2]:
+  - region
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e9]:
+        - button "Toggle navigation" [ref=e11] [cursor=pointer]
+        - link "Homepage" [ref=e17] [cursor=pointer]:
+          - /url: /
+          - img [ref=e18]
+        - generic [ref=e20]:
+          - link "Sign in" [ref=e21] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fbradautomates%2Fclaude-video
+          - button "Appearance settings" [ref=e24] [cursor=pointer]:
+            - img
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e32]:
+          - img [ref=e33]
+          - link "bradautomates" [ref=e36] [cursor=pointer]:
+            - /url: /bradautomates
+          - generic [ref=e37]: /
+          - strong [ref=e38]:
+            - link "claude-video" [ref=e39] [cursor=pointer]:
+              - /url: /bradautomates/claude-video
+          - generic [ref=e40]: Public
+        - generic [ref=e41]:
+          - list:
+            - listitem [ref=e42]:
+              - link "You must be signed in to change notification settings" [ref=e43] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbradautomates%2Fclaude-video
+                - img [ref=e44]
+                - text: Notifications
+            - listitem [ref=e46]:
+              - link "Fork 2" [ref=e47] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbradautomates%2Fclaude-video
+                - img [ref=e48]
+                - text: Fork
+                - generic "2" [ref=e50]
+            - listitem [ref=e51]:
+              - link "You must be signed in to star a repository" [ref=e53] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbradautomates%2Fclaude-video
+                - img [ref=e54]
+                - text: Star
+                - generic "7 users starred this repository" [ref=e56]: "7"
+      - navigation "Repository" [ref=e57]:
+        - list [ref=e58]:
+          - listitem [ref=e59]:
+            - link "Code" [ref=e60] [cursor=pointer]:
+              - /url: /bradautomates/claude-video
+              - img [ref=e61]
+              - generic [ref=e63]: Code
+          - listitem [ref=e64]:
+            - link "Issues" [ref=e65] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/issues
+              - img [ref=e66]
+              - generic [ref=e69]: Issues
+          - listitem [ref=e70]:
+            - link "Pull requests" [ref=e71] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/pulls
+              - img [ref=e72]
+              - generic [ref=e74]: Pull requests
+          - listitem [ref=e75]:
+            - link "Actions" [ref=e76] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/actions
+              - img [ref=e77]
+              - generic [ref=e79]: Actions
+          - listitem [ref=e80]:
+            - link "Projects" [ref=e81] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/projects
+              - img [ref=e82]
+              - generic [ref=e84]: Projects
+          - listitem [ref=e85]:
+            - link "Security and quality" [ref=e86] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/security
+              - img [ref=e87]
+              - generic [ref=e89]: Security and quality
+          - listitem [ref=e90]
+        - button "Additional navigation options" [ref=e94] [cursor=pointer]:
+          - img
+    - generic [ref=e107]:
+      - heading "bradautomates/claude-video" [level=1] [ref=e109]
+      - generic [ref=e110]:
+        - generic [ref=e113]:
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - button "main branch" [ref=e117] [cursor=pointer]:
+                - generic [ref=e118]:
+                  - generic [ref=e120]:
+                    - img [ref=e122]
+                    - generic [ref=e125]: main
+                  - generic:
+                    - img
+              - generic [ref=e126]:
+                - link "Go to Branches page" [ref=e127] [cursor=pointer]:
+                  - /url: /bradautomates/claude-video/branches
+                  - img [ref=e128]
+                - link "Go to Tags page" [ref=e130] [cursor=pointer]:
+                  - /url: /bradautomates/claude-video/tags
+                  - img [ref=e131]
+            - generic [ref=e133]:
+              - button "Go to file" [ref=e136] [cursor=pointer]:
+                - generic [ref=e138]: Go to file
+              - button "Code" [ref=e139] [cursor=pointer]:
+                - generic [ref=e140]:
+                  - generic:
+                    - img
+                  - generic [ref=e141]: Code
+                  - generic:
+                    - img
+          - generic [ref=e142]:
+            - generic [ref=e143]:
+              - heading "Folders and files" [level=2] [ref=e144]
+              - table "Folders and files" [ref=e145]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message":
+                      - generic "Last commit message"
+                    - columnheader "Last commit date":
+                      - generic "Last commit date"
+                - rowgroup [ref=e146]:
+                  - 'row "Latest commit bradautomates claude commits by bradautomates and commits by claude Fix Windows compatibility: encoding, installer hints, interpreter name Open commit details success Commit 755c157 · Apr 24, 20265 days ago History View commit history for this file." [ref=e147]':
+                    - 'cell "Latest commit bradautomates claude commits by bradautomates and commits by claude Fix Windows compatibility: encoding, installer hints, interpreter name Open commit details success Commit 755c157 · Apr 24, 20265 days ago History View commit history for this file." [ref=e148]':
+                      - generic [ref=e149]:
+                        - heading "Latest commit" [level=2] [ref=e150]
+                        - generic [ref=e151]:
+                          - generic [ref=e152]:
+                            - generic [ref=e154]:
+                              - img "bradautomates" [ref=e155]
+                              - img "claude" [ref=e156]
+                            - link "commits by bradautomates" [ref=e158] [cursor=pointer]:
+                              - /url: /bradautomates/claude-video/commits?author=bradautomates
+                              - text: bradautomates
+                            - generic [ref=e159]: and
+                            - link "commits by claude" [ref=e161] [cursor=pointer]:
+                              - /url: /bradautomates/claude-video/commits?author=claude
+                              - text: claude
+                          - generic [ref=e162]:
+                            - 'link "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e165] [cursor=pointer]':
+                              - /url: /bradautomates/claude-video/commit/755c157466738dda102c939158a0116b972925a3
+                            - button "Open commit details" [ref=e166] [cursor=pointer]:
+                              - img [ref=e167]
+                            - button "success" [ref=e169] [cursor=pointer]:
+                              - img [ref=e170]
+                        - generic [ref=e172]:
+                          - generic [ref=e174]:
+                            - link "Commit 755c157" [ref=e175] [cursor=pointer]:
+                              - /url: /bradautomates/claude-video/commit/755c157466738dda102c939158a0116b972925a3
+                              - text: 755c157
+                            - text: ·
+                            - generic "Apr 24, 2026, 7:22 AM UTC" [ref=e176]: Apr 24, 20265 days ago
+                          - generic [ref=e177]:
+                            - heading "History" [level=2] [ref=e178]
+                            - link "View commit history for this file." [ref=e180] [cursor=pointer]:
+                              - /url: /bradautomates/claude-video/commits/main/
+                              - generic [ref=e181]:
+                                - generic:
+                                  - img
+                  - 'row ".claude-plugin, (Directory) Fix Windows compatibility: encoding, installer hints, interpreter name Apr 24, 20265 days ago" [ref=e182]':
+                    - cell ".claude-plugin, (Directory)" [ref=e183]:
+                      - generic [ref=e184]:
+                        - img [ref=e185]
+                        - link ".claude-plugin, (Directory)" [ref=e190] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/tree/main/.claude-plugin
+                          - text: .claude-plugin
+                    - 'cell "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e191]':
+                      - 'link "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e194] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/755c157466738dda102c939158a0116b972925a3
+                    - cell "Apr 24, 20265 days ago" [ref=e195]:
+                      - generic [ref=e196]: Apr 24, 20265 days ago
+                  - 'row ".codex-plugin, (Directory) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e197]':
+                    - cell ".codex-plugin, (Directory)" [ref=e198]:
+                      - generic [ref=e199]:
+                        - img [ref=e200]
+                        - link ".codex-plugin, (Directory)" [ref=e205] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/tree/main/.codex-plugin
+                          - text: .codex-plugin
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e206]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e209] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e210]:
+                      - generic [ref=e211]: Apr 24, 20265 days ago
+                  - 'row ".github/workflows, (Directory) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e212]':
+                    - cell ".github/workflows, (Directory)" [ref=e213]:
+                      - generic [ref=e214]:
+                        - img [ref=e215]
+                        - link ".github/workflows, (Directory)" [ref=e220] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/tree/main/.github/workflows
+                          - text: .github/workflows
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e221]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e224] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e225]:
+                      - generic [ref=e226]: Apr 24, 20265 days ago
+                  - row "commands, (Directory) Add commands/watch.md so /watch is callable via Claude Code plugin Apr 24, 20265 days ago" [ref=e227]:
+                    - cell "commands, (Directory)" [ref=e228]:
+                      - generic [ref=e229]:
+                        - img [ref=e230]
+                        - link "commands, (Directory)" [ref=e235] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/tree/main/commands
+                          - text: commands
+                    - cell "Add commands/watch.md so /watch is callable via Claude Code plugin" [ref=e236]:
+                      - link "Add commands/watch.md so /watch is callable via Claude Code plugin" [ref=e239] [cursor=pointer]:
+                        - /url: /bradautomates/claude-video/commit/26cfa5ca342c66d2ed14bbf396c48af3ba425f32
+                    - cell "Apr 24, 20265 days ago" [ref=e240]:
+                      - generic [ref=e241]: Apr 24, 20265 days ago
+                  - 'row "hooks, (Directory) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e242]':
+                    - cell "hooks, (Directory)" [ref=e243]:
+                      - generic [ref=e244]:
+                        - img [ref=e245]
+                        - link "hooks, (Directory)" [ref=e250] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/tree/main/hooks
+                          - text: hooks
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e251]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e254] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e255]:
+                      - generic [ref=e256]: Apr 24, 20265 days ago
+                  - 'row "scripts, (Directory) Fix Windows compatibility: encoding, installer hints, interpreter name Apr 24, 20265 days ago" [ref=e257]':
+                    - cell "scripts, (Directory)" [ref=e258]:
+                      - generic [ref=e259]:
+                        - img [ref=e260]
+                        - link "scripts, (Directory)" [ref=e265] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/tree/main/scripts
+                          - text: scripts
+                    - 'cell "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e266]':
+                      - 'link "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e269] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/755c157466738dda102c939158a0116b972925a3
+                    - cell "Apr 24, 20265 days ago" [ref=e270]:
+                      - generic [ref=e271]: Apr 24, 20265 days ago
+                  - 'row ".gitattributes, (File) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e272]':
+                    - cell ".gitattributes, (File)" [ref=e273]:
+                      - generic [ref=e274]:
+                        - img [ref=e275]
+                        - link ".gitattributes, (File)" [ref=e280] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/blob/main/.gitattributes
+                          - text: .gitattributes
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e281]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e284] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e285]:
+                      - generic [ref=e286]: Apr 24, 20265 days ago
+                  - 'row ".gitignore, (File) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e287]':
+                    - cell ".gitignore, (File)" [ref=e288]:
+                      - generic [ref=e289]:
+                        - img [ref=e290]
+                        - link ".gitignore, (File)" [ref=e295] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/blob/main/.gitignore
+                          - text: .gitignore
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e296]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e299] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e300]:
+                      - generic [ref=e301]: Apr 24, 20265 days ago
+                  - 'row "CHANGELOG.md, (File) Fix Windows compatibility: encoding, installer hints, interpreter name Apr 24, 20265 days ago" [ref=e302]':
+                    - cell "CHANGELOG.md, (File)" [ref=e303]:
+                      - generic [ref=e304]:
+                        - img [ref=e305]
+                        - link "CHANGELOG.md, (File)" [ref=e310] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/blob/main/CHANGELOG.md
+                          - text: CHANGELOG.md
+                    - 'cell "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e311]':
+                      - 'link "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e314] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/755c157466738dda102c939158a0116b972925a3
+                    - cell "Apr 24, 20265 days ago" [ref=e315]:
+                      - generic [ref=e316]: Apr 24, 20265 days ago
+                  - 'row "LICENSE, (File) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e317]':
+                    - cell "LICENSE, (File)" [ref=e318]:
+                      - generic [ref=e319]:
+                        - img [ref=e320]
+                        - link "LICENSE, (File)" [ref=e325] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/blob/main/LICENSE
+                          - text: LICENSE
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e326]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e329] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e330]:
+                      - generic [ref=e331]: Apr 24, 20265 days ago
+                  - 'row "README.md, (File) Initial commit: /watch skill v0.1.0 Apr 24, 20265 days ago" [ref=e332]':
+                    - cell "README.md, (File)" [ref=e333]:
+                      - generic [ref=e334]:
+                        - img [ref=e335]
+                        - link "README.md, (File)" [ref=e340] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/blob/main/README.md
+                          - text: README.md
+                    - 'cell "Initial commit: /watch skill v0.1.0" [ref=e341]':
+                      - 'link "Initial commit: /watch skill v0.1.0" [ref=e344] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/29b8a2988ac07c8ab32aa3583b358d1d77380261
+                    - cell "Apr 24, 20265 days ago" [ref=e345]:
+                      - generic [ref=e346]: Apr 24, 20265 days ago
+                  - 'row "SKILL.md, (File) Fix Windows compatibility: encoding, installer hints, interpreter name Apr 24, 20265 days ago" [ref=e347]':
+                    - cell "SKILL.md, (File)" [ref=e348]:
+                      - generic [ref=e349]:
+                        - img [ref=e350]
+                        - link "SKILL.md, (File)" [ref=e355] [cursor=pointer]:
+                          - /url: /bradautomates/claude-video/blob/main/SKILL.md
+                          - text: SKILL.md
+                    - 'cell "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e356]':
+                      - 'link "Fix Windows compatibility: encoding, installer hints, interpreter name" [ref=e359] [cursor=pointer]':
+                        - /url: /bradautomates/claude-video/commit/755c157466738dda102c939158a0116b972925a3
+                    - cell "Apr 24, 20265 days ago" [ref=e360]:
+                      - generic [ref=e361]: Apr 24, 20265 days ago
+            - generic [ref=e363]:
+              - generic [ref=e364]:
+                - heading "Repository files navigation" [level=2] [ref=e365]
+                - navigation "Repository files" [ref=e366]:
+                  - list [ref=e367]:
+                    - listitem [ref=e368]:
+                      - link "README" [ref=e369] [cursor=pointer]:
+                        - /url: "#"
+                        - img [ref=e371]
+                        - generic [ref=e373]: README
+                    - listitem [ref=e374]:
+                      - link "MIT license" [ref=e375] [cursor=pointer]:
+                        - /url: "#"
+                        - img [ref=e377]
+                        - generic [ref=e379]: MIT license
+                - button "Outline" [ref=e380] [cursor=pointer]:
+                  - img [ref=e381]
+              - article [ref=e384]:
+                - generic [ref=e385]:
+                  - heading "/watch" [level=1] [ref=e386]
+                  - 'link "Permalink: /watch" [ref=e387] [cursor=pointer]':
+                    - /url: "#watch"
+                    - img [ref=e388]
+                - paragraph [ref=e390]:
+                  - strong [ref=e391]: Give Claude the ability to watch any video.
+                - paragraph [ref=e392]: "Claude Code:"
+                - generic [ref=e393]:
+                  - code [ref=e395]: /plugin marketplace add bradautomates/claude-video /plugin install watch@claude-video
+                  - button "Copy" [ref=e397] [cursor=pointer]:
+                    - img [ref=e398]
+                - paragraph [ref=e401]:
+                  - text: "claude.ai (web):"
+                  - link "download watch.skill" [ref=e402] [cursor=pointer]:
+                    - /url: https://github.com/bradautomates/claude-video/releases/latest
+                    - text: download
+                    - code [ref=e403]: watch.skill
+                  - text: and drop it into Settings → Capabilities → Skills.
+                - paragraph [ref=e404]: "Codex / generic skills:"
+                - generic [ref=e405]:
+                  - generic [ref=e406]: git clone https://github.com/bradautomates/claude-video.git ~/.codex/skills/watch
+                  - button "Copy" [ref=e408] [cursor=pointer]:
+                    - img [ref=e409]
+                - paragraph [ref=e412]:
+                  - text: Zero config to start —
+                  - code [ref=e413]: yt-dlp
+                  - text: and
+                  - code [ref=e414]: ffmpeg
+                  - text: install on first run via
+                  - code [ref=e415]: brew
+                  - text: on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions.
+                - separator [ref=e416]
+                - paragraph [ref=e417]:
+                  - text: Claude can read a webpage, run a script, browse a repo. What it can't do, out of the box, is
+                  - emphasis [ref=e418]: watch a video
+                  - text: . You paste a YouTube link and it has to either guess from the title or pull a transcript that's missing 90% of what's on screen.
+                - paragraph [ref=e419]:
+                  - text: With Claude Video
+                  - code [ref=e420]: /watch
+                  - text: you can paste a URL or a local path, ask a question, and Claude downloads the video, extracts frames at an auto-scaled rate, pulls a timestamped transcript (free captions when available, Whisper API as fallback), and
+                  - code [ref=e421]: Read
+                  - text: s every frame as an image. By the time it answers, it has
+                  - emphasis [ref=e422]: seen
+                  - text: the video and
+                  - emphasis [ref=e423]: heard
+                  - text: the audio.
+                - generic [ref=e424]:
+                  - code [ref=e426]: /watch https://youtu.be/dQw4w9WgXcQ what happens at the 30 second mark?
+                  - button "Copy" [ref=e428] [cursor=pointer]:
+                    - img [ref=e429]
+                - generic [ref=e432]:
+                  - heading "Why this exists" [level=2] [ref=e433]
+                  - 'link "Permalink: Why this exists" [ref=e434] [cursor=pointer]':
+                    - /url: "#why-this-exists"
+                    - img [ref=e435]
+                - paragraph [ref=e437]: I built this because I'm constantly using video to keep up with content. If I see a YouTube video that's blowing up, I want to know how the creator structured the hook — what's on screen in the first 3 seconds, what they said, why it worked. That used to mean watching it myself with a notepad. Now I just paste the URL and ask.
+                - paragraph [ref=e438]: The other half is summarization. Most YouTube videos don't deserve 20 minutes of my attention. I hand the URL to Claude, it pulls the transcript, and tells me what actually happened. If the visual matters, frames come along too. If it's a podcast or a talking head, transcript is enough.
+                - paragraph [ref=e439]:
+                  - text: Claude is great at reading and synthesizing — but until now, video was the one input I couldn't hand it. Pasting a YouTube link got you nothing useful.
+                  - code [ref=e440]: /watch
+                  - text: closes that gap.
+                - generic [ref=e441]:
+                  - heading "What people actually use it for" [level=2] [ref=e442]
+                  - 'link "Permalink: What people actually use it for" [ref=e443] [cursor=pointer]':
+                    - /url: "#what-people-actually-use-it-for"
+                    - img [ref=e444]
+                - paragraph [ref=e446]:
+                  - strong [ref=e447]: Analyze someone else's content.
+                  - code [ref=e448]: /watch https://youtu.be/<viral-video> what hook did they open with?
+                  - text: Claude looks at the first frames, reads the opening transcript, breaks down the structure. Same for ad creative, competitor launches, podcast intros, anything where the
+                  - emphasis [ref=e449]: how
+                  - text: matters as much as the
+                  - emphasis [ref=e450]: what
+                  - text: .
+                - paragraph [ref=e451]:
+                  - strong [ref=e452]: Diagnose a bug from a video.
+                  - text: Someone sends you a screen recording of something broken.
+                  - code [ref=e453]: /watch bug-repro.mov what's going wrong?
+                  - text: Claude watches the recording, finds the frame where the issue appears, describes what's on screen, often catches the cause without you ever opening the file.
+                - paragraph [ref=e454]:
+                  - strong [ref=e455]: Summarize a video.
+                  - code [ref=e456]: /watch https://youtu.be/<long-thing> summarize this
+                  - text: does the obvious thing — pulls the structure, the key moments, what was actually said and shown. Faster than watching at 2x.
+                - generic [ref=e457]:
+                  - heading "How it works" [level=2] [ref=e458]
+                  - 'link "Permalink: How it works" [ref=e459] [cursor=pointer]':
+                    - /url: "#how-it-works"
+                    - img [ref=e460]
+                - list [ref=e462]:
+                  - listitem [ref=e463]:
+                    - strong [ref=e464]: You paste a video and a question.
+                    - text: URL (anything yt-dlp supports — YouTube, Loom, TikTok, X, Instagram, plus a few hundred more) or a local path (
+                    - code [ref=e465]: .mp4
+                    - text: ","
+                    - code [ref=e466]: .mov
+                    - text: ","
+                    - code [ref=e467]: .mkv
+                    - text: ","
+                    - code [ref=e468]: .webm
+                    - text: ).
+                  - listitem [ref=e469]:
+                    - strong [ref=e470]:
+                      - code [ref=e471]: yt-dlp
+                      - text: downloads it.
+                    - text: For URLs, into a temp working directory. For local files, no download — just probed in place.
+                  - listitem [ref=e472]:
+                    - strong [ref=e473]:
+                      - code [ref=e474]: ffmpeg
+                      - text: extracts frames at an auto-scaled rate.
+                    - text: "The frame budget is duration-aware: ≤30s gets ~30 frames, 30-60s gets ~40, 1-3min gets ~60, 3-10min gets ~80, longer gets 100 sparsely. Hard ceilings: 2 fps, 100 frames. JPEGs at 512px wide by default — bump with"
+                    - code [ref=e475]: "--resolution 1024"
+                    - text: if Claude needs to read on-screen text.
+                  - listitem [ref=e476]:
+                    - strong [ref=e477]: The transcript comes from one of two places.
+                    - text: "First try:"
+                    - code [ref=e478]: yt-dlp
+                    - text: "pulls native captions (manual or auto-generated) from the source. Free, instant, accurate-ish. Fallback: extract a mono 16 kHz audio clip and ship it to Whisper — Groq's"
+                    - code [ref=e479]: whisper-large-v3
+                    - text: (preferred — cheaper and faster) or OpenAI's
+                    - code [ref=e480]: whisper-1
+                    - text: .
+                  - listitem [ref=e481]:
+                    - strong [ref=e482]: Frames + transcript are handed to Claude.
+                    - text: The script prints frame paths with
+                    - code [ref=e483]: t=MM:SS
+                    - text: markers and the transcript with timestamps. Claude
+                    - code [ref=e484]: Read
+                    - text: s each frame in parallel — JPEGs render directly as images in its context.
+                  - listitem [ref=e485]:
+                    - strong [ref=e486]: Claude answers grounded in what's actually on screen and in the audio.
+                    - text: Not "based on the description" or "according to the title." It saw the frames. It heard the transcript. It answers the way someone who watched the video would.
+                  - listitem [ref=e487]:
+                    - strong [ref=e488]: Cleanup.
+                    - text: The script prints a working directory at the end. If you're not asking follow-ups, Claude removes it.
+                - generic [ref=e489]:
+                  - heading "Frame budget — why it matters" [level=2] [ref=e490]
+                  - 'link "Permalink: Frame budget — why it matters" [ref=e491] [cursor=pointer]':
+                    - /url: "#frame-budget--why-it-matters"
+                    - img [ref=e492]
+                - paragraph [ref=e494]: Token cost is dominated by frames. Every frame is an image; image tokens add up fast. The script's auto-fps logic exists so you don't blow your context budget on a sparse scan of a 30-minute video that would have been better answered by a focused 30-second window.
+                - table [ref=e496]:
+                  - rowgroup [ref=e497]:
+                    - row "Duration Default frame budget What you get" [ref=e498]:
+                      - columnheader "Duration" [ref=e499]
+                      - columnheader "Default frame budget" [ref=e500]
+                      - columnheader "What you get" [ref=e501]
+                  - rowgroup [ref=e502]:
+                    - row "≤30 s ~30 frames Dense — basically every key moment" [ref=e503]:
+                      - cell "≤30 s" [ref=e504]
+                      - cell "~30 frames" [ref=e505]
+                      - cell "Dense — basically every key moment" [ref=e506]
+                    - row "30 s - 1 min ~40 frames Still dense" [ref=e507]:
+                      - cell "30 s - 1 min" [ref=e508]
+                      - cell "~40 frames" [ref=e509]
+                      - cell "Still dense" [ref=e510]
+                    - row "1 - 3 min ~60 frames Comfortable" [ref=e511]:
+                      - cell "1 - 3 min" [ref=e512]
+                      - cell "~60 frames" [ref=e513]
+                      - cell "Comfortable" [ref=e514]
+                    - row "3 - 10 min ~80 frames Sparse but workable" [ref=e515]:
+                      - cell "3 - 10 min" [ref=e516]
+                      - cell "~80 frames" [ref=e517]
+                      - cell "Sparse but workable" [ref=e518]
+                    - row "> 10 min 100 frames \"Sparse scan\" warning — re-run focused" [ref=e519]:
+                      - cell "> 10 min" [ref=e520]
+                      - cell "100 frames" [ref=e521]
+                      - cell "\"Sparse scan\" warning — re-run focused" [ref=e522]
+                - paragraph [ref=e523]:
+                  - text: When the user names a moment ("around 2:30", "the last 30 seconds", "from 0:45 to 1:00"), pass
+                  - code [ref=e524]: "--start"
+                  - text: /
+                  - code [ref=e525]: "--end"
+                  - text: . Focused mode gets denser per-second budgets, capped at 2 fps. Far more useful than a sparse pass over the whole thing.
+                - generic [ref=e526]:
+                  - heading "Install" [level=2] [ref=e527]
+                  - 'link "Permalink: Install" [ref=e528] [cursor=pointer]':
+                    - /url: "#install"
+                    - img [ref=e529]
+                - table [ref=e532]:
+                  - rowgroup [ref=e533]:
+                    - row "Surface Install" [ref=e534]:
+                      - columnheader "Surface" [ref=e535]
+                      - columnheader "Install" [ref=e536]
+                  - rowgroup [ref=e537]:
+                    - row "Claude Code /plugin marketplace add bradautomates/claude-video then /plugin install watch@claude-video" [ref=e538]:
+                      - cell "Claude Code" [ref=e539]:
+                        - strong [ref=e540]: Claude Code
+                      - cell "/plugin marketplace add bradautomates/claude-video then /plugin install watch@claude-video" [ref=e541]:
+                        - code [ref=e542]: /plugin marketplace add bradautomates/claude-video
+                        - text: then
+                        - code [ref=e543]: /plugin install watch@claude-video
+                    - row "claude.ai (web) Download watch.skill → Settings → Capabilities → Skills → +" [ref=e544]:
+                      - cell "claude.ai (web)" [ref=e545]:
+                        - strong [ref=e546]: claude.ai
+                        - text: (web)
+                      - cell "Download watch.skill → Settings → Capabilities → Skills → +" [ref=e547]:
+                        - link "Download watch.skill" [ref=e548] [cursor=pointer]:
+                          - /url: https://github.com/bradautomates/claude-video/releases/latest
+                          - text: Download
+                          - code [ref=e549]: watch.skill
+                        - text: → Settings → Capabilities → Skills →
+                        - code [ref=e550]: +
+                    - row "Codex git clone https://github.com/bradautomates/claude-video.git ~/.codex/skills/watch" [ref=e551]:
+                      - cell "Codex" [ref=e552]:
+                        - strong [ref=e553]: Codex
+                      - cell "git clone https://github.com/bradautomates/claude-video.git ~/.codex/skills/watch" [ref=e554]:
+                        - code [ref=e555]: git clone https://github.com/bradautomates/claude-video.git ~/.codex/skills/watch
+                    - row "Manual / dev git clone https://github.com/bradautomates/claude-video.git ~/.claude/skills/watch" [ref=e556]:
+                      - cell "Manual / dev" [ref=e557]:
+                        - strong [ref=e558]: Manual / dev
+                      - cell "git clone https://github.com/bradautomates/claude-video.git ~/.claude/skills/watch" [ref=e559]:
+                        - code [ref=e560]: git clone https://github.com/bradautomates/claude-video.git ~/.claude/skills/watch
+                - generic [ref=e561]:
+                  - heading "Claude Code" [level=3] [ref=e562]
+                  - 'link "Permalink: Claude Code" [ref=e563] [cursor=pointer]':
+                    - /url: "#claude-code"
+                    - img [ref=e564]
+                - generic [ref=e566]:
+                  - code [ref=e568]: /plugin marketplace add bradautomates/claude-video /plugin install watch@claude-video
+                  - button "Copy" [ref=e570] [cursor=pointer]:
+                    - img [ref=e571]
+                - paragraph [ref=e574]:
+                  - text: Update later with
+                  - code [ref=e575]: /plugin update watch@claude-video
+                  - text: .
+                - generic [ref=e576]:
+                  - heading "claude.ai (web)" [level=3] [ref=e577]
+                  - 'link "Permalink: claude.ai (web)" [ref=e578] [cursor=pointer]':
+                    - /url: "#claudeai-web"
+                    - img [ref=e579]
+                - list [ref=e581]:
+                  - listitem [ref=e582]:
+                    - link "Download watch.skill" [ref=e583] [cursor=pointer]:
+                      - /url: https://github.com/bradautomates/claude-video/releases/latest
+                      - text: Download
+                      - code [ref=e584]: watch.skill
+                    - text: from the latest release.
+                  - listitem [ref=e585]: Go to Settings → Capabilities → Skills.
+                  - listitem [ref=e586]:
+                    - text: Click
+                    - code [ref=e587]: +
+                    - text: and drop the file in.
+                - paragraph [ref=e588]:
+                  - text: Enable "Code execution and file creation" under Capabilities first — the skill shells out to
+                  - code [ref=e589]: ffmpeg
+                  - text: and
+                  - code [ref=e590]: yt-dlp
+                  - text: ", so it won't run without it."
+                - generic [ref=e591]:
+                  - heading "Codex" [level=3] [ref=e592]
+                  - 'link "Permalink: Codex" [ref=e593] [cursor=pointer]':
+                    - /url: "#codex"
+                    - img [ref=e594]
+                - generic [ref=e596]:
+                  - generic [ref=e597]: git clone https://github.com/bradautomates/claude-video.git ~/.codex/skills/watch
+                  - button "Copy" [ref=e599] [cursor=pointer]:
+                    - img [ref=e600]
+                - generic [ref=e603]:
+                  - heading "Manual (developer)" [level=3] [ref=e604]
+                  - 'link "Permalink: Manual (developer)" [ref=e605] [cursor=pointer]':
+                    - /url: "#manual-developer"
+                    - img [ref=e606]
+                - generic [ref=e608]:
+                  - generic [ref=e609]: git clone https://github.com/bradautomates/claude-video.git ~/.claude/skills/watch
+                  - button "Copy" [ref=e611] [cursor=pointer]:
+                    - img [ref=e612]
+                - generic [ref=e615]:
+                  - heading "First run" [level=2] [ref=e616]
+                  - 'link "Permalink: First run" [ref=e617] [cursor=pointer]':
+                    - /url: "#first-run"
+                    - img [ref=e618]
+                - paragraph [ref=e620]:
+                  - text: On the first
+                  - code [ref=e621]: /watch
+                  - text: call, the skill runs
+                  - code [ref=e622]: scripts/setup.py --check
+                  - text: . If
+                  - code [ref=e623]: ffmpeg
+                  - text: /
+                  - code [ref=e624]: yt-dlp
+                  - text: "aren't on your PATH, or no Whisper API key is set, it walks you through fixing it:"
+                - list [ref=e625]:
+                  - listitem [ref=e626]:
+                    - strong [ref=e627]: macOS
+                    - text: — auto-runs
+                    - code [ref=e628]: brew install ffmpeg yt-dlp
+                    - text: .
+                  - listitem [ref=e629]:
+                    - strong [ref=e630]: Linux
+                    - text: — prints the exact
+                    - code [ref=e631]: apt
+                    - text: /
+                    - code [ref=e632]: dnf
+                    - text: /
+                    - code [ref=e633]: pipx
+                    - text: commands.
+                  - listitem [ref=e634]:
+                    - strong [ref=e635]: Windows
+                    - text: — prints the
+                    - code [ref=e636]: winget
+                    - text: /
+                    - code [ref=e637]: pip
+                    - text: commands.
+                  - listitem [ref=e638]:
+                    - strong [ref=e639]: API key
+                    - text: — scaffolds
+                    - code [ref=e640]: ~/.config/watch/.env
+                    - text: (mode
+                    - code [ref=e641]: "0600"
+                    - text: ) with commented placeholders for
+                    - code [ref=e642]: GROQ_API_KEY
+                    - text: (preferred) and
+                    - code [ref=e643]: OPENAI_API_KEY
+                    - text: .
+                - paragraph [ref=e644]:
+                  - text: After setup, preflight is silent and
+                  - code [ref=e645]: /watch
+                  - text: just works. The check is a sub-100ms lookup, so it doesn't slow you down on subsequent runs.
+                - generic [ref=e646]:
+                  - heading "Bring your own keys" [level=2] [ref=e647]
+                  - 'link "Permalink: Bring your own keys" [ref=e648] [cursor=pointer]':
+                    - /url: "#bring-your-own-keys"
+                    - img [ref=e649]
+                - paragraph [ref=e651]: Captions cover the majority of public videos for free. The Whisper fallback only kicks in when a video genuinely has no caption track — typically local files, TikToks, some Vimeos, and the occasional caption-less YouTube upload.
+                - table [ref=e653]:
+                  - rowgroup [ref=e654]:
+                    - row "Capability What you need Cost" [ref=e655]:
+                      - columnheader "Capability" [ref=e656]
+                      - columnheader "What you need" [ref=e657]
+                      - columnheader "Cost" [ref=e658]
+                  - rowgroup [ref=e659]:
+                    - row "Download + native captions yt-dlp + ffmpeg Free" [ref=e660]:
+                      - cell "Download + native captions" [ref=e661]
+                      - cell "yt-dlp + ffmpeg" [ref=e662]:
+                        - code [ref=e663]: yt-dlp
+                        - text: +
+                        - code [ref=e664]: ffmpeg
+                      - cell "Free" [ref=e665]
+                    - row "Whisper fallback (preferred) Groq API key — whisper-large-v3 Cheap, fast" [ref=e666]:
+                      - cell "Whisper fallback (preferred)" [ref=e667]
+                      - cell "Groq API key — whisper-large-v3" [ref=e668]:
+                        - link "Groq API key" [ref=e669] [cursor=pointer]:
+                          - /url: https://console.groq.com/keys
+                        - text: —
+                        - code [ref=e670]: whisper-large-v3
+                      - cell "Cheap, fast" [ref=e671]
+                    - row "Whisper fallback (alt) OpenAI API key — whisper-1 Standard pricing" [ref=e672]:
+                      - cell "Whisper fallback (alt)" [ref=e673]
+                      - cell "OpenAI API key — whisper-1" [ref=e674]:
+                        - link "OpenAI API key" [ref=e675] [cursor=pointer]:
+                          - /url: https://platform.openai.com/api-keys
+                        - text: —
+                        - code [ref=e676]: whisper-1
+                      - cell "Standard pricing" [ref=e677]
+                    - row "Disable Whisper entirely --no-whisper Free, frames-only when no captions" [ref=e678]:
+                      - cell "Disable Whisper entirely" [ref=e679]
+                      - cell "--no-whisper" [ref=e680]:
+                        - code [ref=e681]: "--no-whisper"
+                      - cell "Free, frames-only when no captions" [ref=e682]
+                - generic [ref=e683]:
+                  - heading "Usage" [level=2] [ref=e684]
+                  - 'link "Permalink: Usage" [ref=e685] [cursor=pointer]':
+                    - /url: "#usage"
+                    - img [ref=e686]
+                - generic [ref=e688]:
+                  - code [ref=e690]: /watch https://youtu.be/dQw4w9WgXcQ what happens at the 30 second mark? /watch https://www.tiktok.com/@user/video/123 summarize this /watch ~/Movies/screen-recording.mp4 when does the UI break? /watch https://vimeo.com/123 what tools does she mention?
+                  - button "Copy" [ref=e692] [cursor=pointer]:
+                    - img [ref=e693]
+                - paragraph [ref=e696]: "Focused on a specific section — denser frame budget, lower token cost:"
+                - generic [ref=e697]:
+                  - code [ref=e699]: "/watch https://youtu.be/abc --start 2:15 --end 2:45 /watch video.mp4 --start 50 --end 60 /watch \"$URL\" --start 1:12:00 # from 1h12m to end"
+                  - button "Copy" [ref=e701] [cursor=pointer]:
+                    - img [ref=e702]
+                - paragraph [ref=e705]:
+                  - text: Other knobs (passed to
+                  - code [ref=e706]: scripts/watch.py
+                  - text: "):"
+                - list [ref=e707]:
+                  - listitem [ref=e708]:
+                    - code [ref=e709]: "--max-frames N"
+                    - text: — lower the frame cap for a tighter token budget.
+                  - listitem [ref=e710]:
+                    - code [ref=e711]: "--resolution W"
+                    - text: — bump frame width to 1024 px when Claude needs to read on-screen text (slides, terminals, code).
+                  - listitem [ref=e712]:
+                    - code [ref=e713]: "--fps F"
+                    - text: — override the auto-fps calculation (still capped at 2 fps).
+                  - listitem [ref=e714]:
+                    - code [ref=e715]: "--whisper groq|openai"
+                    - text: — force a specific Whisper backend.
+                  - listitem [ref=e716]:
+                    - code [ref=e717]: "--no-whisper"
+                    - text: — disable transcription entirely; frames only.
+                  - listitem [ref=e718]:
+                    - code [ref=e719]: "--out-dir DIR"
+                    - text: "— keep working files somewhere specific (default: auto-generated tmp dir)."
+                - generic [ref=e720]:
+                  - heading "Limits" [level=2] [ref=e721]
+                  - 'link "Permalink: Limits" [ref=e722] [cursor=pointer]':
+                    - /url: "#limits"
+                    - img [ref=e723]
+                - list [ref=e725]:
+                  - listitem [ref=e726]:
+                    - strong [ref=e727]: "Best accuracy: under 10 minutes."
+                    - text: Past that the script prints a "sparse scan" warning — re-run focused on the part you actually care about with
+                    - code [ref=e728]: "--start"
+                    - text: /
+                    - code [ref=e729]: "--end"
+                    - text: .
+                  - listitem [ref=e730]:
+                    - strong [ref=e731]: "Hard caps: 2 fps, 100 frames."
+                    - text: Frame count drives token cost; the script enforces this even when the auto-fps math would imply higher.
+                  - listitem [ref=e732]:
+                    - strong [ref=e733]: "Whisper upload limit: 25 MB."
+                    - text: At mono 16 kHz that's about 50 minutes of audio. Longer videos need either captions or
+                    - code [ref=e734]: "--start"
+                    - text: /
+                    - code [ref=e735]: "--end"
+                    - text: to a smaller window.
+                  - listitem [ref=e736]:
+                    - strong [ref=e737]: No private platforms.
+                    - text: This skill doesn't log into anything. Public URLs and local files only. If yt-dlp can't reach it without auth, neither can
+                    - code [ref=e738]: /watch
+                    - text: .
+                - generic [ref=e739]:
+                  - heading "Structure" [level=2] [ref=e740]
+                  - 'link "Permalink: Structure" [ref=e741] [cursor=pointer]':
+                    - /url: "#structure"
+                    - img [ref=e742]
+                - generic [ref=e744]:
+                  - code [ref=e746]: ". ├── SKILL.md # skill contract — loaded by all three surfaces ├── scripts/ │ ├── watch.py # entry point — orchestrates download → frames → transcript │ ├── download.py # yt-dlp wrapper │ ├── frames.py # ffmpeg frame extraction + auto-fps logic │ ├── transcribe.py # VTT parsing + dedupe + Whisper orchestration │ ├── whisper.py # Groq / OpenAI clients (pure stdlib) │ ├── setup.py # preflight + installer │ └── build-skill.sh # build dist/watch.skill for claude.ai upload ├── hooks/ # SessionStart status hook (Claude Code only) ├── .claude-plugin/ # plugin.json + marketplace.json (Claude Code) ├── .codex-plugin/ # codex packaging └── .github/workflows/ # release.yml — auto-builds watch.skill on tag push"
+                  - button "Copy" [ref=e748] [cursor=pointer]:
+                    - img [ref=e749]
+                - generic [ref=e752]:
+                  - heading "Develop" [level=2] [ref=e753]
+                  - 'link "Permalink: Develop" [ref=e754] [cursor=pointer]':
+                    - /url: "#develop"
+                    - img [ref=e755]
+                - generic [ref=e757]:
+                  - generic [ref=e758]:
+                    - generic [ref=e759]: "# Build the claude.ai upload bundle:"
+                    - text: bash scripts/build-skill.sh
+                    - generic [ref=e760]: "# → dist/watch.skill"
+                  - button "Copy" [ref=e762] [cursor=pointer]:
+                    - img [ref=e763]
+                - paragraph [ref=e766]:
+                  - text: "Releasing: tag"
+                  - code [ref=e767]: vX.Y.Z
+                  - text: ", push the tag. The workflow builds"
+                  - code [ref=e768]: dist/watch.skill
+                  - text: and attaches it to the GitHub release.
+                - paragraph [ref=e769]:
+                  - text: See
+                  - link "CHANGELOG.md" [ref=e770] [cursor=pointer]:
+                    - /url: /bradautomates/claude-video/blob/main/CHANGELOG.md
+                  - text: for version history.
+                - generic [ref=e771]:
+                  - heading "Open source" [level=2] [ref=e772]
+                  - 'link "Permalink: Open source" [ref=e773] [cursor=pointer]':
+                    - /url: "#open-source"
+                    - img [ref=e774]
+                - paragraph [ref=e776]: MIT license.
+                - paragraph [ref=e777]:
+                  - text: Built on
+                  - code [ref=e778]: yt-dlp
+                  - text: ","
+                  - code [ref=e779]: ffmpeg
+                  - text: ", and Claude's multimodal"
+                  - code [ref=e780]: Read
+                  - text: tool. Whisper transcription via
+                  - link "Groq" [ref=e781] [cursor=pointer]:
+                    - /url: https://groq.com
+                  - text: or
+                  - link "OpenAI" [ref=e782] [cursor=pointer]:
+                    - /url: https://openai.com
+                  - text: .
+                - separator [ref=e783]
+                - paragraph [ref=e784]:
+                  - link "github.com/bradautomates/claude-video" [ref=e785] [cursor=pointer]:
+                    - /url: https://github.com/bradautomates/claude-video
+                  - text: ·
+                  - link "LICENSE" [ref=e786] [cursor=pointer]:
+                    - /url: /bradautomates/claude-video/blob/main/LICENSE
+        - generic [ref=e790]:
+          - generic [ref=e793]:
+            - heading "About" [level=2] [ref=e794]
+            - paragraph [ref=e795]: Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+            - heading "Resources" [level=3] [ref=e796]
+            - link "Readme" [ref=e798] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+              - img [ref=e799]
+              - text: Readme
+            - heading "License" [level=3] [ref=e801]
+            - link "MIT license" [ref=e803] [cursor=pointer]:
+              - /url: "#MIT-1-ov-file"
+              - img [ref=e804]
+              - text: MIT license
+            - link "Activity" [ref=e807] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/activity
+              - img [ref=e808]
+              - text: Activity
+            - heading "Stars" [level=3] [ref=e810]
+            - link "7 stars" [ref=e812] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/stargazers
+              - img [ref=e813]
+              - strong [ref=e815]: "7"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=e816]
+            - link "1 watching" [ref=e818] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/watchers
+              - img [ref=e819]
+              - strong [ref=e821]: "1"
+              - text: watching
+            - heading "Forks" [level=3] [ref=e822]
+            - link "2 forks" [ref=e824] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/forks
+              - img [ref=e825]
+              - strong [ref=e827]: "2"
+              - text: forks
+            - link "Report repository" [ref=e829] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fbradautomates%2Fclaude-video&report=bradautomates+%28user%29
+          - generic [ref=e831]:
+            - heading "Releases 3" [level=2] [ref=e832]:
+              - link "Releases 3" [ref=e833] [cursor=pointer]:
+                - /url: /bradautomates/claude-video/releases
+                - text: Releases
+                - generic "3" [ref=e834]
+            - link "v0.1.2 Latest Apr 24, 20265 days ago" [ref=e835] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/releases/tag/v0.1.2
+              - img [ref=e836]
+              - generic [ref=e838]:
+                - generic [ref=e839]:
+                  - generic [ref=e840]: v0.1.2
+                  - 'generic "Label: Latest" [ref=e841]': Latest
+                - generic [ref=e842]: Apr 24, 20265 days ago
+            - link "+ 2 releases" [ref=e844] [cursor=pointer]:
+              - /url: /bradautomates/claude-video/releases
+          - generic [ref=e846]:
+            - heading "Packages" [level=2] [ref=e847]:
+              - link "Packages" [ref=e848] [cursor=pointer]:
+                - /url: /users/bradautomates/packages?repo_name=claude-video
+            - generic [ref=e849]: No packages published
+          - generic [ref=e851]:
+            - heading "Contributors 2" [level=2] [ref=e852]:
+              - link "Contributors 2" [ref=e853] [cursor=pointer]:
+                - /url: /bradautomates/claude-video/graphs/contributors
+                - text: Contributors
+                - generic "2" [ref=e854]
+            - list [ref=e855]:
+              - listitem [ref=e856]:
+                - link "@claude" [ref=e857] [cursor=pointer]:
+                  - /url: https://github.com/claude
+                  - img "@claude" [ref=e858]
+                - link "claude Claude" [ref=e860] [cursor=pointer]:
+                  - /url: https://github.com/claude
+                  - strong [ref=e861]: claude
+                  - text: Claude
+              - listitem [ref=e862]:
+                - link "@bradautomates" [ref=e863] [cursor=pointer]:
+                  - /url: https://github.com/bradautomates
+                  - img "@bradautomates" [ref=e864]
+                - link "bradautomates" [ref=e866] [cursor=pointer]:
+                  - /url: https://github.com/bradautomates
+                  - strong [ref=e867]: bradautomates
+          - generic [ref=e869]:
+            - heading "Languages" [level=2] [ref=e870]
+            - list [ref=e875]:
+              - listitem [ref=e876]:
+                - link "Python 92.4%" [ref=e877] [cursor=pointer]:
+                  - /url: /bradautomates/claude-video/search?l=python
+                  - img [ref=e878]
+                  - generic [ref=e880]: Python
+                  - generic [ref=e881]: 92.4%
+              - listitem [ref=e882]:
+                - link "Shell 7.6%" [ref=e883] [cursor=pointer]:
+                  - /url: /bradautomates/claude-video/search?l=shell
+                  - img [ref=e884]
+                  - generic [ref=e886]: Shell
+                  - generic [ref=e887]: 7.6%
+  - contentinfo [ref=e889]:
+    - heading "Footer" [level=2] [ref=e890]
+    - generic [ref=e891]:
+      - generic [ref=e892]:
+        - link "GitHub Homepage" [ref=e893] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e894]
+        - generic [ref=e896]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e897]:
+        - heading "Footer navigation" [level=3] [ref=e898]
+        - list "Footer navigation" [ref=e899]:
+          - listitem [ref=e900]:
+            - link "Terms" [ref=e901] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e902]:
+            - link "Privacy" [ref=e903] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e904]:
+            - link "Security" [ref=e905] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e906]:
+            - link "Status" [ref=e907] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e908]:
+            - link "Community" [ref=e909] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e910]:
+            - link "Docs" [ref=e911] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e912]:
+            - link "Contact" [ref=e913] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e914]:
+            - button "Manage cookies" [ref=e916] [cursor=pointer]
+          - listitem [ref=e917]:
+            - button "Do not share my personal information" [ref=e919] [cursor=pointer]

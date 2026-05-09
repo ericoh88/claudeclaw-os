@@ -1,0 +1,2893 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e2707]:
+      - generic [ref=e2709]:
+        - generic [ref=e2710]:
+          - generic [ref=e2712]:
+            - link "Early AI-dopters" [ref=e2713] [cursor=pointer]:
+              - /url: /earlyaidopters
+              - generic [ref=e2717]: Early AI-dopters
+            - button [ref=e2722] [cursor=pointer]:
+              - img [ref=e2724]
+          - generic [ref=e2731]:
+            - img [ref=e2734]
+            - textbox "Search" [ref=e2736]: ASCII
+            - button [ref=e2737] [cursor=pointer]:
+              - img [ref=e2739]
+          - generic [ref=e2742]:
+            - button [ref=e2748] [cursor=pointer]:
+              - img [ref=e2750]
+            - generic [ref=e2753]:
+              - generic: 99+
+              - button [ref=e2758] [cursor=pointer]:
+                - img [ref=e2760]
+            - button "Eric Oh" [ref=e2768] [cursor=pointer]:
+              - generic "Eric Oh" [ref=e2771]:
+                - img "Eric Oh" [ref=e2772]
+        - generic [ref=e2774]:
+          - button "Community 31"
+          - button "Classroom 7" [ref=e2775] [cursor=pointer]
+          - button "Members 0" [ref=e2776] [cursor=pointer]
+      - generic [ref=e2779]:
+        - generic [ref=e2784]:
+          - img [ref=e2787]
+          - textbox "Search" [ref=e2789]: ASCII
+          - button [ref=e2790] [cursor=pointer]:
+            - img [ref=e2792]
+        - generic [ref=e2795]:
+          - button [ref=e2801] [cursor=pointer]:
+            - img [ref=e2803]
+          - generic [ref=e2806]:
+            - generic: 99+
+            - button [ref=e2811] [cursor=pointer]:
+              - img [ref=e2813]
+          - button "Eric Oh" [ref=e2821] [cursor=pointer]:
+            - generic "Eric Oh" [ref=e2824]:
+              - img "Eric Oh" [ref=e2825]
+      - generic [ref=e2827]:
+        - generic [ref=e2831]:
+          - generic [ref=e2836] [cursor=pointer]:
+            - generic [ref=e2837]:
+              - generic [ref=e2838]:
+                - generic [ref=e2839]:
+                  - link "Mark Kashef" [ref=e2843]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e2844]:
+                      - generic "Mark Kashef" [ref=e2845]:
+                        - img "Mark Kashef" [ref=e2846]
+                      - img [ref=e2848]:
+                        - generic [ref=e2850]: "9"
+                  - generic [ref=e2851]:
+                    - generic [ref=e2852]:
+                      - link "Mark Kashef" [ref=e2856]:
+                        - /url: /@mark-kashef-7464?g=earlyaidopters
+                        - generic [ref=e2859]: Mark Kashef
+                      - generic [ref=e2860]: 👑
+                      - generic [ref=e2861]: 🔥
+                    - generic [ref=e2862]:
+                      - generic [ref=e2864]: Mar 4 •
+                      - link "🎥 Loom Bites" [ref=e2865]:
+                        - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+                        - generic [ref=e2866]: 🎥 Loom Bites
+                - link "🟢 ASCII Art Skills for Claude Code - Learn Anything Visually" [active] [ref=e2867]:
+                  - /url: /earlyaidopters/ascii-art-skills-for-claude-code-learn-anything-visually
+                  - generic [ref=e2871]:
+                    - text: 🟢
+                    - emphasis [ref=e2872]: ASCII
+                    - text: Art Skills for Claude Code - Learn Anything Visually
+                - generic [ref=e2874]:
+                  - text: "Here's how it works: instead of spending heavy tokens on full builds or research, you use"
+                  - emphasis [ref=e2875]: ASCII
+                  - text: art to sketch things out first → cheaper to run, conserves ... models work with zero AI knowledge and it broke down every layer from tokenizer to output in a visual walkthrough Slash
+                  - emphasis [ref=e2876]: ASCII
+                  - text: "Design: sketch out app ... your context window, and you can even run it on Haiku Slash"
+                  - emphasis [ref=e2877]: ASCII
+                  - text: "Architecture: ask it to diagram anything technical → I asked it to explain how language ... project level first, then make them global once you're comfortable Pro tip: if Claude Code drops a new feature you don't understand, just ask for an"
+                  - emphasis [ref=e2878]: ASCII
+                  - text: ... committing a single line of code The real insight here is that most of the time we don't have a skill issue with Claude Code, we have a communication issue →
+                  - emphasis [ref=e2879]: ASCII
+                - generic [ref=e2880]:
+                  - generic [ref=e2881]:
+                    - button [ref=e2882]:
+                      - img [ref=e2884]
+                    - generic [ref=e2889]: "74"
+                  - generic [ref=e2890]:
+                    - img [ref=e2893]
+                    - generic [ref=e2895]: "67"
+                  - generic [ref=e2896]:
+                    - generic [ref=e2897]:
+                      - generic "Mark Kashef" [ref=e2900]:
+                        - img "Mark Kashef" [ref=e2901]
+                      - generic "Saima Ahmed" [ref=e2904]:
+                        - img "Saima Ahmed" [ref=e2905]
+                      - generic "Dev Dappr" [ref=e2908]:
+                        - img "Dev Dappr" [ref=e2909]
+                      - generic "Fabienne Wintle" [ref=e2912]:
+                        - img "Fabienne Wintle" [ref=e2913]
+                      - link "Lutfiya Miller" [ref=e2915]:
+                        - /url: /earlyaidopters/ascii-art-skills-for-claude-code-learn-anything-visually?p=60a518ab
+                        - generic "Lutfiya Miller" [ref=e2917]:
+                          - img "Lutfiya Miller" [ref=e2918]
+                    - link "Last comment 21d ago" [ref=e4105]:
+                      - /url: /earlyaidopters/ascii-art-skills-for-claude-code-learn-anything-visually?p=60a518ab
+              - generic [ref=e2921]:
+                - img "🟢 ASCII Art Skills for Claude Code - Learn Anything Visually" [ref=e2922]
+                - img [ref=e2924]
+            - generic [ref=e2929]:
+              - link "Jimmy Fuentes" [ref=e2933]:
+                - /url: /@jimmy?g=earlyaidopters
+                - generic [ref=e2934]:
+                  - generic "Jimmy Fuentes" [ref=e2935]:
+                    - img "Jimmy Fuentes" [ref=e2936]
+                  - img [ref=e2938]:
+                    - generic [ref=e2940]: "6"
+              - generic [ref=e2941]:
+                - generic [ref=e2943]:
+                  - link "Jimmy Fuentes" [ref=e2948]:
+                    - /url: /@jimmy?g=earlyaidopters
+                    - generic [ref=e2951]: Jimmy Fuentes
+                  - generic [ref=e2952]: 8 likes • Mar 4
+                - generic [ref=e2953]:
+                  - text: PlantUML block - Mind-map outline
+                  - emphasis [ref=e2954]: Ascii
+                  - text: is my main mode though. ... I also use Box-drawing Unicode tree & "
+                  - emphasis [ref=e2955]: ASCII
+                  - text: flowchart" for SOP style boxed flow chart. ... Dude,
+                  - emphasis [ref=e2956]: ascii
+                  - text: "is so underrated. This is one of those things I picked up from your videos (about something else haha) like last year. SO HELPFUL! ... Theres a bunch of others: - Indented bullet/list -"
+                  - emphasis [ref=e2957]: ASCII
+                  - text: style - Box-drawing Unicode tree - Markdown table - Mermaid diagram - Graphviz (DOT) graph -
+          - generic [ref=e2962] [cursor=pointer]:
+            - generic [ref=e2964]:
+              - generic [ref=e2965]:
+                - link "Mirza Iqbal" [ref=e2969]:
+                  - /url: /@mirza-iqbal-6463?g=earlyaidopters
+                  - generic [ref=e2970]:
+                    - generic "Mirza Iqbal" [ref=e2971]:
+                      - img "Mirza Iqbal" [ref=e2972]
+                    - img [ref=e2974]:
+                      - generic [ref=e2976]: "6"
+                - generic [ref=e2977]:
+                  - link "Mirza Iqbal" [ref=e2981]:
+                    - /url: /@mirza-iqbal-6463?g=earlyaidopters
+                    - generic [ref=e2984]: Mirza Iqbal
+                  - generic [ref=e2985]:
+                    - generic [ref=e2987]: 16d •
+                    - link "🎙️Discussion" [ref=e2988]:
+                      - /url: /earlyaidopters?c=d5bf22e251fe4163963fc845082f2502
+                      - generic [ref=e2989]: 🎙️Discussion
+              - link "does anyone know about that?" [ref=e2990]:
+                - /url: /earlyaidopters/does-anyone-know-about-that
+                - generic [ref=e2992]: does anyone know about that?
+              - generic [ref=e2995]: I can’t remember exactly, but at some point in this community, someone asked how @Mark Kashef creates images to simplify complex topics in a visual and structured way while explaining them. I’m not sure who asked the question or which video it referred to. I need that same kind of creativity for one or two of my sessions with clients. Does anyone happen to know which video/Post it was?
+              - generic [ref=e2996]:
+                - generic [ref=e2997]:
+                  - button [ref=e2998]:
+                    - img [ref=e3000]
+                  - generic [ref=e3005]: "3"
+                - generic [ref=e3006]:
+                  - img [ref=e3009]
+                  - generic [ref=e3011]: "8"
+                - generic [ref=e3012]:
+                  - generic [ref=e3013]:
+                    - generic "David Di Lallo" [ref=e3016]:
+                      - img "David Di Lallo" [ref=e3017]
+                    - generic "Abhishek Padmanabhan" [ref=e3020]:
+                      - img "Abhishek Padmanabhan" [ref=e3021]
+                    - generic "Mark Kashef" [ref=e3024]:
+                      - img "Mark Kashef" [ref=e3025]
+                    - link "Mirza Iqbal" [ref=e3027]:
+                      - /url: /earlyaidopters/does-anyone-know-about-that?p=3f7d7ef6
+                      - generic "Mirza Iqbal" [ref=e3029]:
+                        - img "Mirza Iqbal" [ref=e3030]
+                  - link "New comment 16d ago" [ref=e3032]:
+                    - /url: /earlyaidopters/does-anyone-know-about-that?p=3f7d7ef6
+            - generic [ref=e3035]:
+              - link "Abhishek Padmanabhan" [ref=e3039]:
+                - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                - generic [ref=e3040]:
+                  - generic "Abhishek Padmanabhan" [ref=e3041]:
+                    - img "Abhishek Padmanabhan" [ref=e3042]
+                  - img [ref=e3044]:
+                    - generic [ref=e3046]: "6"
+              - generic [ref=e3047]:
+                - generic [ref=e3049]:
+                  - link "Abhishek Padmanabhan" [ref=e3054]:
+                    - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                    - generic [ref=e3057]: Abhishek Padmanabhan
+                  - generic [ref=e3058]: 1 like • 16d
+                - generic [ref=e3059]:
+                  - text: Is it the
+                  - emphasis [ref=e3060]: ASCII
+                  - text: diagram post?
+          - generic [ref=e3065] [cursor=pointer]:
+            - generic [ref=e3066]:
+              - generic [ref=e3067]:
+                - generic [ref=e3068]:
+                  - link "Ryan Williams" [ref=e3072]:
+                    - /url: /@ryan-williams-5738?g=earlyaidopters
+                    - generic [ref=e3073]:
+                      - generic "Ryan Williams" [ref=e3074]:
+                        - img "Ryan Williams" [ref=e3075]
+                      - img [ref=e3077]:
+                        - generic [ref=e3079]: "2"
+                  - generic [ref=e3080]:
+                    - link "Ryan Williams" [ref=e3084]:
+                      - /url: /@ryan-williams-5738?g=earlyaidopters
+                      - generic [ref=e3087]: Ryan Williams
+                    - generic [ref=e3088]:
+                      - generic [ref=e3090]: Mar 19 •
+                      - link "🎙️Discussion" [ref=e3091]:
+                        - /url: /earlyaidopters?c=d5bf22e251fe4163963fc845082f2502
+                        - generic [ref=e3092]: 🎙️Discussion
+                - link "Does anyone know how Mark is making these visuals?" [ref=e3093]:
+                  - /url: /earlyaidopters/does-anyone-know-how-mark-is-making-these-visuals
+                  - generic [ref=e3095]: Does anyone know how Mark is making these visuals?
+                - generic [ref=e3098]: I offer support and onboarding for a tool called HighLevel and one of my biggest challenges is explaining complex concepts without losing people in conversation with words alone. I've been watching your content and the way you use images to tell a story is something I want to learn. The brain diagram with the different sections, the system diagrams showing how everything connects — they communicate in 3 seconds what would take a few minutes of conversations and misunderstandings to finally clarify. I can see he is using Excalidraw as his canvas, but I can't figure out the actual creative process behind it. Is he prompting Claude to generate the visuals? Notebook LM? Something else? For anyone else doing something similar — would love to hear how you're building this into your workflow too.
+                - generic [ref=e3099]:
+                  - generic [ref=e3100]:
+                    - button [ref=e3101]:
+                      - img [ref=e3103]
+                    - generic [ref=e3108]: "15"
+                  - generic [ref=e3109]:
+                    - img [ref=e3112]
+                    - generic [ref=e3114]: "23"
+                  - generic [ref=e3115]:
+                    - generic [ref=e3116]:
+                      - generic "Mark Kashef" [ref=e3119]:
+                        - img "Mark Kashef" [ref=e3120]
+                      - generic "Michael Kidder" [ref=e3123]:
+                        - img "Michael Kidder" [ref=e3124]
+                      - generic "Kamal Ambaram" [ref=e3127]:
+                        - img "Kamal Ambaram" [ref=e3128]
+                      - generic "Ashwin K" [ref=e3131]:
+                        - img "Ashwin K" [ref=e3132]
+                      - link "Michael Graham" [ref=e3134]:
+                        - /url: /earlyaidopters/does-anyone-know-how-mark-is-making-these-visuals?p=7c2bf64b
+                        - generic "Michael Graham" [ref=e3136]:
+                          - img "Michael Graham" [ref=e3137]
+                    - link "New comment Mar 26" [ref=e3139]:
+                      - /url: /earlyaidopters/does-anyone-know-how-mark-is-making-these-visuals?p=7c2bf64b
+              - img "Does anyone know how Mark is making these visuals?" [ref=e3141]
+            - generic [ref=e3144]:
+              - link "Glen Wilson" [ref=e3148]:
+                - /url: /@glen-wilson-7220?g=earlyaidopters
+                - generic [ref=e3149]:
+                  - generic "Glen Wilson" [ref=e3150]:
+                    - img "Glen Wilson" [ref=e3151]
+                  - img [ref=e3153]:
+                    - generic [ref=e3155]: "3"
+              - generic [ref=e3156]:
+                - generic [ref=e3158]:
+                  - link "Glen Wilson" [ref=e3163]:
+                    - /url: /@glen-wilson-7220?g=earlyaidopters
+                    - generic [ref=e3166]: Glen Wilson
+                  - generic [ref=e3167]: 3 likes • Mar 19
+                - generic [ref=e3168]:
+                  - text: I know you showed how to use the
+                  - emphasis [ref=e3169]: ascii
+                  - text: art, and there was a mention of using paperbanana??
+          - generic [ref=e3174] [cursor=pointer]:
+            - generic [ref=e3175]:
+              - generic [ref=e3176]:
+                - generic [ref=e3177]:
+                  - link "Mark Kashef" [ref=e3181]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e3182]:
+                      - generic "Mark Kashef" [ref=e3183]:
+                        - img "Mark Kashef" [ref=e3184]
+                      - img [ref=e3186]:
+                        - generic [ref=e3188]: "9"
+                  - generic [ref=e3189]:
+                    - generic [ref=e3190]:
+                      - link "Mark Kashef" [ref=e3194]:
+                        - /url: /@mark-kashef-7464?g=earlyaidopters
+                        - generic [ref=e3197]: Mark Kashef
+                      - generic [ref=e3198]: 👑
+                      - generic [ref=e3199]: 🔥
+                    - generic [ref=e3200]:
+                      - generic [ref=e3202]: Sep '25 •
+                      - link "📹 Courses & Podcasts" [ref=e3203]:
+                        - /url: /earlyaidopters?c=846e1c8a25cd421492f3421e8e1ac8cb
+                        - generic [ref=e3204]: 📹 Courses & Podcasts
+                - 'link "Claude Code Day 13: Replace Superapps with Claude Code ☢️" [ref=e3205]':
+                  - /url: /earlyaidopters/claude-code-day-13-replace-superapps-with-claude-code
+                  - generic [ref=e3207]: "Claude Code Day 13: Replace Superapps with Claude Code ☢️"
+                - generic [ref=e3210]: "With this technique, you can say BYE BYE to apps like Manus 🙏🏽 10 minutes to turn Claude Code into your all-in-one business automation suite - generating complete AI audit packages that would take days in other tools. What you'll watch: Building an entire consulting package in 40 minutes: - Process automation summaries for HVAC business - Mermaid diagrams for every workflow - ASCII art for client presentations - Project timelines with cost estimates - All from ONE prompt The mega-prompt that replaces Manus: \"Create folders with assets: process automations, mermaid diagrams, ASCII art for Miro boards, project plans with timelines and costs at $120/hour plus 40% agency premium\" Live client example shown: - Capital Comfort Systems (Ottawa HVAC) - Web scraping for business understanding - AI implementation strategy - Complete automation roadmap Assets generated automatically: /process_automation_summary - Lead generation workflows - Emergency dispatch automation - Quote conversion systems /mermaid_diagrams - Complete workflow visualizations - Lead scoring with emojis - Human-in-the-loop indicators /ascii_art - Customer journey maps - Architecture diagrams - Implementation roadmaps /project_plans - Timeline breakdowns - Cost estimates per automation - ROI projections Complete prompt provided below - copy, customize for your industry, deliver professional consulting packages in under an hour. \"Okay, so I want you to come up with a full plan on how we could implement AI in this business. But I don't just want you to come back with a verbal plan. I want you to create multiple folders with assets that you generate per folder, ideally in a Markdown file each. One is I want you to go through what this business might need in terms of AI and automation and be practical, don't be airy-fairy. Don't use random stuff, as of 2023, because your data is limited, you're stuck, and it's 3 years past your last training. So we have things like right now we have N8N, we have Make.com, we have Zapier. N8N has this thing called an AI Agent Module that lets an AI agent use different tools and have some like a chat trigger. You can even use it to build let's say chatbots instead of using something like VoiceFlow or Bot Press, but those are options as well. Given the nature of this business, go through and come up with a series of processes that could theoretically be automated and implemented. You can imagine what the lead generation process for such a business might be, what the lead nurture process might look like, what answering the phone might look like. Now in 2025, we have something like voice agents, so you can go do some research if you want on things like VAPI on retail on different platforms that exist in 2025 that again you're unaware of given your training. So go through all of that and come up with a series of processes and store the processes and the summary of what can be done in a folder called Process Automation Summary. Then create another folder where you create a Mermaid diagram to represent what it would look like to automate the part of the process. Some of these processes might be able to be handled A-to-Z, so maybe an email process where there's an inbox they have managed on Gmail, then they get inquiries. We could theoretically handle the inquiry responses end-to-end or it could be a draft. But there will be many parts of the business that need a human in the loop, so for those parts of the business outline where the human intervention is needed and outline as well what could be done from an automation standpoint and what platforms might be useful. And in the Mermaid diagram try to be platform-agnostic, so you can just say AI agent as a proxy if you think AI agent is good, but remember that being more deterministic is better when it comes to building these workflows. Folder number two should be our Mermaid diagrams corresponding to your suggested automations. Number three should be ASCII art that I can paste onto a Miro board, so when I'm walking through the client on our first discovery call together, what we can do for them in terms of automation, I would have a diagram that I can easily import into something like Miro and make it easier for me to explain my point visually. And after that, I want you to create one more folder where we go through what the timelines might look like and the project might look like for each and every automation from the initial timeline to get it done, the most likely the necessary feedback loops we would have throughout the process, where we would need check-ins, and try to come up with an estimate of cost per automation, so assume that my hour is $120 USD per hour, and try to think through how many hours it might take to actually complete that, and try to add some form of a 40% premium for my agency to come up with a project plan as well as associated costs with every single automation in the other folders, and naturally, I want you to put this in another folder as well.\""
+                - generic [ref=e3211]:
+                  - generic [ref=e3212]:
+                    - button [ref=e3213]:
+                      - img [ref=e3215]
+                    - generic [ref=e3220]: "38"
+                  - generic [ref=e3221]:
+                    - img [ref=e3224]
+                    - generic [ref=e3226]: "52"
+                  - generic [ref=e3227]:
+                    - generic [ref=e3228]:
+                      - generic "Jimmy Fuentes" [ref=e3231]:
+                        - img "Jimmy Fuentes" [ref=e3232]
+                      - generic "Mark Kashef" [ref=e3235]:
+                        - img "Mark Kashef" [ref=e3236]
+                      - generic "Miguel Simon" [ref=e3239]:
+                        - img "Miguel Simon" [ref=e3240]
+                      - generic "Lukáš Mitlener" [ref=e3243]:
+                        - img "Lukáš Mitlener" [ref=e3244]
+                      - link "Justin vom Eigen" [ref=e3246]:
+                        - /url: /earlyaidopters/claude-code-day-13-replace-superapps-with-claude-code?p=02e73a3a
+                        - generic "Justin vom Eigen" [ref=e3248]:
+                          - img "Justin vom Eigen" [ref=e3249]
+                    - link "New comment Jan 12" [ref=e3251]:
+                      - /url: /earlyaidopters/claude-code-day-13-replace-superapps-with-claude-code?p=02e73a3a
+              - generic [ref=e3252]:
+                - 'img "Claude Code Day 13: Replace Superapps with Claude Code ☢️" [ref=e3253]'
+                - img [ref=e3255]
+            - generic [ref=e3258]:
+              - generic [ref=e3260]:
+                - link "Philipp Kowalski" [ref=e3264]:
+                  - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                  - generic [ref=e3265]:
+                    - generic "Philipp Kowalski" [ref=e3266]:
+                      - img "Philipp Kowalski" [ref=e3267]
+                    - img [ref=e3269]:
+                      - generic [ref=e3271]: "6"
+                - generic [ref=e3272]:
+                  - generic [ref=e3274]:
+                    - link "Philipp Kowalski" [ref=e3279]:
+                      - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                      - generic [ref=e3282]: Philipp Kowalski
+                    - generic [ref=e3283]: 1 like • Sep '25
+                  - generic [ref=e3284]:
+                    - text: Why do you explicitly ask about
+                    - emphasis [ref=e3285]: ASCII
+                    - text: art diagrams, and you mentioned you're going to use them in Miro?
+              - generic [ref=e3287]:
+                - link "Mark Kashef" [ref=e3291]:
+                  - /url: /@mark-kashef-7464?g=earlyaidopters
+                  - generic [ref=e3292]:
+                    - generic "Mark Kashef" [ref=e3293]:
+                      - img "Mark Kashef" [ref=e3294]
+                    - img [ref=e3296]:
+                      - generic [ref=e3298]: "9"
+                - generic [ref=e3299]:
+                  - generic [ref=e3301]:
+                    - generic [ref=e3303]:
+                      - link "Mark Kashef" [ref=e3307]:
+                        - /url: /@mark-kashef-7464?g=earlyaidopters
+                        - generic [ref=e3310]: Mark Kashef
+                      - generic [ref=e3311]: 👑
+                      - generic [ref=e3312]: 🔥
+                    - generic [ref=e3313]: 1 like • Sep '25
+                  - generic [ref=e3314]:
+                    - text: great question you can't import
+                    - emphasis [ref=e3315]: ASCII
+                    - text: diagrams, but I personally use them to help me break down concept ideas visually in a way that might resonate with
+          - generic [ref=e3320] [cursor=pointer]:
+            - generic [ref=e3321]:
+              - generic [ref=e3322]:
+                - generic [ref=e3323]:
+                  - link "Mark Kashef" [ref=e3327]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e3328]:
+                      - generic "Mark Kashef" [ref=e3329]:
+                        - img "Mark Kashef" [ref=e3330]
+                      - img [ref=e3332]:
+                        - generic [ref=e3334]: "9"
+                  - generic [ref=e3335]:
+                    - generic [ref=e3336]:
+                      - link "Mark Kashef" [ref=e3340]:
+                        - /url: /@mark-kashef-7464?g=earlyaidopters
+                        - generic [ref=e3343]: Mark Kashef
+                      - generic [ref=e3344]: 👑
+                      - generic [ref=e3345]: 🔥
+                    - generic [ref=e3346]:
+                      - generic [ref=e3348]: Mar 11 •
+                      - link "🎥 Loom Bites" [ref=e3349]:
+                        - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+                        - generic [ref=e3350]: 🎥 Loom Bites
+                - link "🟢 What I Learned Teaching My Last Claude Code Workshop" [ref=e3351]:
+                  - /url: /earlyaidopters/what-i-learned-teaching-my-last-claude-code-workshop
+                  - generic [ref=e3353]: 🟢 What I Learned Teaching My Last Claude Code Workshop
+                - generic [ref=e3356]: "I teach a lot of AI workshops and this one humbled me - here's what went wrong and what you can take from it The company was fully Windows 11 with strict IT security → Warp kept getting auto-uninstalled by their firewall → what I planned as 15 minutes of setup turned into over half the session → the fix was embarrassingly simple: just use PowerShell and install Node.js from the browser directly The lesson: send a checklist 24-48 hours before any workshop, every time, no matter how confident you are that your setup process works Bigger realization: I pushed them toward Claude Code when Claude Cowork would have been the smarter starting point → Cowork has one-click connectors to Microsoft 365, Outlook, etc → once IT whitelists Cowork, every underlying tool and MCP is whitelisted by proxy → their use cases were honestly fine for Cowork and we could have spent the whole session on actual learning Here's how I'm thinking about the teaching ladder now: → Shallow end: Cowork and Desktop - easiest install, easiest vocab, builds confidence first → Middle ground: Claude Code with skills - for companies with flexible IT and deeper use cases → Deep end: agents, CLIs, parallel sub-agents - only when the company is ready from an infrastructure and personnel standpoint One insight on skills for teams: if a skill is mostly written instructions with very few functions, it will behave inconsistently across models and context lengths → more Pythonic functions = more deterministic output = more reliable for a team sharing the same skill Questions I'm now asking before every engagement: → what does your IT stack look like? → can you install MCP servers? → are you allowed to access external services via skills? If you're selling AI workshops or education, learn from my scar so you don't have to earn your own"
+                - generic [ref=e3357]:
+                  - generic [ref=e3358]:
+                    - button [ref=e3359]:
+                      - img [ref=e3361]
+                    - generic [ref=e3366]: "65"
+                  - generic [ref=e3367]:
+                    - img [ref=e3370]
+                    - generic [ref=e3372]: "60"
+                  - generic [ref=e3373]:
+                    - generic [ref=e3374]:
+                      - generic "Mohamed Rashwan" [ref=e3377]:
+                        - img "Mohamed Rashwan" [ref=e3378]
+                      - generic "Chad Whaley" [ref=e3381]:
+                        - img "Chad Whaley" [ref=e3382]
+                      - generic "Adeel Hasan" [ref=e3385]:
+                        - img "Adeel Hasan" [ref=e3386]
+                      - generic "Gerard Martelly" [ref=e3389]:
+                        - img "Gerard Martelly" [ref=e3390]
+                      - link "Liam B" [ref=e3392]:
+                        - /url: /earlyaidopters/what-i-learned-teaching-my-last-claude-code-workshop?p=c4dc8358
+                        - generic "Liam B" [ref=e3394]:
+                          - img "Liam B" [ref=e3395]
+                    - link "New comment Mar 27" [ref=e3397]:
+                      - /url: /earlyaidopters/what-i-learned-teaching-my-last-claude-code-workshop?p=c4dc8358
+              - generic [ref=e3398]:
+                - img "🟢 What I Learned Teaching My Last Claude Code Workshop" [ref=e3399]
+                - img [ref=e3401]
+            - generic [ref=e3406]:
+              - link "Teresa Greasley" [ref=e3410]:
+                - /url: /@teresa-greasley-7682?g=earlyaidopters
+                - generic [ref=e3411]:
+                  - generic "Teresa Greasley" [ref=e3412]:
+                    - img "Teresa Greasley" [ref=e3413]
+                  - img [ref=e3415]:
+                    - generic [ref=e3417]: "4"
+              - generic [ref=e3418]:
+                - generic [ref=e3420]:
+                  - link "Teresa Greasley" [ref=e3425]:
+                    - /url: /@teresa-greasley-7682?g=earlyaidopters
+                    - generic [ref=e3428]: Teresa Greasley
+                  - generic [ref=e3429]: 2 likes • Mar 11
+                - generic [ref=e3430]:
+                  - text: I asked because I really like how you are doing your diagrams lately, I feel like you did a video on this but I can't find it now (not the
+                  - emphasis [ref=e3431]: ASCII
+                  - text: Art one
+          - generic [ref=e3436] [cursor=pointer]:
+            - generic [ref=e3438]:
+              - generic [ref=e3439]:
+                - link "Norbert Szabó" [ref=e3443]:
+                  - /url: /@norbert-szabo-6617?g=earlyaidopters
+                  - generic [ref=e3444]:
+                    - generic "Norbert Szabó" [ref=e3445]:
+                      - img "Norbert Szabó" [ref=e3446]
+                    - img [ref=e3448]:
+                      - generic [ref=e3450]: "5"
+                - generic [ref=e3451]:
+                  - link "Norbert Szabó" [ref=e3455]:
+                    - /url: /@norbert-szabo-6617?g=earlyaidopters
+                    - generic [ref=e3458]: Norbert Szabó
+                  - generic [ref=e3459]:
+                    - generic [ref=e3461]: Sep '25 •
+                    - link "🔥 WINS" [ref=e3462]:
+                      - /url: /earlyaidopters?c=11dc076ef272499e8d3c653b094389dd
+                      - generic [ref=e3463]: 🔥 WINS
+              - link "I really feel like Superman" [ref=e3464]:
+                - /url: /earlyaidopters/i-really-feel-like-superman
+                - generic [ref=e3466]: I really feel like Superman
+              - generic [ref=e3469]: "Re: How to CHEAT Time and Get 10X More Done With AI It is crazy. I've just watched your video in the morning than my boss called me that we should somehow systematize our website building and design flow. I did it in claude project first but then wrote a flow in claude code where I iterate claude rewrites the prompt, regenerates the website template and does a final review. In acouple hours I got a pretty reliable landing page generator. I love these kinds of videos @Mark Kashef This is true leverage. No more manual tinkering with the design because now every time I run the prompt the results are pretty consistent. I will try to break it with other niches to make it more universal and resilient but I'm pretty content with the result so far. And it is just the beginning!"
+              - generic [ref=e3470]:
+                - generic [ref=e3471]:
+                  - button [ref=e3472]:
+                    - img [ref=e3474]
+                  - generic [ref=e3479]: "9"
+                - generic [ref=e3480]:
+                  - img [ref=e3483]
+                  - generic [ref=e3485]: "8"
+                - generic [ref=e3486]:
+                  - generic [ref=e3487]:
+                    - generic "Mark Kashef" [ref=e3490]:
+                      - img "Mark Kashef" [ref=e3491]
+                    - generic "Norbert Szabó" [ref=e3494]:
+                      - img "Norbert Szabó" [ref=e3495]
+                    - generic "Sheria P" [ref=e3498]:
+                      - img "Sheria P" [ref=e3499]
+                    - generic "Baz Ozturk" [ref=e3502]:
+                      - img "Baz Ozturk" [ref=e3503]
+                    - link "Harrison Smith" [ref=e3505]:
+                      - /url: /earlyaidopters/i-really-feel-like-superman?p=50c2331d
+                      - generic "Harrison Smith" [ref=e3507]:
+                        - img "Harrison Smith" [ref=e3508]
+                  - link "New comment Sep '25" [ref=e3510]:
+                    - /url: /earlyaidopters/i-really-feel-like-superman?p=50c2331d
+            - generic [ref=e3513]:
+              - link "Norbert Szabó" [ref=e3517]:
+                - /url: /@norbert-szabo-6617?g=earlyaidopters
+                - generic [ref=e3518]:
+                  - generic "Norbert Szabó" [ref=e3519]:
+                    - img "Norbert Szabó" [ref=e3520]
+                  - img [ref=e3522]:
+                    - generic [ref=e3524]: "5"
+              - generic [ref=e3525]:
+                - generic [ref=e3527]:
+                  - link "Norbert Szabó" [ref=e3532]:
+                    - /url: /@norbert-szabo-6617?g=earlyaidopters
+                    - generic [ref=e3535]: Norbert Szabó
+                  - generic [ref=e3536]: 1 like • Sep '25
+                - generic [ref=e3537]:
+                  - text: "@Mark Kashef I was a bit shy to boast that I used your"
+                  - emphasis [ref=e3538]: ascii
+                  - text: design trick to make claude draw the best way to cut the plywood boards I was about to order
+          - generic [ref=e3543] [cursor=pointer]:
+            - generic [ref=e3544]:
+              - generic [ref=e3545]:
+                - generic [ref=e3546]:
+                  - link "Mark Kashef" [ref=e3550]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e3551]:
+                      - generic "Mark Kashef" [ref=e3552]:
+                        - img "Mark Kashef" [ref=e3553]
+                      - img [ref=e3555]:
+                        - generic [ref=e3557]: "9"
+                  - generic [ref=e3558]:
+                    - generic [ref=e3559]:
+                      - link "Mark Kashef" [ref=e3563]:
+                        - /url: /@mark-kashef-7464?g=earlyaidopters
+                        - generic [ref=e3566]: Mark Kashef
+                      - generic [ref=e3567]: 👑
+                      - generic [ref=e3568]: 🔥
+                    - generic [ref=e3569]:
+                      - generic [ref=e3571]: Feb 14 •
+                      - link "🎥 Loom Bites" [ref=e3572]:
+                        - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+                        - generic [ref=e3573]: 🎥 Loom Bites
+                - link "Agent Teams for Non-Technical Tasks - 92 Slide Deck in Minutes" [ref=e3574]:
+                  - /url: /earlyaidopters/agent-teams-for-non-technical-tasks-92-slide-deck-in-minutes
+                  - generic [ref=e3576]: Agent Teams for Non-Technical Tasks - 92 Slide Deck in Minutes
+                - generic [ref=e3579]: "I found a really strong application for Claude Code agent team I have less than 24 hours to build a 100-slide course deck for O'Reilly Media, so I put agent teams to work on the entire process Step one: Claude Code generated 92 slides with visuals covering a full 4-5 hour live course Step two: I had it spawn 4 agent team members - Sarah, James, Priya, and Carlos - each taking on a different persona of someone who might take this course Their job was to roast every slide → score comprehension out of 5 → flag anywhere I assumed knowledge that a complete beginner wouldn't have James was brutal - calling out things like \"you assume I know what a CLAUDE MD is\" and \"three concepts dropped at once with no introduction\" Step three: I fed all the audit logs back in and spawned a new agent team to fix every slide where comprehension wasn't a perfect 5 out of 5 Then a cleanup team caught 941 formatting issues across 92 slides - overlapping titles, duplicate footers, diagram problems The key insight is that agent teams shine on meaty non-technical tasks like slide decks, proposals, Excel files, and PDFs because they break the work into batches instead of bloating your context window This same approach works for any large content creation task - you just need to provide the direction and let the teams audit and refine in waves Big disclaimer: agent teams do consume more tokens, but the ROI here was massive for the time saved"
+                - generic [ref=e3580]:
+                  - generic [ref=e3581]:
+                    - button [ref=e3582]:
+                      - img [ref=e3584]
+                    - generic [ref=e3589]: "49"
+                  - generic [ref=e3590]:
+                    - img [ref=e3593]
+                    - generic [ref=e3595]: "61"
+                  - generic [ref=e3596]:
+                    - generic [ref=e3597]:
+                      - generic "Sean Crowe" [ref=e3600]:
+                        - img "Sean Crowe" [ref=e3601]
+                      - generic "Mark Kashef" [ref=e3604]:
+                        - img "Mark Kashef" [ref=e3605]
+                      - generic "Anthony Medina" [ref=e3608]:
+                        - img "Anthony Medina" [ref=e3609]
+                      - generic "Kelvin Parker" [ref=e3612]:
+                        - img "Kelvin Parker" [ref=e3613]
+                      - link "Carlo Dreyer" [ref=e3615]:
+                        - /url: /earlyaidopters/agent-teams-for-non-technical-tasks-92-slide-deck-in-minutes?p=24336c0d
+                        - generic "Carlo Dreyer" [ref=e3617]:
+                          - img "Carlo Dreyer" [ref=e3618]
+                    - link "New comment Mar 18" [ref=e3620]:
+                      - /url: /earlyaidopters/agent-teams-for-non-technical-tasks-92-slide-deck-in-minutes?p=24336c0d
+              - generic [ref=e3621]:
+                - img "Agent Teams for Non-Technical Tasks - 92 Slide Deck in Minutes" [ref=e3622]
+                - img [ref=e3624]
+            - generic [ref=e3629]:
+              - link "Mark Kashef" [ref=e3633]:
+                - /url: /@mark-kashef-7464?g=earlyaidopters
+                - generic [ref=e3634]:
+                  - generic "Mark Kashef" [ref=e3635]:
+                    - img "Mark Kashef" [ref=e3636]
+                  - img [ref=e3638]:
+                    - generic [ref=e3640]: "9"
+              - generic [ref=e3641]:
+                - generic [ref=e3643]:
+                  - generic [ref=e3645]:
+                    - link "Mark Kashef" [ref=e3649]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e3652]: Mark Kashef
+                    - generic [ref=e3653]: 👑
+                    - generic [ref=e3654]: 🔥
+                  - generic [ref=e3655]: 1 like • Feb 14
+                - generic [ref=e3656]:
+                  - text: For the PowerPoint themselves, I basically create an Excalidra diagram or
+                  - emphasis [ref=e3657]: ASCII
+                  - text: art, and then I create that as the foundation or schematic, and then create
+          - generic [ref=e3662] [cursor=pointer]:
+            - generic [ref=e3663]:
+              - generic [ref=e3664]:
+                - generic [ref=e3665]:
+                  - link "Abhishek Padmanabhan" [ref=e3669]:
+                    - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                    - generic [ref=e3670]:
+                      - generic "Abhishek Padmanabhan" [ref=e3671]:
+                        - img "Abhishek Padmanabhan" [ref=e3672]
+                      - img [ref=e3674]:
+                        - generic [ref=e3676]: "6"
+                  - generic [ref=e3677]:
+                    - link "Abhishek Padmanabhan" [ref=e3681]:
+                      - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                      - generic [ref=e3684]: Abhishek Padmanabhan
+                    - generic [ref=e3685]:
+                      - generic [ref=e3687]: Mar 27 •
+                      - link "🎙️Discussion" [ref=e3688]:
+                        - /url: /earlyaidopters?c=d5bf22e251fe4163963fc845082f2502
+                        - generic [ref=e3689]: 🎙️Discussion
+                - link "LinkedIn content tip" [ref=e3690]:
+                  - /url: /earlyaidopters/linkedin-content-tip
+                  - generic [ref=e3692]: LinkedIn content tip
+                - generic [ref=e3695]: "Sharing something that clicked for me recently: I used to think these crazy good LinkedIn creatives were just… better designers. Like people using Figma, Illustrator, all that. I was mostly on Canva — and honestly, my stuff always felt slightly off.Fonts, spacing, something just didn’t hit. Then this shifted for me: These posts are basically just web pages in a different format. - headline = hero section - content = feature blocks - layout = just structured UI So instead of fighting with AI images or Canva… I tried this: 1. Took a post I liked 2. Got it recreated in HTML 3. Saved as png The output was way cleaner instantly. No weird fonts. No alignment issues. No back-and-forth. Attaching 3 versions below —you can literally see the difference. version one is from the original Influencer version two is what was built with the HTML style version three is the output that the image and models gave me. Curious if anyone else has tried something like this?"
+                - generic [ref=e3696]:
+                  - generic [ref=e3697]:
+                    - button [ref=e3698]:
+                      - img [ref=e3700]
+                    - generic [ref=e3705]: "16"
+                  - generic [ref=e3706]:
+                    - img [ref=e3709]
+                    - generic [ref=e3711]: "25"
+                  - generic [ref=e3712]:
+                    - generic [ref=e3713]:
+                      - generic "Carl Gutierrez" [ref=e3716]:
+                        - img "Carl Gutierrez" [ref=e3717]
+                      - generic "Abhishek Padmanabhan" [ref=e3720]:
+                        - img "Abhishek Padmanabhan" [ref=e3721]
+                      - generic "Sheria P" [ref=e3724]:
+                        - img "Sheria P" [ref=e3725]
+                      - generic "Alexandra Spalato" [ref=e3728]:
+                        - img "Alexandra Spalato" [ref=e3729]
+                      - link "Pamela Moren" [ref=e3731]:
+                        - /url: /earlyaidopters/linkedin-content-tip?p=67ce94ee
+                        - generic "Pamela Moren" [ref=e3733]:
+                          - img "Pamela Moren" [ref=e3734]
+                    - link "New comment 26d ago" [ref=e3736]:
+                      - /url: /earlyaidopters/linkedin-content-tip?p=67ce94ee
+              - img "LinkedIn content tip" [ref=e3738]
+            - generic [ref=e3741]:
+              - link "Abhishek Padmanabhan" [ref=e3745]:
+                - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                - generic [ref=e3746]:
+                  - generic "Abhishek Padmanabhan" [ref=e3747]:
+                    - img "Abhishek Padmanabhan" [ref=e3748]
+                  - img [ref=e3750]:
+                    - generic [ref=e3752]: "6"
+              - generic [ref=e3753]:
+                - generic [ref=e3755]:
+                  - link "Abhishek Padmanabhan" [ref=e3760]:
+                    - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                    - generic [ref=e3763]: Abhishek Padmanabhan
+                  - generic [ref=e3764]: 0 likes • 26d
+                - generic [ref=e3765]:
+                  - text: Make images in html and react and use open source icon libraries, show me the images in
+                  - emphasis [ref=e3766]: ascii
+                  - text: before making it," - you can then begin driving it with feedback
+          - generic [ref=e3771] [cursor=pointer]:
+            - generic [ref=e3772]:
+              - generic [ref=e3773]:
+                - generic [ref=e3774]:
+                  - link "Zein Kaskas" [ref=e3778]:
+                    - /url: /@zein-kaskas-6105?g=earlyaidopters
+                    - generic [ref=e3779]:
+                      - generic "Zein Kaskas" [ref=e3780]:
+                        - img "Zein Kaskas" [ref=e3781]
+                      - img [ref=e3783]:
+                        - generic [ref=e3785]: "3"
+                  - generic [ref=e3786]:
+                    - link "Zein Kaskas" [ref=e3790]:
+                      - /url: /@zein-kaskas-6105?g=earlyaidopters
+                      - generic [ref=e3793]: Zein Kaskas
+                    - generic [ref=e3794]:
+                      - generic [ref=e3796]: Mar 8 •
+                      - link "🔥 WINS" [ref=e3797]:
+                        - /url: /earlyaidopters?c=11dc076ef272499e8d3c653b094389dd
+                        - generic [ref=e3798]: 🔥 WINS
+                - link "# Cool Stuff I've Done with Claude Code to Make It Fit My Needs" [ref=e3799]:
+                  - /url: /earlyaidopters/cool-stuff-ive-done-with-claude-code-to-make-it-fit-my-needs
+                  - generic [ref=e3801]: "# Cool Stuff I've Done with Claude Code to Make It Fit My Needs"
+                - generic [ref=e3804]: "## 1. A Regex-Based Intent Router That Picks the Right Model Before Claude Even Sees the Message Most people just send everything to one model and call it a day. I built a classification layer that sits between Telegram and Claude. It's pure regex, no API call, runs in under 50ms, and routes every single message to one of three model tiers based on what you're actually asking for. Say \"hey\" or \"thanks\" and it goes to Haiku ($1/1M tokens). Ask it to send an email or check your calendar and it goes to Sonnet ($3/1M). Ask it to write a proposal or build a feature and it goes to Opus ($15/1M). The router has 14 intent categories with around 100 regex patterns, and it logs every classification to SQLite so I can pull up a `/router_stats` command and see exactly where my money is going. Real-world distribution: about 84% of messages hit Sonnet, 14% hit Haiku, and only 2% need Opus, saving me roughly 70-80% compared to running everything on Opus. --- ## 2. A Subagent Army with an Autonomous Action System Instead of one monolithic AI that does everything, I have six specialized agents that each own a domain. When a message comes in, the main orchestrator reads a delegation table and spawns the right subagent. The comms agent handles emails, calendar, and WhatsApp. The finance agent handles invoices and payments. The research agent runs multi-platform research. And so on. What makes this actually useful (and not just architecture for architecture's sake) is the autonomous action system layered on top. When I say \"message Sarah the deck is ready\", it resolves the contact, checks for exactly one match, and sends it immediately. No \"are you sure?\" prompt. But if it finds two Sarahs, or if the message involves money or pricing, it stops and asks. The rules are explicit: imperative command plus single contact match equals auto-execute. Anything ambiguous, risky, or involving money equals confirm first. It tracks which subagent handled each message in SQLite, so I can see delegation percentages in my router stats. --- ## 3. A Free Research Pipeline That's 7,500x Cheaper Than Doing It All with Claude This is probably the one I'm most proud of. When I ask my assistant to do research (competitor analysis, brand audit, trend analysis, whatever), it doesn't just dump everything into Claude and burn tokens. Instead, it runs a three-stage pipeline where the expensive parts are replaced with free tools. Stage one: Python scripts scrape data from Instagram, TikTok, YouTube, Google Trends, and Meta's Ad Library. All free, using open-source libraries like Instaloader, yt-dlp, and pytrends. Stage two: that raw data gets fed into Google's NotebookLM, which synthesizes it into a coherent report, also for free. Stage three: Claude just formats the final output for Telegram delivery, burning maybe 1-5K tokens instead of 50K+. The result is that a research request that used to cost $5-20 now costs about $0.01-0.03. Everything is tracked in a research index so notebooks get reused instead of recreated if I ask about the same topic within a week. --- These three systems work together. The intent router classifies the message and picks the cheapest model. If it's a research task, the orchestrator prepends instructions that trigger the free pipeline. If it's a messaging task, it delegates to the comms agent which auto-sends or confirms based on explicit rules. Everything is logged to SQLite so I can audit costs, see which agents are being used, and make data-backed decisions about what to optimize next. If you're building something similar with Claude Code, the key insight is: Claude is incredible at reasoning and orchestration, but it doesn't need to do everything. Offload the mechanical stuff to free tools, route simple tasks to cheaper models, and let the expensive model focus on what it's actually good at."
+                - generic [ref=e3805]:
+                  - generic [ref=e3806]:
+                    - button [ref=e3807]:
+                      - img [ref=e3809]
+                    - generic [ref=e3814]: "10"
+                  - generic [ref=e3815]:
+                    - img [ref=e3818]
+                    - generic [ref=e3820]: "8"
+                  - generic [ref=e3821]:
+                    - generic [ref=e3822]:
+                      - generic "Zein Kaskas" [ref=e3825]:
+                        - img "Zein Kaskas" [ref=e3826]
+                      - generic "Catherine Dawson" [ref=e3829]:
+                        - img "Catherine Dawson" [ref=e3830]
+                      - generic "Mark Aitch" [ref=e3833]:
+                        - img "Mark Aitch" [ref=e3834]
+                      - generic "Martin Aranovitch" [ref=e3837]:
+                        - img "Martin Aranovitch" [ref=e3838]
+                      - link "Alexandra Spalato" [ref=e3840]:
+                        - /url: /earlyaidopters/cool-stuff-ive-done-with-claude-code-to-make-it-fit-my-needs?p=0a3d8f42
+                        - generic "Alexandra Spalato" [ref=e3842]:
+                          - img "Alexandra Spalato" [ref=e3843]
+                    - link "New comment Mar 11" [ref=e3845]:
+                      - /url: /earlyaidopters/cool-stuff-ive-done-with-claude-code-to-make-it-fit-my-needs?p=0a3d8f42
+              - img "# Cool Stuff I've Done with Claude Code to Make It Fit My Needs" [ref=e3847]
+            - generic [ref=e3850]:
+              - link "Martin Aranovitch" [ref=e3854]:
+                - /url: /@martin-aranovitch-7128?g=earlyaidopters
+                - generic [ref=e3855]:
+                  - generic "Martin Aranovitch" [ref=e3856]:
+                    - img "Martin Aranovitch" [ref=e3857]
+                  - img [ref=e3859]:
+                    - generic [ref=e3861]: "5"
+              - generic [ref=e3862]:
+                - generic [ref=e3864]:
+                  - link "Martin Aranovitch" [ref=e3869]:
+                    - /url: /@martin-aranovitch-7128?g=earlyaidopters
+                    - generic [ref=e3872]: Martin Aranovitch
+                  - generic [ref=e3873]: 1 like • Mar 9
+                - generic [ref=e3874]:
+                  - text: Hey @Zein Kaskas thank you for sharing this post and the
+                  - emphasis [ref=e3875]: ASCII
+                  - text: architecture diagrams!
+          - generic [ref=e3880] [cursor=pointer]:
+            - generic [ref=e3881]:
+              - generic [ref=e3882]:
+                - generic [ref=e3883]:
+                  - link "Carl Gutierrez" [ref=e3887]:
+                    - /url: /@carl-gutierrez-5621?g=earlyaidopters
+                    - generic [ref=e3888]:
+                      - generic "Carl Gutierrez" [ref=e3889]:
+                        - img "Carl Gutierrez" [ref=e3890]
+                      - img [ref=e3892]:
+                        - generic [ref=e3894]: "5"
+                  - generic [ref=e3895]:
+                    - link "Carl Gutierrez" [ref=e3899]:
+                      - /url: /@carl-gutierrez-5621?g=earlyaidopters
+                      - generic [ref=e3902]: Carl Gutierrez
+                    - generic [ref=e3903]:
+                      - generic [ref=e3905]: Dec '25 •
+                      - link "💖 Sharing Is Caring" [ref=e3906]:
+                        - /url: /earlyaidopters?c=a5957507ea4146d18e58418876f4f407
+                        - generic [ref=e3907]: 💖 Sharing Is Caring
+                - link "Loveable - 2 months for free!" [ref=e3908]:
+                  - /url: /earlyaidopters/loveable-2-months-for-free
+                  - generic [ref=e3910]: Loveable - 2 months for free!
+                - generic [ref=e3913]: Use code NEXTPLAY-LOV-25 when upgrading to a Pro plan.
+                - generic [ref=e3914]:
+                  - generic [ref=e3915]:
+                    - button [ref=e3916]:
+                      - img [ref=e3918]
+                    - generic [ref=e3923]: "5"
+                  - generic [ref=e3924]:
+                    - img [ref=e3927]
+                    - generic [ref=e3929]: "7"
+                  - generic [ref=e3930]:
+                    - generic [ref=e3931]:
+                      - generic "Grant Charge" [ref=e3934]:
+                        - img "Grant Charge" [ref=e3935]
+                      - generic "Alexandra Spalato" [ref=e3938]:
+                        - img "Alexandra Spalato" [ref=e3939]
+                      - generic "Redwan Abdella" [ref=e3942]:
+                        - img "Redwan Abdella" [ref=e3943]
+                      - link "Carl Gutierrez" [ref=e3945]:
+                        - /url: /earlyaidopters/loveable-2-months-for-free?p=e6708568
+                        - generic "Carl Gutierrez" [ref=e3947]:
+                          - img "Carl Gutierrez" [ref=e3948]
+                    - link "New comment Dec '25" [ref=e3950]:
+                      - /url: /earlyaidopters/loveable-2-months-for-free?p=e6708568
+              - img "Loveable - 2 months for free!" [ref=e3952]
+            - generic [ref=e3955]:
+              - link "Alexandra Spalato" [ref=e3959]:
+                - /url: /@alexandra-spalato?g=earlyaidopters
+                - generic [ref=e3960]:
+                  - generic "Alexandra Spalato" [ref=e3961]:
+                    - img "Alexandra Spalato" [ref=e3962]
+                  - img [ref=e3964]:
+                    - generic [ref=e3966]: "7"
+              - generic [ref=e3967]:
+                - generic [ref=e3969]:
+                  - link "Alexandra Spalato" [ref=e3974]:
+                    - /url: /@alexandra-spalato?g=earlyaidopters
+                    - generic [ref=e3977]: Alexandra Spalato
+                  - generic [ref=e3978]: 3 likes • Dec '25
+                - generic [ref=e3979]:
+                  - text: folder in your code editor and ask Claude Code to take it as ref for the app you're building You can also first plan the app in CC, create a wireframe in
+                  - emphasis [ref=e3980]: ASCII
+          - status [ref=e3981]
+          - generic [ref=e3983]:
+            - generic [ref=e3984]:
+              - button "Previous" [disabled] [ref=e3985]:
+                - img [ref=e3987]
+                - generic [ref=e3989]: Previous
+              - button "1" [ref=e3990] [cursor=pointer]:
+                - generic [ref=e3991]: "1"
+              - button "2" [ref=e3992] [cursor=pointer]:
+                - generic [ref=e3993]: "2"
+              - button "3" [ref=e3994] [cursor=pointer]:
+                - generic [ref=e3995]: "3"
+              - button "4" [ref=e3996] [cursor=pointer]:
+                - generic [ref=e3997]: "4"
+              - button "Next" [ref=e3998] [cursor=pointer]:
+                - generic [ref=e3999]: Next
+                - img [ref=e4001]
+            - generic [ref=e4003]: 1-10 of 31
+        - generic [ref=e4006]:
+          - generic [ref=e4008]:
+            - img "Early AI-dopters" [ref=e4010]
+            - generic [ref=e4013]:
+              - generic [ref=e4014]:
+                - link "Early AI-dopters" [ref=e4017] [cursor=pointer]:
+                  - /url: /earlyaidopters
+                - generic [ref=e4018] [cursor=pointer]: skool.com/earlyaidopters
+              - generic [ref=e4021]:
+                - generic [ref=e4022]: Become the AI expert in the room.
+                - generic [ref=e4024]: Expert-led courses, 1:1 coaching, daily insights from the field.
+                - generic [ref=e4026]: All signal, none of the hype 🦾
+              - generic [ref=e4029]:
+                - generic [ref=e4030]:
+                  - link "1.3k Members" [ref=e4032] [cursor=pointer]:
+                    - /url: /earlyaidopters/-/members
+                    - generic [ref=e4033]:
+                      - generic [ref=e4034]: 1.3k
+                      - generic [ref=e4035]: Members
+                  - link "77 Online" [ref=e4036] [cursor=pointer]:
+                    - /url: /earlyaidopters/-/members?t=online
+                    - generic [ref=e4037]:
+                      - generic [ref=e4038]: "77"
+                      - generic [ref=e4039]: Online
+                  - link "16 Admins" [ref=e4040] [cursor=pointer]:
+                    - /url: /earlyaidopters/-/members?t=admin
+                    - generic [ref=e4041]:
+                      - generic [ref=e4042]: "16"
+                      - generic [ref=e4043]: Admins
+                - generic [ref=e4044]:
+                  - link "Mark Kashef" [ref=e4047] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic "Mark Kashef" [ref=e4049]:
+                      - img "Mark Kashef" [ref=e4050]
+                  - link "Andre Franklin" [ref=e4053] [cursor=pointer]:
+                    - /url: /@andre-franklin-4232?g=earlyaidopters
+                    - generic "Andre Franklin" [ref=e4055]:
+                      - img "Andre Franklin" [ref=e4056]
+                  - link "Anthony Mccann" [ref=e4059] [cursor=pointer]:
+                    - /url: /@anthony-mccann-1245?g=earlyaidopters
+                    - generic "Anthony Mccann" [ref=e4061]:
+                      - img "Anthony Mccann" [ref=e4062]
+                  - link "Bastian Brand" [ref=e4065] [cursor=pointer]:
+                    - /url: /@bastian-brand-4054?g=earlyaidopters
+                    - generic "Bastian Brand" [ref=e4067]:
+                      - img "Bastian Brand" [ref=e4068]
+                  - link "Billy Jordan" [ref=e4071] [cursor=pointer]:
+                    - /url: /@billy-jordan-9298?g=earlyaidopters
+                    - generic "Billy Jordan" [ref=e4073]:
+                      - img "Billy Jordan" [ref=e4074]
+                  - link "Jody Graffunder" [ref=e4077] [cursor=pointer]:
+                    - /url: /@jody-graffunder-5729?g=earlyaidopters
+                    - generic "Jody Graffunder" [ref=e4079]:
+                      - img "Jody Graffunder" [ref=e4080]
+                  - link "Casey Margell" [ref=e4083] [cursor=pointer]:
+                    - /url: /@casey-margell-6131?g=earlyaidopters
+                    - generic "Casey Margell" [ref=e4085]:
+                      - img "Casey Margell" [ref=e4086]
+                  - link "Fred Vinson" [ref=e4089] [cursor=pointer]:
+                    - /url: /@fred-vinson-3464?g=earlyaidopters
+                    - generic "Fred Vinson" [ref=e4091]:
+                      - img "Fred Vinson" [ref=e4092]
+              - generic [ref=e4094]: Invite people
+          - link "Powered by" [ref=e4095] [cursor=pointer]:
+            - /url: /signup?utm_source=skooldotcom&utm_medium=website&utm_content=powered_by_skool&utm_campaign=signup_skool_logo_link
+            - generic [ref=e4096]:
+              - generic [ref=e4097]: Powered by
+              - img [ref=e4099]
+    - generic [ref=e4106]:
+      - generic [ref=e4112]:
+        - generic [ref=e4114]:
+          - generic [ref=e4115]:
+            - generic [ref=e4116]:
+              - link "Mark Kashef" [ref=e4119] [cursor=pointer]:
+                - /url: /@mark-kashef-7464?g=earlyaidopters
+                - generic [ref=e4120]:
+                  - generic "Mark Kashef" [ref=e4121]:
+                    - img "Mark Kashef" [ref=e4122]
+                  - img [ref=e4124]:
+                    - generic [ref=e4126]: "9"
+              - generic [ref=e4127]:
+                - generic [ref=e4128]:
+                  - link "Mark Kashef" [ref=e4132] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e4135]: Mark Kashef
+                  - generic [ref=e4136] [cursor=pointer]: 👑
+                  - generic [ref=e4137] [cursor=pointer]: 🔥
+                - generic [ref=e4138]:
+                  - text: Mar 4 •
+                  - link "🎥 Loom Bites" [ref=e4140] [cursor=pointer]:
+                    - /url: /earlyaidopters?c=7c398d5040d44708a1ef9b6f5f95a2ab
+            - generic [ref=e4141]:
+              - button [ref=e4142] [cursor=pointer]:
+                - img [ref=e4144]
+              - button [ref=e4153] [cursor=pointer]:
+                - img [ref=e4155]
+          - generic [ref=e4159]: 🟢 ASCII Art Skills for Claude Code - Learn Anything Visually
+          - generic [ref=e4161]:
+            - generic [ref=e4162]: Three skills I put together that let you turn any concept into visual diagrams right inside your terminal (attached to this post, open it up to see them!)
+            - generic [ref=e4164]: "Here's how it works: instead of spending heavy tokens on full builds or research, you use ASCII art to sketch things out first"
+            - generic [ref=e4165]: → cheaper to run, conserves your context window, and you can even run it on Haiku
+            - generic [ref=e4167]: "Slash ASCII Architecture: ask it to diagram anything technical"
+            - generic [ref=e4168]: → I asked it to explain how language models work with zero AI knowledge and i... See more
+          - generic [ref=e4170]:
+            - generic [ref=e4173]:
+              - generic [ref=e4174]: 5:24
+              - img [ref=e4176]
+            - generic [ref=e4179]:
+              - button "ascii-skills.zip File • 7kb" [disabled] [ref=e4181]:
+                - generic [ref=e4184]:
+                  - img [ref=e4186]
+                  - generic [ref=e4189]:
+                    - generic [ref=e4190]: ascii-skills.zip
+                    - generic [ref=e4191]: File • 7kb
+              - status [ref=e4192]
+        - generic [ref=e4193]:
+          - generic [ref=e4194]:
+            - generic [ref=e4195]:
+              - button "Like" [ref=e4196] [cursor=pointer]:
+                - img [ref=e4198]
+                - generic [ref=e4200]: Like
+              - generic [ref=e4203] [cursor=pointer]: "74"
+            - generic [ref=e4204]:
+              - img [ref=e4206]
+              - generic [ref=e4208]: 67 comments
+          - generic [ref=e4209]:
+            - generic [ref=e4210]:
+              - generic [ref=e4211]:
+                - generic [ref=e4212]:
+                  - link "Mark Kashef" [ref=e4216] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e4217]:
+                      - generic "Mark Kashef" [ref=e4218]:
+                        - img "Mark Kashef" [ref=e4219]
+                      - img [ref=e4221]:
+                        - generic [ref=e4223]: "9"
+                  - generic [ref=e4224]:
+                    - generic [ref=e4225]:
+                      - generic [ref=e4226]:
+                        - generic [ref=e4227]:
+                          - generic [ref=e4229]:
+                            - link "Mark Kashef" [ref=e4233] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e4236]: Mark Kashef
+                            - generic [ref=e4237] [cursor=pointer]: 👑
+                            - generic [ref=e4238] [cursor=pointer]: 🔥
+                          - generic [ref=e4239]: • Mar 4
+                        - button [ref=e4244] [cursor=pointer]:
+                          - img [ref=e4246]
+                      - generic [ref=e4249]: "Original YouTube Video:"
+                      - generic [ref=e4251]:
+                        - generic [ref=e4254]:
+                          - generic [ref=e4255]: 16:33
+                          - img [ref=e4257]
+                        - status [ref=e4260]
+                    - generic [ref=e4262]:
+                      - generic [ref=e4263]:
+                        - button [ref=e4265] [cursor=pointer]:
+                          - img [ref=e4267]
+                        - generic [ref=e4273] [cursor=pointer]: "12"
+                      - button "Reply" [ref=e4275] [cursor=pointer]:
+                        - generic [ref=e4276]: Reply
+                - generic [ref=e4277]:
+                  - link "Saima Ahmed" [ref=e4281] [cursor=pointer]:
+                    - /url: /@saima-ahmed-2300?g=earlyaidopters
+                    - generic [ref=e4282]:
+                      - generic "Saima Ahmed" [ref=e4283]:
+                        - img "Saima Ahmed" [ref=e4284]
+                      - img [ref=e4286]:
+                        - generic [ref=e4288]: "5"
+                  - generic [ref=e4289]:
+                    - generic [ref=e4290]:
+                      - generic [ref=e4291]:
+                        - generic [ref=e4292]:
+                          - link "Saima Ahmed" [ref=e4297] [cursor=pointer]:
+                            - /url: /@saima-ahmed-2300?g=earlyaidopters
+                            - generic [ref=e4300]: Saima Ahmed
+                          - generic [ref=e4301]: • Mar 4
+                        - button [ref=e4306] [cursor=pointer]:
+                          - img [ref=e4308]
+                      - generic [ref=e4310]:
+                        - link "@Mark Kashef" [ref=e4314] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - generic [ref=e4315]: As always many 🙏 thanks
+                        - generic [ref=e4316]: Another useful tool in pockets!
+                    - generic [ref=e4318]:
+                      - generic [ref=e4319]:
+                        - button [ref=e4321] [cursor=pointer]:
+                          - img [ref=e4323]
+                        - generic [ref=e4329] [cursor=pointer]: "4"
+                      - button "Reply" [ref=e4331] [cursor=pointer]:
+                        - generic [ref=e4332]: Reply
+                - generic [ref=e4333]:
+                  - link "Mihir Karia" [ref=e4337] [cursor=pointer]:
+                    - /url: /@mihir-karia-6555?g=earlyaidopters
+                    - generic [ref=e4338]:
+                      - generic "Mihir Karia" [ref=e4339]:
+                        - img "Mihir Karia" [ref=e4340]
+                      - img [ref=e4342]:
+                        - generic [ref=e4344]: "3"
+                  - generic [ref=e4345]:
+                    - generic [ref=e4346]:
+                      - generic [ref=e4347]:
+                        - generic [ref=e4348]:
+                          - link "Mihir Karia" [ref=e4353] [cursor=pointer]:
+                            - /url: /@mihir-karia-6555?g=earlyaidopters
+                            - generic [ref=e4356]: Mihir Karia
+                          - generic [ref=e4357]: • Mar 4
+                        - button [ref=e4362] [cursor=pointer]:
+                          - img [ref=e4364]
+                      - generic [ref=e4367]: Love it! LOOOOVE IT!!! Brilliant! Thank you!
+                    - generic [ref=e4369]:
+                      - generic [ref=e4370]:
+                        - button [ref=e4372] [cursor=pointer]:
+                          - img [ref=e4374]
+                        - generic [ref=e4380] [cursor=pointer]: "4"
+                      - button "Reply" [ref=e4382] [cursor=pointer]:
+                        - generic [ref=e4383]: Reply
+                - generic [ref=e4385]:
+                  - link "Mark Kashef" [ref=e4389] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e4390]:
+                      - generic "Mark Kashef" [ref=e4391]:
+                        - img "Mark Kashef" [ref=e4392]
+                      - img [ref=e4394]:
+                        - generic [ref=e4396]: "9"
+                  - generic [ref=e4397]:
+                    - generic [ref=e4398]:
+                      - generic [ref=e4399]:
+                        - generic [ref=e4400]:
+                          - generic [ref=e4402]:
+                            - link "Mark Kashef" [ref=e4406] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e4409]: Mark Kashef
+                            - generic [ref=e4410] [cursor=pointer]: 👑
+                            - generic [ref=e4411] [cursor=pointer]: 🔥
+                          - generic [ref=e4412]: • Mar 4
+                        - button [ref=e4417] [cursor=pointer]:
+                          - img [ref=e4419]
+                      - generic [ref=e4422]:
+                        - link "@Mihir Karia" [ref=e4425] [cursor=pointer]:
+                          - /url: /@d099fe3f69444f9abb049b551fa03e1a?g=earlyaidopters
+                        - text: so happy to hear that!
+                    - generic [ref=e4427]:
+                      - generic [ref=e4428]:
+                        - button [ref=e4430] [cursor=pointer]:
+                          - img [ref=e4432]
+                        - generic [ref=e4438] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e4440] [cursor=pointer]:
+                        - generic [ref=e4441]: Reply
+                - generic [ref=e4442]:
+                  - link "Holger Peschke" [ref=e4446] [cursor=pointer]:
+                    - /url: /@holger-peschke-6316?g=earlyaidopters
+                    - generic [ref=e4447]:
+                      - generic "Holger Peschke" [ref=e4448]:
+                        - img "Holger Peschke" [ref=e4449]
+                      - img [ref=e4451]:
+                        - generic [ref=e4453]: "7"
+                  - generic [ref=e4454]:
+                    - generic [ref=e4455]:
+                      - generic [ref=e4456]:
+                        - generic [ref=e4457]:
+                          - generic [ref=e4459]:
+                            - link "Holger Peschke" [ref=e4463] [cursor=pointer]:
+                              - /url: /@holger-peschke-6316?g=earlyaidopters
+                              - generic [ref=e4466]: Holger Peschke
+                            - generic [ref=e4467] [cursor=pointer]: 🔥
+                          - generic [ref=e4468]: • Mar 4 (edited)
+                        - button [ref=e4473] [cursor=pointer]:
+                          - img [ref=e4475]
+                      - generic [ref=e4478]:
+                        - link "@Mark Kashef" [ref=e4481] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: very interesting. I can remember very good at ASCII through my age and my First step with the C64.
+                    - generic [ref=e4483]:
+                      - generic [ref=e4484]:
+                        - button [ref=e4486] [cursor=pointer]:
+                          - img [ref=e4488]
+                        - generic [ref=e4494] [cursor=pointer]: "4"
+                      - button "Reply" [ref=e4496] [cursor=pointer]:
+                        - generic [ref=e4497]: Reply
+                - generic [ref=e4498]:
+                  - generic [ref=e4499]:
+                    - link "Mark Kashef" [ref=e4503] [cursor=pointer]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e4504]:
+                        - generic "Mark Kashef" [ref=e4505]:
+                          - img "Mark Kashef" [ref=e4506]
+                        - img [ref=e4508]:
+                          - generic [ref=e4510]: "9"
+                    - generic [ref=e4511]:
+                      - generic [ref=e4512]:
+                        - generic [ref=e4513]:
+                          - generic [ref=e4514]:
+                            - generic [ref=e4516]:
+                              - link "Mark Kashef" [ref=e4520] [cursor=pointer]:
+                                - /url: /@mark-kashef-7464?g=earlyaidopters
+                                - generic [ref=e4523]: Mark Kashef
+                              - generic [ref=e4524] [cursor=pointer]: 👑
+                              - generic [ref=e4525] [cursor=pointer]: 🔥
+                            - generic [ref=e4526]: • Mar 4
+                          - button [ref=e4531] [cursor=pointer]:
+                            - img [ref=e4533]
+                        - generic [ref=e4536]:
+                          - link "@Holger Peschke" [ref=e4539] [cursor=pointer]:
+                            - /url: /@accf595be7704f7688e1a9d65bbc6968?g=earlyaidopters
+                          - text: hahaha I had to google what C64 was
+                      - generic [ref=e4541]:
+                        - generic [ref=e4542]:
+                          - button [ref=e4544] [cursor=pointer]:
+                            - img [ref=e4546]
+                          - generic [ref=e4552] [cursor=pointer]: "3"
+                        - button "Reply" [ref=e4554] [cursor=pointer]:
+                          - generic [ref=e4555]: Reply
+                  - generic [ref=e4556]:
+                    - link "Holger Peschke" [ref=e4560] [cursor=pointer]:
+                      - /url: /@holger-peschke-6316?g=earlyaidopters
+                      - generic [ref=e4561]:
+                        - generic "Holger Peschke" [ref=e4562]:
+                          - img "Holger Peschke" [ref=e4563]
+                        - img [ref=e4565]:
+                          - generic [ref=e4567]: "7"
+                    - generic [ref=e4568]:
+                      - generic [ref=e4569]:
+                        - generic [ref=e4570]:
+                          - generic [ref=e4571]:
+                            - generic [ref=e4573]:
+                              - link "Holger Peschke" [ref=e4577] [cursor=pointer]:
+                                - /url: /@holger-peschke-6316?g=earlyaidopters
+                                - generic [ref=e4580]: Holger Peschke
+                              - generic [ref=e4581] [cursor=pointer]: 🔥
+                            - generic [ref=e4582]: • Mar 4
+                          - button [ref=e4587] [cursor=pointer]:
+                            - img [ref=e4589]
+                        - generic [ref=e4592]:
+                          - link "@Mark Kashef" [ref=e4595] [cursor=pointer]:
+                            - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                          - text: 😁 my first Computer with games like Pac Man, Bubble Bobble, Paperboy etc. 😂 A cult object
+                      - generic [ref=e4597]:
+                        - generic [ref=e4598]:
+                          - button [ref=e4600] [cursor=pointer]:
+                            - img [ref=e4602]
+                          - generic [ref=e4608] [cursor=pointer]: "1"
+                        - button "Reply" [ref=e4610] [cursor=pointer]:
+                          - generic [ref=e4611]: Reply
+                - generic [ref=e4612] [cursor=pointer]:
+                  - img [ref=e4614]
+                  - generic [ref=e4616]: View 2 more replies
+                - generic [ref=e4617]:
+                  - link "Ashley How" [ref=e4621] [cursor=pointer]:
+                    - /url: /@ashley-how-8205?g=earlyaidopters
+                    - generic [ref=e4622]:
+                      - generic "Ashley How" [ref=e4623]:
+                        - img "Ashley How" [ref=e4624]
+                      - img [ref=e4626]:
+                        - generic [ref=e4628]: "2"
+                  - generic [ref=e4629]:
+                    - generic [ref=e4630]:
+                      - generic [ref=e4631]:
+                        - generic [ref=e4632]:
+                          - link "Ashley How" [ref=e4637] [cursor=pointer]:
+                            - /url: /@ashley-how-8205?g=earlyaidopters
+                            - generic [ref=e4640]: Ashley How
+                          - generic [ref=e4641]: • Mar 4
+                        - button [ref=e4646] [cursor=pointer]:
+                          - img [ref=e4648]
+                      - generic [ref=e4651]:
+                        - text: Hey
+                        - link "@Mark Kashef" [ref=e4654] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: ", is there a way in Claude code to invoke mermaid charts for this? I have 35+ years of dev and BI experience, the dev was in mostly mainframe >10 years ago and am surprised by the current use of ASCII visuals. I know it’s easy and fast, but when asking for artifacts though Claude on the web, it builds an HTML render in a console mode. Is the possible from VS or Antigravity?"
+                    - generic [ref=e4656]:
+                      - generic [ref=e4657]:
+                        - button [ref=e4659] [cursor=pointer]:
+                          - img [ref=e4661]
+                        - generic [ref=e4667] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e4669] [cursor=pointer]:
+                        - generic [ref=e4670]: Reply
+                - generic [ref=e4672]:
+                  - link "Mark Kashef" [ref=e4676] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e4677]:
+                      - generic "Mark Kashef" [ref=e4678]:
+                        - img "Mark Kashef" [ref=e4679]
+                      - img [ref=e4681]:
+                        - generic [ref=e4683]: "9"
+                  - generic [ref=e4684]:
+                    - generic [ref=e4685]:
+                      - generic [ref=e4686]:
+                        - generic [ref=e4687]:
+                          - generic [ref=e4689]:
+                            - link "Mark Kashef" [ref=e4693] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e4696]: Mark Kashef
+                            - generic [ref=e4697] [cursor=pointer]: 👑
+                            - generic [ref=e4698] [cursor=pointer]: 🔥
+                          - generic [ref=e4699]: • Mar 4 (edited)
+                        - button [ref=e4704] [cursor=pointer]:
+                          - img [ref=e4706]
+                      - generic [ref=e4708]:
+                        - generic [ref=e4709]:
+                          - link "@Ashley How" [ref=e4712] [cursor=pointer]:
+                            - /url: /@e7ceaee22cc44418b1d030426d5314e3?g=earlyaidopters
+                          - text: absolutely, just tell it to create mermaid via mermaid.js
+                        - generic [ref=e4714]: you can have it render in local host if needed (or html generated on demand)
+                    - generic [ref=e4716]:
+                      - generic [ref=e4717]:
+                        - button [ref=e4719] [cursor=pointer]:
+                          - img [ref=e4721]
+                        - generic [ref=e4727] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e4729] [cursor=pointer]:
+                        - generic [ref=e4730]: Reply
+                - generic [ref=e4731]:
+                  - link "Jimmy Fuentes" [ref=e4735] [cursor=pointer]:
+                    - /url: /@jimmy?g=earlyaidopters
+                    - generic [ref=e4736]:
+                      - generic "Jimmy Fuentes" [ref=e4737]:
+                        - img "Jimmy Fuentes" [ref=e4738]
+                      - img [ref=e4740]:
+                        - generic [ref=e4742]: "6"
+                  - generic [ref=e4743]:
+                    - generic [ref=e4744]:
+                      - generic [ref=e4745]:
+                        - generic [ref=e4746]:
+                          - link "Jimmy Fuentes" [ref=e4751] [cursor=pointer]:
+                            - /url: /@jimmy?g=earlyaidopters
+                            - generic [ref=e4754]: Jimmy Fuentes
+                          - generic [ref=e4755]: • Mar 4
+                        - button [ref=e4760] [cursor=pointer]:
+                          - img [ref=e4762]
+                      - generic [ref=e4764]:
+                        - generic [ref=e4765]: Dude, ascii is so underrated. This is one of those things I picked up from your videos (about something else haha) like last year. SO HELPFUL!
+                        - generic [ref=e4767]: "It inspired me to ask chatgpt (this was before claude code haha) what other \"drawing\" modes we could use. Theres a bunch of others:"
+                        - list [ref=e4769]:
+                          - listitem [ref=e4770]: Indented bullet/list
+                          - listitem [ref=e4771]: ASCII style
+                          - listitem [ref=e4772]: Box-drawing Unicode tree
+                          - listitem [ref=e4773]: Markdown table
+                          - listitem [ref=e4774]: Mermaid diagram
+                          - listitem [ref=e4775]: Graphviz (DOT) graph
+                          - listitem [ref=e4776]: PlantUML block
+                          - listitem [ref=e4777]: Mind-map outline
+                        - generic [ref=e4779]: Ascii is my main mode though.
+                        - generic [ref=e4781]: I also use Box-drawing Unicode tree & "ASCII flowchart" for SOP style boxed flow chart.
+                    - generic [ref=e4783]:
+                      - generic [ref=e4784]:
+                        - button [ref=e4786] [cursor=pointer]:
+                          - img [ref=e4788]
+                        - generic [ref=e4794] [cursor=pointer]: "8"
+                      - button "Reply" [ref=e4796] [cursor=pointer]:
+                        - generic [ref=e4797]: Reply
+                - generic [ref=e4799]:
+                  - link "Mark Kashef" [ref=e4803] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e4804]:
+                      - generic "Mark Kashef" [ref=e4805]:
+                        - img "Mark Kashef" [ref=e4806]
+                      - img [ref=e4808]:
+                        - generic [ref=e4810]: "9"
+                  - generic [ref=e4811]:
+                    - generic [ref=e4812]:
+                      - generic [ref=e4813]:
+                        - generic [ref=e4814]:
+                          - generic [ref=e4816]:
+                            - link "Mark Kashef" [ref=e4820] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e4823]: Mark Kashef
+                            - generic [ref=e4824] [cursor=pointer]: 👑
+                            - generic [ref=e4825] [cursor=pointer]: 🔥
+                          - generic [ref=e4826]: • Mar 4
+                        - button [ref=e4831] [cursor=pointer]:
+                          - img [ref=e4833]
+                      - generic [ref=e4835]:
+                        - generic [ref=e4836]:
+                          - link "@Jimmy Fuentes" [ref=e4839] [cursor=pointer]:
+                            - /url: /@236af8c631ac4671919a4a9bc1b1fde0?g=earlyaidopters
+                          - text: this Graphviz (DOT) graph
+                        - generic [ref=e4841]: underrated
+                    - generic [ref=e4843]:
+                      - generic [ref=e4844]:
+                        - button [ref=e4846] [cursor=pointer]:
+                          - img [ref=e4848]
+                        - generic [ref=e4854] [cursor=pointer]: "4"
+                      - button "Reply" [ref=e4856] [cursor=pointer]:
+                        - generic [ref=e4857]: Reply
+                - generic [ref=e4858]:
+                  - link "Francisco Rodriguez" [ref=e4862] [cursor=pointer]:
+                    - /url: /@francisco-rodriguez-9044?g=earlyaidopters
+                    - generic [ref=e4863]:
+                      - generic "Francisco Rodriguez" [ref=e4864]:
+                        - img "Francisco Rodriguez" [ref=e4865]
+                      - img [ref=e4867]:
+                        - generic [ref=e4869]: "4"
+                  - generic [ref=e4870]:
+                    - generic [ref=e4871]:
+                      - generic [ref=e4872]:
+                        - generic [ref=e4873]:
+                          - link "Francisco Rodriguez" [ref=e4878] [cursor=pointer]:
+                            - /url: /@francisco-rodriguez-9044?g=earlyaidopters
+                            - generic [ref=e4881]: Francisco Rodriguez
+                          - generic [ref=e4882]: • Mar 4
+                        - button [ref=e4887] [cursor=pointer]:
+                          - img [ref=e4889]
+                      - generic [ref=e4892]: And another banger! Damn dude. You provide us so much value.
+                    - generic [ref=e4894]:
+                      - generic [ref=e4895]:
+                        - button [ref=e4897] [cursor=pointer]:
+                          - img [ref=e4899]
+                        - generic [ref=e4905] [cursor=pointer]: "4"
+                      - button "Reply" [ref=e4907] [cursor=pointer]:
+                        - generic [ref=e4908]: Reply
+                - generic [ref=e4910]:
+                  - link "Mark Kashef" [ref=e4914] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e4915]:
+                      - generic "Mark Kashef" [ref=e4916]:
+                        - img "Mark Kashef" [ref=e4917]
+                      - img [ref=e4919]:
+                        - generic [ref=e4921]: "9"
+                  - generic [ref=e4922]:
+                    - generic [ref=e4923]:
+                      - generic [ref=e4924]:
+                        - generic [ref=e4925]:
+                          - generic [ref=e4927]:
+                            - link "Mark Kashef" [ref=e4931] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e4934]: Mark Kashef
+                            - generic [ref=e4935] [cursor=pointer]: 👑
+                            - generic [ref=e4936] [cursor=pointer]: 🔥
+                          - generic [ref=e4937]: • Mar 4
+                        - button [ref=e4942] [cursor=pointer]:
+                          - img [ref=e4944]
+                      - generic [ref=e4947]:
+                        - link "@Francisco Rodriguez" [ref=e4950] [cursor=pointer]:
+                          - /url: /@ab43f2515f30449b9bd735d4d2d6e575?g=earlyaidopters
+                        - text: FY 2027 has just begun my friend :)
+                    - generic [ref=e4952]:
+                      - generic [ref=e4953]:
+                        - button [ref=e4955] [cursor=pointer]:
+                          - img [ref=e4957]
+                        - generic [ref=e4963] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e4965] [cursor=pointer]:
+                        - generic [ref=e4966]: Reply
+                - generic [ref=e4967]:
+                  - link "Jared Wilson" [ref=e4971] [cursor=pointer]:
+                    - /url: /@jared-wilson-5428?g=earlyaidopters
+                    - generic [ref=e4972]:
+                      - generic "Jared Wilson" [ref=e4973]:
+                        - img "Jared Wilson" [ref=e4974]
+                      - img [ref=e4976]:
+                        - generic [ref=e4978]: "5"
+                  - generic [ref=e4979]:
+                    - generic [ref=e4980]:
+                      - generic [ref=e4981]:
+                        - generic [ref=e4982]:
+                          - link "Jared Wilson" [ref=e4987] [cursor=pointer]:
+                            - /url: /@jared-wilson-5428?g=earlyaidopters
+                            - generic [ref=e4990]: Jared Wilson
+                          - generic [ref=e4991]: • Mar 4
+                        - button [ref=e4996] [cursor=pointer]:
+                          - img [ref=e4998]
+                      - generic [ref=e5001]:
+                        - link "@Mark Kashef" [ref=e5004] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: you mentioned a colored dot means it is either beginner or advanced/intermediate, but you didn’t say what green means? Nor what the color is for the other one? Let me know
+                    - generic [ref=e5006]:
+                      - generic [ref=e5007]:
+                        - button [ref=e5009] [cursor=pointer]:
+                          - img [ref=e5011]
+                        - generic [ref=e5017] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e5019] [cursor=pointer]:
+                        - generic [ref=e5020]: Reply
+                - generic [ref=e5022]:
+                  - link "Mark Kashef" [ref=e5026] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5027]:
+                      - generic "Mark Kashef" [ref=e5028]:
+                        - img "Mark Kashef" [ref=e5029]
+                      - img [ref=e5031]:
+                        - generic [ref=e5033]: "9"
+                  - generic [ref=e5034]:
+                    - generic [ref=e5035]:
+                      - generic [ref=e5036]:
+                        - generic [ref=e5037]:
+                          - generic [ref=e5039]:
+                            - link "Mark Kashef" [ref=e5043] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5046]: Mark Kashef
+                            - generic [ref=e5047] [cursor=pointer]: 👑
+                            - generic [ref=e5048] [cursor=pointer]: 🔥
+                          - generic [ref=e5049]: • Mar 4
+                        - button [ref=e5054] [cursor=pointer]:
+                          - img [ref=e5056]
+                      - generic [ref=e5058]:
+                        - generic [ref=e5059]:
+                          - link "@Jared Wilson" [ref=e5062] [cursor=pointer]:
+                            - /url: /@22c08d9329264f70907e0fe69dea6ca5?g=earlyaidopters
+                          - text: I mentioned in the video green is for everyone
+                        - generic [ref=e5064]: Traffic light colours
+                        - generic [ref=e5066]: Green, yellow, red
+                    - generic [ref=e5068]:
+                      - generic [ref=e5069]:
+                        - button [ref=e5071] [cursor=pointer]:
+                          - img [ref=e5073]
+                        - generic [ref=e5079] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e5081] [cursor=pointer]:
+                        - generic [ref=e5082]: Reply
+                - generic [ref=e5083]:
+                  - link "Ralph Valcin" [ref=e5087] [cursor=pointer]:
+                    - /url: /@ralph-valcin-8398?g=earlyaidopters
+                    - generic [ref=e5088]:
+                      - generic "Ralph Valcin" [ref=e5089]:
+                        - img "Ralph Valcin" [ref=e5090]
+                      - img [ref=e5092]:
+                        - generic [ref=e5094]: "3"
+                  - generic [ref=e5095]:
+                    - generic [ref=e5096]:
+                      - generic [ref=e5097]:
+                        - generic [ref=e5098]:
+                          - link "Ralph Valcin" [ref=e5103] [cursor=pointer]:
+                            - /url: /@ralph-valcin-8398?g=earlyaidopters
+                            - generic [ref=e5106]: Ralph Valcin
+                          - generic [ref=e5107]: • Mar 4
+                        - button [ref=e5112] [cursor=pointer]:
+                          - img [ref=e5114]
+                      - generic [ref=e5117]: Appreciate you
+                    - generic [ref=e5119]:
+                      - generic [ref=e5120]:
+                        - button [ref=e5122] [cursor=pointer]:
+                          - img [ref=e5124]
+                        - generic [ref=e5130] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e5132] [cursor=pointer]:
+                        - generic [ref=e5133]: Reply
+                - generic [ref=e5134]:
+                  - link "Abhishek Padmanabhan" [ref=e5138] [cursor=pointer]:
+                    - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                    - generic [ref=e5139]:
+                      - generic "Abhishek Padmanabhan" [ref=e5140]:
+                        - img "Abhishek Padmanabhan" [ref=e5141]
+                      - img [ref=e5143]:
+                        - generic [ref=e5145]: "6"
+                  - generic [ref=e5146]:
+                    - generic [ref=e5147]:
+                      - generic [ref=e5148]:
+                        - generic [ref=e5149]:
+                          - link "Abhishek Padmanabhan" [ref=e5154] [cursor=pointer]:
+                            - /url: /@abhishek-padmanabhan-9571?g=earlyaidopters
+                            - generic [ref=e5157]: Abhishek Padmanabhan
+                          - generic [ref=e5158]: • Mar 5 (edited)
+                        - button [ref=e5163] [cursor=pointer]:
+                          - img [ref=e5165]
+                      - generic [ref=e5168]: Wonderful post, Mark! Excited to try this out and report back. Thank you so much! I watched the YouTube video also, and it was really it was really helpful and gave me everything needed to test this.
+                    - generic [ref=e5170]:
+                      - generic [ref=e5171]:
+                        - button [ref=e5173] [cursor=pointer]:
+                          - img [ref=e5175]
+                        - generic [ref=e5181] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5183] [cursor=pointer]:
+                        - generic [ref=e5184]: Reply
+                - generic [ref=e5186]:
+                  - link "Mark Kashef" [ref=e5190] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5191]:
+                      - generic "Mark Kashef" [ref=e5192]:
+                        - img "Mark Kashef" [ref=e5193]
+                      - img [ref=e5195]:
+                        - generic [ref=e5197]: "9"
+                  - generic [ref=e5198]:
+                    - generic [ref=e5199]:
+                      - generic [ref=e5200]:
+                        - generic [ref=e5201]:
+                          - generic [ref=e5203]:
+                            - link "Mark Kashef" [ref=e5207] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5210]: Mark Kashef
+                            - generic [ref=e5211] [cursor=pointer]: 👑
+                            - generic [ref=e5212] [cursor=pointer]: 🔥
+                          - generic [ref=e5213]: • Mar 5
+                        - button [ref=e5218] [cursor=pointer]:
+                          - img [ref=e5220]
+                      - generic [ref=e5223]:
+                        - link "@Abhishek Padmanabhan" [ref=e5226] [cursor=pointer]:
+                          - /url: /@30f7ec809cc74a5c9c38e8b0897a940e?g=earlyaidopters
+                        - text: pumped to hear!
+                    - generic [ref=e5228]:
+                      - generic [ref=e5229]:
+                        - button [ref=e5231] [cursor=pointer]:
+                          - img [ref=e5233]
+                        - generic [ref=e5239] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e5241] [cursor=pointer]:
+                        - generic [ref=e5242]: Reply
+                - generic [ref=e5243]:
+                  - link "Chris Power" [ref=e5247] [cursor=pointer]:
+                    - /url: /@christopher-power-4237?g=earlyaidopters
+                    - generic [ref=e5248]:
+                      - generic "Chris Power" [ref=e5249]:
+                        - img "Chris Power" [ref=e5250]
+                      - img [ref=e5252]:
+                        - generic [ref=e5254]: "3"
+                  - generic [ref=e5255]:
+                    - generic [ref=e5256]:
+                      - generic [ref=e5257]:
+                        - generic [ref=e5258]:
+                          - link "Chris Power" [ref=e5263] [cursor=pointer]:
+                            - /url: /@christopher-power-4237?g=earlyaidopters
+                            - generic [ref=e5266]: Chris Power
+                          - generic [ref=e5267]: • Mar 5
+                        - button [ref=e5272] [cursor=pointer]:
+                          - img [ref=e5274]
+                      - generic [ref=e5277]: Hey, just joined the community. I appreciate this resource, right now I'm tied into Miro MCP, and have been considering using inline context diagraming as Claude Code does that for me now and again anyway in our planning phases. Great timing, and after reading through the commands, well thought out. Thank you! ⚡
+                    - generic [ref=e5279]:
+                      - generic [ref=e5280]:
+                        - button [ref=e5282] [cursor=pointer]:
+                          - img [ref=e5284]
+                        - generic [ref=e5290] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5292] [cursor=pointer]:
+                        - generic [ref=e5293]: Reply
+                - generic [ref=e5295]:
+                  - link "Mark Kashef" [ref=e5299] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5300]:
+                      - generic "Mark Kashef" [ref=e5301]:
+                        - img "Mark Kashef" [ref=e5302]
+                      - img [ref=e5304]:
+                        - generic [ref=e5306]: "9"
+                  - generic [ref=e5307]:
+                    - generic [ref=e5308]:
+                      - generic [ref=e5309]:
+                        - generic [ref=e5310]:
+                          - generic [ref=e5312]:
+                            - link "Mark Kashef" [ref=e5316] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5319]: Mark Kashef
+                            - generic [ref=e5320] [cursor=pointer]: 👑
+                            - generic [ref=e5321] [cursor=pointer]: 🔥
+                          - generic [ref=e5322]: • Mar 5
+                        - button [ref=e5327] [cursor=pointer]:
+                          - img [ref=e5329]
+                      - generic [ref=e5332]:
+                        - link "@Chris Power" [ref=e5335] [cursor=pointer]:
+                          - /url: /@15f56840eefc49d48d65827ef055b868?g=earlyaidopters
+                        - text: welcome Chris! This is definitely competitive to your MCP from a simplicity standpoint
+                    - generic [ref=e5337]:
+                      - generic [ref=e5338]:
+                        - button [ref=e5340] [cursor=pointer]:
+                          - img [ref=e5342]
+                        - generic [ref=e5348] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e5350] [cursor=pointer]:
+                        - generic [ref=e5351]: Reply
+                - generic [ref=e5352]:
+                  - link "Andre Kaatz" [ref=e5356] [cursor=pointer]:
+                    - /url: /@andre-kaatz-1618?g=earlyaidopters
+                    - generic [ref=e5357]:
+                      - generic "Andre Kaatz" [ref=e5358]:
+                        - img "Andre Kaatz" [ref=e5359]
+                      - img [ref=e5361]:
+                        - generic [ref=e5363]: "3"
+                  - generic [ref=e5364]:
+                    - generic [ref=e5365]:
+                      - generic [ref=e5366]:
+                        - generic [ref=e5367]:
+                          - link "Andre Kaatz" [ref=e5372] [cursor=pointer]:
+                            - /url: /@andre-kaatz-1618?g=earlyaidopters
+                            - generic [ref=e5375]: Andre Kaatz
+                          - generic [ref=e5376]: • Mar 5
+                        - button [ref=e5381] [cursor=pointer]:
+                          - img [ref=e5383]
+                      - generic [ref=e5386]:
+                        - link "@Mark Kashef" [ref=e5389] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: Fantastic! This perfectly complements my setup, which I developed to filter and evaluate customer requests and my own ideas to determine whether they're worth the investment or just a shiny object to be tried out for fun in my free time. Thank you!
+                    - generic [ref=e5391]:
+                      - generic [ref=e5392]:
+                        - button [ref=e5394] [cursor=pointer]:
+                          - img [ref=e5396]
+                        - generic [ref=e5402] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e5404] [cursor=pointer]:
+                        - generic [ref=e5405]: Reply
+                - generic [ref=e5407]:
+                  - link "Mark Kashef" [ref=e5411] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5412]:
+                      - generic "Mark Kashef" [ref=e5413]:
+                        - img "Mark Kashef" [ref=e5414]
+                      - img [ref=e5416]:
+                        - generic [ref=e5418]: "9"
+                  - generic [ref=e5419]:
+                    - generic [ref=e5420]:
+                      - generic [ref=e5421]:
+                        - generic [ref=e5422]:
+                          - generic [ref=e5424]:
+                            - link "Mark Kashef" [ref=e5428] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5431]: Mark Kashef
+                            - generic [ref=e5432] [cursor=pointer]: 👑
+                            - generic [ref=e5433] [cursor=pointer]: 🔥
+                          - generic [ref=e5434]: • Mar 5
+                        - button [ref=e5439] [cursor=pointer]:
+                          - img [ref=e5441]
+                      - generic [ref=e5444]:
+                        - link "@Andre Kaatz" [ref=e5447] [cursor=pointer]:
+                          - /url: /@57ff238e951b44b2ae5b470946ee31bf?g=earlyaidopters
+                        - text: pumped to hear Andre!
+                    - generic [ref=e5449]:
+                      - generic [ref=e5450]:
+                        - button [ref=e5452] [cursor=pointer]:
+                          - img [ref=e5454]
+                        - generic [ref=e5460] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e5462] [cursor=pointer]:
+                        - generic [ref=e5463]: Reply
+                - generic [ref=e5464]:
+                  - link "Jan M" [ref=e5468] [cursor=pointer]:
+                    - /url: /@jan-m-3207?g=earlyaidopters
+                    - generic [ref=e5469]:
+                      - generic "Jan M" [ref=e5470]:
+                        - img "Jan M" [ref=e5471]
+                      - img [ref=e5473]:
+                        - generic [ref=e5475]: "5"
+                  - generic [ref=e5476]:
+                    - generic [ref=e5477]:
+                      - generic [ref=e5478]:
+                        - generic [ref=e5479]:
+                          - link "Jan M" [ref=e5484] [cursor=pointer]:
+                            - /url: /@jan-m-3207?g=earlyaidopters
+                            - generic [ref=e5487]: Jan M
+                          - generic [ref=e5488]: • Mar 5
+                        - button [ref=e5493] [cursor=pointer]:
+                          - img [ref=e5495]
+                      - generic [ref=e5498]:
+                        - text: Really liking this one! Thanks
+                        - link "@Mark Kashef" [ref=e5501] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: "!"
+                    - generic [ref=e5503]:
+                      - generic [ref=e5504]:
+                        - button [ref=e5506] [cursor=pointer]:
+                          - img [ref=e5508]
+                        - generic [ref=e5514] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5516] [cursor=pointer]:
+                        - generic [ref=e5517]: Reply
+                - generic [ref=e5518]:
+                  - link "Grant Charge" [ref=e5522] [cursor=pointer]:
+                    - /url: /@grant-charge-6789?g=earlyaidopters
+                    - generic [ref=e5523]:
+                      - generic "Grant Charge" [ref=e5524]:
+                        - img "Grant Charge" [ref=e5525]
+                      - img [ref=e5527]:
+                        - generic [ref=e5529]: "6"
+                  - generic [ref=e5530]:
+                    - generic [ref=e5531]:
+                      - generic [ref=e5532]:
+                        - generic [ref=e5533]:
+                          - link "Grant Charge" [ref=e5538] [cursor=pointer]:
+                            - /url: /@grant-charge-6789?g=earlyaidopters
+                            - generic [ref=e5541]: Grant Charge
+                          - generic [ref=e5542]: • Mar 5
+                        - button [ref=e5547] [cursor=pointer]:
+                          - img [ref=e5549]
+                      - generic [ref=e5552]:
+                        - link "@Mark Kashef" [ref=e5555] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: 🔥🔥🔥
+                    - generic [ref=e5557]:
+                      - generic [ref=e5558]:
+                        - button [ref=e5560] [cursor=pointer]:
+                          - img [ref=e5562]
+                        - generic [ref=e5568] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5570] [cursor=pointer]:
+                        - generic [ref=e5571]: Reply
+                - generic [ref=e5572]:
+                  - link "Colin Powell" [ref=e5576] [cursor=pointer]:
+                    - /url: /@colin-powell-3974?g=earlyaidopters
+                    - generic [ref=e5577]:
+                      - generic "Colin Powell" [ref=e5578]:
+                        - img "Colin Powell" [ref=e5579]
+                      - img [ref=e5581]:
+                        - generic [ref=e5583]: "3"
+                  - generic [ref=e5584]:
+                    - generic [ref=e5585]:
+                      - generic [ref=e5586]:
+                        - generic [ref=e5587]:
+                          - link "Colin Powell" [ref=e5592] [cursor=pointer]:
+                            - /url: /@colin-powell-3974?g=earlyaidopters
+                            - generic [ref=e5595]: Colin Powell
+                          - generic [ref=e5596]: • Mar 5
+                        - button [ref=e5601] [cursor=pointer]:
+                          - img [ref=e5603]
+                      - generic [ref=e5606]: Really want to try this one.
+                    - generic [ref=e5608]:
+                      - generic [ref=e5609]:
+                        - button [ref=e5611] [cursor=pointer]:
+                          - img [ref=e5613]
+                        - generic [ref=e5619] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5621] [cursor=pointer]:
+                        - generic [ref=e5622]: Reply
+                - generic [ref=e5623]:
+                  - link "Carlo Dreyer" [ref=e5627] [cursor=pointer]:
+                    - /url: /@carlo-dreyer-1857?g=earlyaidopters
+                    - generic [ref=e5628]:
+                      - generic "Carlo Dreyer" [ref=e5629]:
+                        - img "Carlo Dreyer" [ref=e5630]
+                      - img [ref=e5632]:
+                        - generic [ref=e5634]: "5"
+                  - generic [ref=e5635]:
+                    - generic [ref=e5636]:
+                      - generic [ref=e5637]:
+                        - generic [ref=e5638]:
+                          - link "Carlo Dreyer" [ref=e5643] [cursor=pointer]:
+                            - /url: /@carlo-dreyer-1857?g=earlyaidopters
+                            - generic [ref=e5646]: Carlo Dreyer
+                          - generic [ref=e5647]: • Mar 5
+                        - button [ref=e5652] [cursor=pointer]:
+                          - img [ref=e5654]
+                      - generic [ref=e5657]: Thank you, Mark. I put it to the test, and what a gem to the community.🤟
+                    - generic [ref=e5659]:
+                      - generic [ref=e5660]:
+                        - button [ref=e5662] [cursor=pointer]:
+                          - img [ref=e5664]
+                        - generic [ref=e5670] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5672] [cursor=pointer]:
+                        - generic [ref=e5673]: Reply
+                - generic [ref=e5675]:
+                  - link "Mark Kashef" [ref=e5679] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5680]:
+                      - generic "Mark Kashef" [ref=e5681]:
+                        - img "Mark Kashef" [ref=e5682]
+                      - img [ref=e5684]:
+                        - generic [ref=e5686]: "9"
+                  - generic [ref=e5687]:
+                    - generic [ref=e5688]:
+                      - generic [ref=e5689]:
+                        - generic [ref=e5690]:
+                          - generic [ref=e5692]:
+                            - link "Mark Kashef" [ref=e5696] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5699]: Mark Kashef
+                            - generic [ref=e5700] [cursor=pointer]: 👑
+                            - generic [ref=e5701] [cursor=pointer]: 🔥
+                          - generic [ref=e5702]: • Mar 5
+                        - button [ref=e5707] [cursor=pointer]:
+                          - img [ref=e5709]
+                      - generic [ref=e5712]:
+                        - link "@Carlo Dreyer" [ref=e5715] [cursor=pointer]:
+                          - /url: /@64420005e8e645a2843614ee5e373493?g=earlyaidopters
+                        - text: boom 🦾 pumped to hear that
+                    - generic [ref=e5717]:
+                      - generic [ref=e5718]:
+                        - button [ref=e5720] [cursor=pointer]:
+                          - img [ref=e5722]
+                        - generic [ref=e5728] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e5730] [cursor=pointer]:
+                        - generic [ref=e5731]: Reply
+                - generic [ref=e5732]:
+                  - link "Alexandra Spalato" [ref=e5736] [cursor=pointer]:
+                    - /url: /@alexandra-spalato?g=earlyaidopters
+                    - generic [ref=e5737]:
+                      - generic "Alexandra Spalato" [ref=e5738]:
+                        - img "Alexandra Spalato" [ref=e5739]
+                      - img [ref=e5741]:
+                        - generic [ref=e5743]: "7"
+                  - generic [ref=e5744]:
+                    - generic [ref=e5745]:
+                      - generic [ref=e5746]:
+                        - generic [ref=e5747]:
+                          - link "Alexandra Spalato" [ref=e5752] [cursor=pointer]:
+                            - /url: /@alexandra-spalato?g=earlyaidopters
+                            - generic [ref=e5755]: Alexandra Spalato
+                          - generic [ref=e5756]: • Mar 5
+                        - button [ref=e5761] [cursor=pointer]:
+                          - img [ref=e5763]
+                      - generic [ref=e5766]:
+                        - text: Thanks
+                        - link "@Mark Kashef" [ref=e5769] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: super useful as always!
+                    - generic [ref=e5771]:
+                      - generic [ref=e5772]:
+                        - button [ref=e5774] [cursor=pointer]:
+                          - img [ref=e5776]
+                        - generic [ref=e5782] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5784] [cursor=pointer]:
+                        - generic [ref=e5785]: Reply
+                - generic [ref=e5787]:
+                  - link "Mark Kashef" [ref=e5791] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5792]:
+                      - generic "Mark Kashef" [ref=e5793]:
+                        - img "Mark Kashef" [ref=e5794]
+                      - img [ref=e5796]:
+                        - generic [ref=e5798]: "9"
+                  - generic [ref=e5799]:
+                    - generic [ref=e5800]:
+                      - generic [ref=e5801]:
+                        - generic [ref=e5802]:
+                          - generic [ref=e5804]:
+                            - link "Mark Kashef" [ref=e5808] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5811]: Mark Kashef
+                            - generic [ref=e5812] [cursor=pointer]: 👑
+                            - generic [ref=e5813] [cursor=pointer]: 🔥
+                          - generic [ref=e5814]: • Mar 5
+                        - button [ref=e5819] [cursor=pointer]:
+                          - img [ref=e5821]
+                      - link "@Alexandra Spalato" [ref=e5827] [cursor=pointer]:
+                        - /url: /@aff2a9dae2e242ad89e772c5da413093?g=earlyaidopters
+                      - generic [ref=e5830]:
+                        - button [disabled] [ref=e5832]
+                        - status [ref=e5834]
+                    - generic [ref=e5836]:
+                      - generic [ref=e5837]:
+                        - button [ref=e5839] [cursor=pointer]:
+                          - img [ref=e5841]
+                        - generic [ref=e5847] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5849] [cursor=pointer]:
+                        - generic [ref=e5850]: Reply
+                - generic [ref=e5851]:
+                  - link "Ronan Keane" [ref=e5855] [cursor=pointer]:
+                    - /url: /@ronan-keane-9225?g=earlyaidopters
+                    - generic [ref=e5856]:
+                      - generic "Ronan Keane" [ref=e5857]:
+                        - img "Ronan Keane" [ref=e5858]
+                      - img [ref=e5860]:
+                        - generic [ref=e5862]: "4"
+                  - generic [ref=e5863]:
+                    - generic [ref=e5864]:
+                      - generic [ref=e5865]:
+                        - generic [ref=e5866]:
+                          - link "Ronan Keane" [ref=e5871] [cursor=pointer]:
+                            - /url: /@ronan-keane-9225?g=earlyaidopters
+                            - generic [ref=e5874]: Ronan Keane
+                          - generic [ref=e5875]: • Mar 5
+                        - button [ref=e5880] [cursor=pointer]:
+                          - img [ref=e5882]
+                      - generic [ref=e5885]:
+                        - text: This is great,
+                        - link "@Mark Kashef" [ref=e5888] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: . Very helpful, thank you.
+                    - generic [ref=e5890]:
+                      - generic [ref=e5891]:
+                        - button [ref=e5893] [cursor=pointer]:
+                          - img [ref=e5895]
+                        - generic [ref=e5901] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e5903] [cursor=pointer]:
+                        - generic [ref=e5904]: Reply
+                - generic [ref=e5906]:
+                  - link "Mark Kashef" [ref=e5910] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e5911]:
+                      - generic "Mark Kashef" [ref=e5912]:
+                        - img "Mark Kashef" [ref=e5913]
+                      - img [ref=e5915]:
+                        - generic [ref=e5917]: "9"
+                  - generic [ref=e5918]:
+                    - generic [ref=e5919]:
+                      - generic [ref=e5920]:
+                        - generic [ref=e5921]:
+                          - generic [ref=e5923]:
+                            - link "Mark Kashef" [ref=e5927] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e5930]: Mark Kashef
+                            - generic [ref=e5931] [cursor=pointer]: 👑
+                            - generic [ref=e5932] [cursor=pointer]: 🔥
+                          - generic [ref=e5933]: • Mar 5
+                        - button [ref=e5938] [cursor=pointer]:
+                          - img [ref=e5940]
+                      - generic [ref=e5943]:
+                        - link "@Ronan Keane" [ref=e5946] [cursor=pointer]:
+                          - /url: /@7e2ef0a3a67d43efb857dae68ce860da?g=earlyaidopters
+                        - text: happy to help 🙏🏽
+                    - generic [ref=e5948]:
+                      - generic [ref=e5949]:
+                        - button [ref=e5951] [cursor=pointer]:
+                          - img [ref=e5953]
+                        - generic [ref=e5959] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e5961] [cursor=pointer]:
+                        - generic [ref=e5962]: Reply
+                - generic [ref=e5963]:
+                  - link "Rolland Melet" [ref=e5967] [cursor=pointer]:
+                    - /url: /@rolland-melet-8097?g=earlyaidopters
+                    - generic [ref=e5968]:
+                      - generic "Rolland Melet" [ref=e5969]:
+                        - img "Rolland Melet" [ref=e5970]
+                      - img [ref=e5972]:
+                        - generic [ref=e5974]: "3"
+                  - generic [ref=e5975]:
+                    - generic [ref=e5976]:
+                      - generic [ref=e5977]:
+                        - generic [ref=e5978]:
+                          - link "Rolland Melet" [ref=e5983] [cursor=pointer]:
+                            - /url: /@rolland-melet-8097?g=earlyaidopters
+                            - generic [ref=e5986]: Rolland Melet
+                          - generic [ref=e5987]: • Mar 5
+                        - button [ref=e5992] [cursor=pointer]:
+                          - img [ref=e5994]
+                      - generic [ref=e5997]:
+                        - link "@Mark Kashef" [ref=e6000] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: are you using nano banana combine with excalidraw to create your drawing ?
+                    - generic [ref=e6002]:
+                      - generic [ref=e6003]:
+                        - button [ref=e6005] [cursor=pointer]:
+                          - img [ref=e6007]
+                        - generic [ref=e6013] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e6015] [cursor=pointer]:
+                        - generic [ref=e6016]: Reply
+                - generic [ref=e6018]:
+                  - link "Mark Kashef" [ref=e6022] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e6023]:
+                      - generic "Mark Kashef" [ref=e6024]:
+                        - img "Mark Kashef" [ref=e6025]
+                      - img [ref=e6027]:
+                        - generic [ref=e6029]: "9"
+                  - generic [ref=e6030]:
+                    - generic [ref=e6031]:
+                      - generic [ref=e6032]:
+                        - generic [ref=e6033]:
+                          - generic [ref=e6035]:
+                            - link "Mark Kashef" [ref=e6039] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e6042]: Mark Kashef
+                            - generic [ref=e6043] [cursor=pointer]: 👑
+                            - generic [ref=e6044] [cursor=pointer]: 🔥
+                          - generic [ref=e6045]: • Mar 5
+                        - button [ref=e6050] [cursor=pointer]:
+                          - img [ref=e6052]
+                      - generic [ref=e6055]:
+                        - link "@Rolland Melet" [ref=e6058] [cursor=pointer]:
+                          - /url: /@cca27c2a3ab04694ba1e691fcde16fd8?g=earlyaidopters
+                        - text: nano banana + Claude code
+                    - generic [ref=e6060]:
+                      - generic [ref=e6061]:
+                        - button [ref=e6063] [cursor=pointer]:
+                          - img [ref=e6065]
+                        - generic [ref=e6071] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e6073] [cursor=pointer]:
+                        - generic [ref=e6074]: Reply
+                - generic [ref=e6075]:
+                  - link "Carlos Gutierrez" [ref=e6079] [cursor=pointer]:
+                    - /url: /@carlos-gutierrez-6797?g=earlyaidopters
+                    - generic [ref=e6080]:
+                      - generic "Carlos Gutierrez" [ref=e6081]:
+                        - img "Carlos Gutierrez" [ref=e6082]
+                      - img [ref=e6084]:
+                        - generic [ref=e6086]: "3"
+                  - generic [ref=e6087]:
+                    - generic [ref=e6088]:
+                      - generic [ref=e6089]:
+                        - generic [ref=e6090]:
+                          - link "Carlos Gutierrez" [ref=e6095] [cursor=pointer]:
+                            - /url: /@carlos-gutierrez-6797?g=earlyaidopters
+                            - generic [ref=e6098]: Carlos Gutierrez
+                          - generic [ref=e6099]: • Mar 5
+                        - button [ref=e6104] [cursor=pointer]:
+                          - img [ref=e6106]
+                      - generic [ref=e6109]: Love it, Thank you will be super helpful for many use cases
+                    - generic [ref=e6111]:
+                      - generic [ref=e6112]:
+                        - button [ref=e6114] [cursor=pointer]:
+                          - img [ref=e6116]
+                        - generic [ref=e6122] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6124] [cursor=pointer]:
+                        - generic [ref=e6125]: Reply
+                - generic [ref=e6126]:
+                  - link "Geleau Gelin" [ref=e6130] [cursor=pointer]:
+                    - /url: /@gel-gel-6937?g=earlyaidopters
+                    - generic [ref=e6131]:
+                      - generic "Geleau Gelin" [ref=e6132]:
+                        - img "Geleau Gelin" [ref=e6133]
+                      - img [ref=e6135]:
+                        - generic [ref=e6137]: "5"
+                  - generic [ref=e6138]:
+                    - generic [ref=e6139]:
+                      - generic [ref=e6140]:
+                        - generic [ref=e6141]:
+                          - link "Geleau Gelin" [ref=e6146] [cursor=pointer]:
+                            - /url: /@gel-gel-6937?g=earlyaidopters
+                            - generic [ref=e6149]: Geleau Gelin
+                          - generic [ref=e6150]: • Mar 5
+                        - button [ref=e6155] [cursor=pointer]:
+                          - img [ref=e6157]
+                      - generic [ref=e6159]:
+                        - generic [ref=e6160]: This is an absolute goldmine of information.
+                        - generic [ref=e6161]:
+                          - text: Thanks
+                          - link "@Mark Kashef" [ref=e6164] [cursor=pointer]:
+                            - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                    - generic [ref=e6166]:
+                      - generic [ref=e6167]:
+                        - button [ref=e6169] [cursor=pointer]:
+                          - img [ref=e6171]
+                        - generic [ref=e6177] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e6179] [cursor=pointer]:
+                        - generic [ref=e6180]: Reply
+                - generic [ref=e6181]:
+                  - link "Michael Graham" [ref=e6185] [cursor=pointer]:
+                    - /url: /@michael-graham-2082?g=earlyaidopters
+                    - generic [ref=e6186]:
+                      - generic "Michael Graham" [ref=e6187]:
+                        - img "Michael Graham" [ref=e6188]
+                      - img [ref=e6190]:
+                        - generic [ref=e6192]: "4"
+                  - generic [ref=e6193]:
+                    - generic [ref=e6194]:
+                      - generic [ref=e6195]:
+                        - generic [ref=e6196]:
+                          - link "Michael Graham" [ref=e6201] [cursor=pointer]:
+                            - /url: /@michael-graham-2082?g=earlyaidopters
+                            - generic [ref=e6204]: Michael Graham
+                          - generic [ref=e6205]: • Mar 5
+                        - button [ref=e6210] [cursor=pointer]:
+                          - img [ref=e6212]
+                      - generic [ref=e6215]:
+                        - text: Thanks
+                        - link "@Mark Kashef" [ref=e6218] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                    - generic [ref=e6220]:
+                      - generic [ref=e6221]:
+                        - button [ref=e6223] [cursor=pointer]:
+                          - img [ref=e6225]
+                        - generic [ref=e6231] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e6233] [cursor=pointer]:
+                        - generic [ref=e6234]: Reply
+                - generic [ref=e6235]:
+                  - link "Steve Raju" [ref=e6239] [cursor=pointer]:
+                    - /url: /@steve-raju-2458?g=earlyaidopters
+                    - generic [ref=e6240]:
+                      - generic "Steve Raju" [ref=e6241]:
+                        - img "Steve Raju" [ref=e6242]
+                      - img [ref=e6244]:
+                        - generic [ref=e6246]: "4"
+                  - generic [ref=e6247]:
+                    - generic [ref=e6248]:
+                      - generic [ref=e6249]:
+                        - generic [ref=e6250]:
+                          - link "Steve Raju" [ref=e6255] [cursor=pointer]:
+                            - /url: /@steve-raju-2458?g=earlyaidopters
+                            - generic [ref=e6258]: Steve Raju
+                          - generic [ref=e6259]: • Mar 5
+                        - button [ref=e6264] [cursor=pointer]:
+                          - img [ref=e6266]
+                      - generic [ref=e6269]:
+                        - text: ASCII art takes me back, echo lines in a batch file so the overnight exports from AS/400 to SQL Server had some nice activity logs. This is a very clever idea. Great job
+                        - link "@Mark Kashef" [ref=e6272] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                    - generic [ref=e6274]:
+                      - generic [ref=e6275]:
+                        - button [ref=e6277] [cursor=pointer]:
+                          - img [ref=e6279]
+                        - generic [ref=e6285] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e6287] [cursor=pointer]:
+                        - generic [ref=e6288]: Reply
+                - generic [ref=e6289]:
+                  - link "Sam D'Arcy" [ref=e6293] [cursor=pointer]:
+                    - /url: /@sam-darcy-5226?g=earlyaidopters
+                    - generic [ref=e6294]:
+                      - generic "Sam D'Arcy" [ref=e6295]:
+                        - img "Sam D'Arcy" [ref=e6296]
+                      - img [ref=e6298]:
+                        - generic [ref=e6300]: "5"
+                  - generic [ref=e6301]:
+                    - generic [ref=e6302]:
+                      - generic [ref=e6303]:
+                        - generic [ref=e6304]:
+                          - link "Sam D'Arcy" [ref=e6309] [cursor=pointer]:
+                            - /url: /@sam-darcy-5226?g=earlyaidopters
+                            - generic [ref=e6312]: Sam D'Arcy
+                          - generic [ref=e6313]: • Mar 5
+                        - button [ref=e6318] [cursor=pointer]:
+                          - img [ref=e6320]
+                      - generic [ref=e6323]: very out-of-the-box thinking. Super interesting!
+                    - generic [ref=e6325]:
+                      - generic [ref=e6326]:
+                        - button [ref=e6328] [cursor=pointer]:
+                          - img [ref=e6330]
+                        - generic [ref=e6336] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6338] [cursor=pointer]:
+                        - generic [ref=e6339]: Reply
+                - generic [ref=e6340]:
+                  - link "Virgil Hammond" [ref=e6344] [cursor=pointer]:
+                    - /url: /@virgil-hammond-5473?g=earlyaidopters
+                    - generic [ref=e6345]:
+                      - generic "Virgil Hammond" [ref=e6346]:
+                        - img "Virgil Hammond" [ref=e6347]
+                      - img [ref=e6349]:
+                        - generic [ref=e6351]: "2"
+                  - generic [ref=e6352]:
+                    - generic [ref=e6353]:
+                      - generic [ref=e6354]:
+                        - generic [ref=e6355]:
+                          - link "Virgil Hammond" [ref=e6360] [cursor=pointer]:
+                            - /url: /@virgil-hammond-5473?g=earlyaidopters
+                            - generic [ref=e6363]: Virgil Hammond
+                          - generic [ref=e6364]: • Mar 5
+                        - button [ref=e6369] [cursor=pointer]:
+                          - img [ref=e6371]
+                      - generic [ref=e6374]: Nice. Definitely gonna be using this for PowerPoint slides and SQL diagrams!
+                    - generic [ref=e6376]:
+                      - generic [ref=e6377]:
+                        - button [ref=e6379] [cursor=pointer]:
+                          - img [ref=e6381]
+                        - generic [ref=e6387] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6389] [cursor=pointer]:
+                        - generic [ref=e6390]: Reply
+              - generic [ref=e6391]:
+                - generic [ref=e6392]:
+                  - link "Baz Ozturk" [ref=e6396] [cursor=pointer]:
+                    - /url: /@baz-ozturk-9583?g=earlyaidopters
+                    - generic [ref=e6397]:
+                      - generic "Baz Ozturk" [ref=e6398]:
+                        - img "Baz Ozturk" [ref=e6399]
+                      - img [ref=e6401]:
+                        - generic [ref=e6403]: "5"
+                  - generic [ref=e6404]:
+                    - generic [ref=e6405]:
+                      - generic [ref=e6406]:
+                        - generic [ref=e6407]:
+                          - link "Baz Ozturk" [ref=e6412] [cursor=pointer]:
+                            - /url: /@baz-ozturk-9583?g=earlyaidopters
+                            - generic [ref=e6415]: Baz Ozturk
+                          - generic [ref=e6416]: • Mar 5
+                        - button [ref=e6421] [cursor=pointer]:
+                          - img [ref=e6423]
+                      - generic [ref=e6426]:
+                        - text: As always you are an absolute beast
+                        - link "@Mark Kashef" [ref=e6429] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: even optimising learning to a point that it becomes fun with any subject!
+                    - generic [ref=e6431]:
+                      - generic [ref=e6432]:
+                        - button [ref=e6434] [cursor=pointer]:
+                          - img [ref=e6436]
+                        - generic [ref=e6442] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6444] [cursor=pointer]:
+                        - generic [ref=e6445]: Reply
+                - generic [ref=e6446]:
+                  - generic [ref=e6447]:
+                    - link "Mark Kashef" [ref=e6451] [cursor=pointer]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e6452]:
+                        - generic "Mark Kashef" [ref=e6453]:
+                          - img "Mark Kashef" [ref=e6454]
+                        - img [ref=e6456]:
+                          - generic [ref=e6458]: "9"
+                    - generic [ref=e6459]:
+                      - generic [ref=e6460]:
+                        - generic [ref=e6461]:
+                          - generic [ref=e6462]:
+                            - generic [ref=e6464]:
+                              - link "Mark Kashef" [ref=e6468] [cursor=pointer]:
+                                - /url: /@mark-kashef-7464?g=earlyaidopters
+                                - generic [ref=e6471]: Mark Kashef
+                              - generic [ref=e6472] [cursor=pointer]: 👑
+                              - generic [ref=e6473] [cursor=pointer]: 🔥
+                            - generic [ref=e6474]: • Mar 6
+                          - button [ref=e6479] [cursor=pointer]:
+                            - img [ref=e6481]
+                        - generic [ref=e6484]:
+                          - link "@Baz Ozturk" [ref=e6487] [cursor=pointer]:
+                            - /url: /@ce691ff05ba143409eaf746397be0481?g=earlyaidopters
+                          - text: Baz re-emerges
+                      - generic [ref=e6489]:
+                        - generic [ref=e6490]:
+                          - button [ref=e6492] [cursor=pointer]:
+                            - img [ref=e6494]
+                          - generic [ref=e6500] [cursor=pointer]: "1"
+                        - button "Reply" [ref=e6502] [cursor=pointer]:
+                          - generic [ref=e6503]: Reply
+                  - generic [ref=e6504]:
+                    - link "Baz Ozturk" [ref=e6508] [cursor=pointer]:
+                      - /url: /@baz-ozturk-9583?g=earlyaidopters
+                      - generic [ref=e6509]:
+                        - generic "Baz Ozturk" [ref=e6510]:
+                          - img "Baz Ozturk" [ref=e6511]
+                        - img [ref=e6513]:
+                          - generic [ref=e6515]: "5"
+                    - generic [ref=e6516]:
+                      - generic [ref=e6517]:
+                        - generic [ref=e6518]:
+                          - generic [ref=e6519]:
+                            - link "Baz Ozturk" [ref=e6524] [cursor=pointer]:
+                              - /url: /@baz-ozturk-9583?g=earlyaidopters
+                              - generic [ref=e6527]: Baz Ozturk
+                            - generic [ref=e6528]: • Mar 6
+                          - button [ref=e6533] [cursor=pointer]:
+                            - img [ref=e6535]
+                        - link "@Mark Kashef" [ref=e6541] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - generic [ref=e6544]:
+                          - button [disabled] [ref=e6546]
+                          - status [ref=e6548]
+                      - generic [ref=e6550]:
+                        - generic [ref=e6551]:
+                          - button [ref=e6553] [cursor=pointer]:
+                            - img [ref=e6555]
+                          - generic [ref=e6561] [cursor=pointer]: "0"
+                        - button "Reply" [ref=e6563] [cursor=pointer]:
+                          - generic [ref=e6564]: Reply
+                - generic [ref=e6565]:
+                  - link "Brett Walker" [ref=e6569] [cursor=pointer]:
+                    - /url: /@brett-walker-9263?g=earlyaidopters
+                    - generic [ref=e6570]:
+                      - generic "Brett Walker" [ref=e6571]:
+                        - img "Brett Walker" [ref=e6572]
+                      - img [ref=e6574]:
+                        - generic [ref=e6576]: "1"
+                  - generic [ref=e6577]:
+                    - generic [ref=e6578]:
+                      - generic [ref=e6579]:
+                        - generic [ref=e6580]:
+                          - link "Brett Walker" [ref=e6585] [cursor=pointer]:
+                            - /url: /@brett-walker-9263?g=earlyaidopters
+                            - generic [ref=e6588]: Brett Walker
+                          - generic [ref=e6589]: • Mar 6
+                        - button [ref=e6594] [cursor=pointer]:
+                          - img [ref=e6596]
+                      - generic [ref=e6599]: What a great video, Mark. Thanks for all your hard work and your commitment to sharing such useful knowledge
+                    - generic [ref=e6601]:
+                      - generic [ref=e6602]:
+                        - button [ref=e6604] [cursor=pointer]:
+                          - img [ref=e6606]
+                        - generic [ref=e6612] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6614] [cursor=pointer]:
+                        - generic [ref=e6615]: Reply
+                - generic [ref=e6617]:
+                  - link "Mark Kashef" [ref=e6621] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e6622]:
+                      - generic "Mark Kashef" [ref=e6623]:
+                        - img "Mark Kashef" [ref=e6624]
+                      - img [ref=e6626]:
+                        - generic [ref=e6628]: "9"
+                  - generic [ref=e6629]:
+                    - generic [ref=e6630]:
+                      - generic [ref=e6631]:
+                        - generic [ref=e6632]:
+                          - generic [ref=e6634]:
+                            - link "Mark Kashef" [ref=e6638] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e6641]: Mark Kashef
+                            - generic [ref=e6642] [cursor=pointer]: 👑
+                            - generic [ref=e6643] [cursor=pointer]: 🔥
+                          - generic [ref=e6644]: • Mar 6
+                        - button [ref=e6649] [cursor=pointer]:
+                          - img [ref=e6651]
+                      - generic [ref=e6654]:
+                        - link "@Brett Walker" [ref=e6657] [cursor=pointer]:
+                          - /url: /@4e6bea53573c42e6b5e50057a2386e8f?g=earlyaidopters
+                        - text: welcome and glad your first impressions are positive ones!
+                    - generic [ref=e6659]:
+                      - generic [ref=e6660]:
+                        - button [ref=e6662] [cursor=pointer]:
+                          - img [ref=e6664]
+                        - generic [ref=e6670] [cursor=pointer]: "0"
+                      - button "Reply" [ref=e6672] [cursor=pointer]:
+                        - generic [ref=e6673]: Reply
+                - generic [ref=e6674]:
+                  - link "Philipp Kowalski" [ref=e6678] [cursor=pointer]:
+                    - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                    - generic [ref=e6679]:
+                      - generic "Philipp Kowalski" [ref=e6680]:
+                        - img "Philipp Kowalski" [ref=e6681]
+                      - img [ref=e6683]:
+                        - generic [ref=e6685]: "6"
+                  - generic [ref=e6686]:
+                    - generic [ref=e6687]:
+                      - generic [ref=e6688]:
+                        - generic [ref=e6689]:
+                          - link "Philipp Kowalski" [ref=e6694] [cursor=pointer]:
+                            - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                            - generic [ref=e6697]: Philipp Kowalski
+                          - generic [ref=e6698]: • Mar 6
+                        - button [ref=e6703] [cursor=pointer]:
+                          - img [ref=e6705]
+                      - generic [ref=e6708]: this one is really great. It is for me a kind of optimization before the real product is created which is probably very close how you would have done it in prior times. Just now you do it in lightning speed with the AI. Awesome video, Mark, again
+                    - generic [ref=e6710]:
+                      - generic [ref=e6711]:
+                        - button [ref=e6713] [cursor=pointer]:
+                          - img [ref=e6715]
+                        - generic [ref=e6721] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6723] [cursor=pointer]:
+                        - generic [ref=e6724]: Reply
+                - generic [ref=e6725]:
+                  - generic [ref=e6726]:
+                    - link "Mark Kashef" [ref=e6730] [cursor=pointer]:
+                      - /url: /@mark-kashef-7464?g=earlyaidopters
+                      - generic [ref=e6731]:
+                        - generic "Mark Kashef" [ref=e6732]:
+                          - img "Mark Kashef" [ref=e6733]
+                        - img [ref=e6735]:
+                          - generic [ref=e6737]: "9"
+                    - generic [ref=e6738]:
+                      - generic [ref=e6739]:
+                        - generic [ref=e6740]:
+                          - generic [ref=e6741]:
+                            - generic [ref=e6743]:
+                              - link "Mark Kashef" [ref=e6747] [cursor=pointer]:
+                                - /url: /@mark-kashef-7464?g=earlyaidopters
+                                - generic [ref=e6750]: Mark Kashef
+                              - generic [ref=e6751] [cursor=pointer]: 👑
+                              - generic [ref=e6752] [cursor=pointer]: 🔥
+                            - generic [ref=e6753]: • Mar 6
+                          - button [ref=e6758] [cursor=pointer]:
+                            - img [ref=e6760]
+                        - generic [ref=e6763]:
+                          - link "@Philipp Kowalski" [ref=e6766] [cursor=pointer]:
+                            - /url: /@b4b737c8c7894ff9ba27e226c01c528e?g=earlyaidopters
+                          - text: a compliment from Philipp means a job well done
+                      - generic [ref=e6768]:
+                        - generic [ref=e6769]:
+                          - button [ref=e6771] [cursor=pointer]:
+                            - img [ref=e6773]
+                          - generic [ref=e6779] [cursor=pointer]: "1"
+                        - button "Reply" [ref=e6781] [cursor=pointer]:
+                          - generic [ref=e6782]: Reply
+                  - generic [ref=e6783]:
+                    - link "Philipp Kowalski" [ref=e6787] [cursor=pointer]:
+                      - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                      - generic [ref=e6788]:
+                        - generic "Philipp Kowalski" [ref=e6789]:
+                          - img "Philipp Kowalski" [ref=e6790]
+                        - img [ref=e6792]:
+                          - generic [ref=e6794]: "6"
+                    - generic [ref=e6795]:
+                      - generic [ref=e6796]:
+                        - generic [ref=e6797]:
+                          - generic [ref=e6798]:
+                            - link "Philipp Kowalski" [ref=e6803] [cursor=pointer]:
+                              - /url: /@philipp-kowalski-2467?g=earlyaidopters
+                              - generic [ref=e6806]: Philipp Kowalski
+                            - generic [ref=e6807]: • Mar 6
+                          - button [ref=e6812] [cursor=pointer]:
+                            - img [ref=e6814]
+                        - generic [ref=e6817]:
+                          - link "@Mark Kashef" [ref=e6820] [cursor=pointer]:
+                            - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                          - text: 😁 ... thank you! but this makes me retihink my other comments somehow. Sometimes - when I re-read them - they sound a bit too harsh. Will try to improve, promised!
+                      - generic [ref=e6822]:
+                        - generic [ref=e6823]:
+                          - button [ref=e6825] [cursor=pointer]:
+                            - img [ref=e6827]
+                          - generic [ref=e6833] [cursor=pointer]: "1"
+                        - button "Reply" [ref=e6835] [cursor=pointer]:
+                          - generic [ref=e6836]: Reply
+                - generic [ref=e6837] [cursor=pointer]:
+                  - img [ref=e6839]
+                  - generic [ref=e6841]: View 1 more reply
+                - generic [ref=e6842]:
+                  - link "Talab Elmharek" [ref=e6846] [cursor=pointer]:
+                    - /url: /@talab-elmharek-1707?g=earlyaidopters
+                    - generic [ref=e6847]:
+                      - generic "Talab Elmharek" [ref=e6848]:
+                        - img "Talab Elmharek" [ref=e6849]
+                      - img [ref=e6851]:
+                        - generic [ref=e6853]: "5"
+                  - generic [ref=e6854]:
+                    - generic [ref=e6855]:
+                      - generic [ref=e6856]:
+                        - generic [ref=e6857]:
+                          - link "Talab Elmharek" [ref=e6862] [cursor=pointer]:
+                            - /url: /@talab-elmharek-1707?g=earlyaidopters
+                            - generic [ref=e6865]: Talab Elmharek
+                          - generic [ref=e6866]: • Mar 6
+                        - button [ref=e6871] [cursor=pointer]:
+                          - img [ref=e6873]
+                      - generic [ref=e6876]:
+                        - text: Thanks,
+                        - link "@Mark Kashef" [ref=e6879] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: Great job, I’ll definitely be using it.
+                    - generic [ref=e6881]:
+                      - generic [ref=e6882]:
+                        - button [ref=e6884] [cursor=pointer]:
+                          - img [ref=e6886]
+                        - generic [ref=e6892] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e6894] [cursor=pointer]:
+                        - generic [ref=e6895]: Reply
+                - generic [ref=e6896]:
+                  - link "Usman Mohammed" [ref=e6900] [cursor=pointer]:
+                    - /url: /@mohammed-usman-7995?g=earlyaidopters
+                    - generic [ref=e6901]:
+                      - generic "Usman Mohammed" [ref=e6902]:
+                        - img "Usman Mohammed" [ref=e6903]
+                      - img [ref=e6905]:
+                        - generic [ref=e6907]: "4"
+                  - generic [ref=e6908]:
+                    - generic [ref=e6909]:
+                      - generic [ref=e6910]:
+                        - generic [ref=e6911]:
+                          - generic [ref=e6913]:
+                            - link "Usman Mohammed" [ref=e6917] [cursor=pointer]:
+                              - /url: /@mohammed-usman-7995?g=earlyaidopters
+                              - generic [ref=e6920]: Usman Mohammed
+                            - generic [ref=e6921] [cursor=pointer]: 🔥
+                          - generic [ref=e6922]: • Mar 6 (edited)
+                        - button [ref=e6927] [cursor=pointer]:
+                          - img [ref=e6929]
+                      - generic [ref=e6931]:
+                        - link "@Mark Kashef" [ref=e6935] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - generic [ref=e6936]: ╔═══════════════════════╗
+                        - generic [ref=e6937]: ║ THANK YOU, MARK! 🙏 ║
+                        - generic [ref=e6938]: ╚═══════════════════════╝
+                      - generic [ref=e6941]:
+                        - button [disabled] [ref=e6943]
+                        - status [ref=e6945]
+                    - generic [ref=e6947]:
+                      - generic [ref=e6948]:
+                        - button [ref=e6950] [cursor=pointer]:
+                          - img [ref=e6952]
+                        - generic [ref=e6958] [cursor=pointer]: "3"
+                      - button "Reply" [ref=e6960] [cursor=pointer]:
+                        - generic [ref=e6961]: Reply
+                - generic [ref=e6962]:
+                  - link "Miguel Simon" [ref=e6966] [cursor=pointer]:
+                    - /url: /@miguel-simon-6607?g=earlyaidopters
+                    - generic [ref=e6967]:
+                      - generic "Miguel Simon" [ref=e6968]:
+                        - img "Miguel Simon" [ref=e6969]
+                      - img [ref=e6971]:
+                        - generic [ref=e6973]: "6"
+                  - generic [ref=e6974]:
+                    - generic [ref=e6975]:
+                      - generic [ref=e6976]:
+                        - generic [ref=e6977]:
+                          - link "Miguel Simon" [ref=e6982] [cursor=pointer]:
+                            - /url: /@miguel-simon-6607?g=earlyaidopters
+                            - generic [ref=e6985]: Miguel Simon
+                          - generic [ref=e6986]: • Mar 6
+                        - button [ref=e6991] [cursor=pointer]:
+                          - img [ref=e6993]
+                      - generic [ref=e6996]: Thank you Mark. That is awesome. 👍
+                    - generic [ref=e6998]:
+                      - generic [ref=e6999]:
+                        - button [ref=e7001] [cursor=pointer]:
+                          - img [ref=e7003]
+                        - generic [ref=e7009] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7011] [cursor=pointer]:
+                        - generic [ref=e7012]: Reply
+                - generic [ref=e7013]:
+                  - link "Bill Ringle" [ref=e7017] [cursor=pointer]:
+                    - /url: /@bill-ringle-4249?g=earlyaidopters
+                    - generic [ref=e7018]:
+                      - generic "Bill Ringle" [ref=e7019]:
+                        - img "Bill Ringle" [ref=e7020]
+                      - img [ref=e7022]:
+                        - generic [ref=e7024]: "5"
+                  - generic [ref=e7025]:
+                    - generic [ref=e7026]:
+                      - generic [ref=e7027]:
+                        - generic [ref=e7028]:
+                          - link "Bill Ringle" [ref=e7033] [cursor=pointer]:
+                            - /url: /@bill-ringle-4249?g=earlyaidopters
+                            - generic [ref=e7036]: Bill Ringle
+                          - generic [ref=e7037]: • Mar 6
+                        - button [ref=e7042] [cursor=pointer]:
+                          - img [ref=e7044]
+                      - generic [ref=e7046]:
+                        - generic [ref=e7047]:
+                          - text: Thanks,
+                          - link "@Mark Kashef" [ref=e7050] [cursor=pointer]:
+                            - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - generic [ref=e7051]: "Of course this agitates my one big dig against Skool chats:"
+                      - generic [ref=e7054]:
+                        - button [disabled] [ref=e7056]
+                        - status [ref=e7058]
+                    - generic [ref=e7060]:
+                      - generic [ref=e7061]:
+                        - button [ref=e7063] [cursor=pointer]:
+                          - img [ref=e7065]
+                        - generic [ref=e7071] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e7073] [cursor=pointer]:
+                        - generic [ref=e7074]: Reply
+                - generic [ref=e7076]:
+                  - link "Mark Kashef" [ref=e7080] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e7081]:
+                      - generic "Mark Kashef" [ref=e7082]:
+                        - img "Mark Kashef" [ref=e7083]
+                      - img [ref=e7085]:
+                        - generic [ref=e7087]: "9"
+                  - generic [ref=e7088]:
+                    - generic [ref=e7089]:
+                      - generic [ref=e7090]:
+                        - generic [ref=e7091]:
+                          - generic [ref=e7093]:
+                            - link "Mark Kashef" [ref=e7097] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e7100]: Mark Kashef
+                            - generic [ref=e7101] [cursor=pointer]: 👑
+                            - generic [ref=e7102] [cursor=pointer]: 🔥
+                          - generic [ref=e7103]: • Mar 7
+                        - button [ref=e7108] [cursor=pointer]:
+                          - img [ref=e7110]
+                      - generic [ref=e7113]:
+                        - link "@Bill Ringle" [ref=e7116] [cursor=pointer]:
+                          - /url: /@4e71d5d86d554ab9adfcdde8ccd4da6f?g=earlyaidopters
+                        - text: One day I am sure they'll solve it, but I'm glad it helps!
+                    - generic [ref=e7118]:
+                      - generic [ref=e7119]:
+                        - button [ref=e7121] [cursor=pointer]:
+                          - img [ref=e7123]
+                        - generic [ref=e7129] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7131] [cursor=pointer]:
+                        - generic [ref=e7132]: Reply
+                - generic [ref=e7133]:
+                  - link "Martin Aranovitch" [ref=e7137] [cursor=pointer]:
+                    - /url: /@martin-aranovitch-7128?g=earlyaidopters
+                    - generic [ref=e7138]:
+                      - generic "Martin Aranovitch" [ref=e7139]:
+                        - img "Martin Aranovitch" [ref=e7140]
+                      - img [ref=e7142]:
+                        - generic [ref=e7144]: "5"
+                  - generic [ref=e7145]:
+                    - generic [ref=e7146]:
+                      - generic [ref=e7147]:
+                        - generic [ref=e7148]:
+                          - link "Martin Aranovitch" [ref=e7153] [cursor=pointer]:
+                            - /url: /@martin-aranovitch-7128?g=earlyaidopters
+                            - generic [ref=e7156]: Martin Aranovitch
+                          - generic [ref=e7157]: • Mar 7
+                        - button [ref=e7162] [cursor=pointer]:
+                          - img [ref=e7164]
+                      - generic [ref=e7166]:
+                        - generic [ref=e7167]:
+                          - link "@Mark Kashef" [ref=e7170] [cursor=pointer]:
+                            - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                          - text: This is a really super useful time-saving and token-saving hack, thanks! 🔥
+                        - generic [ref=e7172]: I've set these up as Claude Skills in Claude AI (I'll add them to Claude Code too), and this afternoon used the ASCII design skill to draft a PowerPoint presentation to pitch a business idea.
+                        - generic [ref=e7174]: Claude created 10 slides in ASCII art format...the presentation was near perfect! 🤯 This method allowed me to review the slide content, fix one of the slides, and add an additional missing info slide.
+                        - generic [ref=e7176]: Claude then generate... See more
+                      - generic [ref=e7179]:
+                        - button [disabled] [ref=e7181]
+                        - status [ref=e7183]
+                    - generic [ref=e7185]:
+                      - generic [ref=e7186]:
+                        - button [ref=e7188] [cursor=pointer]:
+                          - img [ref=e7190]
+                        - generic [ref=e7196] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7198] [cursor=pointer]:
+                        - generic [ref=e7199]: Reply
+                - generic [ref=e7201]:
+                  - link "Mark Kashef" [ref=e7205] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e7206]:
+                      - generic "Mark Kashef" [ref=e7207]:
+                        - img "Mark Kashef" [ref=e7208]
+                      - img [ref=e7210]:
+                        - generic [ref=e7212]: "9"
+                  - generic [ref=e7213]:
+                    - generic [ref=e7214]:
+                      - generic [ref=e7215]:
+                        - generic [ref=e7216]:
+                          - generic [ref=e7218]:
+                            - link "Mark Kashef" [ref=e7222] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e7225]: Mark Kashef
+                            - generic [ref=e7226] [cursor=pointer]: 👑
+                            - generic [ref=e7227] [cursor=pointer]: 🔥
+                          - generic [ref=e7228]: • Mar 7
+                        - button [ref=e7233] [cursor=pointer]:
+                          - img [ref=e7235]
+                      - generic [ref=e7238]:
+                        - link "@Martin Aranovitch" [ref=e7241] [cursor=pointer]:
+                          - /url: /@bc84d46d517e4c3f826ff164ead722c3?g=earlyaidopters
+                        - text: I'm so happy it's helpful, and you can add it to your war chest of skills, my friends.
+                    - generic [ref=e7243]:
+                      - generic [ref=e7244]:
+                        - button [ref=e7246] [cursor=pointer]:
+                          - img [ref=e7248]
+                        - generic [ref=e7254] [cursor=pointer]: "0"
+                      - button "Reply" [ref=e7256] [cursor=pointer]:
+                        - generic [ref=e7257]: Reply
+                - generic [ref=e7258]:
+                  - link "Bozhidar Batev" [ref=e7262] [cursor=pointer]:
+                    - /url: /@bozhidar-batev-8300?g=earlyaidopters
+                    - generic [ref=e7263]:
+                      - generic "Bozhidar Batev" [ref=e7264]:
+                        - img "Bozhidar Batev" [ref=e7265]
+                      - img [ref=e7267]:
+                        - generic [ref=e7269]: "3"
+                  - generic [ref=e7270]:
+                    - generic [ref=e7271]:
+                      - generic [ref=e7272]:
+                        - generic [ref=e7273]:
+                          - link "Bozhidar Batev" [ref=e7278] [cursor=pointer]:
+                            - /url: /@bozhidar-batev-8300?g=earlyaidopters
+                            - generic [ref=e7281]: Bozhidar Batev
+                          - generic [ref=e7282]: • Mar 7
+                        - button [ref=e7287] [cursor=pointer]:
+                          - img [ref=e7289]
+                      - generic [ref=e7292]:
+                        - link "@Mark Kashef" [ref=e7295] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: This is super cool, and I’ll definitely give it a go. I’m wondering, have you used it in other use cases, like planning a more complicated skill or workflow?
+                    - generic [ref=e7297]:
+                      - generic [ref=e7298]:
+                        - button [ref=e7300] [cursor=pointer]:
+                          - img [ref=e7302]
+                        - generic [ref=e7308] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7310] [cursor=pointer]:
+                        - generic [ref=e7311]: Reply
+                - generic [ref=e7313]:
+                  - link "Mark Kashef" [ref=e7317] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e7318]:
+                      - generic "Mark Kashef" [ref=e7319]:
+                        - img "Mark Kashef" [ref=e7320]
+                      - img [ref=e7322]:
+                        - generic [ref=e7324]: "9"
+                  - generic [ref=e7325]:
+                    - generic [ref=e7326]:
+                      - generic [ref=e7327]:
+                        - generic [ref=e7328]:
+                          - generic [ref=e7330]:
+                            - link "Mark Kashef" [ref=e7334] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e7337]: Mark Kashef
+                            - generic [ref=e7338] [cursor=pointer]: 👑
+                            - generic [ref=e7339] [cursor=pointer]: 🔥
+                          - generic [ref=e7340]: • Mar 7
+                        - button [ref=e7345] [cursor=pointer]:
+                          - img [ref=e7347]
+                      - generic [ref=e7350]:
+                        - link "@Bozhidar Batev" [ref=e7353] [cursor=pointer]:
+                          - /url: /@2bd4820afc7849d59621c13783a7e048?g=earlyaidopters
+                        - text: I've used it in every single use case you can imagine, especially when it comes to auditing how an entire client system is built and seeing how all the pieces fit together. This can be used for practically everything.
+                    - generic [ref=e7355]:
+                      - generic [ref=e7356]:
+                        - button [ref=e7358] [cursor=pointer]:
+                          - img [ref=e7360]
+                        - generic [ref=e7366] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7368] [cursor=pointer]:
+                        - generic [ref=e7369]: Reply
+                - generic [ref=e7370]:
+                  - link "Dan Abelow" [ref=e7374] [cursor=pointer]:
+                    - /url: /@dan-abelow-7189?g=earlyaidopters
+                    - generic [ref=e7375]:
+                      - generic "Dan Abelow" [ref=e7376]:
+                        - img "Dan Abelow" [ref=e7377]
+                      - img [ref=e7379]:
+                        - generic [ref=e7381]: "2"
+                  - generic [ref=e7382]:
+                    - generic [ref=e7383]:
+                      - generic [ref=e7384]:
+                        - generic [ref=e7385]:
+                          - link "Dan Abelow" [ref=e7390] [cursor=pointer]:
+                            - /url: /@dan-abelow-7189?g=earlyaidopters
+                            - generic [ref=e7393]: Dan Abelow
+                          - generic [ref=e7394]: • Mar 7
+                        - button [ref=e7399] [cursor=pointer]:
+                          - img [ref=e7401]
+                      - generic [ref=e7404]:
+                        - link "@Mark Kashef" [ref=e7407] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: So next level, Mark! For about a six months I've added "illustrate this using ASCII art" to lots of prompts/projects and it's super valuable. Now your skills just turned that baby step into another MK take off... Thank you for another rocket ship!
+                    - generic [ref=e7409]:
+                      - generic [ref=e7410]:
+                        - button [ref=e7412] [cursor=pointer]:
+                          - img [ref=e7414]
+                        - generic [ref=e7420] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7422] [cursor=pointer]:
+                        - generic [ref=e7423]: Reply
+                - generic [ref=e7425]:
+                  - link "Mark Kashef" [ref=e7429] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e7430]:
+                      - generic "Mark Kashef" [ref=e7431]:
+                        - img "Mark Kashef" [ref=e7432]
+                      - img [ref=e7434]:
+                        - generic [ref=e7436]: "9"
+                  - generic [ref=e7437]:
+                    - generic [ref=e7438]:
+                      - generic [ref=e7439]:
+                        - generic [ref=e7440]:
+                          - generic [ref=e7442]:
+                            - link "Mark Kashef" [ref=e7446] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e7449]: Mark Kashef
+                            - generic [ref=e7450] [cursor=pointer]: 👑
+                            - generic [ref=e7451] [cursor=pointer]: 🔥
+                          - generic [ref=e7452]: • Mar 7
+                        - button [ref=e7457] [cursor=pointer]:
+                          - img [ref=e7459]
+                      - generic [ref=e7461]:
+                        - generic [ref=e7462]:
+                          - link "@Dan Abelow" [ref=e7465] [cursor=pointer]:
+                            - /url: /@f93fe7db77fb4cb4ba8fa4216df13c79?g=earlyaidopters
+                          - text: WOOHOOO! rocket fuel
+                        - generic [ref=e7467]: my pleasure Dan
+                    - generic [ref=e7469]:
+                      - generic [ref=e7470]:
+                        - button [ref=e7472] [cursor=pointer]:
+                          - img [ref=e7474]
+                        - generic [ref=e7480] [cursor=pointer]: "0"
+                      - button "Reply" [ref=e7482] [cursor=pointer]:
+                        - generic [ref=e7483]: Reply
+                - generic [ref=e7484]:
+                  - link "Endy Cheung" [ref=e7488] [cursor=pointer]:
+                    - /url: /@endy-cheung-9935?g=earlyaidopters
+                    - generic [ref=e7489]:
+                      - generic "Endy Cheung" [ref=e7490]:
+                        - img "Endy Cheung" [ref=e7491]
+                      - img [ref=e7493]:
+                        - generic [ref=e7495]: "5"
+                  - generic [ref=e7496]:
+                    - generic [ref=e7497]:
+                      - generic [ref=e7498]:
+                        - generic [ref=e7499]:
+                          - link "Endy Cheung" [ref=e7504] [cursor=pointer]:
+                            - /url: /@endy-cheung-9935?g=earlyaidopters
+                            - generic [ref=e7507]: Endy Cheung
+                          - generic [ref=e7508]: • Mar 8
+                        - button [ref=e7513] [cursor=pointer]:
+                          - img [ref=e7515]
+                      - generic [ref=e7517]:
+                        - generic [ref=e7518]:
+                          - link "@Mark Kashef" [ref=e7521] [cursor=pointer]:
+                            - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                          - text: ", thank you very much for these incredible gifts. And plenty of practical examples to inspire us on how we can use ASCII art effectively to wireframe our ideas before we ask Claude Code to generate code for us."
+                        - generic [ref=e7523]: "For other folks who havent watch it yet. This is my TLDR:"
+                        - generic [ref=e7524]: 👉🏻 Basically, this can supercharge your concept ideas without burning through the tokens. And also gives you the visualizations of the code that you don't understand without getting into the weeds.
+                    - generic [ref=e7526]:
+                      - generic [ref=e7527]:
+                        - button [ref=e7529] [cursor=pointer]:
+                          - img [ref=e7531]
+                        - generic [ref=e7537] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7539] [cursor=pointer]:
+                        - generic [ref=e7540]: Reply
+                - generic [ref=e7541]:
+                  - link "Marzieh Zare" [ref=e7545] [cursor=pointer]:
+                    - /url: /@marzieh-zare-2566?g=earlyaidopters
+                    - generic [ref=e7546]:
+                      - generic "Marzieh Zare" [ref=e7547]:
+                        - img "Marzieh Zare" [ref=e7548]
+                      - img [ref=e7550]:
+                        - generic [ref=e7552]: "5"
+                  - generic [ref=e7553]:
+                    - generic [ref=e7554]:
+                      - generic [ref=e7555]:
+                        - generic [ref=e7556]:
+                          - link "Marzieh Zare" [ref=e7561] [cursor=pointer]:
+                            - /url: /@marzieh-zare-2566?g=earlyaidopters
+                            - generic [ref=e7564]: Marzieh Zare
+                          - generic [ref=e7565]: • Mar 23
+                        - button [ref=e7570] [cursor=pointer]:
+                          - img [ref=e7572]
+                      - generic [ref=e7575]: Thank you so much!
+                    - generic [ref=e7577]:
+                      - generic [ref=e7578]:
+                        - button [ref=e7580] [cursor=pointer]:
+                          - img [ref=e7582]
+                        - generic [ref=e7588] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7590] [cursor=pointer]:
+                        - generic [ref=e7591]: Reply
+                - generic [ref=e7593]:
+                  - link "Mark Kashef" [ref=e7597] [cursor=pointer]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e7598]:
+                      - generic "Mark Kashef" [ref=e7599]:
+                        - img "Mark Kashef" [ref=e7600]
+                      - img [ref=e7602]:
+                        - generic [ref=e7604]: "9"
+                  - generic [ref=e7605]:
+                    - generic [ref=e7606]:
+                      - generic [ref=e7607]:
+                        - generic [ref=e7608]:
+                          - generic [ref=e7610]:
+                            - link "Mark Kashef" [ref=e7614] [cursor=pointer]:
+                              - /url: /@mark-kashef-7464?g=earlyaidopters
+                              - generic [ref=e7617]: Mark Kashef
+                            - generic [ref=e7618] [cursor=pointer]: 👑
+                            - generic [ref=e7619] [cursor=pointer]: 🔥
+                          - generic [ref=e7620]: • Mar 23
+                        - button [ref=e7625] [cursor=pointer]:
+                          - img [ref=e7627]
+                      - generic [ref=e7630]:
+                        - link "@Marzieh Zare" [ref=e7633] [cursor=pointer]:
+                          - /url: /@c131effdaa45403f85a552e17c56c743?g=earlyaidopters
+                        - text: My absolute pleasure, as always!
+                    - generic [ref=e7635]:
+                      - generic [ref=e7636]:
+                        - button [ref=e7638] [cursor=pointer]:
+                          - img [ref=e7640]
+                        - generic [ref=e7646] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7648] [cursor=pointer]:
+                        - generic [ref=e7649]: Reply
+                - generic [ref=e7650]:
+                  - link "Uma Shankar Arora" [ref=e7654] [cursor=pointer]:
+                    - /url: /@uma-shankar-arora-4833?g=earlyaidopters
+                    - generic [ref=e7655]:
+                      - generic "Uma Shankar Arora" [ref=e7656]:
+                        - img "Uma Shankar Arora" [ref=e7657]
+                      - img [ref=e7659]:
+                        - generic [ref=e7661]: "3"
+                  - generic [ref=e7662]:
+                    - generic [ref=e7663]:
+                      - generic [ref=e7664]:
+                        - generic [ref=e7665]:
+                          - link "Uma Shankar Arora" [ref=e7670] [cursor=pointer]:
+                            - /url: /@uma-shankar-arora-4833?g=earlyaidopters
+                            - generic [ref=e7673]: Uma Shankar Arora
+                          - generic [ref=e7674]: • Mar 29
+                        - button [ref=e7679] [cursor=pointer]:
+                          - img [ref=e7681]
+                      - generic [ref=e7684]:
+                        - text: This is amazing
+                        - link "@Mark Kashef" [ref=e7687] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: ", Thanks!! It will be very useful in brainstorming sessions."
+                    - generic [ref=e7689]:
+                      - generic [ref=e7690]:
+                        - button [ref=e7692] [cursor=pointer]:
+                          - img [ref=e7694]
+                        - generic [ref=e7700] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7702] [cursor=pointer]:
+                        - generic [ref=e7703]: Reply
+                - generic [ref=e7704]:
+                  - link "Dev Dappr" [ref=e7708] [cursor=pointer]:
+                    - /url: /@dev-dappr-2822?g=earlyaidopters
+                    - generic [ref=e7709]:
+                      - generic "Dev Dappr" [ref=e7710]:
+                        - img "Dev Dappr" [ref=e7711]
+                      - img [ref=e7713]:
+                        - generic [ref=e7715]: "5"
+                  - generic [ref=e7716]:
+                    - generic [ref=e7717]:
+                      - generic [ref=e7718]:
+                        - generic [ref=e7719]:
+                          - link "Dev Dappr" [ref=e7724] [cursor=pointer]:
+                            - /url: /@dev-dappr-2822?g=earlyaidopters
+                            - generic [ref=e7727]: Dev Dappr
+                          - generic [ref=e7728]: • 30d
+                        - button [ref=e7733] [cursor=pointer]:
+                          - img [ref=e7735]
+                      - generic [ref=e7738]:
+                        - text: The practical value of of this preliminary planning step cannot be overstated; thanks
+                        - link "@Mark Kashef" [ref=e7741] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: for succinctly explaining this methodology; its use cases and how this is one of your own go-to hacks ... thanks again for bestowing your infinite wisdom 👑 upon us!! 🔥
+                    - generic [ref=e7743]:
+                      - generic [ref=e7744]:
+                        - button [ref=e7746] [cursor=pointer]:
+                          - img [ref=e7748]
+                        - generic [ref=e7754] [cursor=pointer]: "2"
+                      - button "Reply" [ref=e7756] [cursor=pointer]:
+                        - generic [ref=e7757]: Reply
+                - generic [ref=e7758]:
+                  - link "Lutfiya Miller" [ref=e7762] [cursor=pointer]:
+                    - /url: /@lutfiya-miller-9048?g=earlyaidopters
+                    - generic [ref=e7763]:
+                      - generic "Lutfiya Miller" [ref=e7764]:
+                        - img "Lutfiya Miller" [ref=e7765]
+                      - img [ref=e7767]:
+                        - generic [ref=e7769]: "7"
+                  - generic [ref=e7770]:
+                    - generic [ref=e7771]:
+                      - generic [ref=e7772]:
+                        - generic [ref=e7773]:
+                          - link "Lutfiya Miller" [ref=e7778] [cursor=pointer]:
+                            - /url: /@lutfiya-miller-9048?g=earlyaidopters
+                            - generic [ref=e7781]: Lutfiya Miller
+                          - generic [ref=e7782]: • 21d
+                        - button [ref=e7787] [cursor=pointer]:
+                          - img [ref=e7789]
+                      - generic [ref=e7792]:
+                        - link "@Mark Kashef" [ref=e7795] [cursor=pointer]:
+                          - /url: /@4b7e01bb34d346bead3dd44b4f8a87e0?g=earlyaidopters
+                        - text: Quick note - I’ve used this a bunch since you posted it! Very helpful indeed!!!
+                    - generic [ref=e7797]:
+                      - generic [ref=e7798]:
+                        - button [ref=e7800] [cursor=pointer]:
+                          - img [ref=e7802]
+                        - generic [ref=e7808] [cursor=pointer]: "1"
+                      - button "Reply" [ref=e7810] [cursor=pointer]:
+                        - generic [ref=e7811]: Reply
+            - generic [ref=e7813]:
+              - generic [ref=e7814]:
+                - generic "Eric Oh" [ref=e7815]:
+                  - img "Eric Oh" [ref=e7816]
+                - img [ref=e7818]:
+                  - generic [ref=e7820]: "3"
+              - generic [ref=e7827]:
+                - paragraph [ref=e7833]: Your comment
+                - generic [ref=e7835]:
+                  - img [ref=e7839] [cursor=pointer]
+                  - button [ref=e7841] [cursor=pointer]:
+                    - img [ref=e7843]
+                  - button [ref=e7845] [cursor=pointer]:
+                    - img [ref=e7847]
+                  - button [ref=e7852] [cursor=pointer]:
+                    - img [ref=e7854]
+                  - button [ref=e7863] [cursor=pointer]:
+                    - img [ref=e7865]
+        - button "Jump to latest comment" [ref=e7867] [cursor=pointer]:
+          - img [ref=e7869]
+          - generic [ref=e7871]: Jump to latest comment
+      - button [ref=e7872] [cursor=pointer]:
+        - img [ref=e7874]
+  - alert [ref=e2704]: Search "ASCII" in Early AI-dopters

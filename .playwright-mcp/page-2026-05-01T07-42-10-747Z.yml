@@ -1,0 +1,342 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e4]:
+    - region "Announcement" [ref=e5]:
+      - paragraph [ref=e6]: Free Shipping Within West Malaysia For Orders RM180 And Above
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - heading "Dorsata Honey" [level=1] [ref=e10]:
+          - link "Dorsata Honey" [ref=e11] [cursor=pointer]:
+            - /url: /
+            - img "Dorsata Honey" [ref=e12]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - button "About" [ref=e18] [cursor=pointer]:
+                - text: About
+                - img [ref=e19]
+            - listitem [ref=e21]:
+              - button "Shop" [ref=e22] [cursor=pointer]:
+                - text: Shop
+                - img [ref=e23]
+            - listitem [ref=e25]:
+              - button "Explore" [ref=e26] [cursor=pointer]:
+                - text: Explore
+                - img [ref=e27]
+            - listitem [ref=e29]:
+              - link "Contact" [ref=e30] [cursor=pointer]:
+                - /url: /pages/contact
+        - generic [ref=e32]:
+          - button "Search" [ref=e33] [cursor=pointer]:
+            - img [ref=e34]
+            - generic [ref=e36]: Search
+          - link "Log in" [ref=e37] [cursor=pointer]:
+            - /url: /account/login
+            - img [ref=e38]
+            - generic [ref=e40]: Log in
+          - link "Cart" [ref=e41] [cursor=pointer]:
+            - /url: /cart
+            - img [ref=e42]
+            - generic [ref=e44]: Cart
+  - generic [ref=e45]:
+    - main [ref=e46]:
+      - generic [ref=e48]:
+        - region "slideshow" [ref=e49]:
+          - generic [ref=e50]:
+            - link "Shop Mother's Day Gifts" [ref=e57] [cursor=pointer]:
+              - /url: /collections/dorsata-honey-x-becarefoot-mothers-day-2026
+            - generic [ref=e71]:
+              - list [ref=e72]:
+                - listitem [ref=e73]:
+                  - heading [level=2] [ref=e74]: 100x more polyphenols content compared to conventional honey, verified through lab test
+              - link [ref=e76] [cursor=pointer]:
+                - /url: /pages/dorsata-honey-high-in-plant-phenolics
+                - text: WHAT ARE POLYPHENOLS?
+            - generic [ref=e81]:
+              - list [ref=e82]:
+                - listitem [ref=e83]:
+                  - heading [level=2] [ref=e84]: Up to 75 times More Polyphenols
+              - link [ref=e86] [cursor=pointer]:
+                - /url: /pages/power-of-plant-phenolics
+                - text: WHAT CAN POLYPHENOLS DO?
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - button "Previous slide" [ref=e89] [cursor=pointer]:
+                - img [ref=e90]
+              - button "Next slide" [ref=e92] [cursor=pointer]:
+                - img [ref=e93]
+              - list [ref=e95]:
+                - listitem [ref=e96] [cursor=pointer]:
+                  - link "Load slide 1" [ref=e97]:
+                    - /url: "#Slideshow-16263607318d259b51"
+                    - text: •
+                - listitem [ref=e98] [cursor=pointer]:
+                  - link "Load slide 2" [ref=e99]:
+                    - /url: "#Slideshow-16263607318d259b51"
+                    - text: •
+                - listitem [ref=e100] [cursor=pointer]:
+                  - link "Load slide 3" [ref=e101]:
+                    - /url: "#Slideshow-16263607318d259b51"
+                    - text: •
+                - listitem [ref=e102] [cursor=pointer]:
+                  - link "Load slide 4" [ref=e103]:
+                    - /url: "#Slideshow-16263607318d259b51"
+                    - text: •
+                - listitem [ref=e104] [cursor=pointer]:
+                  - link "Load slide 5" [ref=e105]:
+                    - /url: "#Slideshow-16263607318d259b51"
+                    - text: •
+                - listitem [ref=e106] [cursor=pointer]:
+                  - link "Load slide 6" [ref=e107]:
+                    - /url: "#Slideshow-16263607318d259b51"
+                    - text: •
+            - button "Pause slideshow" [ref=e108] [cursor=pointer]:
+              - generic [ref=e109]:
+                - img [ref=e110]
+                - generic [ref=e112]: Pause slideshow
+        - text: • • • • • •
+      - generic [ref=e117]:
+        - heading "Dorsata Honey brings the healing power of wild exotic Equatorial forest plants to you and your family" [level=2] [ref=e118]
+        - paragraph [ref=e120]:
+          - link "Learn More" [ref=e121] [cursor=pointer]:
+            - /url: https://www.dorsatahoney.com/pages/brand-story
+      - generic [ref=e123]:
+        - region "slideshow" [ref=e124]:
+          - generic [ref=e125]:
+            - link "Click Here" [ref=e133] [cursor=pointer]:
+              - /url: /products/diabetes-prevention-care-package
+            - generic [ref=e139]:
+              - list [ref=e140]:
+                - listitem [ref=e141]:
+                  - heading [level=2] [ref=e142]: Image slide
+              - link [ref=e144] [cursor=pointer]:
+                - /url: /products/the-coughing-therapy-package
+                - text: CLICK HERE
+            - link [ref=e152] [cursor=pointer]:
+              - /url: /products/insomia-therapy-package
+              - text: CLICK HERE
+          - generic [ref=e154]:
+            - button "Previous slide" [ref=e155] [cursor=pointer]:
+              - img [ref=e156]
+            - button "Next slide" [ref=e158] [cursor=pointer]:
+              - img [ref=e159]
+            - list [ref=e161]:
+              - listitem [ref=e162] [cursor=pointer]:
+                - link "Load slide 1" [ref=e163]:
+                  - /url: "#Slideshow-db800513-6966-4e00-807b-200f88f1eaec"
+                  - text: •
+              - listitem [ref=e164] [cursor=pointer]:
+                - link "Load slide 2" [ref=e165]:
+                  - /url: "#Slideshow-db800513-6966-4e00-807b-200f88f1eaec"
+                  - text: •
+              - listitem [ref=e166] [cursor=pointer]:
+                - link "Load slide 3" [ref=e167]:
+                  - /url: "#Slideshow-db800513-6966-4e00-807b-200f88f1eaec"
+                  - text: •
+        - text: • • •
+      - generic [ref=e169]:
+        - heading "SHOP BY COLLECTION" [level=2] [ref=e171]
+        - list [ref=e173]:
+          - listitem [ref=e174]:
+            - link [ref=e176] [cursor=pointer]:
+              - /url: /collections/rainforesthoney
+          - listitem [ref=e178]:
+            - link [ref=e180] [cursor=pointer]:
+              - /url: /collections/honeybundles
+          - listitem [ref=e182]:
+            - link [ref=e184] [cursor=pointer]:
+              - /url: /collections/beauty-health
+          - listitem [ref=e186]:
+            - link [ref=e188] [cursor=pointer]:
+              - /url: /collections/bodycare
+      - generic [ref=e191]:
+        - region "slideshow" [ref=e192]:
+          - generic [ref=e207]:
+            - button "Previous slide" [ref=e208] [cursor=pointer]:
+              - img [ref=e209]
+            - button "Next slide" [ref=e211] [cursor=pointer]:
+              - img [ref=e212]
+            - list [ref=e214]:
+              - listitem [ref=e215] [cursor=pointer]:
+                - link "Load slide 1" [ref=e216]:
+                  - /url: "#Slideshow-slideshow_ffD363"
+                  - text: •
+              - listitem [ref=e217] [cursor=pointer]:
+                - link "Load slide 2" [ref=e218]:
+                  - /url: "#Slideshow-slideshow_ffD363"
+                  - text: •
+              - listitem [ref=e219] [cursor=pointer]:
+                - link "Load slide 3" [ref=e220]:
+                  - /url: "#Slideshow-slideshow_ffD363"
+                  - text: •
+        - text: • • •
+      - generic [ref=e223]:
+        - button "Play Dorsata Honey | A Form of Love for Malaysia, Her Land and Her People video" [ref=e228] [cursor=pointer]:
+          - img [ref=e229]
+          - generic [ref=e231]: Play Dorsata Honey | A Form of Love for Malaysia, Her Land and Her People video
+        - button "Pause Dorsata Honey | A Form of Love for Malaysia, Her Land and Her People video" [ref=e232] [cursor=pointer]:
+          - generic [ref=e233]:
+            - img [ref=e234]
+            - generic [ref=e236]: Pause Dorsata Honey | A Form of Love for Malaysia, Her Land and Her People video
+      - generic [ref=e238]:
+        - region "slideshow" [ref=e239]:
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - button "Previous slide" [ref=e251] [cursor=pointer]:
+                - img [ref=e252]
+              - button "Next slide" [ref=e254] [cursor=pointer]:
+                - img [ref=e255]
+              - list [ref=e257]:
+                - listitem [ref=e258] [cursor=pointer]:
+                  - link "Load slide 1" [ref=e259]:
+                    - /url: "#Slideshow-1653823943a3812563"
+                    - text: •
+                - listitem [ref=e260] [cursor=pointer]:
+                  - link "Load slide 2" [ref=e261]:
+                    - /url: "#Slideshow-1653823943a3812563"
+                    - text: •
+            - button "Pause slideshow" [ref=e262] [cursor=pointer]:
+              - generic [ref=e263]:
+                - img [ref=e264]
+                - generic [ref=e266]: Pause slideshow
+        - text: • •
+      - generic [ref=e268]:
+        - heading "FEATURED IN" [level=2] [ref=e270]
+        - list [ref=e271]:
+          - listitem [ref=e272]:
+            - img [ref=e273]
+          - listitem [ref=e274]:
+            - img [ref=e275]
+          - listitem [ref=e276]:
+            - link [ref=e277] [cursor=pointer]:
+              - /url: https://says.com/my/makan/pure-honey-brands-malaysia
+              - img [ref=e278]
+      - generic [ref=e280]:
+        - heading "Dorsata Honey, High Polyphenols honey" [level=2] [ref=e282]
+        - generic [ref=e283]:
+          - generic [ref=e284]:
+            - heading "PURE & RAW" [level=3] [ref=e287]
+            - paragraph [ref=e289]: No sugar added, no processing, no heating. Only light filtering to remove fragments of the hive.
+          - generic [ref=e290]:
+            - heading "WILD" [level=3] [ref=e293]
+            - paragraph [ref=e295]: Honey from primitive bees harvested from hives in Malaysia’s Oldest Rainforest.
+          - generic [ref=e296]:
+            - heading "MATURE" [level=3] [ref=e299]
+            - paragraph [ref=e301]: Our Honey is in its simplest form, readily absorbable by our body. Our honey DOES NOT contain complex sugar that is NOT SAFE for diabetics.
+      - generic [ref=e303]:
+        - heading "BEST SELLERS" [level=2] [ref=e305]
+        - list [ref=e306]:
+          - listitem [ref=e307]:
+            - generic [ref=e308]:
+              - link "Dorsata Royal Premium Honey 700g" [ref=e309] [cursor=pointer]:
+                - /url: /products/dorsata-royal-honey-700g
+                - generic [ref=e310]: Dorsata Royal Premium Honey 700g
+              - text: Dorsata Royal Premium Honey 700g
+              - generic [ref=e315]:
+                - term:
+                  - generic [ref=e316]: Regular price
+                - definition [ref=e317]: MYR168.00
+          - listitem [ref=e318]:
+            - generic [ref=e319]:
+              - link "Dorsata Dark Premium Honey 700g" [ref=e320] [cursor=pointer]:
+                - /url: /products/dorsata-dark-premium-honey-700g-1
+                - generic [ref=e321]: Dorsata Dark Premium Honey 700g
+              - text: Dorsata Dark Premium Honey 700g
+              - generic [ref=e326]:
+                - term:
+                  - generic [ref=e327]: Regular price
+                - definition [ref=e328]: MYR168.00
+          - listitem [ref=e329]:
+            - generic [ref=e330]:
+              - link "Dorsata Bitter Rock Honey 700g" [ref=e331] [cursor=pointer]:
+                - /url: /products/dorsata-bitter-rock-honey-700g
+                - generic [ref=e332]: Dorsata Bitter Rock Honey 700g
+              - text: Dorsata Bitter Rock Honey 700g
+              - generic [ref=e337]:
+                - term:
+                  - generic [ref=e338]: Regular price
+                - definition [ref=e339]: MYR330.00
+          - listitem [ref=e340]:
+            - generic [ref=e341]:
+              - link "Dorsata Sweet Rock Honey 700g" [ref=e342] [cursor=pointer]:
+                - /url: /products/dorsata-sweet-rock-honey-700g
+                - generic [ref=e343]: Dorsata Sweet Rock Honey 700g
+              - text: Dorsata Sweet Rock Honey 700g
+              - generic [ref=e348]:
+                - term:
+                  - generic [ref=e349]: Regular price
+                - definition [ref=e350]: MYR330.00
+      - region "slideshow" [ref=e353]
+    - contentinfo [ref=e365]:
+      - generic [ref=e367]:
+        - generic [ref=e369]:
+          - paragraph [ref=e370]: Quick links
+          - list [ref=e371]:
+            - listitem [ref=e372]:
+              - link "Home" [ref=e373] [cursor=pointer]:
+                - /url: https://www.dorsatahoney.com/
+            - listitem [ref=e374]:
+              - link "Brand Story" [ref=e375] [cursor=pointer]:
+                - /url: /pages/brand-story
+            - listitem [ref=e376]:
+              - link "How To Purchase" [ref=e377] [cursor=pointer]:
+                - /url: /pages/how-to-purchase
+            - listitem [ref=e378]:
+              - link "FAQ" [ref=e379] [cursor=pointer]:
+                - /url: /pages/faq
+            - listitem [ref=e380]:
+              - link "Career" [ref=e381] [cursor=pointer]:
+                - /url: /pages/career
+            - listitem [ref=e382]:
+              - link "Dorsata Honey, High in Plant Phenolics" [ref=e383] [cursor=pointer]:
+                - /url: /pages/dorsata-honey-high-in-plant-phenolics
+            - listitem [ref=e384]:
+              - link "Power of Plant Phenolics" [ref=e385] [cursor=pointer]:
+                - /url: /pages/power-of-plant-phenolics
+        - generic [ref=e387]:
+          - paragraph [ref=e388]: Newsletter
+          - generic [ref=e391]:
+            - textbox "Email address" [ref=e392]
+            - button "Subscribe" [ref=e394] [cursor=pointer]
+      - separator [ref=e395]
+      - generic [ref=e397]:
+        - list [ref=e399]:
+          - listitem [ref=e400]:
+            - link "Facebook" [ref=e401] [cursor=pointer]:
+              - /url: https://www.facebook.com/DorsataHoney
+              - img [ref=e402]
+              - generic [ref=e404]: Facebook
+          - listitem [ref=e405]:
+            - link "Twitter" [ref=e406] [cursor=pointer]:
+              - /url: https://twitter.com/dorsatahoney
+              - img [ref=e407]
+              - generic [ref=e409]: Twitter
+          - listitem [ref=e410]:
+            - link "Pinterest" [ref=e411] [cursor=pointer]:
+              - /url: https://www.pinterest.com/dorsatahoney
+              - img [ref=e412]
+              - generic [ref=e414]: Pinterest
+          - listitem [ref=e415]:
+            - link "Instagram" [ref=e416] [cursor=pointer]:
+              - /url: https://www.instagram.com/dorsatahoney/
+              - img [ref=e417]
+              - generic [ref=e421]: Instagram
+          - listitem [ref=e422]:
+            - link "YouTube" [ref=e423] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC6JVNyQpvRjWzbYKQ_-Y4UQ
+              - img [ref=e424]
+              - generic [ref=e426]: YouTube
+        - generic [ref=e427]:
+          - generic [ref=e428]:
+            - text: © 2026,
+            - link "Dorsata Honey" [ref=e429] [cursor=pointer]:
+              - /url: /
+          - generic [ref=e430]:
+            - link:
+              - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+            - text: ", MFI DORSATA HONEY (002385043-T)"
+    - generic [ref=e431]: Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device

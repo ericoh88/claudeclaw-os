@@ -1,0 +1,878 @@
+- generic [ref=e1]:
+  - generic [ref=e23]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - button "Guide" [ref=e8] [cursor=pointer]:
+            - generic [ref=e25]:
+              - img
+          - generic [ref=e26]:
+            - link "YouTube Home" [ref=e27] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e32]:
+                - img
+            - generic [ref=e33]: MY
+          - button "Skip navigation" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]: Skip navigation
+        - generic [ref=e10]:
+          - search [ref=e11]:
+            - generic [ref=e12]:
+              - combobox "Search" [expanded] [ref=e42]
+              - button "Search" [ref=e16] [cursor=pointer]:
+                - generic [ref=e44]:
+                  - img
+          - generic [ref=e46]:
+            - button "Search with your voice" [ref=e48] [cursor=pointer]:
+              - generic [ref=e52]:
+                - img
+            - tooltip "tooltip"
+        - generic [ref=e56]:
+          - button "Settings" [ref=e61] [cursor=pointer]:
+            - generic [ref=e64]:
+              - img
+          - link "Sign in" [ref=e67] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540gregisenberg&hl=en&ec=65620
+            - generic [ref=e71]:
+              - img
+            - generic [ref=e72]: Sign in
+    - generic [ref=e76]:
+      - main [ref=e77]:
+        - generic [ref=e84]:
+          - generic [ref=e92]:
+            - generic [ref=e100]:
+              - heading "Greg Isenberg" [level=1] [ref=e102]
+              - generic [ref=e103]:
+                - group [ref=e104]:
+                  - generic [ref=e105]: "@GregIsenberg"
+                - generic [ref=e106]: •
+                - group [ref=e107]:
+                  - generic "620 thousand subscribers" [ref=e108]: 620K subscribers
+                  - generic [ref=e109]: •
+                  - generic [ref=e110]: 770 videos
+              - generic [ref=e112] [cursor=pointer]:
+                - generic [ref=e113]: Subscribe for startup ideas & tutorials on on how to use AI to build & grow your startup.
+                - button "Description. Subscribe for startup ideas & tutorials on on how to use AI ...tap for more." [ref=e114]:
+                  - generic [ref=e115]: ...more
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - link "gregisenberg.com" [ref=e120] [cursor=pointer]:
+                  - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqazBoekNYVEtwLVVDZ05ITTJiZGN3THgtZjE3d3xBQ3Jtc0tuOWZINDBBU21wVGwybG1xaGRTbDNCZjJ1UU9RdFZyTlU1TlkwOUI4Sk5mbi14aFlGa1AyWVU3VnZIWDByMmgwQWMxZkkyNFFDYlR1OEZ0WGY2UnV6emxXa1ZBT3hzQkZoOVVxN3lLNmx6Nk9XUEtJSQ&q=gregisenberg.com
+                - button "and 4 more links" [ref=e123] [cursor=pointer]
+              - button "Subscribe" [ref=e128] [cursor=pointer]:
+                - generic [ref=e129]: Subscribe
+          - tablist [ref=e136]:
+            - tablist [ref=e140]:
+              - tab "Home" [selected] [ref=e141] [cursor=pointer]:
+                - generic [ref=e142]: Home
+              - tab "Videos" [ref=e143] [cursor=pointer]:
+                - generic [ref=e144]: Videos
+              - tab "Shorts" [ref=e145] [cursor=pointer]:
+                - generic [ref=e146]: Shorts
+              - tab "Live" [ref=e147] [cursor=pointer]:
+                - generic [ref=e148]: Live
+              - tab "Podcasts" [ref=e149] [cursor=pointer]:
+                - generic [ref=e150]: Podcasts
+              - tab "Playlists" [ref=e151] [cursor=pointer]:
+                - generic [ref=e152]: Playlists
+              - tab "Posts" [ref=e153] [cursor=pointer]:
+                - generic [ref=e154]: Posts
+              - button "Search" [ref=e158] [cursor=pointer]:
+                - generic [ref=e161]:
+                  - img
+            - button [ref=e164] [cursor=pointer]:
+              - generic [ref=e165]:
+                - img
+        - generic [ref=e170]:
+          - generic [ref=e174]:
+            - heading "Videos" [level=2] [ref=e177]:
+              - link "Videos" [ref=e180] [cursor=pointer]:
+                - /url: /@GregIsenberg/videos?view=0&sort=dd&shelf_id=2
+                - generic [ref=e181]: Videos
+            - generic [ref=e183]:
+              - generic [ref=e186]:
+                - generic [ref=e188]:
+                  - link [ref=e190] [cursor=pointer]:
+                    - /url: /watch?v=nyO60uzTnP4
+                    - img [ref=e192]
+                    - img [ref=e195]:
+                      - generic [ref=e196]: 1:05:11
+                    - generic:
+                      - generic: Now playing
+                      - generic:
+                        - img
+                  - generic [ref=e197] [cursor=pointer]:
+                    - generic [ref=e199]:
+                      - heading "Making $$ with AI Agents 1 hour, 5 minutes" [level=3] [ref=e200]:
+                        - link "Making $$ with AI Agents 1 hour, 5 minutes" [ref=e201]:
+                          - /url: /watch?v=nyO60uzTnP4
+                          - text: Making $$ with AI Agents
+                      - generic [ref=e204]:
+                        - generic [ref=e205]: 20K views
+                        - generic [ref=e206]: •10 hours ago
+                    - button "Action menu" [ref=e209]:
+                      - generic [ref=e212]:
+                        - img
+                - generic [ref=e214]:
+                  - link [ref=e216] [cursor=pointer]:
+                    - /url: /watch?v=LWx4FGam2aQ
+                    - img [ref=e218]
+                    - img [ref=e221]:
+                      - generic [ref=e222]: 1:04:41
+                    - generic:
+                      - generic: Now playing
+                      - generic:
+                        - img
+                  - generic [ref=e223] [cursor=pointer]:
+                    - generic [ref=e225]:
+                      - heading "Stop using Claude. Start using Codex? 1 hour, 4 minutes" [level=3] [ref=e226]:
+                        - link "Stop using Claude. Start using Codex? 1 hour, 4 minutes" [ref=e227]:
+                          - /url: /watch?v=LWx4FGam2aQ
+                          - text: Stop using Claude. Start using Codex?
+                      - generic [ref=e230]:
+                        - generic [ref=e231]: 52K views
+                        - generic [ref=e232]: •2 days ago
+                    - button "Action menu" [ref=e235]:
+                      - generic [ref=e238]:
+                        - img
+                - generic [ref=e240]:
+                  - link [ref=e242] [cursor=pointer]:
+                    - /url: /watch?v=Qn2c_U-cWQs
+                    - img [ref=e244]
+                    - img [ref=e247]:
+                      - generic [ref=e248]: 37:01
+                    - generic:
+                      - generic: Now playing
+                      - generic:
+                        - img
+                  - generic [ref=e249] [cursor=pointer]:
+                    - generic [ref=e251]:
+                      - 'heading "Hermes Agent: The New OpenClaw? 37 minutes" [level=3] [ref=e252]':
+                        - 'link "Hermes Agent: The New OpenClaw? 37 minutes" [ref=e253]':
+                          - /url: /watch?v=Qn2c_U-cWQs
+                          - text: "Hermes Agent: The New OpenClaw?"
+                      - generic [ref=e256]:
+                        - generic [ref=e257]: 76K views
+                        - generic [ref=e258]: •9 days ago
+                    - button "Action menu" [ref=e261]:
+                      - generic [ref=e264]:
+                        - img
+                - generic [ref=e266]:
+                  - link [ref=e268] [cursor=pointer]:
+                    - /url: /watch?v=vyLaimDeK_g
+                  - generic [ref=e270] [cursor=pointer]:
+                    - generic [ref=e272]:
+                      - 'heading "Claude Design: Full Walkthrough. I''m blown away. 1 hour" [level=3] [ref=e273]':
+                        - 'link "Claude Design: Full Walkthrough. I''m blown away. 1 hour" [ref=e274]':
+                          - /url: /watch?v=vyLaimDeK_g
+                          - text: "Claude Design: Full Walkthrough. I'm blown away."
+                      - generic [ref=e277]:
+                        - generic [ref=e278]: 36K views
+                        - generic [ref=e279]: •11 days ago
+                    - button "Action menu" [ref=e282]:
+                      - generic [ref=e285]:
+                        - img
+                - generic [ref=e287]:
+                  - link [ref=e289] [cursor=pointer]:
+                    - /url: /watch?v=YiitvyQGbkc
+                  - generic [ref=e291] [cursor=pointer]:
+                    - generic [ref=e293]:
+                      - heading "My Claude Code workflow no one knows about 35 minutes" [level=3] [ref=e294]:
+                        - link "My Claude Code workflow no one knows about 35 minutes" [ref=e295]:
+                          - /url: /watch?v=YiitvyQGbkc
+                          - text: My Claude Code workflow no one knows about
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: 40K views
+                        - generic [ref=e300]: •2 weeks ago
+                    - button "Action menu" [ref=e303]:
+                      - generic [ref=e306]:
+                        - img
+                - generic [ref=e308]:
+                  - link [ref=e310] [cursor=pointer]:
+                    - /url: /watch?v=S_oN3vlzpMw
+                  - generic [ref=e312] [cursor=pointer]:
+                    - generic [ref=e314]:
+                      - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e315]:
+                        - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e316]:
+                          - /url: /watch?v=S_oN3vlzpMw
+                          - text: How AI agents & Claude skills work (Clearly Explained)
+                      - generic [ref=e319]:
+                        - generic [ref=e320]: 237K views
+                        - generic [ref=e321]: •3 weeks ago
+                    - button "Action menu" [ref=e324]:
+                      - generic [ref=e327]:
+                        - img
+              - button "Next" [ref=e330] [cursor=pointer]:
+                - generic [ref=e334]:
+                  - img
+          - generic [ref=e341]:
+            - generic [ref=e342]:
+              - heading "The Startup Ideas Podcast Episodes Play all" [level=2] [ref=e344]:
+                - link "The Startup Ideas Podcast Episodes" [ref=e347] [cursor=pointer]:
+                  - /url: /playlist?list=PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9
+                  - generic [ref=e348]: The Startup Ideas Podcast Episodes
+                - link "Play all" [ref=e352] [cursor=pointer]:
+                  - /url: /watch?v=nyO60uzTnP4&list=PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9
+                  - generic [ref=e356]:
+                    - img
+                  - generic [ref=e357]: Play all
+              - generic [ref=e361]: This is the startup ideas podcast. Hosted by Greg Isenberg (CEO Late Checkout, ex-advisor of Reddit, TikTok etc).
+            - generic [ref=e363]:
+              - generic [ref=e366]:
+                - generic [ref=e368]:
+                  - link [ref=e370] [cursor=pointer]:
+                    - /url: /watch?v=nyO60uzTnP4
+                  - generic [ref=e372] [cursor=pointer]:
+                    - generic [ref=e374]:
+                      - heading "Making $$ with AI Agents 1 hour, 5 minutes" [level=3] [ref=e375]:
+                        - link "Making $$ with AI Agents 1 hour, 5 minutes" [ref=e376]:
+                          - /url: /watch?v=nyO60uzTnP4
+                          - text: Making $$ with AI Agents
+                      - generic [ref=e378]:
+                        - generic "Greg Isenberg" [ref=e383]:
+                          - link "Greg Isenberg" [ref=e384]:
+                            - /url: /@GregIsenberg
+                        - generic [ref=e385]:
+                          - generic [ref=e386]: 20K views
+                          - generic [ref=e387]: •10 hours ago
+                    - button "Action menu" [ref=e390]:
+                      - generic [ref=e393]:
+                        - img
+                - generic [ref=e395]:
+                  - link [ref=e397] [cursor=pointer]:
+                    - /url: /watch?v=LWx4FGam2aQ&pp=0gcJCd8KAYcqIYzv
+                  - generic [ref=e399] [cursor=pointer]:
+                    - generic [ref=e401]:
+                      - heading "Stop using Claude. Start using Codex? 1 hour, 4 minutes" [level=3] [ref=e402]:
+                        - link "Stop using Claude. Start using Codex? 1 hour, 4 minutes" [ref=e403]:
+                          - /url: /watch?v=LWx4FGam2aQ&pp=0gcJCd8KAYcqIYzv
+                          - text: Stop using Claude. Start using Codex?
+                      - generic [ref=e405]:
+                        - generic "Greg Isenberg" [ref=e410]:
+                          - link "Greg Isenberg" [ref=e411]:
+                            - /url: /@GregIsenberg
+                        - generic [ref=e412]:
+                          - generic [ref=e413]: 52K views
+                          - generic [ref=e414]: •2 days ago
+                    - button "Action menu" [ref=e417]:
+                      - generic [ref=e420]:
+                        - img
+                - generic [ref=e422]:
+                  - link [ref=e424] [cursor=pointer]:
+                    - /url: /watch?v=Qn2c_U-cWQs
+                  - generic [ref=e426] [cursor=pointer]:
+                    - generic [ref=e428]:
+                      - 'heading "Hermes Agent: The New OpenClaw? 37 minutes" [level=3] [ref=e429]':
+                        - 'link "Hermes Agent: The New OpenClaw? 37 minutes" [ref=e430]':
+                          - /url: /watch?v=Qn2c_U-cWQs
+                          - text: "Hermes Agent: The New OpenClaw?"
+                      - generic [ref=e432]:
+                        - generic "Greg Isenberg" [ref=e437]:
+                          - link "Greg Isenberg" [ref=e438]:
+                            - /url: /@GregIsenberg
+                        - generic [ref=e439]:
+                          - generic [ref=e440]: 76K views
+                          - generic [ref=e441]: •9 days ago
+                    - button "Action menu" [ref=e444]:
+                      - generic [ref=e447]:
+                        - img
+                - generic [ref=e449]:
+                  - link [ref=e451] [cursor=pointer]:
+                    - /url: /watch?v=vyLaimDeK_g
+                  - generic [ref=e453] [cursor=pointer]:
+                    - generic [ref=e455]:
+                      - 'heading "Claude Design: Full Walkthrough. I''m blown away. 1 hour" [level=3] [ref=e456]':
+                        - 'link "Claude Design: Full Walkthrough. I''m blown away. 1 hour" [ref=e457]':
+                          - /url: /watch?v=vyLaimDeK_g
+                          - text: "Claude Design: Full Walkthrough. I'm blown away."
+                      - generic [ref=e459]:
+                        - generic "Greg Isenberg" [ref=e464]:
+                          - link "Greg Isenberg" [ref=e465]:
+                            - /url: /@GregIsenberg
+                        - generic [ref=e466]:
+                          - generic [ref=e467]: 36K views
+                          - generic [ref=e468]: •11 days ago
+                    - button "Action menu" [ref=e471]:
+                      - generic [ref=e474]:
+                        - img
+                - generic [ref=e476]:
+                  - link [ref=e478] [cursor=pointer]:
+                    - /url: /watch?v=YiitvyQGbkc
+                  - generic [ref=e480] [cursor=pointer]:
+                    - generic [ref=e482]:
+                      - heading "My Claude Code workflow no one knows about 35 minutes" [level=3] [ref=e483]:
+                        - link "My Claude Code workflow no one knows about 35 minutes" [ref=e484]:
+                          - /url: /watch?v=YiitvyQGbkc
+                          - text: My Claude Code workflow no one knows about
+                      - generic [ref=e486]:
+                        - generic "Greg Isenberg" [ref=e491]:
+                          - link "Greg Isenberg" [ref=e492]:
+                            - /url: /@GregIsenberg
+                        - generic [ref=e493]:
+                          - generic [ref=e494]: 40K views
+                          - generic [ref=e495]: •2 weeks ago
+                    - button "Action menu" [ref=e498]:
+                      - generic [ref=e501]:
+                        - img
+                - generic [ref=e503]:
+                  - link [ref=e505] [cursor=pointer]:
+                    - /url: /watch?v=S_oN3vlzpMw
+                  - generic [ref=e507] [cursor=pointer]:
+                    - generic [ref=e509]:
+                      - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e510]:
+                        - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e511]:
+                          - /url: /watch?v=S_oN3vlzpMw
+                          - text: How AI agents & Claude skills work (Clearly Explained)
+                      - generic [ref=e513]:
+                        - generic "Greg Isenberg" [ref=e518]:
+                          - link "Greg Isenberg" [ref=e519]:
+                            - /url: /@GregIsenberg
+                        - generic [ref=e520]:
+                          - generic [ref=e521]: 237K views
+                          - generic [ref=e522]: •3 weeks ago
+                    - button "Action menu" [ref=e525]:
+                      - generic [ref=e528]:
+                        - img
+              - button "Next" [ref=e531] [cursor=pointer]:
+                - generic [ref=e535]:
+                  - img
+          - generic [ref=e541]:
+            - generic [ref=e542]:
+              - generic [ref=e546]:
+                - img
+              - heading "Shorts" [level=2] [ref=e548]:
+                - generic [ref=e550]: Shorts
+              - button "More actions" [ref=e554] [cursor=pointer]:
+                - generic [ref=e557]:
+                  - img
+            - generic [ref=e559]:
+              - generic [ref=e562]:
+                - generic [ref=e564]:
+                  - link [ref=e565] [cursor=pointer]:
+                    - /url: /shorts/qYLDENqtpiY
+                  - generic [ref=e569] [cursor=pointer]:
+                    - link "5 tips for OpenClaw" [ref=e570]:
+                      - /url: /shorts/qYLDENqtpiY
+                    - generic [ref=e571]: 21K views
+                  - button "More actions" [ref=e573] [cursor=pointer]:
+                    - generic [ref=e577]:
+                      - img
+                - generic [ref=e582]:
+                  - link [ref=e583] [cursor=pointer]:
+                    - /url: /shorts/DirGcMXm4zw
+                  - generic [ref=e587] [cursor=pointer]:
+                    - link "How to turn iMessage into an AI executive assistant with Lindy" [ref=e588]:
+                      - /url: /shorts/DirGcMXm4zw
+                    - generic [ref=e589]: 11K views
+                  - button "More actions" [ref=e591] [cursor=pointer]:
+                    - generic [ref=e595]:
+                      - img
+                - generic [ref=e600]:
+                  - link [ref=e601] [cursor=pointer]:
+                    - /url: /shorts/ovLAIhbk3ek
+                  - generic [ref=e605] [cursor=pointer]:
+                    - link "How to 10x your Claude with 4 .md files" [ref=e606]:
+                      - /url: /shorts/ovLAIhbk3ek
+                    - generic [ref=e607]: 395K views
+                  - button "More actions" [ref=e609] [cursor=pointer]:
+                    - generic [ref=e613]:
+                      - img
+                - generic [ref=e618]:
+                  - link [ref=e619] [cursor=pointer]:
+                    - /url: /shorts/cf6WEZUVbEI
+                  - generic [ref=e623] [cursor=pointer]:
+                    - link "How to use Claude Code to launch 100+ Facebook ads" [ref=e624]:
+                      - /url: /shorts/cf6WEZUVbEI
+                    - generic [ref=e625]: 69K views
+                  - button "More actions" [ref=e627] [cursor=pointer]:
+                    - generic [ref=e631]:
+                      - img
+                - generic [ref=e636]:
+                  - link [ref=e637] [cursor=pointer]:
+                    - /url: /shorts/yJK5GueSHmU
+                  - generic [ref=e641] [cursor=pointer]:
+                    - link "Claude Code + Obsidian in under 1 minute" [ref=e642]:
+                      - /url: /shorts/yJK5GueSHmU
+                    - generic [ref=e643]: 442K views
+                  - button "More actions" [ref=e645] [cursor=pointer]:
+                    - generic [ref=e649]:
+                      - img
+                - generic [ref=e654]:
+                  - link [ref=e655] [cursor=pointer]:
+                    - /url: /shorts/zB5mUHSYjXA
+                  - generic [ref=e659] [cursor=pointer]:
+                    - link "How to make $$ with OpenClaw" [ref=e660]:
+                      - /url: /shorts/zB5mUHSYjXA
+                    - generic [ref=e661]: 69K views
+                  - button "More actions" [ref=e663] [cursor=pointer]:
+                    - generic [ref=e667]:
+                      - img
+              - button "Next" [ref=e673] [cursor=pointer]:
+                - generic [ref=e677]:
+                  - img
+          - generic [ref=e684]:
+            - heading "Posts" [level=2] [ref=e687]:
+              - link "Posts" [ref=e690] [cursor=pointer]:
+                - /url: /channel/UCPjNBjflYl0-HQtUvOx0Ibw/posts
+                - generic [ref=e691]: Posts
+            - generic [ref=e693]:
+              - generic [ref=e696]:
+                - link "Greg Isenberg • 1 month ago reminder that you’re not behind, it’s just moving too fast Like this post along with 1,213 other people tooltip 1.2K likes Dislike this post tooltip Share tooltip 57 comments tooltip" [ref=e698] [cursor=pointer]:
+                  - generic [ref=e699]:
+                    - link [ref=e701]:
+                      - /url: /@GregIsenberg
+                    - link "Greg Isenberg" [ref=e704]:
+                      - /url: /@GregIsenberg
+                    - generic [ref=e705]: •
+                    - link "1 month ago" [ref=e707]:
+                      - /url: /post/UgkxbXiPfOxc9O78p7AwdfTeIA2FUoEvi9u1
+                  - generic [ref=e708]:
+                    - generic [ref=e710]: reminder that you’re not behind, it’s just moving too fast
+                    - generic [ref=e711]:
+                      - group
+                  - generic [ref=e717]:
+                    - generic [ref=e718]:
+                      - link "Like this post along with 1,213 other people" [ref=e720]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e724]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic "1.2K likes" [ref=e728]: 1.2K
+                    - generic [ref=e729]:
+                      - link "Dislike this post" [ref=e731]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e735]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e740]:
+                      - button "Share" [ref=e742]:
+                        - generic [ref=e746]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e751]:
+                      - link "57 comments" [ref=e753]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxbXiPfOxc9O78p7AwdfTeIA2FUoEvi9u1&hl=en
+                        - generic [ref=e757]:
+                          - img
+                        - generic [ref=e758]: "57"
+                      - tooltip "tooltip"
+                - link "Greg Isenberg • 2 months ago \"Things I wish someone told me before I almost gave up on OpenClaw\" Like this post along with 872 other people tooltip 872 likes Dislike this post tooltip Share tooltip 27 comments tooltip" [ref=e763] [cursor=pointer]:
+                  - generic [ref=e764]:
+                    - link [ref=e766]:
+                      - /url: /@GregIsenberg
+                    - link "Greg Isenberg" [ref=e769]:
+                      - /url: /@GregIsenberg
+                    - generic [ref=e770]: •
+                    - link "2 months ago" [ref=e772]:
+                      - /url: /post/UgkxXafnP-JT8sbR94kPbPpsH4O7KKdFnmG-
+                  - generic [ref=e773]:
+                    - generic [ref=e775]: "\"Things I wish someone told me before I almost gave up on OpenClaw\""
+                    - generic [ref=e776]:
+                      - group
+                  - generic [ref=e782]:
+                    - generic [ref=e783]:
+                      - link "Like this post along with 872 other people" [ref=e785]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e789]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic "872 likes" [ref=e793]: "872"
+                    - generic [ref=e794]:
+                      - link "Dislike this post" [ref=e796]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e800]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e805]:
+                      - button "Share" [ref=e807]:
+                        - generic [ref=e811]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e816]:
+                      - link "27 comments" [ref=e818]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxXafnP-JT8sbR94kPbPpsH4O7KKdFnmG-&hl=en
+                        - generic [ref=e822]:
+                          - img
+                        - generic [ref=e823]: "27"
+                      - tooltip "tooltip"
+                - link "Greg Isenberg • 2 months ago trade your brainrot addiction to a claude code, codex, openclaw etc addiction and watch your life change Like this post along with 238 other people tooltip 238 likes Dislike this post tooltip Share tooltip 10 comments tooltip" [ref=e828] [cursor=pointer]:
+                  - generic [ref=e829]:
+                    - link [ref=e831]:
+                      - /url: /@GregIsenberg
+                    - link "Greg Isenberg" [ref=e834]:
+                      - /url: /@GregIsenberg
+                    - generic [ref=e835]: •
+                    - link "2 months ago" [ref=e837]:
+                      - /url: /post/Ugkx6cup1i7RJbVOPBaae8grmPts8VA6UfN0
+                  - generic [ref=e838]:
+                    - generic [ref=e840]: trade your brainrot addiction to a claude code, codex, openclaw etc addiction and watch your life change
+                    - generic:
+                      - group
+                  - generic [ref=e843]:
+                    - generic [ref=e844]:
+                      - link "Like this post along with 238 other people" [ref=e846]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e850]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic "238 likes" [ref=e854]: "238"
+                    - generic [ref=e855]:
+                      - link "Dislike this post" [ref=e857]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e861]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e866]:
+                      - button "Share" [ref=e868]:
+                        - generic [ref=e872]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e877]:
+                      - link "10 comments" [ref=e879]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkx6cup1i7RJbVOPBaae8grmPts8VA6UfN0&hl=en
+                        - generic [ref=e883]:
+                          - img
+                        - generic [ref=e884]: "10"
+                      - tooltip "tooltip"
+                - link "Greg Isenberg • 3 months ago claude code will probably make 50,000 people millionaires if not more Like this post along with 268 other people tooltip 268 likes Dislike this post tooltip Share tooltip 20 comments tooltip" [ref=e889] [cursor=pointer]:
+                  - generic [ref=e890]:
+                    - link [ref=e892]:
+                      - /url: /@GregIsenberg
+                    - link "Greg Isenberg" [ref=e895]:
+                      - /url: /@GregIsenberg
+                    - generic [ref=e896]: •
+                    - link "3 months ago" [ref=e898]:
+                      - /url: /post/UgkxsS-7X8djxBibELNC0KmTuY0V9OIflVQ5
+                  - generic [ref=e899]:
+                    - generic [ref=e901]: claude code will probably make 50,000 people millionaires if not more
+                    - generic:
+                      - group
+                  - generic [ref=e904]:
+                    - generic [ref=e905]:
+                      - link "Like this post along with 268 other people" [ref=e907]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e911]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic "268 likes" [ref=e915]: "268"
+                    - generic [ref=e916]:
+                      - link "Dislike this post" [ref=e918]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e922]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e927]:
+                      - button "Share" [ref=e929]:
+                        - generic [ref=e933]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e938]:
+                      - link "20 comments" [ref=e940]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxsS-7X8djxBibELNC0KmTuY0V9OIflVQ5&hl=en
+                        - generic [ref=e944]:
+                          - img
+                        - generic [ref=e945]: "20"
+                      - tooltip "tooltip"
+                - link [ref=e950] [cursor=pointer]:
+                  - generic [ref=e951]:
+                    - link [ref=e953]:
+                      - /url: /@GregIsenberg
+                    - link "Greg Isenberg" [ref=e956]:
+                      - /url: /@GregIsenberg
+                    - generic [ref=e957]: •
+                    - link "5 months ago" [ref=e959]:
+                      - /url: /post/Ugkxb9H50ISTresRfxj5uIEU_cTJUq_j2jJS
+                  - generic [ref=e960]:
+                    - generic [ref=e962]: "A few days ago I hit 500,000 subscribers on YouTube after posting 705 videos for 4 years. CRAZY because I also wanted to quit like 500k times in the early days. I still remember in 2022 recording in a tiny closet with my laptop balanced on a laundry basket, trying not to wake anyone up, wondering if the world needed another dude about startups and convincing myself that maybe a few hundred people would find it useful if I kept going. And for a long time, I'd be happy if 1000 people watched my stuff. It took me 12 months to hit 10k subs, 12 months to hit 20k subs, 12 months to hit 100k subs and 12 months to hit 500k months. Somewhere in the middle of the bad lighting, bad audio, and bad confidence, founders started messaging me. They were using the videos to make decisions, ship products, and try things they had been avoiding for months. That was the moment I realized I had to keep going because something I made in a tiny closet was suddenly showing up in someone else’s life at exactly the right moment, and when you feel that connection for the first time, it changes the way you see the whole project. It also made me realize how many builders are out there trying to make sense of AI, trying to design from scratch, trying to turn weird ideas into tiny businesses, trying to find leverage in a world that moves faster than anyone ever prepares you for. The 500K is cool i guess, but the cooler part is the collective energy around it thousands of strangers learning, experimenting, arguing, DMing, building, and pushing their luck a little harder each week. Being a small piece of that current feels like the real milestone. That's the cool part. Half a million people now show up. Millions of views a month. Millions of minutes. A giant, invisible room of people who decided something I said was worth their attention. That still stops me and i want to thank you from the bottom of my heart. I’m still here with the same goal I started the channel with: Be useful, share a BOATLOAD of startup ideas and growth tactics, serve up tutorials on how to use AI to do big things and watch some of you take those ideas and become wildly successful in your own way. Thanks for being here. I can't say for certain I know what 2026 and beyond hold for me The Startup ideas Podcast. If you keep going, I'll keep going. Let’s see where we go next."
+                    - generic [ref=e963]:
+                      - group
+                  - generic [ref=e969]:
+                    - generic [ref=e970]:
+                      - link "Like this post along with 1,252 other people" [ref=e972]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e976]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic "1.2K likes" [ref=e980]: 1.2K
+                    - generic [ref=e981]:
+                      - link "Dislike this post" [ref=e983]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e987]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e992]:
+                      - button "Share" [ref=e994]:
+                        - generic [ref=e998]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1003]:
+                      - link "92 comments" [ref=e1005]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxb9H50ISTresRfxj5uIEU_cTJUq_j2jJS&hl=en
+                        - generic [ref=e1009]:
+                          - img
+                        - generic [ref=e1010]: "92"
+                      - tooltip "tooltip"
+                - link [ref=e1015] [cursor=pointer]:
+                  - generic [ref=e1016]:
+                    - link [ref=e1018]:
+                      - /url: /@GregIsenberg
+                    - link "Greg Isenberg" [ref=e1021]:
+                      - /url: /@GregIsenberg
+                    - generic [ref=e1022]: •
+                    - link "5 months ago" [ref=e1024]:
+                      - /url: /post/UgkxtFZr1CSXdZjQzRf73oflY-Uc5k_-FiMv
+                  - generic [ref=e1025]:
+                    - generic [ref=e1027]: "Apple JUST quietly announced something that’s a lot BIGGER than it looks: \"the Mini Apps Partner Program\" Apple is admitting that the future of software is embedded, lightweight, vertical mini-apps distributed inside bigger app For founders who want to make $$ building apps: 1. Apple just legitimized the “superapp” model for the West. China has WeChat mini-programs. India has PhonePe Switch. The West has… nothing. Apple just opened the door. You can now run HTML/JS mini-apps inside a native host and earn 85% on qualifying purchases. That’s Apple-sanctioned platform piggybacking. 2. Distribution arbitrage becomes real again. You don’t need to convince users to download your app. Just partner with a host app and drop in a mini-app. This is a cheat code for early traction. Think: travel apps hosting niche tools, fitness apps hosting mini workouts, marketplaces hosting micro-utilities. 3. Apple is creating a new economy layer: “embedded SaaS.” Imagine: CRM mini-apps inside vertical tools. Math solver mini-apps inside education apps. Calendar mini-apps inside productivity apps. The TAM for tools that don’t need standalone installs just went vertical. 4. Developers get an 85% revenue share. This is Apple basically saying: “We want this ecosystem to grow, and we’re willing to cut our take rate.” When Apple lowers its cut, I pay attention because they see a platform shift coming. 5. AI makes this 10× more important. LLM-powered micro-apps (calculators, planners, agents, coaches, niche utilities) are tiny by design. They’re perfect mini-apps. Apple just created infrastructure for AI-native micro utilities to live inside bigger apps with built-in commerce. 6. Host apps become new “distribution landlords.” If you own an app with traffic, you become a platform. You can host mini-apps, take a cut, and build a developer ecosystem around you. It’s a new monetization model for existing apps with audiences. 7. This unlocks a wave of second-order opportunities. - Agencies helping apps become mini-app hosts - Mini-app dev shops - “Shopify for mini-apps” toolkits - Mini-app marketplaces - Analytics for mini-app performance - Discovery engines for mini-apps - I'll be dropping mini app ideas on ideabrowser.com TLDR; Apple just turned every high-traffic app into a potential superapp and every indie developer into a potential platform partner. The App Store is becoming modular, composable, and layered. The next decade of consumer apps will look less like standalone products and more like ecosystems stitched together with mini-apps. This is quietly one of the biggest distribution unlocks in years."
+                    - generic [ref=e1028]:
+                      - group
+                  - generic [ref=e1034]:
+                    - generic [ref=e1035]:
+                      - link "Like this post along with 1,372 other people" [ref=e1037]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e1041]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic "1.3K likes" [ref=e1045]: 1.3K
+                    - generic [ref=e1046]:
+                      - link "Dislike this post" [ref=e1048]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                        - generic [ref=e1052]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1057]:
+                      - button "Share" [ref=e1059]:
+                        - generic [ref=e1063]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1068]:
+                      - link "53 comments" [ref=e1070]:
+                        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxtFZr1CSXdZjQzRf73oflY-Uc5k_-FiMv&hl=en
+                        - generic [ref=e1074]:
+                          - img
+                        - generic [ref=e1075]: "53"
+                      - tooltip "tooltip"
+              - button "Next" [ref=e1081] [cursor=pointer]:
+                - generic [ref=e1085]:
+                  - img
+          - generic [ref=e1092]:
+            - heading "Collaborations Play all" [level=2] [ref=e1095]:
+              - generic [ref=e1097]: Collaborations
+              - link "Play all" [ref=e1101] [cursor=pointer]:
+                - /url: /watch_videos?video_ids=loNrCpi5dkw%2C0HWHEjVaAbw%2CNw_Ow5LpRYg%2C7kV9iwXIM7Q%2C07twxy9TpQo%2CA3AsVAZ7wIs%2CRCmGqn5Dp8s&type=0&title=Collaborations
+                - generic [ref=e1105]:
+                  - img
+                - generic [ref=e1106]: Play all
+            - generic [ref=e1111]:
+              - generic [ref=e1114]:
+                - generic [ref=e1116]:
+                  - link [ref=e1118] [cursor=pointer]:
+                    - /url: /watch?v=loNrCpi5dkw
+                  - generic [ref=e1120] [cursor=pointer]:
+                    - generic [ref=e1122]:
+                      - 'heading "Side Hustle King: 6 $60K/Mo Businesses Nobody''s Doing 55 minutes" [level=3] [ref=e1123]':
+                        - 'link "Side Hustle King: 6 $60K/Mo Businesses Nobody''s Doing 55 minutes" [ref=e1124]':
+                          - /url: /watch?v=loNrCpi5dkw
+                          - text: "Side Hustle King: 6 $60K/Mo Businesses Nobody's Doing"
+                      - generic [ref=e1126]:
+                        - generic [ref=e1131]:
+                          - text: Greg Isenberg and Chris Koerner on The Koerner Office Podcast
+                          - img [ref=e1134]:
+                            - generic [ref=e1136]:
+                              - img
+                        - generic [ref=e1137]:
+                          - generic [ref=e1138]: 48K views
+                          - generic [ref=e1139]: •3 months ago
+                    - button "Action menu" [ref=e1142]:
+                      - generic [ref=e1145]:
+                        - img
+                - generic [ref=e1147]:
+                  - link [ref=e1149] [cursor=pointer]:
+                    - /url: /watch?v=0HWHEjVaAbw
+                  - generic [ref=e1151] [cursor=pointer]:
+                    - generic [ref=e1153]:
+                      - heading "5 AI Tools I’d Use to Make $1M (w/o employees, money, or time) 37 minutes" [level=3] [ref=e1154]:
+                        - link "5 AI Tools I’d Use to Make $1M (w/o employees, money, or time) 37 minutes" [ref=e1155]:
+                          - /url: /watch?v=0HWHEjVaAbw
+                          - text: 5 AI Tools I’d Use to Make $1M (w/o employees, money, or time)
+                      - generic [ref=e1157]:
+                        - generic [ref=e1162]:
+                          - text: My First Million
+                          - img [ref=e1165]:
+                            - generic [ref=e1167]:
+                              - img
+                          - text: and Greg Isenberg
+                        - generic [ref=e1168]:
+                          - generic [ref=e1169]: 78K views
+                          - generic [ref=e1170]: •6 months ago
+                    - button "Action menu" [ref=e1173]:
+                      - generic [ref=e1176]:
+                        - img
+                - generic [ref=e1178]:
+                  - link [ref=e1180] [cursor=pointer]:
+                    - /url: /watch?v=Nw_Ow5LpRYg
+                  - generic [ref=e1182] [cursor=pointer]:
+                    - generic [ref=e1184]:
+                      - heading "ChatGPT's App Store Just Dropped — Steal These 5 App Ideas 19 minutes" [level=3] [ref=e1185]:
+                        - link "ChatGPT's App Store Just Dropped — Steal These 5 App Ideas 19 minutes" [ref=e1186]:
+                          - /url: /watch?v=Nw_Ow5LpRYg
+                          - text: ChatGPT's App Store Just Dropped — Steal These 5 App Ideas
+                      - generic [ref=e1188]:
+                        - generic [ref=e1193]:
+                          - text: My First Million
+                          - img [ref=e1196]:
+                            - generic [ref=e1198]:
+                              - img
+                          - text: and Greg Isenberg
+                        - generic [ref=e1199]:
+                          - generic [ref=e1200]: 79K views
+                          - generic [ref=e1201]: •6 months ago
+                    - button "Action menu" [ref=e1204]:
+                      - generic [ref=e1207]:
+                        - img
+                - generic [ref=e1209]:
+                  - link [ref=e1211] [cursor=pointer]:
+                    - /url: /watch?v=7kV9iwXIM7Q&pp=0gcJCd8KAYcqIYzv
+                  - generic [ref=e1213] [cursor=pointer]:
+                    - generic [ref=e1215]:
+                      - heading "Greg Isenberg on AI Tools That Will Replace You (or Make You Rich) 45 minutes" [level=3] [ref=e1216]:
+                        - link "Greg Isenberg on AI Tools That Will Replace You (or Make You Rich) 45 minutes" [ref=e1217]:
+                          - /url: /watch?v=7kV9iwXIM7Q&pp=0gcJCd8KAYcqIYzv
+                          - text: Greg Isenberg on AI Tools That Will Replace You (or Make You Rich)
+                      - generic [ref=e1219]:
+                        - generic [ref=e1224]:
+                          - text: Chris Koerner on The Koerner Office Podcast
+                          - img [ref=e1227]:
+                            - generic [ref=e1229]:
+                              - img
+                          - text: and Greg Isenberg
+                        - generic [ref=e1230]:
+                          - generic [ref=e1231]: 24K views
+                          - generic [ref=e1232]: •1 year ago
+                    - button "Action menu" [ref=e1235]:
+                      - generic [ref=e1238]:
+                        - img
+                - generic [ref=e1240]:
+                  - link [ref=e1242] [cursor=pointer]:
+                    - /url: /watch?v=07twxy9TpQo
+                  - generic [ref=e1244] [cursor=pointer]:
+                    - generic [ref=e1246]:
+                      - 'heading "The $10M Multipreneur: How To Get RICH In The New Era Of Al (Painfully Simple!) | @GregIsenberg 1 hour, 20 minutes" [level=3] [ref=e1247]':
+                        - 'link "The $10M Multipreneur: How To Get RICH In The New Era Of Al (Painfully Simple!) | @GregIsenberg 1 hour, 20 minutes" [ref=e1248]':
+                          - /url: /watch?v=07twxy9TpQo
+                          - text: "The $10M Multipreneur: How To Get RICH In The New Era Of Al (Painfully Simple!) | @GregIsenberg"
+                      - generic [ref=e1250]:
+                        - generic [ref=e1254]: The Calum Johnson Show and Greg Isenberg
+                        - generic [ref=e1255]:
+                          - generic [ref=e1256]: 1M views
+                          - generic [ref=e1257]: •1 year ago
+                    - button "Action menu" [ref=e1260]:
+                      - generic [ref=e1263]:
+                        - img
+                - generic [ref=e1265]:
+                  - link [ref=e1267] [cursor=pointer]:
+                    - /url: /watch?v=A3AsVAZ7wIs
+                  - generic [ref=e1269] [cursor=pointer]:
+                    - generic [ref=e1271]:
+                      - heading "ChatGPT Operator Built a $500/Day Business in 30 Minutes (tutorial) 35 minutes" [level=3] [ref=e1272]:
+                        - link "ChatGPT Operator Built a $500/Day Business in 30 Minutes (tutorial) 35 minutes" [ref=e1273]:
+                          - /url: /watch?v=A3AsVAZ7wIs
+                          - text: ChatGPT Operator Built a $500/Day Business in 30 Minutes (tutorial)
+                      - generic [ref=e1275]:
+                        - generic [ref=e1280]:
+                          - text: Greg Isenberg and Chris Koerner on The Koerner Office Podcast
+                          - img [ref=e1283]:
+                            - generic [ref=e1285]:
+                              - img
+                        - generic [ref=e1286]:
+                          - generic [ref=e1287]: 937K views
+                          - generic [ref=e1288]: •1 year ago
+                    - button "Action menu" [ref=e1291]:
+                      - generic [ref=e1294]:
+                        - img
+              - button "Next" [ref=e1297] [cursor=pointer]:
+                - generic [ref=e1301]:
+                  - img
+      - text: •
+  - dialog [active] [ref=e1305]:
+    - generic [ref=e1306]:
+      - generic [ref=e1309]:
+        - heading "Greg Isenberg" [level=2] [ref=e1311]:
+          - generic "Greg Isenberg" [ref=e1312]
+        - button "Close" [ref=e1316] [cursor=pointer]:
+          - generic [ref=e1320]:
+            - img
+      - generic [ref=e1330]:
+        - generic [ref=e1332]: Description
+        - generic [ref=e1333]: Subscribe for startup ideas & tutorials on on how to use AI to build & grow your startup. Hey, I’m Greg - CEO of Late Checkout and ex-advisor to Reddit, TikTok, and more. I post videos here from my podcast top 0.1% tech podcast called The Startup Ideas Podcast. You can also listen to The Startup Ideas Podcast on Apple Podcasts and Spotify. I keep it practical and never gatekeep the sauce. I share what I'm learning in real-time. Happy building
+        - generic [ref=e1334]:
+          - generic [ref=e1336]: Links
+          - generic [ref=e1337]:
+            - generic [ref=e1339]:
+              - generic [ref=e1340]: Website
+              - link "gregisenberg.com" [ref=e1342] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbXRZLTVPZHlOWWZJYnlyRHZWQ0FrUW5YZTNjUXxBQ3Jtc0tuaEFBMW1UWWM3VERHcmxFcVRNamhlRmdSY0Y4MXQ3ZkZJR3IyTVVzcmxJRGRzdGdKZTN3SEVXVExMVUFjLTdNLU51N0NXOWVwXzJkMUNUcXdwUXhRWFNLNWZUYkthUFpTT2l0eTIydDB5YXc0bTlSOA&q=gregisenberg.com
+            - generic [ref=e1344]:
+              - generic [ref=e1345]: Spotify
+              - link "open.spotify.com/show/6aB0v6amo3a8hgTCjlTlvh" [ref=e1347] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbDA5bkhyZEJFc1FfaFlmY2dKd0JReUs3V05EZ3xBQ3Jtc0tsUExBX2lqNGhrVmxkSk5VZm4xNV9HRnhYaTZsQ2d6RWdPVGFmMXRic1p2NWNSanBBWmFKbHBIZ1hoaVFKUUpmWmVEckNsTGxWeVhmbnRGOTZmQWNFLW9rYVRyQmszUXdCRDJodXJrYkR0dW1tek5IVQ&q=https%3A%2F%2Fopen.spotify.com%2Fshow%2F6aB0v6amo3a8hgTCjlTlvh
+            - generic [ref=e1349]:
+              - generic [ref=e1350]: Apple
+              - link "podcasts.apple.com/us/podcast/where-it-happens/id1593424985" [ref=e1352] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbG55NmQxbmpLRjhaNXFRdlpVS1R1VnlmOHUyZ3xBQ3Jtc0ttRUZBN19ONkpEVy1JVThXeHJmc3lvTlk1eGh3bUJRWVFMWWFhMldTcmtaTV9TdUpqUHFCOTFJZjNYYXc4R1ZqM2VFYVo5aDFUUDZQR3I0SHFsa2NlRUx3cWFSTTFySENmMUx2bjJ3YlNKMHUwM1ZhOA&q=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Fwhere-it-happens%2Fid1593424985
+            - generic [ref=e1354]:
+              - generic [ref=e1355]: Free guides for entrepreneurs
+              - link "gregisenberg.com" [ref=e1357] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbWZWeUhsLVRHdTgyZkIyX0RfTFdoMVE5NjNfUXxBQ3Jtc0ttYWo1Z1lyUzR2Y25pRDVybkV6amNpLWctUUxkMWNoU3g1VXh4Z3NpSHhLbk10MnZSRXNFR2V4azhPaHlEaHNqVWNHeGNVdmtDOXh6UFhtT1ZYS094ZXBYZzZWM0hJNW9udEZsWjFURjVBdTQtZE1RNA&q=gregisenberg.com
+            - generic [ref=e1359]:
+              - generic [ref=e1360]: Find startup ideas
+              - link "ideabrowser.com" [ref=e1362] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbmlkQ3ZlVmRkb0xzN2FqS1M1ckhYYVh2VHF6d3xBQ3Jtc0trNWZlQ1lxOTJ3UjZ0azg4ckxuQU1NaUxZbjFYQ3BDMmpnWDFBYzFHYkxUTGxMOC12QXRLb1FwQXJXWEp3M1FwS21OQ3FUY3d6M2g5N3hfYTR4d0JYZmtRYVdZWVpMd3lMbVZXSGlHVVJVN05ON1hWYw&q=ideabrowser.com
+        - generic [ref=e1363]:
+          - generic [ref=e1365]: More info
+          - table [ref=e1366]:
+            - rowgroup [ref=e1367]:
+              - row "Sign in to see email address" [ref=e1368]:
+                - cell [ref=e1369]:
+                  - generic [ref=e1372]:
+                    - img
+                - cell "Sign in to see email address" [ref=e1373]:
+                  - generic [ref=e1376]:
+                    - link "Sign in" [ref=e1377] [cursor=pointer]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F%2540GregIsenberg&hl=en
+                    - text: to see email address
+              - row "www.youtube.com/@GregIsenberg" [ref=e1378]:
+                - cell [ref=e1379]:
+                  - generic [ref=e1382]:
+                    - img
+                - cell "www.youtube.com/@GregIsenberg" [ref=e1383]:
+                  - link "www.youtube.com/@GregIsenberg" [ref=e1384] [cursor=pointer]:
+                    - /url: http://www.youtube.com/@GregIsenberg
+              - row "United States" [ref=e1385]:
+                - cell [ref=e1386]:
+                  - generic [ref=e1389]:
+                    - img
+                - cell "United States" [ref=e1390]
+              - row "Joined Oct 27, 2021" [ref=e1391]:
+                - cell [ref=e1392]:
+                  - generic [ref=e1395]:
+                    - img
+                - cell "Joined Oct 27, 2021" [ref=e1396]:
+                  - generic [ref=e1398]: Joined Oct 27, 2021
+              - row "620K subscribers" [ref=e1399]:
+                - cell [ref=e1400]:
+                  - generic [ref=e1403]:
+                    - img
+                - cell "620K subscribers" [ref=e1404]
+              - row "770 videos" [ref=e1405]:
+                - cell [ref=e1406]:
+                  - generic [ref=e1409]:
+                    - img
+                - cell "770 videos" [ref=e1410]
+              - row "31,374,611 views" [ref=e1411]:
+                - cell [ref=e1412]:
+                  - generic [ref=e1415]:
+                    - img
+                - cell "31,374,611 views" [ref=e1416]
+        - button "Share channel" [ref=e1421] [cursor=pointer]:
+          - generic [ref=e1425]:
+            - img
+          - generic [ref=e1426]: Share channel

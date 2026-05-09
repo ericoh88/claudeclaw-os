@@ -1,0 +1,797 @@
+- generic [ref=e70]:
+  - banner [ref=e72]:
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - button "Guide" [ref=e77] [cursor=pointer]:
+          - generic [ref=e80]:
+            - img
+        - generic [ref=e81]:
+          - link "YouTube Home" [ref=e82] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e87]:
+              - img
+          - generic [ref=e88]: MY
+        - button "Skip navigation" [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: Skip navigation
+      - generic [ref=e97]:
+        - search [ref=e98]:
+          - generic [ref=e99]:
+            - combobox "Search" [expanded] [ref=e102]
+            - button "Search" [ref=e103] [cursor=pointer]:
+              - generic [ref=e106]:
+                - img
+        - generic [ref=e108]:
+          - button "Search with your voice" [ref=e110] [cursor=pointer]:
+            - generic [ref=e114]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e119]:
+        - button "Settings" [ref=e124] [cursor=pointer]:
+          - generic [ref=e127]:
+            - img
+        - link "Sign in" [ref=e130] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D3qUg57KGSVY&hl=en&ec=65620
+          - generic [ref=e134]:
+            - img
+          - generic [ref=e135]: Sign in
+  - main [ref=e140]:
+    - complementary [ref=e146]:
+      - generic "YouTube Video Player" [ref=e5]:
+        - generic [ref=e7]:
+          - generic:
+            - generic [ref=e150] [cursor=pointer]:
+              - img [ref=e151]
+              - generic [ref=e153]:
+                - generic "Global data centers" [ref=e154]
+                - generic "hostinger.com/vps" [ref=e155]
+              - link "Start now This link opens in new tab" [ref=e156]:
+                - generic [ref=e157]: Start now
+            - generic [ref=e158]:
+              - generic "Sponsored" [ref=e160]
+              - button "My Ad Center" [ref=e162] [cursor=pointer]:
+                - generic [ref=e163]:
+                  - img
+              - link "hostinger.com/vps This link opens in new tab" [ref=e164]:
+                - generic [ref=e165] [cursor=pointer]: hostinger.com/vps
+            - button "Skip" [ref=e1149] [cursor=pointer]:
+              - generic [ref=e1150]: Skip
+              - generic [ref=e1151]:
+                - img
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - slider "Seek slider" [disabled] [ref=e13]
+            - generic:
+              - generic:
+                - generic:
+                  - slider "Click or scroll the panel for the precise seeking." [disabled]
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - button "Pause (k)" [ref=e24] [cursor=pointer]:
+                - img
+              - generic [ref=e25]:
+                - button "Mute (m)" [ref=e27] [cursor=pointer]:
+                  - img
+                - slider "Volume"
+              - button "0 Minutes 2 Seconds of 0 Minutes 43 Seconds" [ref=e169] [cursor=pointer]: 0:02 / 0:43
+            - generic [ref=e32]:
+              - generic [ref=e33]:
+                - button "Autoplay is on" [ref=e170] [cursor=pointer]
+                - button "Subtitles/closed captions unavailable" [ref=e34] [cursor=pointer]:
+                  - generic [ref=e35]:
+                    - img
+                - button "Settings" [ref=e36] [cursor=pointer]:
+                  - img
+              - generic [ref=e37]:
+                - button "Theater mode (t)" [ref=e38] [cursor=pointer]:
+                  - img
+                - button "Full screen (f)" [ref=e39] [cursor=pointer]:
+                  - img
+    - generic [ref=e176]:
+      - generic [ref=e178]:
+        - generic [ref=e182]:
+          - generic "Sponsored - Global data centers hostinger.com/vps" [ref=e184]:
+            - img "Hostinger" [ref=e191]
+            - generic [ref=e192]:
+              - generic [ref=e193]: Global data centers
+              - generic [ref=e194]:
+                - generic [ref=e196]:
+                  - generic [ref=e197]: Sponsored
+                  - text: ·
+                - generic [ref=e199]: hostinger.com/vps
+          - button "My Ad Center" [ref=e201] [cursor=pointer]:
+            - generic [ref=e205]:
+              - img
+          - button [ref=e212] [cursor=pointer]:
+            - img [ref=e214]:
+              - generic [ref=e216]:
+                - img
+        - generic [ref=e223]:
+          - generic [ref=e227] [cursor=pointer]:
+            - generic [ref=e228]: 1-click OpenClaw
+            - generic [ref=e229]:
+              - generic [ref=e230]: Your own plug-and-play AI helper.
+              - generic [ref=e231]: Tested and managed for you.
+          - link "Start now" [ref=e234] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CqBh_5KjwacrDEt67vr0PuY-4iAmB8L-fhgH24b63hBWk5_LtlQIQASAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGHns_iAqkCq8DVmuKdsz6oAwTIAwqqBJwDT9APFwx79QLVZ0CguXyH2fXW-3QsA0IF228IonFXyWbl-AoBFdwORu5p3K2Lndl734JEq0w2p633aRvptBMZtWTxlzEpoZm27bCnJmQG1VMYKgFZ3bg4znF3AYQW6rA-EPN1tZ5fSdKwnq5k2NoO_e4UG_0z7FErsQ4t7ap3iFAenqQzEhykOfVuI6GrTGSbgk_iIeo2o6tYnoKQeVIeBp-TW0v2k4J-tnMQmDjY7gu5xmLNAM2jtuUSVPyZ9Y462480TcccwhVyZYL4sYFV02XWddk-_vSvy-5dvfjd0yx_xB3zb0ojnwcMeIXfm0tFZpS0_jZYRo0Vp1LxBlvWsj9FVa4abHob9NxAAn1oLY5qrvuaX081nXhuZw0x-TljT8S-Vge5nR5Pgl0V35p5hY22bu-MENUPtzqC2kkCrQaCQ5l1V0iS0QA4ss-4N4ia1z1tEwmB-fZe-hqTwkjKKh_6WJ4yV7X1uu79vgpulGAE1Xx2XdX9fcvhrpYCS2S-Um5Al0nS0Xr--7WeII948nXjfchnovcSMTBZHogFt8r3oVagBqEBgAfh4bCdAZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH_QeoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLRk5zQndwMWh5WVmoCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFj4odboxpCUA_IIH2NhLXl0LWhvc3QtcHViLTc4MDMzOTQ2ODIzODMxMjiaCSlodHRwczovL3d3dy5ob3N0aW5nZXIuY29tL215L3Zwcy1tYWxheXNpYbEJ6d0Ys6DcSk3ICQPICRjICY8ByAnCAZgLAaELSzUjM3KANGK6C0UIARABGAQgASgBMBBAAUgBYABoAHACiAEAmAEBogESCgAYACAAWAFgAHABqAIB2AICqAEB2AEBgAIBiAIJugMFdml0cGXQCxLSDAIQAZoNARKqDQJNWcgNAdIN6wFodHRwczovL3d3dy5ob3N0aW5nZXIuY29tL215L3Zwcy1tYWxheXNpYT91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1faWQ9MjMxNTY2MTQ0NTUmdXRtX2NhbXBhaWduPUludGVudC1WQUMtRGVtYW5kR2VuLVZQU3xOVDpZb3VUdWJlfExPOk1ZJnV0bV90ZXJtPTE5MTAwNjYzMTAwNyZ1dG1fY29udGVudD03ODg1NTYxMDMzMjkmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzMTU2NjE0NDU1uBP___________8BsBQBwBXJgIBA0BUB2BUBkBYBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRczi4eMgBl9O7oXBigAMAA4AdAYAfAYAbIZATfCGQIIAQ&gclid=EAIaIQobChMIysXW6MaQlAMV3p2vAR25Bw6REAEYASAAEgL-z_D_BwE&num=1&cid=CAASwgHkaHe62_mqk3gF_R7baMk5BSSD_mkEzS97DqO3EEtN-e-AycSURaYaS1HDIzJo3ng6v6N5mtMP6NNYzw_8eL7pXGAJSgPHrXK2NkF13DclGt-sp0FOaP9DOzrUJhNWxEOiKWSNNC-prutk39CI7i9t2nbwmYKytW7STqMJQiJfw3TcvBEZaHa4p2IiUYLAWGwc_8mcmSwpVGufgmjfzFX8c1c0xhx5TCSZGm2imFB0snteoq2KkybU8AtCy5Pc8Jajbw&ad_cpn=%5BAD_CPN%5D&sig=AOD64_1aQTxbYrwPTbVjHZA0nez8DOlIwg&label=video_click_to_advertiser_site&ctype=110&ms=%5BCLICK_MS%5D&adclksrc=%5BCLICK_SOURCE%5D
+            - generic [ref=e235]: Start now
+      - generic [ref=e240]:
+        - heading "Plan Like a Pro in Claude Code" [level=1] [ref=e242]
+        - generic [ref=e243]:
+          - generic [ref=e244]:
+            - generic [ref=e245]:
+              - link [ref=e246] [cursor=pointer]:
+                - /url: /@Mark_Kashef
+              - generic [ref=e248]:
+                - generic "Mark Kashef" [ref=e252]:
+                  - link "Mark Kashef" [ref=e253] [cursor=pointer]:
+                    - /url: /@Mark_Kashef
+                - generic "75.1 thousand subscribers" [ref=e254]: 75.1K subscribers
+            - generic [ref=e258]:
+              - button "Subscribe to Mark Kashef." [ref=e260] [cursor=pointer]:
+                - generic [ref=e261]: Subscribe
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - img
+          - generic [ref=e268]:
+            - generic [ref=e269]:
+              - generic [ref=e273]:
+                - button "like this video along with 550 other people" [ref=e277] [cursor=pointer]:
+                  - generic [ref=e281]:
+                    - img
+                  - generic [ref=e282]: "550"
+                - button "Dislike this video" [ref=e289] [cursor=pointer]:
+                  - generic [ref=e293]:
+                    - img
+              - button "Share" [ref=e299] [cursor=pointer]:
+                - generic [ref=e303]:
+                  - img
+                - generic [ref=e304]: Share
+            - generic [ref=e308]:
+              - button "Save to playlist" [ref=e311] [cursor=pointer]:
+                - generic [ref=e315]:
+                  - img
+                - generic [ref=e316]: Save
+              - button "Remove ads" [ref=e322] [cursor=pointer]:
+                - generic [ref=e1152]:
+                  - img
+                - generic [ref=e327]: Remove ads
+            - button "More actions" [ref=e332] [cursor=pointer]:
+              - generic [ref=e336]:
+                - img
+        - generic [ref=e342]:
+          - generic [ref=e345]:
+            - text: 12,433 views Mar 4, 2026
+            - link "#supabase" [ref=e346] [cursor=pointer]:
+              - /url: /hashtag/supabase
+            - link "#n8n" [ref=e347] [cursor=pointer]:
+              - /url: /hashtag/n8n
+            - link "#claudeai" [ref=e348] [cursor=pointer]:
+              - /url: /hashtag/claudeai
+          - generic [ref=e349]:
+            - generic [ref=e1155]:
+              - text: "Join My Community:"
+              - link "https://www.skool.com/earlyaidopters/..." [ref=e1157] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdqVnZlZVpYRWVYWHpkZFptU1ZINFI1M1dhZ3xBQ3Jtc0trLUdUOXhScmVOZ2czemhSQXRCQnVldkk0N1NRVmsxT3R4c1ZyR0JFVVRQYnRiNEJJdGg1MjZnc1ktUVE0LVhldVQtcDV4QkZ3T0dfWERrY1RLcWRHWGQxbFhXSHlWNGQtQVRycGxEZkxsenVtMWczQQ&q=https%3A%2F%2Fwww.skool.com%2Fearlyaidopters%2Fabout&v=3qUg57KGSVY
+              - text: "Get the ASCII Planning Prompts:"
+              - link "https://markkashef.gumroad.com/l/asci..." [ref=e1159] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGZhZjhOZDZiWkQxNzRMakdfT1FTbnJBdXptQXxBQ3Jtc0trSXJiU1RRd0VMcWcyZGNYY3BlTmE3UkxWdWt4UkFKZS1JN2ItdENLTWgtR21FQ2VteTFvdnhPU0tEOUZqTy01SlhEOVk1enZxMndVRlRySWdwcEtPLVJsNW1aYjhUdmJlQnpRU2c2T2tkVUZ3ZV9jOA&q=https%3A%2F%2Fmarkkashef.gumroad.com%2Fl%2Fascii-planning&v=3qUg57KGSVY
+              - text: "--- A simple trick that saves you time and tokens. Instead of prompting Claude Code and hoping it builds what's in your head, you sketch it first with ASCII art — boxes, arrows, labels. 30 seconds of planning, first-try results. Works for dashboards, landing pages, slide decks, databases, and anything visual. Whether you're technical or not. --- Timestamps"
+              - link "0 seconds" [ref=e1161] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY
+                - text: 0:00
+              - text: "- The Simple Trick"
+              - link "24 seconds" [ref=e1163] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=24s
+                - text: 0:24
+              - text: "- What ASCII Art Planning Looks Like"
+              - link "1 minute, 16 seconds" [ref=e1165] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=76s
+                - text: 1:16
+              - text: "- Why Most People Fight Claude Code"
+              - link "2 minutes, 42 seconds" [ref=e1167] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=162s
+                - text: 2:42
+              - text: "- Example 1: SaaS Analytics Dashboard"
+              - link "5 minutes, 4 seconds" [ref=e1169] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=304s
+                - text: 5:04
+              - text: "- Without ASCII (The Lazy Prompt Result)"
+              - link "6 minutes, 11 seconds" [ref=e1171] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=371s
+                - text: 6:11
+              - text: "- Example 2: SaaS Landing Page"
+              - link "8 minutes" [ref=e1173] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=480s
+                - text: 8:00
+              - text: "- The Iterate-Before-You-Build Technique"
+              - link "8 minutes, 28 seconds" [ref=e1175] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=508s
+                - text: 8:28
+              - text: "- Without ASCII (Landing Page Comparison)"
+              - link "9 minutes, 12 seconds" [ref=e1177] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=552s
+                - text: 9:12
+              - text: "- Example 3: PowerPoint Slide Deck (10 Slides)"
+              - link "10 minutes, 52 seconds" [ref=e1179] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=652s
+                - text: 10:52
+              - text: "- Token Savings With ASCII Planning"
+              - link "11 minutes, 6 seconds" [ref=e1181] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=666s
+                - text: 11:06
+              - text: "- The Slide Deck Result"
+              - link "11 minutes, 52 seconds" [ref=e1183] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=712s
+                - text: 11:52
+              - text: "- Without ASCII (Slide Deck Comparison)"
+              - link "12 minutes, 52 seconds" [ref=e1185] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=772s
+                - text: 12:52
+              - text: "- Example 4: Database Schema (Supabase)"
+              - link "14 minutes, 54 seconds" [ref=e1187] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=894s
+                - text: 14:54
+              - text: "- Without ASCII (Database Comparison)"
+              - link "15 minutes, 35 seconds" [ref=e1189] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=935s
+                - text: 15:35
+              - text: "- Recap and How to Use This Daily"
+              - link "16 minutes, 1 second" [ref=e1191] [cursor=pointer]:
+                - /url: /watch?v=3qUg57KGSVY&t=961s
+                - text: 16:01
+              - text: "- Free Prompts + Community --- Book a Consultation:"
+              - link "https://calendly.com/d/crfp-qz3-m4z" [ref=e1193] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazFQWkh1U29QMTlFSkZKUXB3eWRReTdDYXExd3xBQ3Jtc0trQmJuQThiT3A5UzRhT0NYZDkta25oX2R3NVFid2dFZTZBOTY0bzQwdUNuU2thSXJPblZDVjZMWUpfNS0yd0pUQ2NEM09rWHYtRkFSOHBSb3EwREhRT2VkUTFiMlBzejAyZGxZWDg4VTJ2eG9fS0pEcw&q=https%3A%2F%2Fcalendly.com%2Fd%2Fcrfp-qz3-m4z&v=3qUg57KGSVY
+              - link "#claudecode" [ref=e1195] [cursor=pointer]:
+                - /url: /hashtag/claudecode
+              - link "#ascii" [ref=e1197] [cursor=pointer]:
+                - /url: /hashtag/ascii
+              - link "#wireframe" [ref=e1199] [cursor=pointer]:
+                - /url: /hashtag/wireframe
+              - link "#aitools" [ref=e1201] [cursor=pointer]:
+                - /url: /hashtag/aitools
+              - link "#promptengineering" [ref=e1203] [cursor=pointer]:
+                - /url: /hashtag/promptengineering
+              - link "#claudeai" [ref=e1205] [cursor=pointer]:
+                - /url: /hashtag/claudeai
+              - link "#anthropic" [ref=e1207] [cursor=pointer]:
+                - /url: /hashtag/anthropic
+              - link "#webdev" [ref=e1209] [cursor=pointer]:
+                - /url: /hashtag/webdev
+              - link "#dashboard" [ref=e1211] [cursor=pointer]:
+                - /url: /hashtag/dashboard
+              - link "#n8n" [ref=e1213] [cursor=pointer]:
+                - /url: /hashtag/n8n
+              - link "#supabase" [ref=e1215] [cursor=pointer]:
+                - /url: /hashtag/supabase
+              - link "#powerpoint" [ref=e1217] [cursor=pointer]:
+                - /url: /hashtag/powerpoint
+              - link "#aitutorial" [ref=e1219] [cursor=pointer]:
+                - /url: /hashtag/aitutorial
+              - link "#vibecoding" [ref=e1221] [cursor=pointer]:
+                - /url: /hashtag/vibecoding
+              - link "#aicoding" [ref=e1223] [cursor=pointer]:
+                - /url: /hashtag/aicoding
+            - generic [ref=e1226]:
+              - generic [ref=e1227]:
+                - generic [ref=e1228]: How this was made
+                - generic [ref=e1229]: Auto-dubbed
+                - generic [ref=e1231]:
+                  - text: Audio tracks for some languages were automatically generated.
+                  - link "Learn more" [ref=e1233] [cursor=pointer]:
+                    - /url: //support.google.com/youtube/answer/15569972?hl=en
+              - generic [ref=e1235]:
+                - heading "Chapters View all" [level=2] [ref=e1237]:
+                  - generic [ref=e1239]:
+                    - generic [ref=e1241]: Chapters
+                    - button "View all" [ref=e1245] [cursor=pointer]:
+                      - generic [ref=e1246]: View all
+                - generic [ref=e1250]:
+                  - generic [ref=e1252]:
+                    - link "The Simple Trick 0:00" [ref=e1254] [cursor=pointer]:
+                      - /url: /watch?v=3qUg57KGSVY
+                      - generic [ref=e1257]:
+                        - heading "The Simple Trick" [level=4] [ref=e1258]
+                        - generic [ref=e1259]: 0:00
+                    - link "What ASCII Art Planning Looks Like 0:24" [ref=e1261] [cursor=pointer]:
+                      - /url: /watch?v=3qUg57KGSVY&t=24s
+                      - generic [ref=e1264]:
+                        - heading "What ASCII Art Planning Looks Like" [level=4] [ref=e1265]
+                        - generic [ref=e1266]: 0:24
+                    - link "Why Most People Fight Claude Code 1:16" [ref=e1268] [cursor=pointer]:
+                      - /url: /watch?v=3qUg57KGSVY&t=76s
+                      - generic [ref=e1271]:
+                        - heading "Why Most People Fight Claude Code" [level=4] [ref=e1272]
+                        - generic [ref=e1273]: 1:16
+                    - 'link "Example 1: SaaS Analytics Dashboard 2:42" [ref=e1275] [cursor=pointer]':
+                      - /url: /watch?v=3qUg57KGSVY&t=162s
+                      - generic [ref=e1278]:
+                        - 'heading "Example 1: SaaS Analytics Dashboard" [level=4] [ref=e1279]'
+                        - generic [ref=e1280]: 2:42
+                    - link "Without ASCII (The Lazy Prompt Result) 5:04" [ref=e1282] [cursor=pointer]:
+                      - /url: /watch?v=3qUg57KGSVY&t=304s
+                      - generic [ref=e1285]:
+                        - heading "Without ASCII (The Lazy Prompt Result)" [level=4] [ref=e1286]
+                        - generic [ref=e1287]: 5:04
+                    - 'link "Example 2: SaaS Landing Page 6:11" [ref=e1289] [cursor=pointer]':
+                      - /url: /watch?v=3qUg57KGSVY&t=371s
+                      - generic [ref=e1292]:
+                        - 'heading "Example 2: SaaS Landing Page" [level=4] [ref=e1293]'
+                        - generic [ref=e1294]: 6:11
+                    - link "The Iterate-Before-You-Build Technique 8:00" [ref=e1296] [cursor=pointer]:
+                      - /url: /watch?v=3qUg57KGSVY&t=480s
+                      - generic [ref=e1299]:
+                        - heading "The Iterate-Before-You-Build Technique" [level=4] [ref=e1300]
+                        - generic [ref=e1301]: 8:00
+                    - link "Without ASCII (Landing Page Comparison) 8:28" [ref=e1303] [cursor=pointer]:
+                      - /url: /watch?v=3qUg57KGSVY&t=508s
+                      - generic [ref=e1306]:
+                        - heading "Without ASCII (Landing Page Comparison)" [level=4] [ref=e1307]
+                        - generic [ref=e1308]: 8:28
+                  - generic [ref=e1312] [cursor=pointer]:
+                    - img
+              - generic [ref=e1313]:
+                - generic [ref=e1315]: Transcript
+                - paragraph [ref=e1317]: Follow along using the transcript.
+                - button "Show transcript" [ref=e1322] [cursor=pointer]:
+                  - generic [ref=e1323]: Show transcript
+              - generic [ref=e1327]:
+                - link "Mark Kashef 75.1K subscribers" [ref=e1328] [cursor=pointer]:
+                  - /url: /@Mark_Kashef
+                  - generic [ref=e1329]:
+                    - heading "Mark Kashef" [level=3] [ref=e1330]
+                    - generic [ref=e1331]: 75.1K subscribers
+                - generic [ref=e1334]:
+                  - link "Videos" [ref=e1337] [cursor=pointer]:
+                    - /url: /channel/UCHkzp52CldSPZqU5T49mOnA/videos
+                    - generic [ref=e1341]:
+                      - img
+                    - generic [ref=e1342]: Videos
+                  - link "About" [ref=e1348] [cursor=pointer]:
+                    - /url: /channel/UCHkzp52CldSPZqU5T49mOnA/about
+                    - generic [ref=e1352]:
+                      - img
+                    - generic [ref=e1353]: About
+                  - link "LinkedIn" [ref=e1359] [cursor=pointer]:
+                    - /url: https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbl9WZUhqbG84eVpUVzhDMEJVR3Y1NGtJMVJad3xBQ3Jtc0trOHVqQ1lpbXBVM1czXzVMZTloWVQzVnNLVlpDbmM1aXdlUFNzNHR2TTlDeXUxQkZYRzlYeFY4V3dlMnN3UnlIWnl6RDcxOEhESDJNSGpNeXFjRmw0eThMVUtTZmhEOUw1NnJlOE5UZy0tN0FOWmNrVQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmkashef%2F
+                    - generic [ref=e1361]: LinkedIn
+            - button "Show less" [ref=e1365] [cursor=pointer]
+      - text: •
+      - generic [ref=e361]:
+        - generic [ref=e363] [cursor=pointer]:
+          - link [ref=e364]:
+            - /url: /watch?v=vizgFWixquE
+            - generic [ref=e371]: 39:02
+          - generic [ref=e373]:
+            - generic [ref=e374]:
+              - heading "Anthropic's NEW Claude Architect Guide In 39 Minutes 39 minutes" [level=3] [ref=e375]:
+                - link "Anthropic's NEW Claude Architect Guide In 39 Minutes 39 minutes" [ref=e376]:
+                  - /url: /watch?v=vizgFWixquE
+                  - text: Anthropic's NEW Claude Architect Guide In 39 Minutes
+              - generic [ref=e378]:
+                - group [ref=e379]:
+                  - generic [ref=e380]: Mark Kashef
+                - group [ref=e381]:
+                  - generic [ref=e382]: 47K views
+                  - generic [ref=e383]: •
+                  - generic [ref=e384]: 1 month ago
+            - button "More actions" [ref=e387]:
+              - generic [ref=e391]:
+                - img
+        - generic [ref=e396] [cursor=pointer]:
+          - link [ref=e397]:
+            - /url: /watch?v=S_oN3vlzpMw
+            - generic [ref=e404]: 35:26
+          - generic [ref=e406]:
+            - generic [ref=e407]:
+              - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e408]:
+                - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e409]:
+                  - /url: /watch?v=S_oN3vlzpMw
+                  - text: How AI agents & Claude skills work (Clearly Explained)
+              - generic [ref=e411]:
+                - group [ref=e412]:
+                  - generic [ref=e413]: Greg Isenberg
+                - group [ref=e414]:
+                  - generic [ref=e415]: 219K views
+                  - generic [ref=e416]: •
+                  - generic [ref=e417]: 2 weeks ago
+            - button "More actions" [ref=e420]:
+              - generic [ref=e424]:
+                - img
+        - generic [ref=e429] [cursor=pointer]:
+          - link [ref=e430]:
+            - /url: /watch?v=49V-5Ock8LU&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e437]: 18:57
+          - generic [ref=e439]:
+            - generic [ref=e440]:
+              - heading "18 Claude Code Token Hacks in 18 Minutes 18 minutes" [level=3] [ref=e441]:
+                - link "18 Claude Code Token Hacks in 18 Minutes 18 minutes" [ref=e442]:
+                  - /url: /watch?v=49V-5Ock8LU&pp=ugUEEgJlbg%3D%3D
+                  - text: 18 Claude Code Token Hacks in 18 Minutes
+              - generic [ref=e444]:
+                - group [ref=e445]:
+                  - generic [ref=e446]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e449]:
+                      - generic [ref=e451]:
+                        - img
+                - group [ref=e452]:
+                  - generic [ref=e453]: 201K views
+                  - generic [ref=e454]: •
+                  - generic [ref=e455]: 3 weeks ago
+            - button "More actions" [ref=e458]:
+              - generic [ref=e462]:
+                - img
+        - generic [ref=e467] [cursor=pointer]:
+          - link [ref=e468]:
+            - /url: /watch?v=TzJecWCbex0&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e475]: 22:20
+          - generic [ref=e477]:
+            - generic [ref=e478]:
+              - heading "Anthropic's Full Claude Skills Guide In 22 Minutes 22 minutes" [level=3] [ref=e479]:
+                - link "Anthropic's Full Claude Skills Guide In 22 Minutes 22 minutes" [ref=e480]:
+                  - /url: /watch?v=TzJecWCbex0&pp=ugUEEgJlbg%3D%3D
+                  - text: Anthropic's Full Claude Skills Guide In 22 Minutes
+              - generic [ref=e482]:
+                - group [ref=e483]:
+                  - generic [ref=e484]: Mark Kashef
+                - group [ref=e485]:
+                  - generic [ref=e486]: 57K views
+                  - generic [ref=e487]: •
+                  - generic [ref=e488]: 2 months ago
+            - button "More actions" [ref=e491]:
+              - generic [ref=e495]:
+                - img
+        - generic [ref=e500] [cursor=pointer]:
+          - link [ref=e501]:
+            - /url: /watch?v=WSPChlfxJyA&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e508]: 19:13
+          - generic [ref=e510]:
+            - generic [ref=e511]:
+              - 'heading "Full Claude Tutorial: Beginner to Advanced in 19 Minutes 19 minutes" [level=3] [ref=e512]':
+                - 'link "Full Claude Tutorial: Beginner to Advanced in 19 Minutes 19 minutes" [ref=e513]':
+                  - /url: /watch?v=WSPChlfxJyA&pp=ugUEEgJlbg%3D%3D
+                  - text: "Full Claude Tutorial: Beginner to Advanced in 19 Minutes"
+              - generic [ref=e515]:
+                - group [ref=e516]:
+                  - generic [ref=e517]:
+                    - text: Futurepedia
+                    - img [ref=e520]:
+                      - generic [ref=e522]:
+                        - img
+                - group [ref=e523]:
+                  - generic [ref=e524]: 308K views
+                  - generic [ref=e525]: •
+                  - generic [ref=e526]: 2 weeks ago
+            - button "More actions" [ref=e529]:
+              - generic [ref=e533]:
+                - img
+        - generic [ref=e538] [cursor=pointer]:
+          - link [ref=e539]:
+            - /url: /watch?v=X3uum6W2xEI&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e546]: 18:36
+          - generic [ref=e548]:
+            - generic [ref=e549]:
+              - heading "How to build Claude Skills Better than 99% of People 18 minutes" [level=3] [ref=e550]:
+                - link "How to build Claude Skills Better than 99% of People 18 minutes" [ref=e551]:
+                  - /url: /watch?v=X3uum6W2xEI&pp=ugUEEgJlbg%3D%3D
+                  - text: How to build Claude Skills Better than 99% of People
+              - generic [ref=e553]:
+                - group [ref=e554]:
+                  - generic [ref=e555]: Ben AI
+                - group [ref=e556]:
+                  - generic [ref=e557]: 221K views
+                  - generic [ref=e558]: •
+                  - generic [ref=e559]: 2 months ago
+            - button "More actions" [ref=e562]:
+              - generic [ref=e566]:
+                - img
+        - generic [ref=e571] [cursor=pointer]:
+          - link [ref=e572]:
+            - /url: /watch?v=t6YSH0Cg9WA
+            - generic [ref=e579]: 11:44
+          - generic [ref=e581]:
+            - generic [ref=e582]:
+              - heading "Closed Loop Automation 11 minutes, 44 seconds" [level=3] [ref=e583]:
+                - link "Closed Loop Automation 11 minutes, 44 seconds" [ref=e584]:
+                  - /url: /watch?v=t6YSH0Cg9WA
+                  - text: Closed Loop Automation
+              - generic [ref=e586]:
+                - group [ref=e587]:
+                  - generic [ref=e588]: Beyond Uptime
+                - group [ref=e589]:
+                  - generic [ref=e590]: 21 views
+                  - generic [ref=e591]: •
+                  - generic [ref=e592]: 2 weeks ago
+            - button "More actions" [ref=e595]:
+              - generic [ref=e599]:
+                - img
+        - generic [ref=e604] [cursor=pointer]:
+          - link [ref=e605]:
+            - /url: /watch?v=rRrBbyv3ChM&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e612]: 49:17
+          - generic [ref=e614]:
+            - generic [ref=e615]:
+              - heading "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!) 49 minutes" [level=3] [ref=e616]:
+                - link "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!) 49 minutes" [ref=e617]:
+                  - /url: /watch?v=rRrBbyv3ChM&pp=ugUEEgJlbg%3D%3D
+                  - text: FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)
+              - generic [ref=e619]:
+                - group [ref=e620]:
+                  - generic [ref=e621]:
+                    - text: AI Foundations
+                    - img [ref=e624]:
+                      - generic [ref=e626]:
+                        - img
+                - group [ref=e627]:
+                  - generic [ref=e628]: 623K views
+                  - generic [ref=e629]: •
+                  - generic [ref=e630]: 1 month ago
+            - button "More actions" [ref=e633]:
+              - generic [ref=e637]:
+                - img
+        - generic [ref=e642] [cursor=pointer]:
+          - link [ref=e643]:
+            - /url: /watch?v=eA9Zf2-qYYM&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e650]: 58:56
+          - generic [ref=e652]:
+            - generic [ref=e653]:
+              - heading "Building AI Agents that actually work (Full Course) 58 minutes" [level=3] [ref=e654]:
+                - link "Building AI Agents that actually work (Full Course) 58 minutes" [ref=e655]:
+                  - /url: /watch?v=eA9Zf2-qYYM&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Building AI Agents that actually work (Full Course)
+              - generic [ref=e657]:
+                - group [ref=e658]:
+                  - generic [ref=e659]: Greg Isenberg
+                - group [ref=e660]:
+                  - generic [ref=e661]: 296K views
+                  - generic [ref=e662]: •
+                  - generic [ref=e663]: 1 month ago
+            - button "More actions" [ref=e666]:
+              - generic [ref=e670]:
+                - img
+        - generic [ref=e675] [cursor=pointer]:
+          - link [ref=e676]:
+            - /url: /watch?v=HPo5M-6QJDo&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e683]: 11:19
+          - generic [ref=e685]:
+            - generic [ref=e686]:
+              - heading "I Tried Claude Code Remote Control So You Don't Have To 11 minutes, 19 seconds" [level=3] [ref=e687]:
+                - link "I Tried Claude Code Remote Control So You Don't Have To 11 minutes, 19 seconds" [ref=e688]:
+                  - /url: /watch?v=HPo5M-6QJDo&pp=ugUEEgJlbg%3D%3D
+                  - text: I Tried Claude Code Remote Control So You Don't Have To
+              - generic [ref=e690]:
+                - group [ref=e691]:
+                  - generic [ref=e692]: Mark Kashef
+                - group [ref=e693]:
+                  - generic [ref=e694]: 10K views
+                  - generic [ref=e695]: •
+                  - generic [ref=e696]: 1 month ago
+            - button "More actions" [ref=e699]:
+              - generic [ref=e703]:
+                - img
+        - generic [ref=e708] [cursor=pointer]:
+          - link [ref=e709]:
+            - /url: /watch?v=OMkdlwZxSt8&pp=ugUHEgVlbi1DQQ%3D%3D
+            - generic [ref=e716]: 20:44
+          - generic [ref=e718]:
+            - generic [ref=e719]:
+              - heading "Master ALL 7 Levels of Claude Code Memory 20 minutes" [level=3] [ref=e720]:
+                - link "Master ALL 7 Levels of Claude Code Memory 20 minutes" [ref=e721]:
+                  - /url: /watch?v=OMkdlwZxSt8&pp=ugUHEgVlbi1DQQ%3D%3D
+                  - text: Master ALL 7 Levels of Claude Code Memory
+              - generic [ref=e723]:
+                - group [ref=e724]:
+                  - generic [ref=e725]: Mark Kashef
+                - group [ref=e726]:
+                  - generic [ref=e727]: 8.7K views
+                  - generic [ref=e728]: •
+                  - generic [ref=e729]: 5 days ago
+                - group [ref=e730]:
+                  - generic [ref=e734]: New
+            - button "More actions" [ref=e737]:
+              - generic [ref=e741]:
+                - img
+        - generic [ref=e746] [cursor=pointer]:
+          - link [ref=e747]:
+            - /url: /watch?v=A0SV-DExypQ
+            - generic [ref=e754]: 1:21:03
+          - generic [ref=e756]:
+            - generic [ref=e757]:
+              - heading "The Complete Beginner’s Guide to Claude Code (Even If You’re Not Technical) 1 hour, 21 minutes" [level=3] [ref=e758]:
+                - link "The Complete Beginner’s Guide to Claude Code (Even If You’re Not Technical) 1 hour, 21 minutes" [ref=e759]:
+                  - /url: /watch?v=A0SV-DExypQ
+                  - text: The Complete Beginner’s Guide to Claude Code (Even If You’re Not Technical)
+              - generic [ref=e761]:
+                - group [ref=e762]:
+                  - generic [ref=e763]: Mark Kashef
+                - group [ref=e764]:
+                  - generic [ref=e765]: 49K views
+                  - generic [ref=e766]: •
+                  - generic [ref=e767]: 8 months ago
+            - button "More actions" [ref=e770]:
+              - generic [ref=e774]:
+                - img
+        - generic [ref=e779] [cursor=pointer]:
+          - link [ref=e780]:
+            - /url: /watch?v=ntDIxaeo3Wg
+            - generic [ref=e787]: 35:49
+          - generic [ref=e789]:
+            - generic [ref=e790]:
+              - heading "Claude Code - Full Tutorial for Beginners 35 minutes" [level=3] [ref=e791]:
+                - link "Claude Code - Full Tutorial for Beginners 35 minutes" [ref=e792]:
+                  - /url: /watch?v=ntDIxaeo3Wg
+                  - text: Claude Code - Full Tutorial for Beginners
+              - generic [ref=e794]:
+                - group [ref=e795]:
+                  - generic [ref=e796]:
+                    - text: Tech With Tim
+                    - img [ref=e799]:
+                      - generic [ref=e801]:
+                        - img
+                - group [ref=e802]:
+                  - generic [ref=e803]: 818K views
+                  - generic [ref=e804]: •
+                  - generic [ref=e805]: 2 months ago
+            - button "More actions" [ref=e808]:
+              - generic [ref=e812]:
+                - img
+        - generic [ref=e817] [cursor=pointer]:
+          - link [ref=e818]:
+            - /url: /watch?v=wjZofJX0v4M&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e825]: 27:14
+          - generic [ref=e827]:
+            - generic [ref=e828]:
+              - heading "Transformers, the tech behind LLMs | Deep Learning Chapter 5 27 minutes" [level=3] [ref=e829]:
+                - link "Transformers, the tech behind LLMs | Deep Learning Chapter 5 27 minutes" [ref=e830]:
+                  - /url: /watch?v=wjZofJX0v4M&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Transformers, the tech behind LLMs | Deep Learning Chapter 5
+              - generic [ref=e832]:
+                - group [ref=e833]:
+                  - generic [ref=e834]:
+                    - text: 3Blue1Brown
+                    - img [ref=e837]:
+                      - generic [ref=e839]:
+                        - img
+                - group [ref=e840]:
+                  - generic [ref=e841]: 10M views
+                  - generic [ref=e842]: •
+                  - generic [ref=e843]: 2 years ago
+            - button "More actions" [ref=e846]:
+              - generic [ref=e850]:
+                - img
+        - generic [ref=e855] [cursor=pointer]:
+          - link [ref=e856]:
+            - /url: /watch?v=UabBYexBD4k
+            - generic [ref=e863]: 11:10
+          - generic [ref=e865]:
+            - generic [ref=e866]:
+              - heading "Is RAG Still Needed? Choosing the Best Approach for LLMs 11 minutes, 10 seconds" [level=3] [ref=e867]:
+                - link "Is RAG Still Needed? Choosing the Best Approach for LLMs 11 minutes, 10 seconds" [ref=e868]:
+                  - /url: /watch?v=UabBYexBD4k
+                  - text: Is RAG Still Needed? Choosing the Best Approach for LLMs
+              - generic [ref=e870]:
+                - group [ref=e871]:
+                  - generic [ref=e872]:
+                    - text: IBM Technology
+                    - img [ref=e875]:
+                      - generic [ref=e877]:
+                        - img
+                - group [ref=e878]:
+                  - generic [ref=e879]: 693K views
+                  - generic [ref=e880]: •
+                  - generic [ref=e881]: 1 month ago
+            - button "More actions" [ref=e884]:
+              - generic [ref=e888]:
+                - img
+        - generic [ref=e893] [cursor=pointer]:
+          - link [ref=e894]:
+            - /url: /watch?v=DW4a1Cm8nG4
+            - generic [ref=e901]: 42:08
+          - generic [ref=e903]:
+            - generic [ref=e904]:
+              - heading "I got a private lesson on Claude Cowork & Claude Code 42 minutes" [level=3] [ref=e905]:
+                - link "I got a private lesson on Claude Cowork & Claude Code 42 minutes" [ref=e906]:
+                  - /url: /watch?v=DW4a1Cm8nG4
+                  - text: I got a private lesson on Claude Cowork & Claude Code
+              - generic [ref=e908]:
+                - group [ref=e909]:
+                  - generic [ref=e910]: Greg Isenberg
+                - group [ref=e911]:
+                  - generic [ref=e912]: 356K views
+                  - generic [ref=e913]: •
+                  - generic [ref=e914]: 3 months ago
+            - button "More actions" [ref=e917]:
+              - generic [ref=e921]:
+                - img
+        - generic [ref=e926] [cursor=pointer]:
+          - link [ref=e927]:
+            - /url: /watch?v=TJRsTwi1McI&pp=ugUHEgVlbi1DQQ%3D%3D
+            - generic [ref=e934]: 10:45
+          - generic [ref=e936]:
+            - generic [ref=e937]:
+              - heading "Claude Design Just Shook Up the Design Industry 10 minutes, 45 seconds" [level=3] [ref=e938]:
+                - link "Claude Design Just Shook Up the Design Industry 10 minutes, 45 seconds" [ref=e939]:
+                  - /url: /watch?v=TJRsTwi1McI&pp=ugUHEgVlbi1DQQ%3D%3D
+                  - text: Claude Design Just Shook Up the Design Industry
+              - generic [ref=e941]:
+                - group [ref=e942]:
+                  - generic [ref=e943]: Mark Kashef
+                - group [ref=e944]:
+                  - generic [ref=e945]: 23K views
+                  - generic [ref=e946]: •
+                  - generic [ref=e947]: 10 days ago
+            - button "More actions" [ref=e950]:
+              - generic [ref=e954]:
+                - img
+        - generic [ref=e959] [cursor=pointer]:
+          - link [ref=e960]:
+            - /url: /watch?v=1Z1aECGwJh0&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+            - generic [ref=e967]: 13:46
+          - generic [ref=e969]:
+            - generic [ref=e970]:
+              - heading "Google's New CLI Just Made Claude Code Unstoppable 13 minutes, 46 seconds" [level=3] [ref=e971]:
+                - link "Google's New CLI Just Made Claude Code Unstoppable 13 minutes, 46 seconds" [ref=e972]:
+                  - /url: /watch?v=1Z1aECGwJh0&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+                  - text: Google's New CLI Just Made Claude Code Unstoppable
+              - generic [ref=e974]:
+                - group [ref=e975]:
+                  - generic [ref=e976]: Mark Kashef
+                - group [ref=e977]:
+                  - generic [ref=e978]: 39K views
+                  - generic [ref=e979]: •
+                  - generic [ref=e980]: 1 month ago
+            - button "More actions" [ref=e983]:
+              - generic [ref=e987]:
+                - img
+        - generic [ref=e992] [cursor=pointer]:
+          - link [ref=e993]:
+            - /url: /watch?v=O2k_qwZA8HU&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e1000]: 25:23
+          - generic [ref=e1002]:
+            - generic [ref=e1003]:
+              - heading "Ollama + Claude Code = 99% CHEAPER 25 minutes" [level=3] [ref=e1004]:
+                - link "Ollama + Claude Code = 99% CHEAPER 25 minutes" [ref=e1005]:
+                  - /url: /watch?v=O2k_qwZA8HU&pp=ugUEEgJlbg%3D%3D
+                  - text: Ollama + Claude Code = 99% CHEAPER
+              - generic [ref=e1007]:
+                - group [ref=e1008]:
+                  - generic [ref=e1009]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e1012]:
+                      - generic [ref=e1014]:
+                        - img
+                - group [ref=e1015]:
+                  - generic [ref=e1016]: 232K views
+                  - generic [ref=e1017]: •
+                  - generic [ref=e1018]: 3 weeks ago
+            - button "More actions" [ref=e1021]:
+              - generic [ref=e1025]:
+                - img
+        - generic [ref=e1030] [cursor=pointer]:
+          - link [ref=e1031]:
+            - /url: /watch?v=m3fqyXZ4k4I&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+            - generic [ref=e1038]: 9:53
+          - generic [ref=e1040]:
+            - generic [ref=e1041]:
+              - heading "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) 9 minutes, 53 seconds" [level=3] [ref=e1042]:
+                - link "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) 9 minutes, 53 seconds" [ref=e1043]:
+                  - /url: /watch?v=m3fqyXZ4k4I&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+                  - text: Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)
+              - generic [ref=e1045]:
+                - group [ref=e1046]:
+                  - generic [ref=e1047]: Cole Medin
+                - group [ref=e1048]:
+                  - generic [ref=e1049]: 83K views
+                  - generic [ref=e1050]: •
+                  - generic [ref=e1051]: 1 month ago
+            - button "More actions" [ref=e1054]:
+              - generic [ref=e1058]:
+                - img
+        - button "Show more" [ref=e1066] [cursor=pointer]:
+          - generic [ref=e1067]: Show more
+      - heading "Comments" [level=2] [ref=e1076]:
+        - generic [ref=e1077]: Comments

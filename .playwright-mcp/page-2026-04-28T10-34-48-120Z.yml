@@ -1,0 +1,313 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - heading "Checkout" [level=1] [ref=e6]
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - generic [ref=e12]:
+            - generic [ref=e13]:
+              - figure [ref=e14]:
+                - link [ref=e15] [cursor=pointer]:
+                  - /url: https://markkashef.gumroad.com/l/council-skill-claude-code
+                  - img [ref=e16]
+              - generic [ref=e17]:
+                - generic [ref=e18]: "Qty: 1"
+                - text: "1"
+            - generic [ref=e19]:
+              - heading "The Council Skill for Claude Code 👑" [level=4] [ref=e20]:
+                - link "The Council Skill for Claude Code 👑" [ref=e21] [cursor=pointer]:
+                  - /url: https://markkashef.gumroad.com/l/council-skill-claude-code
+              - link "Mark Kashef" [ref=e22] [cursor=pointer]:
+                - /url: https://markkashef.gumroad.com
+              - generic [ref=e24]:
+                - button "Edit" [ref=e26] [cursor=pointer]
+                - button "Remove" [ref=e27] [cursor=pointer]
+            - generic "Price" [ref=e29]: US$0
+        - generic [ref=e32] [cursor=pointer]:
+          - switch "Give as a gift?" [ref=e34]
+          - heading "Give as a gift?" [level=4] [ref=e35]
+      - list [ref=e36]
+    - generic "Payment form" [ref=e38]:
+      - generic [ref=e41]:
+        - heading "Contact information" [level=4] [ref=e42]
+        - group "Email address" [ref=e43]:
+          - generic [ref=e45] [cursor=pointer]: Email address
+          - textbox "Email address" [ref=e48]
+        - group "Full name" [ref=e49]:
+          - generic [ref=e51] [cursor=pointer]: Full name
+          - textbox "Full name" [ref=e52]
+        - group "Country" [ref=e54]:
+          - generic [ref=e56] [cursor=pointer]: Country
+          - generic [ref=e57]:
+            - combobox "Country" [ref=e58]:
+              - option "Afghanistan (not supported)"
+              - option "Albania"
+              - option "Algeria"
+              - option "American Samoa"
+              - option "Andorra"
+              - option "Angola"
+              - option "Anguilla"
+              - option "Antarctica"
+              - option "Antigua and Barbuda"
+              - option "Argentina"
+              - option "Armenia"
+              - option "Aruba"
+              - option "Australia"
+              - option "Austria"
+              - option "Azerbaijan"
+              - option "Bahamas"
+              - option "Bahrain"
+              - option "Bangladesh"
+              - option "Barbados"
+              - option "Belarus"
+              - option "Belgium"
+              - option "Belize"
+              - option "Benin"
+              - option "Bermuda"
+              - option "Bhutan"
+              - option "Bolivia"
+              - option "Bonaire, Sint Eustatius and Saba"
+              - option "Bosnia and Herzegovina"
+              - option "Botswana"
+              - option "Bouvet Island"
+              - option "Brazil"
+              - option "British Indian Ocean Territory"
+              - option "Brunei Darussalam"
+              - option "Bulgaria"
+              - option "Burkina Faso"
+              - option "Burundi"
+              - option "Cabo Verde"
+              - option "Cambodia"
+              - option "Cameroon"
+              - option "Canada"
+              - option "Cayman Islands"
+              - option "Central African Republic"
+              - option "Chad"
+              - option "Chile"
+              - option "China"
+              - option "Christmas Island"
+              - option "Cocos (Keeling) Islands"
+              - option "Colombia"
+              - option "Comoros"
+              - option "Congo"
+              - option "Congo, The Democratic Republic of the (not supported)"
+              - option "Cook Islands"
+              - option "Costa Rica"
+              - option "Croatia"
+              - option "Cuba (not supported)"
+              - option "Curaçao"
+              - option "Cyprus"
+              - option "Czechia"
+              - option "Côte d'Ivoire (not supported)"
+              - option "Denmark"
+              - option "Djibouti"
+              - option "Dominica"
+              - option "Dominican Republic"
+              - option "Ecuador"
+              - option "Egypt"
+              - option "El Salvador"
+              - option "Equatorial Guinea"
+              - option "Eritrea"
+              - option "Estonia"
+              - option "Eswatini"
+              - option "Ethiopia"
+              - option "Falkland Islands (Malvinas)"
+              - option "Faroe Islands"
+              - option "Fiji"
+              - option "Finland"
+              - option "France"
+              - option "French Guiana"
+              - option "French Polynesia"
+              - option "French Southern Territories"
+              - option "Gabon"
+              - option "Gambia"
+              - option "Georgia"
+              - option "Germany"
+              - option "Ghana"
+              - option "Gibraltar"
+              - option "Greece"
+              - option "Greenland"
+              - option "Grenada"
+              - option "Guadeloupe"
+              - option "Guam"
+              - option "Guatemala"
+              - option "Guernsey"
+              - option "Guinea"
+              - option "Guinea-Bissau"
+              - option "Guyana"
+              - option "Haiti"
+              - option "Heard Island and McDonald Islands"
+              - option "Holy See (Vatican City State)"
+              - option "Honduras"
+              - option "Hong Kong"
+              - option "Hungary"
+              - option "Iceland"
+              - option "India"
+              - option "Indonesia"
+              - option "Iran (not supported)"
+              - option "Iraq (not supported)"
+              - option "Ireland"
+              - option "Isle of Man"
+              - option "Israel"
+              - option "Italy"
+              - option "Jamaica"
+              - option "Japan"
+              - option "Jersey"
+              - option "Jordan"
+              - option "Kazakhstan"
+              - option "Kenya"
+              - option "Kiribati"
+              - option "Kosovo"
+              - option "Kuwait"
+              - option "Kyrgyzstan"
+              - option "Lao People's Democratic Republic"
+              - option "Latvia"
+              - option "Lebanon (not supported)"
+              - option "Lesotho"
+              - option "Liberia (not supported)"
+              - option "Libya (not supported)"
+              - option "Liechtenstein"
+              - option "Lithuania"
+              - option "Luxembourg"
+              - option "Macao"
+              - option "Madagascar"
+              - option "Malawi"
+              - option "Malaysia" [selected]
+              - option "Maldives"
+              - option "Mali"
+              - option "Malta"
+              - option "Marshall Islands"
+              - option "Martinique"
+              - option "Mauritania"
+              - option "Mauritius"
+              - option "Mayotte"
+              - option "Mexico"
+              - option "Micronesia, Federated States of"
+              - option "Moldova"
+              - option "Monaco"
+              - option "Mongolia"
+              - option "Montenegro"
+              - option "Montserrat"
+              - option "Morocco"
+              - option "Mozambique"
+              - option "Myanmar (not supported)"
+              - option "Namibia"
+              - option "Nauru"
+              - option "Nepal"
+              - option "Netherlands"
+              - option "New Caledonia"
+              - option "New Zealand"
+              - option "Nicaragua"
+              - option "Niger"
+              - option "Nigeria"
+              - option "Niue"
+              - option "Norfolk Island"
+              - option "North Korea (not supported)"
+              - option "North Macedonia"
+              - option "Northern Mariana Islands"
+              - option "Norway"
+              - option "Oman"
+              - option "Pakistan"
+              - option "Palau"
+              - option "Palestine, State of"
+              - option "Panama"
+              - option "Papua New Guinea"
+              - option "Paraguay"
+              - option "Peru"
+              - option "Philippines"
+              - option "Pitcairn"
+              - option "Poland"
+              - option "Portugal"
+              - option "Puerto Rico"
+              - option "Qatar"
+              - option "Romania"
+              - option "Russian Federation"
+              - option "Rwanda"
+              - option "Réunion"
+              - option "Saint Barthélemy"
+              - option "Saint Helena, Ascension and Tristan da Cunha"
+              - option "Saint Kitts and Nevis"
+              - option "Saint Lucia"
+              - option "Saint Martin (French part)"
+              - option "Saint Pierre and Miquelon"
+              - option "Saint Vincent and the Grenadines"
+              - option "Samoa"
+              - option "San Marino"
+              - option "Sao Tome and Principe"
+              - option "Saudi Arabia"
+              - option "Senegal"
+              - option "Serbia"
+              - option "Seychelles"
+              - option "Sierra Leone"
+              - option "Singapore"
+              - option "Sint Maarten (Dutch part)"
+              - option "Slovakia"
+              - option "Slovenia"
+              - option "Solomon Islands"
+              - option "Somalia (not supported)"
+              - option "South Africa"
+              - option "South Georgia and the South Sandwich Islands"
+              - option "South Korea"
+              - option "South Sudan"
+              - option "Spain"
+              - option "Sri Lanka"
+              - option "Sudan (not supported)"
+              - option "Suriname"
+              - option "Svalbard and Jan Mayen"
+              - option "Sweden"
+              - option "Switzerland"
+              - option "Syrian Arab Republic (not supported)"
+              - option "Taiwan"
+              - option "Tajikistan"
+              - option "Tanzania"
+              - option "Thailand"
+              - option "Timor-Leste"
+              - option "Togo"
+              - option "Tokelau"
+              - option "Tonga"
+              - option "Trinidad and Tobago"
+              - option "Tunisia"
+              - option "Turkmenistan"
+              - option "Turks and Caicos Islands"
+              - option "Tuvalu"
+              - option "Türkiye"
+              - option "Uganda"
+              - option "Ukraine"
+              - option "United Arab Emirates"
+              - option "United Kingdom"
+              - option "United States"
+              - option "United States Minor Outlying Islands"
+              - option "Uruguay"
+              - option "Uzbekistan"
+              - option "Vanuatu"
+              - option "Venezuela"
+              - option "Vietnam"
+              - option "Virgin Islands, British"
+              - option "Virgin Islands, U.S."
+              - option "Wallis and Futuna"
+              - option "Western Sahara"
+              - option "Yemen (not supported)"
+              - option "Zambia"
+              - option "Zimbabwe (not supported)"
+              - option "Åland Islands"
+            - img
+      - generic [ref=e61]:
+        - heading "Pay with" [level=4] [ref=e62]
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - img [ref=e65]
+            - generic [ref=e69]: Card
+          - group "Card information" [ref=e72]:
+            - generic [ref=e74] [cursor=pointer]: Card information
+            - generic "Card information" [ref=e75]:
+              - generic [ref=e77]:
+                - iframe [ref=e78]
+                - textbox [disabled]
+        - button "Pay" [disabled] [ref=e80]
+      - iframe [ref=e84]:
+        - generic [ref=f8e6]:
+          - text: protected by
+          - strong [ref=f8e7]: reCAPTCHA
+    - link "Continue shopping" [ref=e85] [cursor=pointer]:
+      - /url: https://markkashef.gumroad.com/

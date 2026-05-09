@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e5] [cursor=pointer]:
+      - /url: /
+      - img [ref=e7]
+    - generic [ref=e13]: 404 Error
+    - generic [ref=e14]: Sorry, this page doesn't exist.
+    - button "Back to Home" [ref=e15] [cursor=pointer]:
+      - generic [ref=e16]: Back to Home
+  - alert [ref=e17]

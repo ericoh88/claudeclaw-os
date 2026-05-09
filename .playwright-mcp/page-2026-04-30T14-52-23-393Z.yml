@@ -1,0 +1,9 @@
+- generic [ref=e2]:
+  - paragraph [ref=e3]: Verifying you are a human
+  - paragraph [ref=e4]: This may take a few seconds.
+  - generic:
+    - main:
+      - generic:
+        - heading [level=2]
+        - paragraph
+  - paragraph [ref=e5]: community.dynamous.ai needs to review the security of your connection before proceeding.

@@ -1,0 +1,405 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=e43]:
+        - button "Settings" [ref=e48] [cursor=pointer]
+        - link "Sign in" [ref=e52] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540ColeMedin%252Fvideos&hl=en&ec=65620
+          - generic [ref=e55]: Sign in
+  - main [ref=e60]:
+    - generic [ref=e67]:
+      - generic [ref=e75]:
+        - generic [ref=e83]:
+          - heading "Cole Medin" [level=1] [ref=e85]
+          - generic [ref=e86]:
+            - group [ref=e87]:
+              - generic [ref=e88]: "@ColeMedin"
+            - generic [ref=e89]: •
+            - group [ref=e90]:
+              - generic "203 thousand subscribers" [ref=e91]: 203K subscribers
+              - generic [ref=e92]: •
+              - generic [ref=e93]: 262 videos
+          - generic [ref=e95] [cursor=pointer]:
+            - generic [ref=e96]: Hi I'm Cole Medin and I'm your guy for learning how to make a huge impact with AI agents and AI coding assistants. AI is no doubt the future of not just software development but the whole world. And I'm on a mission to master it and share everything with you.
+            - button "Description. Hi I'm Cole Medin and I'm your guy for learning how to make ...tap for more." [ref=e97]:
+              - generic [ref=e98]: ...more
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - link "dynamous.ai/?event=dynamous-anniversary-special" [ref=e103] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbUlvZms2b21DMGs2M1lNbWVnS0Y3SF9fM2pNZ3xBQ3Jtc0tsZ2MwSXFzTTNlQ0lNeTNyZUV2YXpGc1Y0UE9MZ2pBMFpaQ2trRlc4a2x2b0xZR1lYUjBfR3NkUHNtd2pQYWdRWEd5dUtySzFrNlRDdG9KZkY1eE5PLTJmQ09BMkcyWl9Vc1FCMjBaLU5zeFNRMzkyUQ&q=https%3A%2F%2Fdynamous.ai%2F%3Fevent%3Ddynamous-anniversary-special
+            - button "and 3 more links" [ref=e106] [cursor=pointer]
+          - button "Subscribe" [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: Subscribe
+      - tablist [ref=e119]:
+        - tablist [ref=e123]:
+          - tab "Home" [ref=e124] [cursor=pointer]:
+            - generic [ref=e125]: Home
+          - tab "Videos" [selected] [ref=e126] [cursor=pointer]:
+            - generic [ref=e127]: Videos
+          - tab "Shorts" [ref=e128] [cursor=pointer]:
+            - generic [ref=e129]: Shorts
+          - tab "Live" [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]: Live
+          - tab "Playlists" [ref=e132] [cursor=pointer]:
+            - generic [ref=e133]: Playlists
+          - tab "Posts" [ref=e134] [cursor=pointer]:
+            - generic [ref=e135]: Posts
+          - button "Search" [ref=e139] [cursor=pointer]
+        - button [ref=e143] [cursor=pointer]:
+          - generic [ref=e144]:
+            - img
+    - generic [ref=e148]:
+      - tablist [ref=e151]:
+        - tab "Latest" [selected] [ref=e155] [cursor=pointer]:
+          - generic [ref=e157]: Latest
+        - tab "Popular" [ref=e164] [cursor=pointer]:
+          - generic [ref=e166]: Popular
+        - tab "Oldest" [ref=e173] [cursor=pointer]:
+          - generic [ref=e175]: Oldest
+      - generic [ref=e179]:
+        - generic [ref=e183]:
+          - link [ref=e186] [cursor=pointer]:
+            - /url: /watch?v=rFGlJ4oIlhw
+          - generic [ref=e189] [cursor=pointer]:
+            - 'heading "Parallel Claude Code + Git Worktrees: This Setup Will Change How You Ship 23 minutes" [level=3] [ref=e190]':
+              - 'link "Parallel Claude Code + Git Worktrees: This Setup Will Change How You Ship 23 minutes" [ref=e191]':
+                - /url: /watch?v=rFGlJ4oIlhw
+                - generic [ref=e192]: "Parallel Claude Code + Git Worktrees: This Setup Will Change How You Ship"
+            - generic [ref=e195]:
+              - generic [ref=e196]: 13K views
+              - generic [ref=e197]: •6 days ago
+        - generic [ref=e201]:
+          - link [ref=e204] [cursor=pointer]:
+            - /url: /watch?v=XSmI7OYd7iM
+          - generic [ref=e207] [cursor=pointer]:
+            - 'heading "Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat) 17 minutes" [level=3] [ref=e208]':
+              - 'link "Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat) 17 minutes" [ref=e209]':
+                - /url: /watch?v=XSmI7OYd7iM
+                - generic [ref=e210]: "Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat)"
+            - generic [ref=e213]:
+              - generic [ref=e214]: 17K views
+              - generic [ref=e215]: •9 days ago
+        - generic [ref=e219]:
+          - link [ref=e222] [cursor=pointer]:
+            - /url: /watch?v=6woc6ii-zoE
+          - generic [ref=e225] [cursor=pointer]:
+            - heading "I'm Building an AI Dark Factory That Ships Its Own Code (Public Experiment) 25 minutes" [level=3] [ref=e226]:
+              - link "I'm Building an AI Dark Factory That Ships Its Own Code (Public Experiment) 25 minutes" [ref=e227]:
+                - /url: /watch?v=6woc6ii-zoE
+                - generic [ref=e228]: I'm Building an AI Dark Factory That Ships Its Own Code (Public Experiment)
+            - generic [ref=e231]:
+              - generic [ref=e232]: 8.5K views
+              - generic [ref=e233]: •13 days ago
+        - generic [ref=e237]:
+          - link [ref=e240] [cursor=pointer]:
+            - /url: /watch?v=qMnClynCAmM
+          - generic [ref=e243] [cursor=pointer]:
+            - heading "The Next Evolution of AI Coding Is Harnesses - Here's How to Build Them 30 minutes" [level=3] [ref=e244]:
+              - link "The Next Evolution of AI Coding Is Harnesses - Here's How to Build Them 30 minutes" [ref=e245]:
+                - /url: /watch?v=qMnClynCAmM
+                - generic [ref=e246]: The Next Evolution of AI Coding Is Harnesses - Here's How to Build Them
+            - generic [ref=e249]:
+              - generic [ref=e250]: 39K views
+              - generic [ref=e251]: •2 weeks ago
+        - generic [ref=e255]:
+          - link [ref=e258] [cursor=pointer]:
+            - /url: /watch?v=7huCP6RkcY4
+          - generic [ref=e261] [cursor=pointer]:
+            - heading "I Built Self-Evolving Claude Code Memory w/ Karpathy's LLM Knowledge Bases 19 minutes" [level=3] [ref=e262]:
+              - link "I Built Self-Evolving Claude Code Memory w/ Karpathy's LLM Knowledge Bases 19 minutes" [ref=e263]:
+                - /url: /watch?v=7huCP6RkcY4
+                - generic [ref=e264]: I Built Self-Evolving Claude Code Memory w/ Karpathy's LLM Knowledge Bases
+            - generic [ref=e267]:
+              - generic [ref=e268]: 114K views
+              - generic [ref=e269]: •3 weeks ago
+        - generic [ref=e273]:
+          - link [ref=e276] [cursor=pointer]:
+            - /url: /watch?v=1FiER-40zng
+          - generic [ref=e279] [cursor=pointer]:
+            - heading "Full Guide - Build Your Own AI Second Brain with Claude Code 25 minutes" [level=3] [ref=e280]:
+              - link "Full Guide - Build Your Own AI Second Brain with Claude Code 25 minutes" [ref=e281]:
+                - /url: /watch?v=1FiER-40zng
+                - generic [ref=e282]: Full Guide - Build Your Own AI Second Brain with Claude Code
+            - generic [ref=e285]:
+              - generic [ref=e286]: 58K views
+              - generic [ref=e287]: •3 weeks ago
+        - generic [ref=e291]:
+          - link [ref=e294] [cursor=pointer]:
+            - /url: /watch?v=HAkSUBdsd6M&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e297] [cursor=pointer]:
+            - heading "Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique) 17 minutes" [level=3] [ref=e298]:
+              - link "Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique) 17 minutes" [ref=e299]:
+                - /url: /watch?v=HAkSUBdsd6M&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e300]: Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)
+            - generic [ref=e303]:
+              - generic [ref=e304]: 10K views
+              - generic [ref=e305]: •4 weeks ago
+        - generic [ref=e309]:
+          - link [ref=e312] [cursor=pointer]:
+            - /url: /watch?v=gmaHRwijOXs
+          - generic [ref=e315] [cursor=pointer]:
+            - heading "Everything You Thought About Building AI Agents is Wrong 15 minutes" [level=3] [ref=e316]:
+              - link "Everything You Thought About Building AI Agents is Wrong 15 minutes" [ref=e317]:
+                - /url: /watch?v=gmaHRwijOXs
+                - generic [ref=e318]: Everything You Thought About Building AI Agents is Wrong
+            - generic [ref=e321]:
+              - generic [ref=e322]: 23K views
+              - generic [ref=e323]: •1 month ago
+        - generic [ref=e327]:
+          - link [ref=e330] [cursor=pointer]:
+            - /url: /watch?v=uegyRTOrXSU
+          - generic [ref=e333] [cursor=pointer]:
+            - heading "You're Hardly Using What Claude Code Has to Offer, it's Insane 14 minutes, 42 seconds" [level=3] [ref=e334]:
+              - link "You're Hardly Using What Claude Code Has to Offer, it's Insane 14 minutes, 42 seconds" [ref=e335]:
+                - /url: /watch?v=uegyRTOrXSU
+                - generic [ref=e336]: You're Hardly Using What Claude Code Has to Offer, it's Insane
+            - generic [ref=e339]:
+              - generic [ref=e340]: 17K views
+              - generic [ref=e341]: •1 month ago
+        - generic [ref=e345]:
+          - link [ref=e348] [cursor=pointer]:
+            - /url: /watch?v=GX_EsbcXfw8&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e351] [cursor=pointer]:
+            - heading "The Subagent Era Is Officially Here - Learn this Now 15 minutes" [level=3] [ref=e352]:
+              - link "The Subagent Era Is Officially Here - Learn this Now 15 minutes" [ref=e353]:
+                - /url: /watch?v=GX_EsbcXfw8&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e354]: The Subagent Era Is Officially Here - Learn this Now
+            - generic [ref=e357]:
+              - generic [ref=e358]: 8.5K views
+              - generic [ref=e359]: •1 month ago
+        - generic [ref=e363]:
+          - link [ref=e366] [cursor=pointer]:
+            - /url: /watch?v=nxHKBq5ZU9U
+          - generic [ref=e369] [cursor=pointer]:
+            - heading "I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It 22 minutes" [level=3] [ref=e370]:
+              - link "I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It 22 minutes" [ref=e371]:
+                - /url: /watch?v=nxHKBq5ZU9U
+                - generic [ref=e372]: I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It
+            - generic [ref=e375]:
+              - generic [ref=e376]: 30K views
+              - generic [ref=e377]: •1 month ago
+        - generic [ref=e381]:
+          - link [ref=e384] [cursor=pointer]:
+            - /url: /watch?v=NMWgXvm--to
+          - generic [ref=e387] [cursor=pointer]:
+            - heading "Stripe's Coding Agents Ship 1,300 PRs EVERY Week - Here's How They Do It 18 minutes" [level=3] [ref=e388]:
+              - link "Stripe's Coding Agents Ship 1,300 PRs EVERY Week - Here's How They Do It 18 minutes" [ref=e389]:
+                - /url: /watch?v=NMWgXvm--to
+                - generic [ref=e390]: Stripe's Coding Agents Ship 1,300 PRs EVERY Week - Here's How They Do It
+            - generic [ref=e393]:
+              - generic [ref=e394]: 10K views
+              - generic [ref=e395]: •1 month ago
+        - generic [ref=e399]:
+          - link [ref=e402] [cursor=pointer]:
+            - /url: /watch?v=tjBpm91ZQM0
+          - generic [ref=e405] [cursor=pointer]:
+            - heading "Is Software Engineering Finally Dead? 17 minutes" [level=3] [ref=e406]:
+              - link "Is Software Engineering Finally Dead? 17 minutes" [ref=e407]:
+                - /url: /watch?v=tjBpm91ZQM0
+                - generic [ref=e408]: Is Software Engineering Finally Dead?
+            - generic [ref=e411]:
+              - generic [ref=e412]: 9.2K views
+              - generic [ref=e413]: •1 month ago
+        - generic [ref=e417]:
+          - link [ref=e420] [cursor=pointer]:
+            - /url: /watch?v=m3fqyXZ4k4I&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e423] [cursor=pointer]:
+            - heading "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) 9 minutes, 53 seconds" [level=3] [ref=e424]:
+              - link "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) 9 minutes, 53 seconds" [ref=e425]:
+                - /url: /watch?v=m3fqyXZ4k4I&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e426]: Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)
+            - generic [ref=e429]:
+              - generic [ref=e430]: 84K views
+              - generic [ref=e431]: •1 month ago
+        - generic [ref=e435]:
+          - link [ref=e438] [cursor=pointer]:
+            - /url: /watch?v=YeCHI1dmpZY
+          - generic [ref=e441] [cursor=pointer]:
+            - heading "This One Command Makes Coding Agents Find All Their Mistakes (Use it Now) 20 minutes" [level=3] [ref=e442]:
+              - link "This One Command Makes Coding Agents Find All Their Mistakes (Use it Now) 20 minutes" [ref=e443]:
+                - /url: /watch?v=YeCHI1dmpZY
+                - generic [ref=e444]: This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)
+            - generic [ref=e447]:
+              - generic [ref=e448]: 24K views
+              - generic [ref=e449]: •2 months ago
+        - generic [ref=e453]:
+          - link [ref=e456] [cursor=pointer]:
+            - /url: /watch?v=goOZSXmrYQ4
+          - generic [ref=e459] [cursor=pointer]:
+            - heading "My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering) 42 minutes" [level=3] [ref=e460]:
+              - link "My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering) 42 minutes" [ref=e461]:
+                - /url: /watch?v=goOZSXmrYQ4
+                - generic [ref=e462]: My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)
+            - generic [ref=e465]:
+              - generic [ref=e466]: 51K views
+              - generic [ref=e467]: •2 months ago
+        - generic [ref=e471]:
+          - link [ref=e474] [cursor=pointer]:
+            - /url: /watch?v=60G93MXT4DI
+          - generic [ref=e477] [cursor=pointer]:
+            - heading "Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead) 14 minutes, 54 seconds" [level=3] [ref=e478]:
+              - link "Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead) 14 minutes, 54 seconds" [ref=e479]:
+                - /url: /watch?v=60G93MXT4DI
+                - generic [ref=e480]: Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)
+            - generic [ref=e483]:
+              - generic [ref=e484]: 56K views
+              - generic [ref=e485]: •2 months ago
+        - generic [ref=e489]:
+          - link [ref=e492] [cursor=pointer]:
+            - /url: /watch?v=uvs1Igr4u6g
+          - generic [ref=e495] [cursor=pointer]:
+            - heading "How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD) 50 minutes" [level=3] [ref=e496]:
+              - link "How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD) 50 minutes" [ref=e497]:
+                - /url: /watch?v=uvs1Igr4u6g
+                - generic [ref=e498]: How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)
+            - generic [ref=e501]:
+              - generic [ref=e502]: 40K views
+              - generic [ref=e503]: •2 months ago
+        - generic [ref=e507]:
+          - link [ref=e510] [cursor=pointer]:
+            - /url: /watch?v=XmweZ4fLkcI
+          - generic [ref=e513] [cursor=pointer]:
+            - heading "I Built a Safer OpenClaw Alternative Using Claude Code 15 minutes" [level=3] [ref=e514]:
+              - link "I Built a Safer OpenClaw Alternative Using Claude Code 15 minutes" [ref=e515]:
+                - /url: /watch?v=XmweZ4fLkcI
+                - generic [ref=e516]: I Built a Safer OpenClaw Alternative Using Claude Code
+            - generic [ref=e519]:
+              - generic [ref=e520]: 73K views
+              - generic [ref=e521]: •2 months ago
+        - generic [ref=e525]:
+          - link [ref=e528] [cursor=pointer]:
+            - /url: /watch?v=-1K_ZWDKpU0&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e531] [cursor=pointer]:
+            - heading "Claude Code's Agent Teams Are Insane - Multiple AI Agents Coding Together in Real Time 20 minutes" [level=3] [ref=e532]:
+              - link "Claude Code's Agent Teams Are Insane - Multiple AI Agents Coding Together in Real Time 20 minutes" [ref=e533]:
+                - /url: /watch?v=-1K_ZWDKpU0&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e534]: Claude Code's Agent Teams Are Insane - Multiple AI Agents Coding Together in Real Time
+            - generic [ref=e537]:
+              - generic [ref=e538]: 121K views
+              - generic [ref=e539]: •2 months ago
+        - generic [ref=e543]:
+          - link [ref=e546] [cursor=pointer]:
+            - /url: /watch?v=MD8VQzvMVek
+          - generic [ref=e549] [cursor=pointer]:
+            - heading "AI Agents Can Now Build Their Own UI in Real Time (Personalized to You) 15 minutes" [level=3] [ref=e550]:
+              - link "AI Agents Can Now Build Their Own UI in Real Time (Personalized to You) 15 minutes" [ref=e551]:
+                - /url: /watch?v=MD8VQzvMVek
+                - generic [ref=e552]: AI Agents Can Now Build Their Own UI in Real Time (Personalized to You)
+            - generic [ref=e555]:
+              - generic [ref=e556]: 27K views
+              - generic [ref=e557]: •2 months ago
+        - generic [ref=e561]:
+          - link [ref=e564] [cursor=pointer]:
+            - /url: /watch?v=-GyX21BL1Nw
+          - generic [ref=e567] [cursor=pointer]:
+            - heading "Turn Claude Code into Your Full Engineering Team with Subagents 20 minutes" [level=3] [ref=e568]:
+              - link "Turn Claude Code into Your Full Engineering Team with Subagents 20 minutes" [ref=e569]:
+                - /url: /watch?v=-GyX21BL1Nw
+                - generic [ref=e570]: Turn Claude Code into Your Full Engineering Team with Subagents
+            - generic [ref=e573]:
+              - generic [ref=e574]: 30K views
+              - generic [ref=e575]: •2 months ago
+        - generic [ref=e579]:
+          - link [ref=e582] [cursor=pointer]:
+            - /url: /watch?v=-iTNOaCmLcw
+          - generic [ref=e585] [cursor=pointer]:
+            - heading "Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent 24 minutes" [level=3] [ref=e586]:
+              - link "Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent 24 minutes" [ref=e587]:
+                - /url: /watch?v=-iTNOaCmLcw
+                - generic [ref=e588]: Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent
+            - generic [ref=e591]:
+              - generic [ref=e592]: 20K views
+              - generic [ref=e593]: •3 months ago
+        - generic [ref=e597]:
+          - link [ref=e600] [cursor=pointer]:
+            - /url: /watch?v=jYMhDEzNAN0
+          - generic [ref=e603] [cursor=pointer]:
+            - heading "I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How) 20 minutes" [level=3] [ref=e604]:
+              - link "I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How) 20 minutes" [ref=e605]:
+                - /url: /watch?v=jYMhDEzNAN0
+                - generic [ref=e606]: I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)
+            - generic [ref=e609]:
+              - generic [ref=e610]: 60K views
+              - generic [ref=e611]: •3 months ago
+        - generic [ref=e615]:
+          - link [ref=e618] [cursor=pointer]:
+            - /url: /watch?v=NIv9x7vLeJY
+          - generic [ref=e621] [cursor=pointer]:
+            - heading "I Was Wrong About Ralph Wiggum 21 minutes" [level=3] [ref=e622]:
+              - link "I Was Wrong About Ralph Wiggum 21 minutes" [ref=e623]:
+                - /url: /watch?v=NIv9x7vLeJY
+                - generic [ref=e624]: I Was Wrong About Ralph Wiggum
+            - generic [ref=e627]:
+              - generic [ref=e628]: 16K views
+              - generic [ref=e629]: •3 months ago
+        - generic [ref=e633]:
+          - link [ref=e636] [cursor=pointer]:
+            - /url: /watch?v=7aEQnTsI6zs
+          - generic [ref=e639] [cursor=pointer]:
+            - heading "Your AI Coding Workflow NEEDS This New Agent Browser CLI 15 minutes" [level=3] [ref=e640]:
+              - link "Your AI Coding Workflow NEEDS This New Agent Browser CLI 15 minutes" [ref=e641]:
+                - /url: /watch?v=7aEQnTsI6zs
+                - generic [ref=e642]: Your AI Coding Workflow NEEDS This New Agent Browser CLI
+            - generic [ref=e645]:
+              - generic [ref=e646]: 33K views
+              - generic [ref=e647]: •3 months ago
+        - generic [ref=e651]:
+          - link [ref=e654] [cursor=pointer]:
+            - /url: /watch?v=5xvP9O4msLM
+          - generic [ref=e657] [cursor=pointer]:
+            - heading "Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next) 20 minutes" [level=3] [ref=e658]:
+              - link "Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next) 20 minutes" [ref=e659]:
+                - /url: /watch?v=5xvP9O4msLM
+                - generic [ref=e660]: Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)
+            - generic [ref=e663]:
+              - generic [ref=e664]: 16K views
+              - generic [ref=e665]: •3 months ago
+        - generic [ref=e669]:
+          - link [ref=e672] [cursor=pointer]:
+            - /url: /watch?v=ttdWPDmBN_4
+          - generic [ref=e675] [cursor=pointer]:
+            - heading "The 5 Techniques Separating Top Agentic Engineers Right Now 14 minutes, 56 seconds" [level=3] [ref=e676]:
+              - link "The 5 Techniques Separating Top Agentic Engineers Right Now 14 minutes, 56 seconds" [ref=e677]:
+                - /url: /watch?v=ttdWPDmBN_4
+                - generic [ref=e678]: The 5 Techniques Separating Top Agentic Engineers Right Now
+            - generic [ref=e681]:
+              - generic [ref=e682]: 86K views
+              - generic [ref=e683]: •3 months ago
+        - generic [ref=e687]:
+          - link [ref=e690] [cursor=pointer]:
+            - /url: /watch?v=O8KI2paEBbM
+          - generic [ref=e693] [cursor=pointer]:
+            - heading "The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes. 8 minutes, 28 seconds" [level=3] [ref=e694]:
+              - link "The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes. 8 minutes, 28 seconds" [ref=e695]:
+                - /url: /watch?v=O8KI2paEBbM
+                - generic [ref=e696]: The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes.
+            - generic [ref=e699]:
+              - generic [ref=e700]: 2.9K views
+              - generic [ref=e701]: •3 months ago
+        - generic [ref=e705]:
+          - link [ref=e708] [cursor=pointer]:
+            - /url: /watch?v=-FVl-hbBTOY
+          - generic [ref=e711] [cursor=pointer]:
+            - heading "AI Exploded in 2025 - Here’s Everything That Happened 17 minutes" [level=3] [ref=e712]:
+              - link "AI Exploded in 2025 - Here’s Everything That Happened 17 minutes" [ref=e713]:
+                - /url: /watch?v=-FVl-hbBTOY
+                - generic [ref=e714]: AI Exploded in 2025 - Here’s Everything That Happened
+            - generic [ref=e717]:
+              - generic [ref=e718]: 4.4K views
+              - generic [ref=e719]: •3 months ago

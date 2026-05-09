@@ -1,0 +1,428 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e48]:
+    - generic [ref=e55]:
+      - generic [ref=e63]:
+        - generic [ref=e71]:
+          - heading "Simon Scrapes" [level=1] [ref=e73]
+          - generic [ref=e74]:
+            - group [ref=e75]:
+              - generic [ref=e76]: "@simonscrapes"
+            - generic [ref=e77]: •
+            - group [ref=e78]:
+              - generic "77.5 thousand subscribers" [ref=e79]: 77.5K subscribers
+              - generic [ref=e80]: •
+              - generic [ref=e81]: 143 videos
+          - generic [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]: Build agentic systems that run your business.
+            - button "Description. Build agentic systems that run your business....tap for more." [ref=e85]:
+              - generic [ref=e86]: ...more
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - link "skool.com/scrapes" [ref=e91] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbmMzcXlZY2ZxLTQ4YnZ3N3ZXTWlkVTNLYlFJZ3xBQ3Jtc0ttSW95bE04TTdBRDg1TTFXZHotNDhKSEZDbnNZQmMzTDZhU0k3cXpSV2tjNlVHZkp1dXFSem91ZWo0VlROV3hmRnhIZW1wbHVMaHNmYS1jNFhrWmxzdlhvNWtjMEhGVm1YRUJ5ZzZzcHplNHRIcmdIbw&q=https%3A%2F%2Fwww.skool.com%2Fscrapes
+            - button "and 1 more link" [ref=e94] [cursor=pointer]
+          - button "Subscribe" [ref=e99] [cursor=pointer]:
+            - generic [ref=e100]: Subscribe
+      - tablist [ref=e107]:
+        - tablist [ref=e111]:
+          - tab "Home" [selected] [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: Home
+          - tab "Videos" [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]: Videos
+          - tab "Shorts" [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]: Shorts
+          - tab "Playlists" [ref=e118] [cursor=pointer]:
+            - generic [ref=e119]: Playlists
+          - tab "Posts" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]: Posts
+          - button "Search" [ref=e125] [cursor=pointer]
+    - generic [ref=e133]:
+      - generic [ref=e137]:
+        - heading "Claude Code Play all" [level=2] [ref=e140]:
+          - link "Claude Code" [ref=e143] [cursor=pointer]:
+            - /url: /playlist?list=PLxcQOT4aLVSntA9wvv1T1De27xrsYXiF0
+            - generic [ref=e144]: Claude Code
+          - link "Play all" [ref=e148] [cursor=pointer]:
+            - /url: /watch?v=0qqV4yv-Hss&list=PLxcQOT4aLVSntA9wvv1T1De27xrsYXiF0
+            - generic [ref=e151]: Play all
+        - generic [ref=e156]:
+          - generic [ref=e159]:
+            - generic [ref=e161]:
+              - link [ref=e163] [cursor=pointer]:
+                - /url: /watch?v=0qqV4yv-Hss
+                - img [ref=e682]
+                - img [ref=e685]:
+                  - generic [ref=e686]: 18:24
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=e167] [cursor=pointer]:
+                - heading "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [level=3] [ref=e168]:
+                  - link "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [ref=e169]:
+                    - /url: /watch?v=0qqV4yv-Hss
+                    - text: Give Me 20 Minutes. I’ll Teach You 80% of Claude Code.
+                - generic [ref=e171]:
+                  - generic "Simon Scrapes" [ref=e176]:
+                    - link "Simon Scrapes" [ref=e177]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e178]:
+                    - generic [ref=e179]: 8.7K views
+                    - generic [ref=e180]: •1 day ago
+            - generic [ref=e182]:
+              - link [ref=e184] [cursor=pointer]:
+                - /url: /watch?v=38t5UBCa4OI
+                - img [ref=e687]
+                - img [ref=e690]:
+                  - generic [ref=e691]: 17:49
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=e188] [cursor=pointer]:
+                - heading "Every Claude Code Workflow Explained (& When to Use Each) 17 minutes" [level=3] [ref=e189]:
+                  - link "Every Claude Code Workflow Explained (& When to Use Each) 17 minutes" [ref=e190]:
+                    - /url: /watch?v=38t5UBCa4OI
+                    - text: Every Claude Code Workflow Explained (& When to Use Each)
+                - generic [ref=e192]:
+                  - generic "Simon Scrapes" [ref=e197]:
+                    - link "Simon Scrapes" [ref=e198]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e199]:
+                    - generic [ref=e200]: 84K views
+                    - generic [ref=e201]: •3 weeks ago
+            - generic [ref=e203]:
+              - link [ref=e205] [cursor=pointer]:
+                - /url: /watch?v=-9uojnGzcJo
+                - img [ref=e692]
+                - img [ref=e695]:
+                  - generic [ref=e696]: 14:37
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=e209] [cursor=pointer]:
+                - heading "200+ Hours of Claude Code Lessons in 14 Minutes (for business owners) 14 minutes, 37 seconds" [level=3] [ref=e210]:
+                  - link "200+ Hours of Claude Code Lessons in 14 Minutes (for business owners) 14 minutes, 37 seconds" [ref=e211]:
+                    - /url: /watch?v=-9uojnGzcJo
+                    - text: 200+ Hours of Claude Code Lessons in 14 Minutes (for business owners)
+                - generic [ref=e213]:
+                  - generic "Simon Scrapes" [ref=e218]:
+                    - link "Simon Scrapes" [ref=e219]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e220]:
+                    - generic [ref=e221]: 17K views
+                    - generic [ref=e222]: •1 month ago
+            - generic [ref=e224]:
+              - link [ref=e226] [cursor=pointer]:
+                - /url: /watch?v=p37qo3oLai8
+              - generic [ref=e230] [cursor=pointer]:
+                - heading "The Easiest Way to Get Ahead With Claude Code 13 minutes, 40 seconds" [level=3] [ref=e231]:
+                  - link "The Easiest Way to Get Ahead With Claude Code 13 minutes, 40 seconds" [ref=e232]:
+                    - /url: /watch?v=p37qo3oLai8
+                    - text: The Easiest Way to Get Ahead With Claude Code
+                - generic [ref=e234]:
+                  - generic "Simon Scrapes" [ref=e239]:
+                    - link "Simon Scrapes" [ref=e240]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e241]:
+                    - generic [ref=e242]: 34K views
+                    - generic [ref=e243]: •1 month ago
+            - generic [ref=e245]:
+              - link [ref=e247] [cursor=pointer]:
+                - /url: /watch?v=F4zSxfBe5R0&pp=0gcJCd8KAYcqIYzv
+              - generic [ref=e251] [cursor=pointer]:
+                - heading "Claude Code 2.0 Has Arrived (It’s Insane) 15 minutes" [level=3] [ref=e252]:
+                  - link "Claude Code 2.0 Has Arrived (It’s Insane) 15 minutes" [ref=e253]:
+                    - /url: /watch?v=F4zSxfBe5R0&pp=0gcJCd8KAYcqIYzv
+                    - text: Claude Code 2.0 Has Arrived (It’s Insane)
+                - generic [ref=e255]:
+                  - generic "Simon Scrapes" [ref=e260]:
+                    - link "Simon Scrapes" [ref=e261]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e262]:
+                    - generic [ref=e263]: 164K views
+                    - generic [ref=e264]: •1 month ago
+            - generic [ref=e266]:
+              - link [ref=e268] [cursor=pointer]:
+                - /url: /watch?v=6-D3fg3JUL4
+              - generic [ref=e272] [cursor=pointer]:
+                - heading "How to Use Claude Code Skills Like the 1% (it’s easy actually) 16 minutes" [level=3] [ref=e273]:
+                  - link "How to Use Claude Code Skills Like the 1% (it’s easy actually) 16 minutes" [ref=e274]:
+                    - /url: /watch?v=6-D3fg3JUL4
+                    - text: How to Use Claude Code Skills Like the 1% (it’s easy actually)
+                - generic [ref=e276]:
+                  - generic "Simon Scrapes" [ref=e281]:
+                    - link "Simon Scrapes" [ref=e282]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e283]:
+                    - generic [ref=e284]: 159K views
+                    - generic [ref=e285]: •1 month ago
+          - button "Next" [ref=e288] [cursor=pointer]
+      - generic [ref=e297]:
+        - heading "Popular videos" [level=2] [ref=e300]:
+          - link "Popular videos" [ref=e303] [cursor=pointer]:
+            - /url: /@simonscrapes/videos?view=0&sort=p&shelf_id=2
+            - generic [ref=e304]: Popular videos
+        - generic [ref=e306]:
+          - generic [ref=e309]:
+            - generic [ref=e311]:
+              - link [ref=e313] [cursor=pointer]:
+                - /url: /watch?v=ZlDnsf_DOzg
+              - generic [ref=e317] [cursor=pointer]:
+                - heading "Every Claude Code Concept Explained for Normal People 27 minutes" [level=3] [ref=e318]:
+                  - link "Every Claude Code Concept Explained for Normal People 27 minutes" [ref=e319]:
+                    - /url: /watch?v=ZlDnsf_DOzg
+                    - text: Every Claude Code Concept Explained for Normal People
+                - generic [ref=e322]:
+                  - generic [ref=e323]: 618K views
+                  - generic [ref=e324]: •2 months ago
+            - generic [ref=e326]:
+              - link [ref=e328] [cursor=pointer]:
+                - /url: /watch?v=uScURRX-Knc
+              - generic [ref=e332] [cursor=pointer]:
+                - heading "The only video you need to Master N8N + AI agents (For complete beginners) 4 hours, 4 minutes" [level=3] [ref=e333]:
+                  - link "The only video you need to Master N8N + AI agents (For complete beginners) 4 hours, 4 minutes" [ref=e334]:
+                    - /url: /watch?v=uScURRX-Knc
+                    - text: The only video you need to Master N8N + AI agents (For complete beginners)
+                - generic [ref=e337]:
+                  - generic [ref=e338]: 173K views
+                  - generic [ref=e339]: •1 year ago
+            - generic [ref=e341]:
+              - link [ref=e343] [cursor=pointer]:
+                - /url: /watch?v=Y09u_S3w2c8
+              - generic [ref=e347] [cursor=pointer]:
+                - heading "Every Level of Claude Code Explained in 39 Minutes 39 minutes" [level=3] [ref=e348]:
+                  - link "Every Level of Claude Code Explained in 39 Minutes 39 minutes" [ref=e349]:
+                    - /url: /watch?v=Y09u_S3w2c8
+                    - text: Every Level of Claude Code Explained in 39 Minutes
+                - generic [ref=e352]:
+                  - generic [ref=e353]: 169K views
+                  - generic [ref=e354]: •2 months ago
+            - generic [ref=e356]:
+              - link [ref=e358] [cursor=pointer]:
+                - /url: /watch?v=F4zSxfBe5R0
+              - generic [ref=e362] [cursor=pointer]:
+                - heading "Claude Code 2.0 Has Arrived (It’s Insane) 15 minutes" [level=3] [ref=e363]:
+                  - link "Claude Code 2.0 Has Arrived (It’s Insane) 15 minutes" [ref=e364]:
+                    - /url: /watch?v=F4zSxfBe5R0
+                    - text: Claude Code 2.0 Has Arrived (It’s Insane)
+                - generic [ref=e367]:
+                  - generic [ref=e368]: 164K views
+                  - generic [ref=e369]: •1 month ago
+            - generic [ref=e371]:
+              - link [ref=e373] [cursor=pointer]:
+                - /url: /watch?v=6-D3fg3JUL4
+              - generic [ref=e377] [cursor=pointer]:
+                - heading "How to Use Claude Code Skills Like the 1% (it’s easy actually) 16 minutes" [level=3] [ref=e378]:
+                  - link "How to Use Claude Code Skills Like the 1% (it’s easy actually) 16 minutes" [ref=e379]:
+                    - /url: /watch?v=6-D3fg3JUL4
+                    - text: How to Use Claude Code Skills Like the 1% (it’s easy actually)
+                - generic [ref=e382]:
+                  - generic [ref=e383]: 159K views
+                  - generic [ref=e384]: •1 month ago
+            - generic [ref=e386]:
+              - link [ref=e388] [cursor=pointer]:
+                - /url: /watch?v=szGFppZgSI0
+              - generic [ref=e392] [cursor=pointer]:
+                - heading "STOP Using Basic n8n Nodes! These 10 Will Change Everything 26 minutes" [level=3] [ref=e393]:
+                  - link "STOP Using Basic n8n Nodes! These 10 Will Change Everything 26 minutes" [ref=e394]:
+                    - /url: /watch?v=szGFppZgSI0
+                    - text: STOP Using Basic n8n Nodes! These 10 Will Change Everything
+                - generic [ref=e397]:
+                  - generic [ref=e398]: 140K views
+                  - generic [ref=e399]: •11 months ago
+          - button "Next" [ref=e402] [cursor=pointer]
+      - generic [ref=e411]:
+        - heading "Videos" [level=2] [ref=e414]:
+          - link "Videos" [ref=e417] [cursor=pointer]:
+            - /url: /@simonscrapes/videos?view=0&sort=dd&shelf_id=3
+            - generic [ref=e418]: Videos
+        - generic [ref=e420]:
+          - generic [ref=e423]:
+            - generic [ref=e425]:
+              - link [ref=e427] [cursor=pointer]:
+                - /url: /watch?v=0qqV4yv-Hss
+              - generic [ref=e431] [cursor=pointer]:
+                - heading "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [level=3] [ref=e432]:
+                  - link "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [ref=e433]:
+                    - /url: /watch?v=0qqV4yv-Hss
+                    - text: Give Me 20 Minutes. I’ll Teach You 80% of Claude Code.
+                - generic [ref=e436]:
+                  - generic [ref=e437]: 8.7K views
+                  - generic [ref=e438]: •1 day ago
+            - generic [ref=e440]:
+              - link [ref=e442] [cursor=pointer]:
+                - /url: /watch?v=-_aQquBH5PU
+              - generic [ref=e446] [cursor=pointer]:
+                - heading "Claude Design Is Way Bigger Than You Think (Full Course) 1 hour, 24 minutes" [level=3] [ref=e447]:
+                  - link "Claude Design Is Way Bigger Than You Think (Full Course) 1 hour, 24 minutes" [ref=e448]:
+                    - /url: /watch?v=-_aQquBH5PU
+                    - text: Claude Design Is Way Bigger Than You Think (Full Course)
+                - generic [ref=e451]:
+                  - generic [ref=e452]: 10K views
+                  - generic [ref=e453]: •3 days ago
+            - generic [ref=e455]:
+              - link [ref=e457] [cursor=pointer]:
+                - /url: /watch?v=rW7NvKnIEqk
+              - generic [ref=e461] [cursor=pointer]:
+                - heading "Claude just got another superpower (but they kept it quiet!) 7 minutes, 37 seconds" [level=3] [ref=e462]:
+                  - link "Claude just got another superpower (but they kept it quiet!) 7 minutes, 37 seconds" [ref=e463]:
+                    - /url: /watch?v=rW7NvKnIEqk
+                    - text: Claude just got another superpower (but they kept it quiet!)
+                - generic [ref=e466]:
+                  - generic [ref=e467]: 99K views
+                  - generic [ref=e468]: •5 days ago
+            - generic [ref=e470]:
+              - link [ref=e472] [cursor=pointer]:
+                - /url: /watch?v=UHVFcUzAGlM
+              - generic [ref=e476] [cursor=pointer]:
+                - heading "Every Claude Code Memory System Compared (So You Don't Have To) 41 minutes" [level=3] [ref=e477]:
+                  - link "Every Claude Code Memory System Compared (So You Don't Have To) 41 minutes" [ref=e478]:
+                    - /url: /watch?v=UHVFcUzAGlM
+                    - text: Every Claude Code Memory System Compared (So You Don't Have To)
+                - generic [ref=e481]:
+                  - generic [ref=e482]: 57K views
+                  - generic [ref=e483]: •6 days ago
+            - generic [ref=e485]:
+              - link [ref=e487] [cursor=pointer]:
+                - /url: /watch?v=c2kJ7j3CgUs
+              - generic [ref=e491] [cursor=pointer]:
+                - heading "This is the Ultimate Claude Code Setup - Beats OpenClaw and Hermes! 19 minutes" [level=3] [ref=e492]:
+                  - link "This is the Ultimate Claude Code Setup - Beats OpenClaw and Hermes! 19 minutes" [ref=e493]:
+                    - /url: /watch?v=c2kJ7j3CgUs
+                    - text: This is the Ultimate Claude Code Setup - Beats OpenClaw and Hermes!
+                - generic [ref=e496]:
+                  - generic [ref=e497]: 30K views
+                  - generic [ref=e498]: •11 days ago
+            - generic [ref=e500]:
+              - link [ref=e502] [cursor=pointer]:
+                - /url: /watch?v=pUykUYkFVTM
+              - generic [ref=e506] [cursor=pointer]:
+                - heading "Build Real AI Systems With Claude Code (Step-by-Step) 2 hours, 37 minutes" [level=3] [ref=e507]:
+                  - link "Build Real AI Systems With Claude Code (Step-by-Step) 2 hours, 37 minutes" [ref=e508]:
+                    - /url: /watch?v=pUykUYkFVTM
+                    - text: Build Real AI Systems With Claude Code (Step-by-Step)
+                - generic [ref=e511]:
+                  - generic [ref=e512]: 19K views
+                  - generic [ref=e513]: •2 weeks ago
+          - button "Next" [ref=e516] [cursor=pointer]
+      - generic [ref=e525]:
+        - heading "N8N for Beginners Play all" [level=2] [ref=e528]:
+          - link "N8N for Beginners" [ref=e531] [cursor=pointer]:
+            - /url: /playlist?list=PLxcQOT4aLVSm5aECSNM1MBO2AWcF00RBG
+            - generic [ref=e532]: N8N for Beginners
+          - link "Play all" [ref=e536] [cursor=pointer]:
+            - /url: /watch?v=HwshEO__Wxk&list=PLxcQOT4aLVSm5aECSNM1MBO2AWcF00RBG
+            - generic [ref=e539]: Play all
+        - generic [ref=e544]:
+          - generic [ref=e547]:
+            - generic [ref=e549]:
+              - link [ref=e551] [cursor=pointer]:
+                - /url: /watch?v=HwshEO__Wxk
+              - generic [ref=e555] [cursor=pointer]:
+                - heading "Master n8n 2.0 in 2 Hours (2026, No-Code) 2 hours" [level=3] [ref=e556]:
+                  - link "Master n8n 2.0 in 2 Hours (2026, No-Code) 2 hours" [ref=e557]:
+                    - /url: /watch?v=HwshEO__Wxk
+                    - text: Master n8n 2.0 in 2 Hours (2026, No-Code)
+                - generic [ref=e559]:
+                  - generic "Simon Scrapes" [ref=e564]:
+                    - link "Simon Scrapes" [ref=e565]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e566]:
+                    - generic [ref=e567]: 3.7K views
+                    - generic [ref=e568]: •3 months ago
+            - generic [ref=e570]:
+              - link [ref=e572] [cursor=pointer]:
+                - /url: /watch?v=xhxO2vbsbVk
+              - generic [ref=e576] [cursor=pointer]:
+                - 'heading "n8n as a SaaS Backend: What You Can/Can''t Do 7 minutes, 17 seconds" [level=3] [ref=e577]':
+                  - 'link "n8n as a SaaS Backend: What You Can/Can''t Do 7 minutes, 17 seconds" [ref=e578]':
+                    - /url: /watch?v=xhxO2vbsbVk
+                    - text: "n8n as a SaaS Backend: What You Can/Can't Do"
+                - generic [ref=e580]:
+                  - generic "Simon Scrapes" [ref=e585]:
+                    - link "Simon Scrapes" [ref=e586]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e587]:
+                    - generic [ref=e588]: 3.1K views
+                    - generic [ref=e589]: •4 months ago
+            - generic [ref=e591]:
+              - link [ref=e593] [cursor=pointer]:
+                - /url: /watch?v=8p4k9XVYZtE
+              - generic [ref=e597] [cursor=pointer]:
+                - 'heading "Building AI Automations: 1 Hour vs 10 Hours v 100 Hours 19 minutes" [level=3] [ref=e598]':
+                  - 'link "Building AI Automations: 1 Hour vs 10 Hours v 100 Hours 19 minutes" [ref=e599]':
+                    - /url: /watch?v=8p4k9XVYZtE
+                    - text: "Building AI Automations: 1 Hour vs 10 Hours v 100 Hours"
+                - generic [ref=e601]:
+                  - generic "Simon Scrapes" [ref=e606]:
+                    - link "Simon Scrapes" [ref=e607]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e608]:
+                    - generic [ref=e609]: 1.9K views
+                    - generic [ref=e610]: •4 months ago
+            - generic [ref=e612]:
+              - link [ref=e614] [cursor=pointer]:
+                - /url: /watch?v=DMjz82PmB-4
+              - generic [ref=e618] [cursor=pointer]:
+                - heading "Stop Watching AI Tutorials. Do This Instead. 15 minutes" [level=3] [ref=e619]:
+                  - link "Stop Watching AI Tutorials. Do This Instead. 15 minutes" [ref=e620]:
+                    - /url: /watch?v=DMjz82PmB-4
+                    - text: Stop Watching AI Tutorials. Do This Instead.
+                - generic [ref=e622]:
+                  - generic "Simon Scrapes" [ref=e627]:
+                    - link "Simon Scrapes" [ref=e628]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e629]:
+                    - generic [ref=e630]: 1.9K views
+                    - generic [ref=e631]: •4 months ago
+            - generic [ref=e633]:
+              - link [ref=e635] [cursor=pointer]:
+                - /url: /watch?v=w3AczQh0KE0
+              - generic [ref=e639] [cursor=pointer]:
+                - heading "8 n8n Hacks That Will Change Everything For Beginners 18 minutes" [level=3] [ref=e640]:
+                  - link "8 n8n Hacks That Will Change Everything For Beginners 18 minutes" [ref=e641]:
+                    - /url: /watch?v=w3AczQh0KE0
+                    - text: 8 n8n Hacks That Will Change Everything For Beginners
+                - generic [ref=e643]:
+                  - generic "Simon Scrapes" [ref=e648]:
+                    - link "Simon Scrapes" [ref=e649]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e650]:
+                    - generic [ref=e651]: 4K views
+                    - generic [ref=e652]: •6 months ago
+            - generic [ref=e654]:
+              - link [ref=e656] [cursor=pointer]:
+                - /url: /watch?v=PY1id4-m6NI
+              - generic [ref=e660] [cursor=pointer]:
+                - heading "Scrape EVERY Social Media with n8n (CHEAP & EASY) 20 minutes" [level=3] [ref=e661]:
+                  - link "Scrape EVERY Social Media with n8n (CHEAP & EASY) 20 minutes" [ref=e662]:
+                    - /url: /watch?v=PY1id4-m6NI
+                    - text: Scrape EVERY Social Media with n8n (CHEAP & EASY)
+                - generic [ref=e664]:
+                  - generic "Simon Scrapes" [ref=e669]:
+                    - link "Simon Scrapes" [ref=e670]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e671]:
+                    - generic [ref=e672]: 21K views
+                    - generic [ref=e673]: •7 months ago
+          - button "Next" [ref=e676] [cursor=pointer]

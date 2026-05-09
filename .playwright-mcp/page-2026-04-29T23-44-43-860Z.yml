@@ -1,0 +1,120 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic:
+          - link:
+            - /url: /
+            - generic:
+              - generic:
+                - img
+      - search [ref=e12]:
+        - generic [ref=e13]:
+          - combobox [expanded] [ref=e16]
+          - button "Search" [ref=e17] [cursor=pointer]
+  - main [ref=e25]:
+    - generic [ref=e32]:
+      - generic [ref=e40]:
+        - generic [ref=e48]:
+          - heading "Andrej Karpathy" [level=1] [ref=e50]
+          - generic [ref=e51]:
+            - group [ref=e52]:
+              - generic [ref=e53]: "@AndrejKarpathy"
+            - generic [ref=e54]: •
+            - group [ref=e55]:
+              - generic "1.38 million subscribers" [ref=e56]: 1.38M subscribers
+              - generic [ref=e57]: •
+              - generic [ref=e58]: 17 videos
+          - generic [ref=e60] [cursor=pointer]:
+            - generic [ref=e62]: More about this channel
+            - button "Description. More about this channel...tap for more." [ref=e63]:
+              - generic [ref=e64]: ...more
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - link "x.com/karpathy" [ref=e69] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbk9lcUlnRzFReFNONEhHaGF6Z1ZYeERqMmJhUXxBQ3Jtc0tuek93OUNuYjBMb0dKM0hYWm1ISTFpYnByVHZHbWt6aDBQQkxRVnVMZFJYTHZaRlNtbVNxVG15dHN5NG9uTndBLXRKTS1mX0ZSaXI3ZFZGNG5POWJkVS15NnJVZDhjeVF1MGktVHdza2JlWVNPM2o1bw&q=https%3A%2F%2Fx.com%2Fkarpathy
+            - button "and 3 more links" [ref=e72] [cursor=pointer]
+          - button "Subscribe" [ref=e77] [cursor=pointer]:
+            - generic [ref=e78]: Subscribe
+      - tablist [ref=e85]:
+        - button [ref=e86] [cursor=pointer]:
+          - generic [ref=e87]:
+            - img
+        - tablist [ref=e91]:
+          - tab "Home" [selected] [ref=e92] [cursor=pointer]:
+            - generic [ref=e93]: Home
+          - tab "Videos" [ref=e94] [cursor=pointer]:
+            - generic [ref=e95]: Videos
+          - tab "Playlists" [ref=e96] [cursor=pointer]:
+            - generic [ref=e97]: Playlists
+          - tab "Posts" [ref=e98] [cursor=pointer]:
+            - generic [ref=e99]: Posts
+          - button "Search" [ref=e103] [cursor=pointer]
+        - button [ref=e107] [cursor=pointer]:
+          - generic [ref=e108]:
+            - img
+    - generic [ref=e112]:
+      - generic [ref=e120]:
+        - heading "Deep Dive into LLMs like ChatGPT 3 hours, 31 minutes" [level=3] [ref=e121]:
+          - link "Deep Dive into LLMs like ChatGPT" [ref=e122] [cursor=pointer]:
+            - /url: /watch?v=7xTGNNLPyMI
+        - generic [ref=e125]:
+          - generic [ref=e126]: 6,212,120 views
+          - generic [ref=e127]: •1 year ago
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - heading "General Audience Play all" [level=2] [ref=e134]:
+            - link "General Audience" [ref=e137] [cursor=pointer]:
+              - /url: /playlist?list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI
+              - generic [ref=e138]: General Audience
+            - link "Play all" [ref=e142] [cursor=pointer]:
+              - /url: /watch?v=zjkBMFhNj_g&list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI
+              - generic [ref=e145]: Play all
+          - generic [ref=e149]: videos for more general audience, no programming experience necessary.
+        - generic [ref=e154]:
+          - generic [ref=e156]:
+            - link [ref=e158] [cursor=pointer]:
+              - /url: /watch?v=zjkBMFhNj_g
+            - generic [ref=e162] [cursor=pointer]:
+              - heading "[1hr Talk] Intro to Large Language Models 59 minutes" [level=3] [ref=e163]:
+                - link "[1hr Talk] Intro to Large Language Models 59 minutes" [ref=e164]:
+                  - /url: /watch?v=zjkBMFhNj_g
+                  - text: "[1hr Talk] Intro to Large Language Models"
+              - generic [ref=e166]:
+                - generic "Andrej Karpathy" [ref=e171]:
+                  - link "Andrej Karpathy" [ref=e172]:
+                    - /url: /@AndrejKarpathy
+                - generic [ref=e173]:
+                  - generic [ref=e174]: 3.6M views
+                  - generic [ref=e175]: •2 years ago
+          - generic [ref=e177]:
+            - link [ref=e179] [cursor=pointer]:
+              - /url: /watch?v=7xTGNNLPyMI
+            - generic [ref=e183] [cursor=pointer]:
+              - heading "Deep Dive into LLMs like ChatGPT 3 hours, 31 minutes" [level=3] [ref=e184]:
+                - link "Deep Dive into LLMs like ChatGPT 3 hours, 31 minutes" [ref=e185]:
+                  - /url: /watch?v=7xTGNNLPyMI
+                  - text: Deep Dive into LLMs like ChatGPT
+              - generic [ref=e187]:
+                - generic "Andrej Karpathy" [ref=e192]:
+                  - link "Andrej Karpathy" [ref=e193]:
+                    - /url: /@AndrejKarpathy
+                - generic [ref=e194]:
+                  - generic [ref=e195]: 6.2M views
+                  - generic [ref=e196]: •1 year ago
+          - generic [ref=e198]:
+            - link [ref=e200] [cursor=pointer]:
+              - /url: /watch?v=EWvNQjAaOHw&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e204] [cursor=pointer]:
+              - heading "How I use LLMs 2 hours, 11 minutes" [level=3] [ref=e205]:
+                - link "How I use LLMs 2 hours, 11 minutes" [ref=e206]:
+                  - /url: /watch?v=EWvNQjAaOHw&pp=0gcJCd8KAYcqIYzv
+                  - text: How I use LLMs
+              - generic [ref=e208]:
+                - generic "Andrej Karpathy" [ref=e213]:
+                  - link "Andrej Karpathy" [ref=e214]:
+                    - /url: /@AndrejKarpathy
+                - generic [ref=e215]:
+                  - generic [ref=e216]: 2.3M views
+                  - generic [ref=e217]: •1 year ago

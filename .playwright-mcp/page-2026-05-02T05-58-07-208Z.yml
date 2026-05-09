@@ -1,0 +1,334 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e7]:
+          - button "Toggle menu" [ref=e9] [cursor=pointer]:
+            - img [ref=e11]
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - link "Home" [ref=e15] [cursor=pointer]:
+                - /url: https://wayin.ai/
+              - generic [ref=e16]:
+                - text: Product
+                - img [ref=e17]
+              - generic [ref=e19]:
+                - text: Tools
+                - img [ref=e20]
+              - link "Blog" [ref=e22] [cursor=pointer]:
+                - /url: https://wayin.ai/blog/
+              - link "API" [ref=e23] [cursor=pointer]:
+                - /url: https://wayin.ai/api/
+              - link "Contact Us" [ref=e24] [cursor=pointer]:
+                - /url: https://wayin.ai/contact-us/
+              - link "Pricing" [ref=e25] [cursor=pointer]:
+                - /url: https://wayin.ai/pricing/
+            - generic [ref=e27]:
+              - link "Login" [ref=e28] [cursor=pointer]:
+                - /url: https://wayin.ai/wayinvideo/login
+                - generic [ref=e29]: Login
+              - link "Sign Up" [ref=e30] [cursor=pointer]:
+                - /url: https://wayin.ai/wayinvideo/login?type=signup
+                - generic [ref=e31]: Sign Up
+        - link "logo" [ref=e32] [cursor=pointer]:
+          - /url: https://wayin.ai/
+          - img "logo" [ref=e34]
+      - generic [ref=e35]:
+        - generic [ref=e37]: Tools
+        - generic [ref=e39]: Resources
+        - link "Pricing" [ref=e40] [cursor=pointer]:
+          - /url: https://wayin.ai/pricing/
+          - generic [ref=e41]: Pricing
+        - link "API" [active] [ref=e42] [cursor=pointer]:
+          - /url: https://wayin.ai/api/
+          - generic [ref=e43]: API
+        - link "Contact Us" [ref=e44] [cursor=pointer]:
+          - /url: https://wayin.ai/contact-us/
+          - generic [ref=e45]: Contact Us
+      - generic [ref=e46]:
+        - link "Login" [ref=e47] [cursor=pointer]:
+          - /url: https://wayin.ai/wayinvideo/login
+        - button "Sign Up" [ref=e48]
+  - main [ref=e49]:
+    - generic [ref=e50]:
+      - img "bkg-image" [ref=e51]
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - link "🚀 Scale Your Content Engine with the WayinVideo API Get API Keys" [ref=e57] [cursor=pointer]:
+              - /url: https://wayin.ai/wayinvideo/api-dashboard/detail
+              - generic [ref=e58]: 🚀 Scale Your Content Engine with the WayinVideo API
+              - text: Get API Keys
+              - button [ref=e59]:
+                - img [ref=e60]
+            - link "🚀 Scale Your Content Engine with the WayinVideo API" [ref=e62] [cursor=pointer]:
+              - /url: https://wayin.ai/wayinvideo/api-dashboard/detail
+              - generic [ref=e63]: 🚀 Scale Your Content Engine with the WayinVideo API
+              - img [ref=e65]
+              - button [ref=e67]:
+                - img [ref=e68]
+          - generic [ref=e70]: Discover, Create, Share
+          - heading "Cherish Every Moment" [level=1] [ref=e71]
+        - link "Try WayinVideo Now" [ref=e73] [cursor=pointer]:
+          - /url: https://wayin.ai/wayinvideo/
+          - generic [ref=e74]:
+            - img [ref=e75]
+            - generic [ref=e82]: Try WayinVideo Now
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - heading "AI Video Clipper. Turn Long Videos into Share-Ready Shorts" [level=2] [ref=e87]
+            - paragraph [ref=e88]:
+              - text: WayinVideo's
+              - link "AI clip maker" [ref=e89] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/clip-maker/
+              - text: auto-detects highlights, speaker changes, and pacing to turn any long video into short, share-ready clips. Generate vertical Shorts in one click for YouTube, TikTok, Instagram Reels, and more.
+            - link "Auto-Clip Video With AI" [ref=e90] [cursor=pointer]:
+              - /url: https://wayin.ai/tools/clip-maker/
+              - generic [ref=e91]: Auto-Clip Video With AI
+          - generic [ref=e92]:
+            - img "bkg-image" [ref=e93]
+            - img "AI video clipper automatically converting a long podcast video into multiple vertical 9:16 shorts optimized for YouTube Shorts, TikTok, Instagram, LinkedIn, and X." [ref=e94]
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - heading "AI Video Search. Find Any Moment in Your Video" [level=2] [ref=e97]
+            - paragraph [ref=e98]:
+              - text: WayinVideo's
+              - link "AI video finder" [ref=e99] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/find-moments/
+              - text: analyzes your full video and transcript so you can type a keyword or question and instantly jump to the exact moment you need. Stop scrubbing the timeline and let AI surface the right clips for you.
+            - link "Search Key Moments" [ref=e100] [cursor=pointer]:
+              - /url: https://wayin.ai/tools/find-moments/
+              - generic [ref=e101]: Search Key Moments
+          - generic [ref=e102]:
+            - img "bkg-image" [ref=e103]
+            - img "WayinVideo \"Find any moment in video\" interface showing AI video search results for a term like \"Pyramid\", instantly surfacing all relevant visual clips." [ref=e104]
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - heading "AI Video Summarizer. Understand Any Video in Seconds" [level=2] [ref=e107]
+            - paragraph [ref=e108]:
+              - text: Get a one-paragraph overview plus a timestamped outline of key moments so you can scan any long video in seconds. WayinVideo's
+              - link "AI video summarizer" [ref=e109] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/video-summarizer/
+              - text: supports 100+ languages, making cross-language learning effortless.
+            - link "Generate AI Video Summary" [ref=e110] [cursor=pointer]:
+              - /url: https://wayin.ai/tools/video-summarizer/
+              - generic [ref=e111]: Generate AI Video Summary
+          - generic [ref=e112]:
+            - img "bkg-image" [ref=e113]
+            - img "AI video summarizer dashboard generating a concise summary, key takeaways, and a segmented timeline from a meeting recording." [ref=e114]
+        - generic [ref=e115]:
+          - generic [ref=e116]:
+            - heading "AI Video Transcription. Timestamped & Speaker Labeled" [level=2] [ref=e117]
+            - paragraph [ref=e118]:
+              - text: Produce accurate
+              - link "AI video transcripts" [ref=e119] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/video-transcript-generator/
+              - text: with punctuation, timestamps, and speaker labels that you can copy straight into your notes, documents, or workflows. Use WayinVideo's
+              - link "video-to-text" [ref=e120] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/video-to-text/
+              - text: transcription with free daily credits for meetings, classes, and interviews.
+            - link "Get Video Transcript" [ref=e121] [cursor=pointer]:
+              - /url: https://wayin.ai/tools/video-transcript-generator/
+              - generic [ref=e122]: Get Video Transcript
+          - generic [ref=e123]:
+            - img "bkg-image" [ref=e124]
+            - img "Video transcription interface showing precise timestamps and speaker labels such as Shawn, Jane, and Mary to navigate video content easily." [ref=e125]
+        - generic [ref=e126]:
+          - generic [ref=e127]:
+            - heading "AI Caption Generator. Animated Subtitles in Any Language" [level=2] [ref=e128]
+            - paragraph [ref=e129]:
+              - text: WavinVideo automatically creates multilingual subtitles, applies
+              - link "animated caption" [ref=e130] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/auto-caption-generator/
+              - text: styles and callout cards, and exports videos ready for social in one click. Use AI captions to keep viewers engaged on TikTok, Reels, Shorts, and more.
+            - link "Create Animated Captions With AI" [ref=e131] [cursor=pointer]:
+              - /url: https://wayin.ai/tools/auto-caption-generator/
+              - generic [ref=e132]: Create Animated Captions With AI
+          - generic [ref=e133]:
+            - img "bkg-image" [ref=e134]
+            - img "Animated captions editor showing multilingual AI subtitles with different fonts, styles, and caption templates that make short videos more eye catching." [ref=e135]
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - heading "AI Video Reframe. One Edit, Every Aspect Ratio" [level=2] [ref=e138]
+            - paragraph [ref=e139]:
+              - text: WayinVideo's
+              - link "AI video reframe" [ref=e140] [cursor=pointer]:
+                - /url: https://wayin.ai/tools/ai-reframe/
+              - text: tracks faces and key objects to keep your subject perfectly centered in 9:16, 1:1, or 16:9. Resize videos for TikTok, Reels, Shorts, Stories, and YouTube automatically from a single edit.
+            - link "Reframe Video for All Channels" [ref=e141] [cursor=pointer]:
+              - /url: https://wayin.ai/tools/ai-reframe/
+              - generic [ref=e142]: Reframe Video for All Channels
+          - generic [ref=e143]:
+            - img "bkg-image" [ref=e144]
+            - img "AI video reframe technology converting a horizontal video into multiple 9:16 clips for TikTok and Reels while keeping the speaker centered." [ref=e145]
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - 'heading "API Integration: Build Anything on Top of WayinVideo" [level=2] [ref=e148]'
+            - paragraph [ref=e149]: "Connect WayinVideo's full capabilities to your automation workflow. You can trigger via API to better your production. Process videos programmatically without ever opening a browser. Access features fast: AI clipping, transcription, summarization and find moments — all available through WayinVideo API."
+            - link "Access API Now" [ref=e150] [cursor=pointer]:
+              - /url: https://wayin.ai/api/
+              - generic [ref=e151]: Access API Now
+          - generic [ref=e152]:
+            - img "bkg-image" [ref=e153]
+            - img "WayinVideo API integration enabling programmatic video processing, AI clipping, and custom automation workflows." [ref=e154]
+      - generic [ref=e155]:
+        - generic [ref=e157]: FAQ
+        - generic [ref=e158]:
+          - heading "Frequently asked questions" [level=2] [ref=e159]
+          - button "Expand All" [ref=e160]
+        - generic [ref=e161]:
+          - button "1. What is WayinVideo?" [ref=e163]:
+            - generic [ref=e164]:
+              - heading "1. What is WayinVideo?" [level=3] [ref=e165]
+              - img [ref=e166]
+          - button "2. How does AI Clipping work?" [ref=e169]:
+            - generic [ref=e170]:
+              - heading "2. How does AI Clipping work?" [level=3] [ref=e171]
+              - img [ref=e172]
+          - button "3. What is AI Reframe?" [ref=e175]:
+            - generic [ref=e176]:
+              - heading "3. What is AI Reframe?" [level=3] [ref=e177]
+              - img [ref=e178]
+          - button "4. How do I start, with links, uploads, and formats?" [ref=e181]:
+            - generic [ref=e182]:
+              - heading "4. How do I start, with links, uploads, and formats?" [level=3] [ref=e183]
+              - img [ref=e184]
+          - button "5. Is it free, and what about limits and privacy?" [ref=e187]:
+            - generic [ref=e188]:
+              - heading "5. Is it free, and what about limits and privacy?" [level=3] [ref=e189]
+              - img [ref=e190]
+      - link "Discord Community Discord Community Join Our Discord Community" [ref=e192] [cursor=pointer]:
+        - /url: https://discord.gg/HpuSjDbkqP
+        - img "Discord Community"
+        - generic [ref=e193]:
+          - img "Discord Community"
+          - generic [ref=e194]: Join Our
+          - generic [ref=e195]: Discord Community
+      - generic [ref=e196]:
+        - img "Try for Free Now !"
+        - generic [ref=e198]:
+          - heading "Ready to go viral?" [level=2] [ref=e199]
+          - link "Try for Free Now !" [ref=e200] [cursor=pointer]:
+            - /url: https://wayin.ai/wayinvideo/
+          - text: No complex editing needed. Instant results.
+  - contentinfo [ref=e201]:
+    - generic [ref=e204]:
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - link "logo" [ref=e207] [cursor=pointer]:
+            - /url: https://wayin.ai/
+            - img "logo" [ref=e209]
+          - paragraph [ref=e210]: Discover, Create, Share - Cherish Every Moment
+        - generic [ref=e211]:
+          - link [ref=e212] [cursor=pointer]:
+            - /url: https://discord.gg/HpuSjDbkqP
+            - img [ref=e214]
+          - link [ref=e216] [cursor=pointer]:
+            - /url: https://x.com/WayinVideo
+            - img [ref=e218]
+          - link [ref=e220] [cursor=pointer]:
+            - /url: https://www.youtube.com/@WayinVideo
+            - img [ref=e222]
+          - link [ref=e224] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/wayinvideo/
+            - img [ref=e226]
+        - button "English" [ref=e229] [cursor=pointer]:
+          - img [ref=e232]
+          - generic [ref=e234]:
+            - text: English
+            - img [ref=e235]
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e239]: Company
+          - generic [ref=e240]:
+            - link "Contact Us" [ref=e241] [cursor=pointer]:
+              - /url: https://wayin.ai/contact-us/
+              - generic [ref=e242]: Contact Us
+            - link "Privacy Policy" [ref=e243] [cursor=pointer]:
+              - /url: https://wayin.ai/wayinvideo/privacy-policy
+              - generic [ref=e244]: Privacy Policy
+            - link "Term of Service" [ref=e245] [cursor=pointer]:
+              - /url: https://wayin.ai/wayinvideo/terms-of-use
+              - generic [ref=e246]: Term of Service
+        - generic [ref=e247]:
+          - generic [ref=e248]: Support
+          - generic [ref=e249]:
+            - link "Pricing" [ref=e250] [cursor=pointer]:
+              - /url: https://wayin.ai/pricing/
+              - generic [ref=e251]: Pricing
+            - link "Blog" [ref=e252] [cursor=pointer]:
+              - /url: https://wayin.ai/blog/
+              - generic [ref=e253]: Blog
+            - link "Developers (API)" [ref=e254] [cursor=pointer]:
+              - /url: https://wayin.ai/api/
+              - generic [ref=e255]: Developers (API)
+            - link "API Documentation" [ref=e256] [cursor=pointer]:
+              - /url: https://wayin.ai/api-docs/
+              - generic [ref=e257]: API Documentation
+            - link "Chrome Extension" [ref=e258] [cursor=pointer]:
+              - /url: https://chromewebstore.google.com/detail/wayin-ai-understanding-vi/cedgndijpacnfbdggppddacngjfdkaca
+              - generic [ref=e259]: Chrome Extension
+            - link "Desktop App" [ref=e260] [cursor=pointer]:
+              - /url: https://d25vgoj2qecagr.cloudfront.net/download/Wayin+AI+Desktop+Setup+0.0.1.exe.zip
+              - generic [ref=e261]: Desktop App
+      - generic [ref=e262]:
+        - generic [ref=e263]: AI Tools
+        - generic [ref=e264]:
+          - link "AI Clip Maker" [ref=e265] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/clip-maker/
+            - generic [ref=e266]: AI Clip Maker
+          - link "Seedance Video Generator" [ref=e267] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/ai-video-generator/seedance/
+            - generic [ref=e268]: Seedance Video Generator
+          - link "HappyHorse Video Generator" [ref=e269] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/ai-video-generator/happyhorse/
+            - generic [ref=e270]: HappyHorse Video Generator
+          - link "AI Reframe" [ref=e271] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/ai-reframe/
+            - generic [ref=e272]: AI Reframe
+          - link "Subtitle Translator" [ref=e273] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/subtitle-translator/
+            - generic [ref=e274]: Subtitle Translator
+          - link "YouTube Shorts Maker" [ref=e275] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/youtube-shorts-maker/
+            - generic [ref=e276]: YouTube Shorts Maker
+          - link "AI Gaming Clips" [ref=e277] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/ai-gaming-clip-generator/
+            - generic [ref=e278]: AI Gaming Clips
+          - link "Video Translator" [ref=e279] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/video-translator/
+            - generic [ref=e280]: Video Translator
+          - link "Video Transcript Generator" [ref=e281] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/video-transcript-generator/
+            - generic [ref=e282]: Video Transcript Generator
+          - link "Find Moments" [ref=e283] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/find-moments/
+            - generic [ref=e284]: Find Moments
+          - link "YouTube Transcript Generator" [ref=e285] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/video-transcript-generator/youtube/
+            - generic [ref=e286]: YouTube Transcript Generator
+          - link "AI Video Editor" [ref=e287] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/ai-video-editor/
+            - generic [ref=e288]: AI Video Editor
+          - link "AI Video Generator" [ref=e289] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/ai-video-generator/
+            - generic [ref=e290]: AI Video Generator
+          - link "Video Summarizer" [ref=e291] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/video-summarizer/
+            - generic [ref=e292]: Video Summarizer
+          - link "Auto Subtitle Generator" [ref=e293] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/auto-subtitle-generator/
+            - generic [ref=e294]: Auto Subtitle Generator
+          - link "Auto Caption Generator" [ref=e295] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/auto-caption-generator/
+            - generic [ref=e296]: Auto Caption Generator
+          - link "Video to Text" [ref=e297] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/video-to-text/
+            - generic [ref=e298]: Video to Text
+          - link "Long to Short" [ref=e299] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/long-video-to-short-video/
+            - generic [ref=e300]: Long to Short
+          - link "AI Thumbnail Maker" [ref=e301] [cursor=pointer]:
+            - /url: https://wayin.ai/tools/youtube-thumbnail-maker/
+            - generic [ref=e302]: AI Thumbnail Maker

@@ -1,0 +1,178 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: Wes Roth AI
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e57]:
+        - tablist [ref=e62]:
+          - tab "All" [selected] [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: All
+          - tab "Shorts" [ref=e75] [cursor=pointer]:
+            - generic [ref=e77]: Shorts
+          - tab "Unwatched" [ref=e84] [cursor=pointer]:
+            - generic [ref=e86]: Unwatched
+          - tab "Watched" [ref=e93] [cursor=pointer]:
+            - generic [ref=e95]: Watched
+          - tab "Videos" [ref=e102] [cursor=pointer]:
+            - generic [ref=e104]: Videos
+          - tab "Recently uploaded" [ref=e111] [cursor=pointer]:
+            - generic [ref=e113]: Recently uploaded
+          - tab "Live" [ref=e120] [cursor=pointer]:
+            - generic [ref=e122]: Live
+        - generic [ref=e127]:
+          - button "Search filters" [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: Filters
+          - tooltip "tooltip"
+      - generic [ref=e141]:
+        - generic [ref=e150] [cursor=pointer]:
+          - link [ref=e151]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CoOjqhZjyaYz5FbLXrtoP_PeawAy9pPfOhgGmwPz0ihNkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABk-y79wKoAwSqBJ8CT9D2kuoA6Y0N3Zm5CbopZclrjD57jd6W-epV48ZyTm3-eBMoGDcsz-50WIaRix-YvC65o1-p1CBfia8azERFoBYPAi5j-3hmHmDBOQl5ACuwTdDmrTE0t4DQaG7hazSuYzi3gXfpWb4woHc5v1-IxC5wNT9q4tUs_Wx5WZbQosQsz0w2vCVXV47RUjWHbzaxiljdOflhMoqfBxCu_p6YA_QDkODOOa1S9Uo3GrzbQUbKBYtDlW0I_lsnoxeztufBbD2MTU9K3s2GB1nVWcAVp0CWpoUzCtR9XWd7KFiVuMr-wWdtnEU9aw_lsHdFfv9bwr5n-rAj0Grr3vjMfLmuGi6VKpqwe4FD9z_0r7GVG0ytwWtWpolEZEHeq1EcmEyIBdr7i4NRkgUNCBIw1oukoKj1mPfVAZIFCAgTePrJ66AFoAZVgAfvk7nwBJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIICzFlNWpxb1FKQmRZqAgB0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYyLujvp-UlAOaCTVodHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuL7EJ7tLK6bz9XefICRfICY8ByAmQAcgJwgG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBroDBXZpc2lu0AsS4AsBogw-YhQKEmNvbS5nb29nbGUuQWRXb3Jkc2ohCh9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5hZHdvcmRzeACIAQDSDAIQAZoNARKqDQJNWcgNAdINjgNodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDg3Nzk3MzA4NjAmZHNfYV9jaWQ9MTQxMTA0ODY5OCZkc19hX2NhaWQ9MjE3NDM0ODc3NjUmZHNfYV9hZ2lkPSZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9eCYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuLz9zdWJpZD1teS1lbi1nZG4tYXdhLXByLWEtcG14IW8zfntnY2xpZH1-fn4yMTc0MzQ4Nzc2NX4mZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMTc0OTc1OTQ1MLAO5pnqpBi4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIzM-jvp-UlAMVsqtLBR38uwbIEAEYASAAEgLU3fD_BwE&num=1&cid=CAASwwHkaAHOf_K1VjuRBgUBvRWWctvBaAGN5GBU1Twp1weWcjc2vP0n-Ismt-6_ySAu9N5myLKmFNiW7RlQAw0bCKZnfeLv50V_P-kG5hKRnVQaj3Uqx3l9vwTwI3lLZQ32AiwzYupEaBTujheHLhS0N4V21vcpp_XzFRuQK6J_0BaeRe0LTVQYkt4JSVdLN51Edfi71A_MSMAWMrKGN6Tewc61JKCi_2zof4BZGbjVT1XOB1szTpjR3EUu1jRHKFEAUWudjEo&ad_cpn=%5BCPN%5D&sig=AOD64_3RGvbqDT4nLILPh2A2ZL6Y4hP0rw&ctype=110&video_id=1e5jqoQJBdY&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+            - button [ref=e156]
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - generic [ref=e164]:
+                - link "Create An Ad Campaign Tailored To Your Business And Marketing Goals." [ref=e167]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CoOjqhZjyaYz5FbLXrtoP_PeawAy9pPfOhgGmwPz0ihNkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABk-y79wKoAwSqBJ8CT9D2kuoA6Y0N3Zm5CbopZclrjD57jd6W-epV48ZyTm3-eBMoGDcsz-50WIaRix-YvC65o1-p1CBfia8azERFoBYPAi5j-3hmHmDBOQl5ACuwTdDmrTE0t4DQaG7hazSuYzi3gXfpWb4woHc5v1-IxC5wNT9q4tUs_Wx5WZbQosQsz0w2vCVXV47RUjWHbzaxiljdOflhMoqfBxCu_p6YA_QDkODOOa1S9Uo3GrzbQUbKBYtDlW0I_lsnoxeztufBbD2MTU9K3s2GB1nVWcAVp0CWpoUzCtR9XWd7KFiVuMr-wWdtnEU9aw_lsHdFfv9bwr5n-rAj0Grr3vjMfLmuGi6VKpqwe4FD9z_0r7GVG0ytwWtWpolEZEHeq1EcmEyIBdr7i4NRkgUNCBIw1oukoKj1mPfVAZIFCAgTePrJ66AFoAZVgAfvk7nwBJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIICzFlNWpxb1FKQmRZqAgB0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYyLujvp-UlAOaCTVodHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuL7EJ7tLK6bz9XefICRfICY8ByAmQAcgJwgG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBroDBXZpc2lu0AsS4AsBogw-YhQKEmNvbS5nb29nbGUuQWRXb3Jkc2ohCh9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5hZHdvcmRzeACIAQDSDAIQAZoNARKqDQJNWcgNAdINjgNodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDg3Nzk3MzA4NjAmZHNfYV9jaWQ9MTQxMTA0ODY5OCZkc19hX2NhaWQ9MjE3NDM0ODc3NjUmZHNfYV9hZ2lkPSZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9eCYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuLz9zdWJpZD1teS1lbi1nZG4tYXdhLXByLWEtcG14IW8zfntnY2xpZH1-fn4yMTc0MzQ4Nzc2NX4mZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMTc0OTc1OTQ1MLAO5pnqpBi4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIzM-jvp-UlAMVsqtLBR38uwbIEAEYASAAEgLU3fD_BwE&num=1&cid=CAASwwHkaAHOf_K1VjuRBgUBvRWWctvBaAGN5GBU1Twp1weWcjc2vP0n-Ismt-6_ySAu9N5myLKmFNiW7RlQAw0bCKZnfeLv50V_P-kG5hKRnVQaj3Uqx3l9vwTwI3lLZQ32AiwzYupEaBTujheHLhS0N4V21vcpp_XzFRuQK6J_0BaeRe0LTVQYkt4JSVdLN51Edfi71A_MSMAWMrKGN6Tewc61JKCi_2zof4BZGbjVT1XOB1szTpjR3EUu1jRHKFEAUWudjEo&ad_cpn=%5BCPN%5D&sig=AOD64_3RGvbqDT4nLILPh2A2ZL6Y4hP0rw&ctype=110&video_id=1e5jqoQJBdY&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                - link "Connect to your customers on the web with Google Ads." [ref=e170]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CoOjqhZjyaYz5FbLXrtoP_PeawAy9pPfOhgGmwPz0ihNkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABk-y79wKoAwSqBJ8CT9D2kuoA6Y0N3Zm5CbopZclrjD57jd6W-epV48ZyTm3-eBMoGDcsz-50WIaRix-YvC65o1-p1CBfia8azERFoBYPAi5j-3hmHmDBOQl5ACuwTdDmrTE0t4DQaG7hazSuYzi3gXfpWb4woHc5v1-IxC5wNT9q4tUs_Wx5WZbQosQsz0w2vCVXV47RUjWHbzaxiljdOflhMoqfBxCu_p6YA_QDkODOOa1S9Uo3GrzbQUbKBYtDlW0I_lsnoxeztufBbD2MTU9K3s2GB1nVWcAVp0CWpoUzCtR9XWd7KFiVuMr-wWdtnEU9aw_lsHdFfv9bwr5n-rAj0Grr3vjMfLmuGi6VKpqwe4FD9z_0r7GVG0ytwWtWpolEZEHeq1EcmEyIBdr7i4NRkgUNCBIw1oukoKj1mPfVAZIFCAgTePrJ66AFoAZVgAfvk7nwBJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIICzFlNWpxb1FKQmRZqAgB0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYyLujvp-UlAOaCTVodHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuL7EJ7tLK6bz9XefICRfICY8ByAmQAcgJwgG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBroDBXZpc2lu0AsS4AsBogw-YhQKEmNvbS5nb29nbGUuQWRXb3Jkc2ohCh9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5hZHdvcmRzeACIAQDSDAIQAZoNARKqDQJNWcgNAdINjgNodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDg3Nzk3MzA4NjAmZHNfYV9jaWQ9MTQxMTA0ODY5OCZkc19hX2NhaWQ9MjE3NDM0ODc3NjUmZHNfYV9hZ2lkPSZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9eCYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuLz9zdWJpZD1teS1lbi1nZG4tYXdhLXByLWEtcG14IW8zfntnY2xpZH1-fn4yMTc0MzQ4Nzc2NX4mZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMTc0OTc1OTQ1MLAO5pnqpBi4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIzM-jvp-UlAMVsqtLBR38uwbIEAEYASAAEgLU3fD_BwE&num=1&cid=CAASwwHkaAHOf_K1VjuRBgUBvRWWctvBaAGN5GBU1Twp1weWcjc2vP0n-Ismt-6_ySAu9N5myLKmFNiW7RlQAw0bCKZnfeLv50V_P-kG5hKRnVQaj3Uqx3l9vwTwI3lLZQ32AiwzYupEaBTujheHLhS0N4V21vcpp_XzFRuQK6J_0BaeRe0LTVQYkt4JSVdLN51Edfi71A_MSMAWMrKGN6Tewc61JKCi_2zof4BZGbjVT1XOB1szTpjR3EUu1jRHKFEAUWudjEo&ad_cpn=%5BCPN%5D&sig=AOD64_3RGvbqDT4nLILPh2A2ZL6Y4hP0rw&ctype=110&video_id=1e5jqoQJBdY&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                - generic [ref=e171]:
+                  - button "Google Malaysia" [ref=e175]
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: Sponsored
+                    - text: ·
+                  - generic [ref=e182]: Google Ads
+              - button "My Ad Center" [ref=e185]
+            - generic [ref=e193]:
+              - link "Watch" [ref=e196]:
+                - /url: /watch?v=1e5jqoQJBdY
+                - generic [ref=e197]: Watch
+              - link "Sign up" [ref=e203]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CoOjqhZjyaYz5FbLXrtoP_PeawAy9pPfOhgGmwPz0ihNkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABk-y79wKoAwSqBJ8CT9D2kuoA6Y0N3Zm5CbopZclrjD57jd6W-epV48ZyTm3-eBMoGDcsz-50WIaRix-YvC65o1-p1CBfia8azERFoBYPAi5j-3hmHmDBOQl5ACuwTdDmrTE0t4DQaG7hazSuYzi3gXfpWb4woHc5v1-IxC5wNT9q4tUs_Wx5WZbQosQsz0w2vCVXV47RUjWHbzaxiljdOflhMoqfBxCu_p6YA_QDkODOOa1S9Uo3GrzbQUbKBYtDlW0I_lsnoxeztufBbD2MTU9K3s2GB1nVWcAVp0CWpoUzCtR9XWd7KFiVuMr-wWdtnEU9aw_lsHdFfv9bwr5n-rAj0Grr3vjMfLmuGi6VKpqwe4FD9z_0r7GVG0ytwWtWpolEZEHeq1EcmEyIBdr7i4NRkgUNCBIw1oukoKj1mPfVAZIFCAgTePrJ66AFoAZVgAfvk7nwBJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIICzFlNWpxb1FKQmRZqAgB0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYyLujvp-UlAOaCTVodHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuL7EJ7tLK6bz9XefICRfICY8ByAmQAcgJwgG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBroDBXZpc2lu0AsS4AsBogw-YhQKEmNvbS5nb29nbGUuQWRXb3Jkc2ohCh9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5hZHdvcmRzeACIAQDSDAIQAZoNARKqDQJNWcgNAdINjgNodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDg3Nzk3MzA4NjAmZHNfYV9jaWQ9MTQxMTA0ODY5OCZkc19hX2NhaWQ9MjE3NDM0ODc3NjUmZHNfYV9hZ2lkPSZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9eCYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL2Fkcy5nb29nbGUuY29tL2ludGwvZW5fbXkvc3RhcnQvb3ZlcnZpZXctZ2RuLz9zdWJpZD1teS1lbi1nZG4tYXdhLXByLWEtcG14IW8zfntnY2xpZH1-fn4yMTc0MzQ4Nzc2NX4mZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMTc0OTc1OTQ1MLAO5pnqpBi4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIzM-jvp-UlAMVsqtLBR38uwbIEAEYASAAEgLU3fD_BwE&num=1&cid=CAASwwHkaAHOf_K1VjuRBgUBvRWWctvBaAGN5GBU1Twp1weWcjc2vP0n-Ismt-6_ySAu9N5myLKmFNiW7RlQAw0bCKZnfeLv50V_P-kG5hKRnVQaj3Uqx3l9vwTwI3lLZQ32AiwzYupEaBTujheHLhS0N4V21vcpp_XzFRuQK6J_0BaeRe0LTVQYkt4JSVdLN51Edfi71A_MSMAWMrKGN6Tewc61JKCi_2zof4BZGbjVT1XOB1szTpjR3EUu1jRHKFEAUWudjEo&ad_cpn=%5BCPN%5D&sig=AOD64_3RGvbqDT4nLILPh2A2ZL6Y4hP0rw&ctype=110&video_id=1e5jqoQJBdY&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                - generic [ref=e204]: Sign up
+        - generic [ref=e209]:
+          - link [ref=e211] [cursor=pointer]:
+            - /url: /@WesRoth
+          - generic [ref=e214]:
+            - link "Wes Roth Verified @WesRoth•318K subscribers Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large ..." [ref=e215] [cursor=pointer]:
+              - /url: /@WesRoth
+              - generic [ref=e216]:
+                - generic [ref=e217]:
+                  - generic [ref=e220]: Wes Roth
+                  - img "Verified" [ref=e225]
+                - generic [ref=e227]: "@WesRoth•318K subscribers"
+                - generic [ref=e228]: Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large ...
+            - link "Subscribe" [ref=e233] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DWes%252BRoth%252BAI%26continue_action%3DQUFFLUhqbFpXYjY2Tkl2UFh1ajNuZks5UG5WMm5oakFYUXxBQ3Jtc0tsWS1QRU9hUGZJZXV5RDBDdWs4QjlQNF9OQldzaTY3ZVQtc1VtWmd5MXBnMDNhMGRvamxlOWczbjZEUHNIemZJcndTOXY3N2JSOTZRcnZJUmlEOUdiQzlrNXY5ZHlhVzFRaEJBZEZLaW12TlBTZF9YODJJNm0zSF9scm9ZV2VmdndZaG45SHo0RVl4dkNvV1FkMGtZZXBoS2dRczcwRW5CblUtVmFmUlpPMEJGWGM1SVVxc1c1UjhfNGpJd0kxVlU4WkJobDM&hl=en
+              - generic [ref=e234]: Subscribe
+        - generic [ref=e239]:
+          - link [ref=e241] [cursor=pointer]:
+            - /url: /watch?v=tUkD0oj92Qg&pp=ygULV2VzIFJvdGggQUk%3D
+          - generic [ref=e243] [cursor=pointer]:
+            - generic [ref=e244]:
+              - heading "this EX-OPENAI RESEARCHER just released it... 20 minutes" [level=3] [ref=e246]:
+                - link "this EX-OPENAI RESEARCHER just released it... 20 minutes" [ref=e247]:
+                  - /url: /watch?v=tUkD0oj92Qg&pp=ygULV2VzIFJvdGggQUk%3D
+                  - text: this EX-OPENAI RESEARCHER just released it...
+              - generic [ref=e250]:
+                - generic [ref=e251]: 91K views
+                - generic [ref=e252]: •1 month ago
+            - generic [ref=e253]:
+              - link "Go to channel Wes Roth" [ref=e254]:
+                - /url: /@WesRoth
+              - generic [ref=e256]:
+                - link "Wes Roth" [ref=e260]:
+                  - /url: /@WesRoth
+                - img "Verified" [ref=e265]
+            - generic [ref=e267]:
+              - generic [ref=e268]: The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+              - tooltip "tooltip"
+            - generic [ref=e271]:
+              - generic [ref=e272]:
+                - generic [ref=e275]: Summary
+                - button "Andre Karpathy released an open-source machine learning tool allowing users to run autonomous AI agents on home computers for recursive self-improvement. Wes Roth explores if this development signals the beginning of an automated research intelligence explosion, enabling community-driven model optimization." [ref=e276]
+                - text: ·
+              - button "More" [ref=e281]
+        - generic [ref=e291]:
+          - img [ref=e297]
+          - generic [ref=e299] [cursor=pointer]:
+            - generic [ref=e300]:
+              - link "Seedance 2.0 Official Launch" [ref=e303]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFegXhZjyaYz5FbLXrtoP_PeawAzN-cTKhgGeza7o0BVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLoCT9BiG-Mg6R8N9ZlrcZwDdvt8jiRZg_yz6sQO3pRUZH7MbxEyOjkO5-hNaZSonh6JpCrmlg2P_jNtnq0A7H5A2QBdJAB02Hp6M2fOMhA2K2WxXsfilzEOtJDEbn-5ZmuIeQiGj1ijUOEtsWU1qlO0kFo4aiJ78Nk58Xl5XayQ08Qyz0o0vidbS4bITDKZ7QcM_CDdYPcgPpGfEQDi-N-Wtpjp5qfOYKMT-VE3DKyXRwfERZQJlH0X_0Rso02hoeXbUCSmWUhWkePeIxf0HeYS-Gn0Z86ykNcSQ9O5JpRftqRH0EKm-lxb_3mJRhpI72vSSY0vICIrE2uvFP4Pa7nHGAzVKJqkRvN89xdrT1YLKHyvKurFmaJc9cNSoreMInMF84OLheCUZZIbDwo1mTNn5eHbKMx6k6ceMeCIBZK7_rtYkgUICBN4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIu6O-n5SUA5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJPoOryEROaLbICQCYCwG6Cz0IAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE2X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNl9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDvOfw_sYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzM-jvp-UlAMVsqtLBR38uwbIEAEYAiAAEgJ2E_D_BwE&num=2&cid=CAASwwHkaAHOf_K1VjuRBgUBvRWWctvBaAGN5GBU1Twp1weWcjc2vP0n-Ismt-6_ySAu9N5myLKmFNiW7RlQAw0bCKZnfeLv50V_P-kG5hKRnVQaj3Uqx3l9vwTwI3lLZQ32AiwzYupEaBTujheHLhS0N4V21vcpp_XzFRuQK6J_0BaeRe0LTVQYkt4JSVdLN51Edfi71A_MSMAWMrKGN6Tewc61JKCi_2zof4BZGbjVT1XOB1szTpjR3EUu1jRHKFEAUWudjEo&sig=AOD64_2rF_HofR5sOrcR83u-K3BqxYzQnQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 official release, no wait. Be first, not left in AI dust." [ref=e306]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFegXhZjyaYz5FbLXrtoP_PeawAzN-cTKhgGeza7o0BVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLoCT9BiG-Mg6R8N9ZlrcZwDdvt8jiRZg_yz6sQO3pRUZH7MbxEyOjkO5-hNaZSonh6JpCrmlg2P_jNtnq0A7H5A2QBdJAB02Hp6M2fOMhA2K2WxXsfilzEOtJDEbn-5ZmuIeQiGj1ijUOEtsWU1qlO0kFo4aiJ78Nk58Xl5XayQ08Qyz0o0vidbS4bITDKZ7QcM_CDdYPcgPpGfEQDi-N-Wtpjp5qfOYKMT-VE3DKyXRwfERZQJlH0X_0Rso02hoeXbUCSmWUhWkePeIxf0HeYS-Gn0Z86ykNcSQ9O5JpRftqRH0EKm-lxb_3mJRhpI72vSSY0vICIrE2uvFP4Pa7nHGAzVKJqkRvN89xdrT1YLKHyvKurFmaJc9cNSoreMInMF84OLheCUZZIbDwo1mTNn5eHbKMx6k6ceMeCIBZK7_rtYkgUICBN4hpKMpR2gBqQBgAef37qFHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIu6O-n5SUA5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJPoOryEROaLbICQCYCwG6Cz0IAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE2X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNl9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDvOfw_sYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzM-jvp-UlAMVsqtLBR38uwbIEAEYAiAAEgJ2E_D_BwE&num=2&cid=CAASwwHkaAHOf_K1VjuRBgUBvRWWctvBaAGN5GBU1Twp1weWcjc2vP0n-Ismt-6_ySAu9N5myLKmFNiW7RlQAw0bCKZnfeLv50V_P-kG5hKRnVQaj3Uqx3l9vwTwI3lLZQ32AiwzYupEaBTujheHLhS0N4V21vcpp_XzFRuQK6J_0BaeRe0LTVQYkt4JSVdLN51Edfi71A_MSMAWMrKGN6Tewc61JKCi_2zof4BZGbjVT1XOB1szTpjR3EUu1jRHKFEAUWudjEo&sig=AOD64_2rF_HofR5sOrcR83u-K3BqxYzQnQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e307]:
+                - generic [ref=e309]:
+                  - generic [ref=e310]: Sponsored
+                  - text: ·
+                - generic [ref=e312]: BytePlus
+            - button "My Ad Center" [ref=e315]
+        - generic [ref=e322]:
+          - link [ref=e324] [cursor=pointer]:
+            - /url: /watch?v=evVs-Jtor50&pp=ygULV2VzIFJvdGggQUk%3D
+          - generic [ref=e326] [cursor=pointer]:
+            - generic [ref=e327]:
+              - heading "OpenAI just WON... 16 minutes" [level=3] [ref=e329]:
+                - link "OpenAI just WON... 16 minutes" [ref=e330]:
+                  - /url: /watch?v=evVs-Jtor50&pp=ygULV2VzIFJvdGggQUk%3D
+                  - text: OpenAI just WON...
+              - generic [ref=e333]:
+                - generic [ref=e334]: 58K views
+                - generic [ref=e335]: •5 days ago
+            - generic [ref=e336]:
+              - link "Go to channel Wes Roth" [ref=e337]:
+                - /url: /@WesRoth
+              - generic [ref=e338]:
+                - link "Wes Roth" [ref=e342]:
+                  - /url: /@WesRoth
+                - img "Verified" [ref=e347]
+            - generic [ref=e349]:
+              - text: "FULL DETAILS AND LINKS: ..."
+              - tooltip "tooltip"
+            - img "New" [ref=e354]:
+              - generic [ref=e355]: New
+            - generic [ref=e358]:
+              - generic [ref=e359]:
+                - generic [ref=e362]: Summary
+                - button "Wes Roth explores the capabilities of OpenAI's GPT 5.5, detailing the development of a complex, automated real-time strategy game built by the model. The discussion covers advancements in reasoning, situational awareness, and the potential impact of these systems on compute-powered economic and development workflows." [ref=e363]
+                - text: ·
+              - button "More" [ref=e368]
+        - generic [ref=e375]:
+          - link [ref=e377] [cursor=pointer]:
+            - /url: /watch?v=uWLt81SgM78&pp=ygULV2VzIFJvdGggQUk%3D
+          - generic [ref=e379] [cursor=pointer]:
+            - generic [ref=e380]:
+              - heading "Cal Newport AI takes are WILD... 39 minutes" [level=3] [ref=e382]:
+                - link "Cal Newport AI takes are WILD... 39 minutes" [ref=e383]:
+                  - /url: /watch?v=uWLt81SgM78&pp=ygULV2VzIFJvdGggQUk%3D
+                  - text: Cal Newport AI takes are WILD...
+              - generic [ref=e386]:
+                - generic [ref=e387]: 41K views
+                - generic [ref=e388]: •1 month ago
+            - generic [ref=e389]:
+              - link "Go to channel Wes Roth" [ref=e390]:
+                - /url: /@WesRoth
+              - generic [ref=e391]:
+                - link "Wes Roth" [ref=e395]:
+                  - /url: /@WesRoth
+                - img "Verified" [ref=e400]
+            - generic [ref=e402]:
+              - generic [ref=e403]: The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+              - tooltip "tooltip"

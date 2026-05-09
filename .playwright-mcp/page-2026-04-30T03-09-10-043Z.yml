@@ -1,0 +1,191 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: Brad Bonanno Claude Code video skills
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e57]:
+        - tablist [ref=e62]:
+          - tab "All" [selected] [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: All
+          - tab "Shorts" [ref=e75] [cursor=pointer]:
+            - generic [ref=e77]: Shorts
+          - tab "Unwatched" [ref=e84] [cursor=pointer]:
+            - generic [ref=e86]: Unwatched
+          - tab "Watched" [ref=e93] [cursor=pointer]:
+            - generic [ref=e95]: Watched
+          - tab "Videos" [ref=e102] [cursor=pointer]:
+            - generic [ref=e104]: Videos
+          - tab "Recently uploaded" [ref=e111] [cursor=pointer]:
+            - generic [ref=e113]: Recently uploaded
+          - tab "Live" [ref=e120] [cursor=pointer]:
+            - generic [ref=e122]: Live
+        - generic [ref=e127]:
+          - button "Search filters" [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: Filters
+          - tooltip "tooltip"
+      - generic [ref=e141]:
+        - generic [ref=e146]:
+          - img [ref=e152]
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e155]:
+              - link "Seedance 2.0 Official Launch" [ref=e158]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CsKA01MfyadGuCIrcmsMPzPbJ6QjN-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBNQCT9DNgBcTU-LM72cMFymvfMvHf8zy45znHX-M3Vu7V84OV2-Q237ZbVEBJGOIXDRkASKoMQnDly9scv1mdXd9uG2oX862SRmbawR8FCEBaEOQZESOU-lBMVqDFekbsdtC-lGrgSdcluC24wNP3CknBh0YUs4tbYAf3wITXgntYDsT3iTO9yppAL1F-4pO8ICNLh5V1FDNkd3FdHB-3lN9emBfoHIArnG3VOq6pevU7CiAlldpOOPy-zb1YUMCOukGlyDXqgFnNUFt-ASJBVn2cGUG0vuSb5KLbGMyy6fsFa2-KlNLRg1uRPxwbCU6mkcMu-KT2PhWyh-VqaHi8ddJXKqmEmYjSzFN5A7dSOjnzuDm7XrYF5nqgO3HvstZwKEg1nk7aKcFH7hB6HNXuR2j3WV5wKQiaI0zaBcpYSpBWs37iLwqe2O4L35ju-PQXamFB1jxa4gFkrv-u1iSBQgIE3iGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNjYks3MlJQDmgkwaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wsQmU4MQyjPMU4sgJAJgLAboLQQgDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI0eiSzcyUlAMVCq5mAh1MezKNEAEYASAAEgL08PD_BwE&num=1&cid=CAASwwHkaFgNn6YbUrb-30Vb5ztz_AHo41ABqdxNe_3UAdzXW3JLssJD_Jo7gwFtK-yvM0t_jK1im6fcThjemhl3dUQ7xOFXWx9d7ygS0wHsn7NVctc5DUkugIiei70ydrqdqKFVQsTnr0z0VFNXjxfPbfrSp_LJiIKm31TyVOpSQzp1BdIiGO3pJyYrsLNeKNn_Y1NbDu7WdvjdUE8wh8tPcQf06Km5Etw8IjsImsA2ROpgvymjqDQPmQrhaF5i8GrX_wGHlMk&sig=AOD64_1O9z1tGnCDT-iuKyGMA5A25j_OYg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 instant access, no wait. Join now or be out of AI revolution." [ref=e161]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CsKA01MfyadGuCIrcmsMPzPbJ6QjN-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBNQCT9DNgBcTU-LM72cMFymvfMvHf8zy45znHX-M3Vu7V84OV2-Q237ZbVEBJGOIXDRkASKoMQnDly9scv1mdXd9uG2oX862SRmbawR8FCEBaEOQZESOU-lBMVqDFekbsdtC-lGrgSdcluC24wNP3CknBh0YUs4tbYAf3wITXgntYDsT3iTO9yppAL1F-4pO8ICNLh5V1FDNkd3FdHB-3lN9emBfoHIArnG3VOq6pevU7CiAlldpOOPy-zb1YUMCOukGlyDXqgFnNUFt-ASJBVn2cGUG0vuSb5KLbGMyy6fsFa2-KlNLRg1uRPxwbCU6mkcMu-KT2PhWyh-VqaHi8ddJXKqmEmYjSzFN5A7dSOjnzuDm7XrYF5nqgO3HvstZwKEg1nk7aKcFH7hB6HNXuR2j3WV5wKQiaI0zaBcpYSpBWs37iLwqe2O4L35ju-PQXamFB1jxa4gFkrv-u1iSBQgIE3iGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNjYks3MlJQDmgkwaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wsQmU4MQyjPMU4sgJAJgLAboLQQgDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI0eiSzcyUlAMVCq5mAh1MezKNEAEYASAAEgL08PD_BwE&num=1&cid=CAASwwHkaFgNn6YbUrb-30Vb5ztz_AHo41ABqdxNe_3UAdzXW3JLssJD_Jo7gwFtK-yvM0t_jK1im6fcThjemhl3dUQ7xOFXWx9d7ygS0wHsn7NVctc5DUkugIiei70ydrqdqKFVQsTnr0z0VFNXjxfPbfrSp_LJiIKm31TyVOpSQzp1BdIiGO3pJyYrsLNeKNn_Y1NbDu7WdvjdUE8wh8tPcQf06Km5Etw8IjsImsA2ROpgvymjqDQPmQrhaF5i8GrX_wGHlMk&sig=AOD64_1O9z1tGnCDT-iuKyGMA5A25j_OYg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e162]:
+                - generic [ref=e164]:
+                  - generic [ref=e165]: Sponsored
+                  - text: ·
+                - generic [ref=e167]: BytePlus
+            - button "My Ad Center" [ref=e170]
+        - generic [ref=e177]:
+          - link [ref=e179] [cursor=pointer]:
+            - /url: /watch?v=QZMljuD10sU&pp=ygUlQnJhZCBCb25hbm5vIENsYXVkZSBDb2RlIHZpZGVvIHNraWxscw%3D%3D
+            - img [ref=e181]
+            - img [ref=e184]:
+              - generic [ref=e185]: 8:36
+            - generic:
+              - generic: Now playing
+              - generic:
+                - img
+          - generic [ref=e186] [cursor=pointer]:
+            - generic [ref=e187]:
+              - heading "My Claude Code Can INSTANTLY Watch Any Video (Here's How) 8 minutes, 36 seconds" [level=3] [ref=e189]:
+                - link "My Claude Code Can INSTANTLY Watch Any Video (Here's How) 8 minutes, 36 seconds" [ref=e190]:
+                  - /url: /watch?v=QZMljuD10sU&pp=ygUlQnJhZCBCb25hbm5vIENsYXVkZSBDb2RlIHZpZGVvIHNraWxscw%3D%3D
+                  - text: My Claude Code Can INSTANTLY Watch Any Video (Here's How)
+              - generic [ref=e193]:
+                - generic [ref=e194]: 14K views
+                - generic [ref=e195]: •19 hours ago
+            - generic [ref=e196]:
+              - link "Go to channel Brad | AI & Automation" [ref=e197]:
+                - /url: /@bradbonanno
+              - link "Brad | AI & Automation" [ref=e203]:
+                - /url: /@bradbonanno
+            - generic [ref=e204]:
+              - generic [ref=e205]: "Watch Skill on GitHub (FREE): https://github.com/bradautomates/claude-video AI Strategy Call: ..."
+              - tooltip "tooltip"
+            - generic [ref=e207]:
+              - img "New" [ref=e210]:
+                - generic [ref=e211]: New
+              - img "4K" [ref=e214]:
+                - generic [ref=e215]: 4K
+            - generic [ref=e218]:
+              - generic [ref=e219]:
+                - generic [ref=e223]: 8 chapters
+                - button "Intro | Watch Videos in Minutes | Setup | Under the Hood | The Cost Math | Analyze Video Hooks | Review QA Videos | Content Intelligence" [ref=e224]
+              - button "More" [ref=e229]
+        - generic [ref=e236]:
+          - link [ref=e238] [cursor=pointer]:
+            - /url: /@bradbonanno
+          - generic [ref=e241]:
+            - link "Brad | AI & Automation @bradbonanno•4.56K subscribers Hey I'm Brad. I build Claude skills, Claude Cowork coworkers, and Claude Code projects that turn Claude AI into a genuine ..." [ref=e242] [cursor=pointer]:
+              - /url: /@bradbonanno
+              - generic [ref=e243]:
+                - generic [ref=e247]: Brad | AI & Automation
+                - generic [ref=e248]: "@bradbonanno•4.56K subscribers"
+                - generic [ref=e249]: Hey I'm Brad. I build Claude skills, Claude Cowork coworkers, and Claude Code projects that turn Claude AI into a genuine ...
+            - link "Subscribe" [ref=e254] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBrad%252BBonanno%252BClaude%252BCode%252Bvideo%252Bskills%26continue_action%3DQUFFLUhqbnIwQnp0Q1lvS09aN3BlQ2RVNkxjelhXWVc3UXxBQ3Jtc0tsZmRnZnJZeU9BU3FUeGZKZVRjWUtLeDNzUlJQcndPcEEtZW1sOWwxMU11Z0lDV19tRE0yTTRPM0taR0lONHBMNmtOUFQwOG1la0xNVmsxNTZ0WmxzMjFsa2pZd3Y5dTR5bnBadWNEZjZLNy1IVUllWW95QktxY1p6SXotQUJkVFZySkpiWGNaSktacHlnUW1Wc2tscGpDdEJsX20zYnZJNjQySXhWalM3TERhUnFJeXdHRUNsMjBKT0JZcFB1emJMb1V1Sm4&hl=en
+              - generic [ref=e255]: Subscribe
+        - generic [ref=e263]:
+          - img [ref=e269]
+          - generic [ref=e271] [cursor=pointer]:
+            - generic [ref=e272]:
+              - link "SAP Event Registration" [ref=e275]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cal0z1MfyadGuCIrcmsMPzPbJ6QiAsoXmhgGbnJSM1BWwkB8QAiAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGf2_-JQ6kCeeDOKwWYsz6oAwTIAwqqBLQCT9Dv_g4TU-LM72cMFymvfMvHf8zy45znHX-M3Vu7V84OV2-Q237ZbVEBJGOIXDRkASKoMQnDly9scv1mdXd9uG2oX862SRmbawR8FCEBaEOQZESOU-lBMVqDFekbsdtC-lGrgSdcluC24wNP3CknBh0YUs4tbYAf3wITXgntYDsT3iTO9yppAL1F-4pO8ICNLh5V1FDNkd3FdHB-3lN9emBfoHIArnG3VOq6pevU7CiAlldpOOPy-zb1YUMCOukGlyDXqgFnNUFt-ASJBVn2cGUG0vuSb5KLbGMyy6fsFa2-KlNLRg1uRPxwbCU6mkcMu-KT2PhWyB-VnbHHptdJXLvsDk8gSzEgqPTcSOjnzuCG7VrZEbzpgMyqt6Fb6PnPNPwEZCl5da7H_6VemxO7ZfB6qA6IBYLC5J9YkgUICBN4l9iQjB6gBqQBgAefk9DpHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjY2JLNzJSUA5oJMGh0dHBzOi8vd3d3LnNhcC5jb20vZXZlbnRzL3NhcHBoaXJlL3ZpcnR1YWwuaHRtbLEJTV3dq_YoJT7ICQC6C0EIAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDCXZpc2luemFhYdALEuALAaIMSmIsCipjb20uc2FwLmZpZWxkc2VydmljZW1hbmFnZW1lbnQuaW9zLnJlbGVhc2VqFQoTY29tLnNhcC5qYW0uYW5kcm9pZHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDboDaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvc2VhcmNoYWRzL2xpbmsvY2xpY2s_bGlkPTU4NzAwMDA5MDQwNDI0ODk3JmRzX2FfY2lkPTgwNzg1MDI5MzUmZHNfYV9jYWlkPTIzNjk0MjUyNDczJmRzX2FfYWdpZD0mZHNfYV9maWlkPSZkc19hX2xpZD0mZHNfYV9leHRpZD0mJmRzX2VfYWRpZD0mZHNfZV9tYXRjaHR5cGU9JmRzX2VfZGV2aWNlPWMmZHNfZV9uZXR3b3JrPXgmJmRzX3VybF92PTImZHNfZGVzdF91cmw9aHR0cHM6Ly93d3cuc2FwLmNvbS9ldmVudHMvc2FwcGhpcmUvdmlydHVhbC5odG1sP3B0dGlkPTc5NzgmY2FtcGFpZ25jb2RlPWNybS15ZDI2LW1zbC00NTk1NTkmc291cmNlPXBwYy1nbG8tZ29vZ2xlYWRzLVBNQVgtMjM2OTQyNTI0NzMtLWV2ZW50c19zYWYteC14LXgmZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzY4ODk3ODY5MLAO54XF9xi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF9OMqsjNa22nuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI0eiSzcyUlAMVCq5mAh1MezKNEAEYAiAAEgIrnfD_BwE&num=2&cid=CAASwwHkaFgNn6YbUrb-30Vb5ztz_AHo41ABqdxNe_3UAdzXW3JLssJD_Jo7gwFtK-yvM0t_jK1im6fcThjemhl3dUQ7xOFXWx9d7ygS0wHsn7NVctc5DUkugIiei70ydrqdqKFVQsTnr0z0VFNXjxfPbfrSp_LJiIKm31TyVOpSQzp1BdIiGO3pJyYrsLNeKNn_Y1NbDu7WdvjdUE8wh8tPcQf06Km5Etw8IjsImsA2ROpgvymjqDQPmQrhaF5i8GrX_wGHlMk&sig=AOD64_1JSKlYUChXmmVrHF66FAobEjKAYw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Bring it at SAP Sapphire 2026. Register now." [ref=e278]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cal0z1MfyadGuCIrcmsMPzPbJ6QiAsoXmhgGbnJSM1BWwkB8QAiAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGf2_-JQ6kCeeDOKwWYsz6oAwTIAwqqBLQCT9Dv_g4TU-LM72cMFymvfMvHf8zy45znHX-M3Vu7V84OV2-Q237ZbVEBJGOIXDRkASKoMQnDly9scv1mdXd9uG2oX862SRmbawR8FCEBaEOQZESOU-lBMVqDFekbsdtC-lGrgSdcluC24wNP3CknBh0YUs4tbYAf3wITXgntYDsT3iTO9yppAL1F-4pO8ICNLh5V1FDNkd3FdHB-3lN9emBfoHIArnG3VOq6pevU7CiAlldpOOPy-zb1YUMCOukGlyDXqgFnNUFt-ASJBVn2cGUG0vuSb5KLbGMyy6fsFa2-KlNLRg1uRPxwbCU6mkcMu-KT2PhWyB-VnbHHptdJXLvsDk8gSzEgqPTcSOjnzuCG7VrZEbzpgMyqt6Fb6PnPNPwEZCl5da7H_6VemxO7ZfB6qA6IBYLC5J9YkgUICBN4l9iQjB6gBqQBgAefk9DpHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjY2JLNzJSUA5oJMGh0dHBzOi8vd3d3LnNhcC5jb20vZXZlbnRzL3NhcHBoaXJlL3ZpcnR1YWwuaHRtbLEJTV3dq_YoJT7ICQC6C0EIAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDCXZpc2luemFhYdALEuALAaIMSmIsCipjb20uc2FwLmZpZWxkc2VydmljZW1hbmFnZW1lbnQuaW9zLnJlbGVhc2VqFQoTY29tLnNhcC5qYW0uYW5kcm9pZHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDboDaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvc2VhcmNoYWRzL2xpbmsvY2xpY2s_bGlkPTU4NzAwMDA5MDQwNDI0ODk3JmRzX2FfY2lkPTgwNzg1MDI5MzUmZHNfYV9jYWlkPTIzNjk0MjUyNDczJmRzX2FfYWdpZD0mZHNfYV9maWlkPSZkc19hX2xpZD0mZHNfYV9leHRpZD0mJmRzX2VfYWRpZD0mZHNfZV9tYXRjaHR5cGU9JmRzX2VfZGV2aWNlPWMmZHNfZV9uZXR3b3JrPXgmJmRzX3VybF92PTImZHNfZGVzdF91cmw9aHR0cHM6Ly93d3cuc2FwLmNvbS9ldmVudHMvc2FwcGhpcmUvdmlydHVhbC5odG1sP3B0dGlkPTc5NzgmY2FtcGFpZ25jb2RlPWNybS15ZDI2LW1zbC00NTk1NTkmc291cmNlPXBwYy1nbG8tZ29vZ2xlYWRzLVBNQVgtMjM2OTQyNTI0NzMtLWV2ZW50c19zYWYteC14LXgmZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzY4ODk3ODY5MLAO54XF9xi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF9OMqsjNa22nuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI0eiSzcyUlAMVCq5mAh1MezKNEAEYAiAAEgIrnfD_BwE&num=2&cid=CAASwwHkaFgNn6YbUrb-30Vb5ztz_AHo41ABqdxNe_3UAdzXW3JLssJD_Jo7gwFtK-yvM0t_jK1im6fcThjemhl3dUQ7xOFXWx9d7ygS0wHsn7NVctc5DUkugIiei70ydrqdqKFVQsTnr0z0VFNXjxfPbfrSp_LJiIKm31TyVOpSQzp1BdIiGO3pJyYrsLNeKNn_Y1NbDu7WdvjdUE8wh8tPcQf06Km5Etw8IjsImsA2ROpgvymjqDQPmQrhaF5i8GrX_wGHlMk&sig=AOD64_1JSKlYUChXmmVrHF66FAobEjKAYw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e279]:
+                - generic [ref=e281]:
+                  - generic [ref=e282]: Sponsored
+                  - text: ·
+                - generic [ref=e284]: SAP
+            - button "My Ad Center" [ref=e287]
+        - generic [ref=e294]:
+          - link [ref=e296] [cursor=pointer]:
+            - /url: /watch?v=iG5D0RUZX2s&pp=ygUlQnJhZCBCb25hbm5vIENsYXVkZSBDb2RlIHZpZGVvIHNraWxscw%3D%3D
+          - generic [ref=e298] [cursor=pointer]:
+            - generic [ref=e299]:
+              - heading "These 3 Claude Code Features Just Killed OpenClaw (Setup Guide) 20 minutes" [level=3] [ref=e301]:
+                - link "These 3 Claude Code Features Just Killed OpenClaw (Setup Guide) 20 minutes" [ref=e302]:
+                  - /url: /watch?v=iG5D0RUZX2s&pp=ygUlQnJhZCBCb25hbm5vIENsYXVkZSBDb2RlIHZpZGVvIHNraWxscw%3D%3D
+                  - text: These 3 Claude Code Features Just Killed OpenClaw (Setup Guide)
+              - generic [ref=e305]:
+                - generic [ref=e306]: 1.3K views
+                - generic [ref=e307]: •1 month ago
+            - generic [ref=e308]:
+              - link "Go to channel Brad | AI & Automation" [ref=e309]:
+                - /url: /@bradbonanno
+              - link "Brad | AI & Automation" [ref=e314]:
+                - /url: /@bradbonanno
+            - generic [ref=e315]:
+              - generic [ref=e316]: "AI Strategy Call: https://cal.com/bradley-bonanno/ai-strategy-call Connect with Me: https://www.linkedin.com/in/bradbonanno/ Full ..."
+              - tooltip "tooltip"
+            - img "4K" [ref=e321]:
+              - generic [ref=e322]: 4K
+            - generic [ref=e325]:
+              - generic [ref=e326]:
+                - generic [ref=e330]: 8 chapters
+                - 'button "Intro | Demo: Texting Claude from Telegram | What is OpenClaude? | Setting Up Telegram Channels | Scheduled Tasks & Cron Jobs | Auto Memory | The Claude.md That Ties It All Together | Final Thoughts" [ref=e331]'
+              - button "More" [ref=e336]
+        - generic [ref=e343]:
+          - link [ref=e345] [cursor=pointer]:
+            - /url: /watch?v=sXGrFTe0ZfE&pp=ygUlQnJhZCBCb25hbm5vIENsYXVkZSBDb2RlIHZpZGVvIHNraWxscw%3D%3D
+          - generic [ref=e347] [cursor=pointer]:
+            - generic [ref=e348]:
+              - heading "I Built a One-Person Content Research Team Using AI - Claude Cowork Feels ILLEGAL 17 minutes" [level=3] [ref=e350]:
+                - link "I Built a One-Person Content Research Team Using AI - Claude Cowork Feels ILLEGAL 17 minutes" [ref=e351]:
+                  - /url: /watch?v=sXGrFTe0ZfE&pp=ygUlQnJhZCBCb25hbm5vIENsYXVkZSBDb2RlIHZpZGVvIHNraWxscw%3D%3D
+                  - text: I Built a One-Person Content Research Team Using AI - Claude Cowork Feels ILLEGAL
+              - generic [ref=e354]:
+                - generic [ref=e355]: 6.5K views
+                - generic [ref=e356]: •3 months ago
+            - generic [ref=e357]:
+              - link "Go to channel Brad | AI & Automation" [ref=e358]:
+                - /url: /@bradbonanno
+              - link "Brad | AI & Automation" [ref=e363]:
+                - /url: /@bradbonanno
+            - generic [ref=e364]:
+              - generic [ref=e365]: "AI Strategy Call: https://cal.com/bradley-bonanno/ai-strategy-call Connect with Me: https://www.linkedin.com/in/bradbonanno/ ..."
+              - tooltip "tooltip"
+            - img "4K" [ref=e370]:
+              - generic [ref=e371]: 4K
+            - generic [ref=e374]:
+              - generic [ref=e375]:
+                - generic [ref=e378]: Summary
+                - button "Brad demonstrates how to set up an AI agent within Claude Code to automatically scrape and analyze social media trends. This workflow generates a comprehensive content research report in minutes, outlining winning hooks and formats for various platforms." [ref=e379]
+                - text: ·
+              - button "More" [ref=e384]
+        - generic [ref=e394]:
+          - img [ref=e400]
+          - generic [ref=e402] [cursor=pointer]:
+            - generic [ref=e403]:
+              - link "Build AI Agents Free" [ref=e406]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CPXFA1MfyadGuCIrcmsMPzPbJ6Qi3tfDWhgHq9pPZ7xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGBmbTAA6gDBMgDCqoErQJP0A06ADNTcMzHZ95vD4Vv-dB91tDtvsIOUdfgCZ193TxAbYr5cPtFVzgVcbFJNXUZJvcEW-W9PF5l_3xVTXjBe_p54KFqG4dGA3MfOE5DDZF3U4pp6XsySpcT-EO8hGTgYZqPCBafv6vyEUPJJRtSaVAN0zx_jArTFxNaM60ROw3eIsz1KGUctVzljVBysTBYZlWNXoydxsViYDLYEnPPDM_WTwD3f_ZY8bqz-5jqaY7WSCM58-36Kb5hGRAt6xyrOf2-Bnt6eiLbEsMjHdp-ZQnTvr4osJJpc33t48sf4q1oQUdNQ3IE5ndpOtbrxpa40pMUOloO1Uu2vOhRKa_VtY872uaOO9fuDZRDa2_2xq1QLf8vZ_91ewU_GGjYwAC9UDtKMcf2PqVDBfS_iAXsuuOoWJIFCAgTeI-Zu6UZoAZugAeUq9eWGZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjY2JLNzJSUA5oJK2h0dHBzOi8vaW50LmFsaWJhYmFjbG91ZC5jb20vc2UvMTAyMzMzNTE1OS-xCVLPVPT8yw5CyAkAyAmKApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsS0gwCEAGaDQESqg0CTVnIDQHSDVNodHRwczovL2ludC5hbGliYWJhY2xvdWQuY29tL3NlLzEwMjMzMzUxNTkvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzcwNzgzNTc1NrgT____________AYgUArAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXBWnT0biHwuS6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI0eiSzcyUlAMVCq5mAh1MezKNEAEYAyAAEgIhcvD_BwE&num=3&cid=CAASwwHkaFgNn6YbUrb-30Vb5ztz_AHo41ABqdxNe_3UAdzXW3JLssJD_Jo7gwFtK-yvM0t_jK1im6fcThjemhl3dUQ7xOFXWx9d7ygS0wHsn7NVctc5DUkugIiei70ydrqdqKFVQsTnr0z0VFNXjxfPbfrSp_LJiIKm31TyVOpSQzp1BdIiGO3pJyYrsLNeKNn_Y1NbDu7WdvjdUE8wh8tPcQf06Km5Etw8IjsImsA2ROpgvymjqDQPmQrhaF5i8GrX_wGHlMk&sig=AOD64_12hdkCG-PFjpiDRosSo03nNt_4lg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Built for advanced reasoning, scalable efficiency, and real-world performance" [ref=e409]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CPXFA1MfyadGuCIrcmsMPzPbJ6Qi3tfDWhgHq9pPZ7xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGBmbTAA6gDBMgDCqoErQJP0A06ADNTcMzHZ95vD4Vv-dB91tDtvsIOUdfgCZ193TxAbYr5cPtFVzgVcbFJNXUZJvcEW-W9PF5l_3xVTXjBe_p54KFqG4dGA3MfOE5DDZF3U4pp6XsySpcT-EO8hGTgYZqPCBafv6vyEUPJJRtSaVAN0zx_jArTFxNaM60ROw3eIsz1KGUctVzljVBysTBYZlWNXoydxsViYDLYEnPPDM_WTwD3f_ZY8bqz-5jqaY7WSCM58-36Kb5hGRAt6xyrOf2-Bnt6eiLbEsMjHdp-ZQnTvr4osJJpc33t48sf4q1oQUdNQ3IE5ndpOtbrxpa40pMUOloO1Uu2vOhRKa_VtY872uaOO9fuDZRDa2_2xq1QLf8vZ_91ewU_GGjYwAC9UDtKMcf2PqVDBfS_iAXsuuOoWJIFCAgTeI-Zu6UZoAZugAeUq9eWGZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjY2JLNzJSUA5oJK2h0dHBzOi8vaW50LmFsaWJhYmFjbG91ZC5jb20vc2UvMTAyMzMzNTE1OS-xCVLPVPT8yw5CyAkAyAmKApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsS0gwCEAGaDQESqg0CTVnIDQHSDVNodHRwczovL2ludC5hbGliYWJhY2xvdWQuY29tL3NlLzEwMjMzMzUxNTkvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzcwNzgzNTc1NrgT____________AYgUArAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXBWnT0biHwuS6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI0eiSzcyUlAMVCq5mAh1MezKNEAEYAyAAEgIhcvD_BwE&num=3&cid=CAASwwHkaFgNn6YbUrb-30Vb5ztz_AHo41ABqdxNe_3UAdzXW3JLssJD_Jo7gwFtK-yvM0t_jK1im6fcThjemhl3dUQ7xOFXWx9d7ygS0wHsn7NVctc5DUkugIiei70ydrqdqKFVQsTnr0z0VFNXjxfPbfrSp_LJiIKm31TyVOpSQzp1BdIiGO3pJyYrsLNeKNn_Y1NbDu7WdvjdUE8wh8tPcQf06Km5Etw8IjsImsA2ROpgvymjqDQPmQrhaF5i8GrX_wGHlMk&sig=AOD64_12hdkCG-PFjpiDRosSo03nNt_4lg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e410]:
+                - generic [ref=e412]:
+                  - generic [ref=e413]: Sponsored
+                  - text: ·
+                - generic [ref=e415]: Alibaba Cloud
+            - button "My Ad Center" [ref=e418]

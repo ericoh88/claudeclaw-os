@@ -1,0 +1,376 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: MY
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - combobox "Search" [expanded] [ref=e34]: Boris Cherny
+              - button "Clear search query" [ref=e36] [cursor=pointer]:
+                - generic [ref=e39]:
+                  - img
+            - button "Search" [ref=e43] [cursor=pointer]:
+              - generic [ref=e46]:
+                - img
+        - generic [ref=e48]:
+          - button "Search with your voice" [ref=e50] [cursor=pointer]:
+            - generic [ref=e54]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e59]:
+        - button "Settings" [ref=e64] [cursor=pointer]:
+          - generic [ref=e67]:
+            - img
+        - link "Sign in" [ref=e70] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D&hl=en&ec=65620
+          - generic [ref=e74]:
+            - img
+          - generic [ref=e75]: Sign in
+  - generic [ref=e79]:
+    - main [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e83]:
+          - tablist [ref=e88]:
+            - tab "All" [selected] [ref=e92] [cursor=pointer]:
+              - generic [ref=e94]: All
+            - tab "Shorts" [ref=e101] [cursor=pointer]:
+              - generic [ref=e103]: Shorts
+            - tab "Unwatched" [ref=e110] [cursor=pointer]:
+              - generic [ref=e112]: Unwatched
+            - tab "Watched" [ref=e119] [cursor=pointer]:
+              - generic [ref=e121]: Watched
+            - tab "Videos" [ref=e128] [cursor=pointer]:
+              - generic [ref=e130]: Videos
+            - tab "Recently uploaded" [ref=e137] [cursor=pointer]:
+              - generic [ref=e139]: Recently uploaded
+            - tab "Live" [ref=e146] [cursor=pointer]:
+              - generic [ref=e148]: Live
+          - generic [ref=e153]:
+            - button "Search filters" [ref=e155] [cursor=pointer]:
+              - generic [ref=e156]: Filters
+              - generic [ref=e160]:
+                - img
+            - tooltip "tooltip"
+        - generic [ref=e169]:
+          - generic [ref=e171]:
+            - link [ref=e173] [cursor=pointer]:
+              - /url: /@chairmanjoe4652
+            - generic [ref=e176]:
+              - link "Boris Cherny @chairmanjoe4652•1 subscriber" [ref=e177] [cursor=pointer]:
+                - /url: /@chairmanjoe4652
+                - generic [ref=e178]:
+                  - generic [ref=e182]: Boris Cherny
+                  - generic [ref=e183]: "@chairmanjoe4652•1 subscriber"
+              - link "Subscribe" [ref=e188] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbF9fNDM5TlZfR3U4anhUajdhQ3B0R0JZTHptZ3xBQ3Jtc0ttdzVvQVpydU5sNGdmeTJ1dkpCUWMzcjE4ejB2cGk1Rk9rM3otVE5nWGgwLXFZVlRPTFZibzJxaTBGTTRXRklidWhmaTJHVnlCcUlRNnFTZ0g4dzUzOWt6cTBwcHBlRXN6ajE5ZF9IekJTXzVJalVmeVpzQVh4SDBhY19heks0RkVNRUt1eUJDb3JFLU9jQ2RydTlRdVZ1RU9ZUVZhbzY5SFdCYjgzWVdNelluTDhBaExvaTRmYmxzbzFqOC1QajBzUE9xODE&hl=en
+                - generic [ref=e189]: Subscribe
+          - generic [ref=e194]:
+            - link [ref=e196] [cursor=pointer]:
+              - /url: /@villaruzzo
+            - generic [ref=e199]:
+              - link "Boris Cherny @villaruzzo•4 subscribers" [ref=e200] [cursor=pointer]:
+                - /url: /@villaruzzo
+                - generic [ref=e201]:
+                  - generic [ref=e205]: Boris Cherny
+                  - generic [ref=e206]: "@villaruzzo•4 subscribers"
+              - link "Subscribe" [ref=e211] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqa1JpZDBDRU53UkgxOHpnSmVlUFRGLXF0QXN3Z3xBQ3Jtc0ttN0JFbkNxOFJaMGtUY2t4RE1pT3JhbEpnWDdZV3Vhc1JZOTJCWF9kWFRZeWk5dGh3VU9IcXNiT3poNmtWVXRfbnVEYURWSmVxcDhId09KbFZ5SkM5OWNOV3VWYTh3V0ZNaEd5TzNFMEMzTV9nSlE5cVFuR1pKd2o3cW0wWDZIa0pfZEx1MVJWZXRHRG1XMDBOUmxNdUVQMzd5R0FXdzRnZDhWNjZDRWFxRWxQQUY3VjBwTk4zMVN6LWRZVHJWZVAtVWlCUUw&hl=en
+                - generic [ref=e212]: Subscribe
+          - generic [ref=e220]:
+            - img [ref=e226]:
+              - generic [ref=e228]:
+                - img
+            - generic [ref=e230] [cursor=pointer]:
+              - generic [ref=e231]:
+                - link "Seedance 2.0 Official Launch" [ref=e234]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9aUFmsbyaaLzGe-a88EP3KqOqAPN-cTKhgGKq_2VhhVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLsCT9DYRdSTZDPDPHZsQEEfN1LiSqJpWuKIZkxe3PxkpG6KRMTJrOh3SdG9DIT1tYm98MoEZApWNcNuT2SFFYf_eoZFsgr5s0WHqlXY6qVaDI454gLzeJj3FFuKWyrqs01eIdgu7NRT7Ut1dwMVm7ECEErbk0ijz7kNNceWPahTskfaH8y9CFSbtTaRW8GEdFyLDgwRxL8BtrFUBDLZRgRSELiIEiCqZeuBpLY1C_FJFeDP1Hwx3ZxR8NhLRpFo0FEzo3lm59cqPoge4i00wQBV8Xqqrngn3Q_sL_r2awMfL7Nl9Rv2da_hbv2yaqk-OI26ibG5f42L2j93ZB8RL6XObBr5jeVbeBl5ysL_ORoq832TUVlWlquRKdpQzvk3BnMmFM-OJI4t2IBz7Y15okhSd2o5vPAvjJiASWQ5iAWSu_67WJIFCAgTeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRY8JXHt8uUlAOaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCZTgxDKM8xTiyAkAmAsBugs9CAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEqIMImobChljb20uYnl0ZXBsdXMuYnl0ZXBsdXNsaXZleACIAQDSDAIQAZoNARKqDQJNWcgNAdIN6wFodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTA_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1wbWF4JnV0bV9jYW1wYWlnbj1zaWdudXBfc2VlZGFuY2VfZWFfZW5nbGlzaF8yMDI2MDQxNF9mbGYmdXRtX3Rlcm09MjAyNjA0MTRfYWxsX2FiaWxpdHlfc2VlZGFuY2UyLjAmdXRtX2NvbnRlbnQ9dGVjZG8mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNzQ4MTI0MDUwsA7G_oH7GLgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXY4duVFQPcIq6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIoqjHt8uUlAMVb808Ah1clQM1EAEYAiAAEgLNjvD_BwE&num=2&cid=CAASwwHkaKIStVTLnCfLBrgJ1xAn2gdma6YbD49uZt0icKIuNaPwU_eG1O_NK-m69sLT61zGBqO7gIx6XB9R4tvtYGgEpRDT9Tmbi-ckiBwBKqBHeKmBTiNOJZBPNipxS2bosPWntzlIJJxWpNb9vO4-IhXuWseq8G4xBc3_iUoLyGgy5cUId9pogud_qDNr7d50QInbTq9USaTuCJyEQ2Xvu242Aeo_IIDFCgTFPNWOF0uh2DA0ZjSWOKpjbpwzRbbKkLrpcLE&sig=AOD64_0YaSvVvISj5yaZwZ3pXgoYgWTALQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Seedance 2.0 instant access, no wait. Join now or be out of AI revolution." [ref=e237]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9aUFmsbyaaLzGe-a88EP3KqOqAPN-cTKhgGKq_2VhhVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLsCT9DYRdSTZDPDPHZsQEEfN1LiSqJpWuKIZkxe3PxkpG6KRMTJrOh3SdG9DIT1tYm98MoEZApWNcNuT2SFFYf_eoZFsgr5s0WHqlXY6qVaDI454gLzeJj3FFuKWyrqs01eIdgu7NRT7Ut1dwMVm7ECEErbk0ijz7kNNceWPahTskfaH8y9CFSbtTaRW8GEdFyLDgwRxL8BtrFUBDLZRgRSELiIEiCqZeuBpLY1C_FJFeDP1Hwx3ZxR8NhLRpFo0FEzo3lm59cqPoge4i00wQBV8Xqqrngn3Q_sL_r2awMfL7Nl9Rv2da_hbv2yaqk-OI26ibG5f42L2j93ZB8RL6XObBr5jeVbeBl5ysL_ORoq832TUVlWlquRKdpQzvk3BnMmFM-OJI4t2IBz7Y15okhSd2o5vPAvjJiASWQ5iAWSu_67WJIFCAgTeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRY8JXHt8uUlAOaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCZTgxDKM8xTiyAkAmAsBugs9CAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEqIMImobChljb20uYnl0ZXBsdXMuYnl0ZXBsdXNsaXZleACIAQDSDAIQAZoNARKqDQJNWcgNAdIN6wFodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTA_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1wbWF4JnV0bV9jYW1wYWlnbj1zaWdudXBfc2VlZGFuY2VfZWFfZW5nbGlzaF8yMDI2MDQxNF9mbGYmdXRtX3Rlcm09MjAyNjA0MTRfYWxsX2FiaWxpdHlfc2VlZGFuY2UyLjAmdXRtX2NvbnRlbnQ9dGVjZG8mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNzQ4MTI0MDUwsA7G_oH7GLgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXY4duVFQPcIq6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIoqjHt8uUlAMVb808Ah1clQM1EAEYAiAAEgLNjvD_BwE&num=2&cid=CAASwwHkaKIStVTLnCfLBrgJ1xAn2gdma6YbD49uZt0icKIuNaPwU_eG1O_NK-m69sLT61zGBqO7gIx6XB9R4tvtYGgEpRDT9Tmbi-ckiBwBKqBHeKmBTiNOJZBPNipxS2bosPWntzlIJJxWpNb9vO4-IhXuWseq8G4xBc3_iUoLyGgy5cUId9pogud_qDNr7d50QInbTq9USaTuCJyEQ2Xvu242Aeo_IIDFCgTFPNWOF0uh2DA0ZjSWOKpjbpwzRbbKkLrpcLE&sig=AOD64_0YaSvVvISj5yaZwZ3pXgoYgWTALQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e238]:
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: Sponsored
+                    - text: ·
+                  - generic [ref=e243]: BytePlus
+              - button "My Ad Center" [ref=e246]:
+                - generic [ref=e250]:
+                  - img
+          - generic [ref=e255]:
+            - link [ref=e257] [cursor=pointer]:
+              - /url: /@tokenrobinhood
+            - generic [ref=e260]:
+              - link "tokenrobinhood @tokenrobinhood•2 subscribers" [ref=e261] [cursor=pointer]:
+                - /url: /@tokenrobinhood
+                - generic [ref=e262]:
+                  - generic [ref=e266]: tokenrobinhood
+                  - generic [ref=e267]: "@tokenrobinhood•2 subscribers"
+              - link "Subscribe" [ref=e272] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqa2o0UG1Za1AxelNmZzhFWi1UMnU4RXRfX2tNd3xBQ3Jtc0trOXVIcF9wN0FIalIybHhHQ2RKczRlZXkzOFVoNG5tQmZxVTRLanlDTVB4MThCYXlMMUVfN1BtOGJ0VmM1NWRmck5uUHRpNWpHcWZUWGNaU01GempjNlBlZWh0MGExcEtjRjJXMERKSkVHaTR5VG5WazlsbjkyR3M0Zy1Bc0JkVEJ0aVBYU2drNWc0ZGRuR0FlQ0VmQnNVVXZRd0hOUUlHQWcwbE1FcHFCS0k1bmZMTjVqOXVWNjhwTWhiM21MZTloTkVxSmI&hl=en
+                - generic [ref=e273]: Subscribe
+          - generic [ref=e278]:
+            - link [ref=e280] [cursor=pointer]:
+              - /url: /@pragmaticengineer
+            - generic [ref=e283]:
+              - link "The Pragmatic Engineer @pragmaticengineer•493K subscribers Interviews about software engineering, Big Tech and startups. Highly relevant for developers and engineering leaders, useful for ..." [ref=e284] [cursor=pointer]:
+                - /url: /@pragmaticengineer
+                - generic [ref=e285]:
+                  - generic [ref=e289]: The Pragmatic Engineer
+                  - generic [ref=e290]: "@pragmaticengineer•493K subscribers"
+                  - generic [ref=e291]: Interviews about software engineering, Big Tech and startups. Highly relevant for developers and engineering leaders, useful for ...
+              - link "Subscribe" [ref=e296] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqa3NqTUpLM3RBUGQyQURPUkJfS0dsdE5ETjgzQXxBQ3Jtc0tsNVotN04zbHdLMzd0XzhYTkpTR0RZUFV3dl9kOE5Db2piRnY2X1RjOHhfNWw3RE83S29yYll6eXN1a3RCck91b18tNzhjZF9ieWRCRnE0VHNyMjR5akkxMUtBbmFPYmFXUGFVeklPc241WWJUdXRabzNiT2kwNHpXclFKeUFDcXIzQUNrRXF5d083dU8wRzVYWXM4eUYxUlhsM0VWeFNfczlLd0hxWXJ6cUZpNFJWbk1CaTRMTGN2YVlzazdYN2Y5YXZJVHk&hl=en
+                - generic [ref=e297]: Subscribe
+          - generic [ref=e305]:
+            - img [ref=e311]:
+              - generic [ref=e313]:
+                - img
+            - generic [ref=e315] [cursor=pointer]:
+              - generic [ref=e316]:
+                - link "Parallels® Desktop" [ref=e319]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CPYqTmsbyaaLzGe-a88EP3KqOqAP1h8D8hQGKnsWx1xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAlO_8A6gDBMgDCqoEmAJP0Bau97NkocMUdr44ZzUkYPVIuEtUwK11YgXhrkKOfbhTxtOO5lVh14Q9lsygiKzozltRWHAf0FxYZp81vfoDkBeUJO6QR5uHUtfhvBUnwDjxFfdCmM0XS55dO7K-Eng76B_i-xnkFGhmERmOvT5EPpPMVbLdtRg50pY5khPDR8Qfyr8KVpepPohFxpr2bTZ4dBGdsUC6qlQSIpVARVyl1GNkZqo85cCorTUd4QUTocGUY3vcjE7xxwBGy3rHUymfYEzz0DZxs0zSKzWDMBbXYKGlllxcle9z-TqpD9vlDEL-bFSLSRt9qjoCvClFpIVx-GPthTPY2cUeC63uTTJAPUZ20Xmk_7VXKAMcH_NPQrurSNkkQAAZiAXH9braV5IFBwgTePyVxQSgBm6AB6jrkAOQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRY8JXHt8uUlAOaCS9odHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvL7EJmUHiHWMQt0_ICQDICYoCyAmXApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMFdmlzaW7QCxKiDDViFgoUY29tLnBhcmFsbGVscy5jbGllbnRqFgoUY29tLnBhcmFsbGVscy5jbGllbnR4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g2tAmh0dHBzOi8vd3d3LnBhcmFsbGVscy5jb20vcHJvZHVjdHMvZGVza3RvcC9wcm8vP3V0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV90ZXJtPSZ1dG1fY29udGVudD0mdXRtX2lkPTIzNTQzNTkzNjcxJmV4dGVuc2lvbmlkPSZtYXRjaHR5cGU9JmRldmljZT1jJmRldmljZW1vZGVsPSZjcmVhdGl2ZT03OTY3MjkyNTgyNTcmbmV0d29yaz0mcGxhY2VtZW50PSZ4LXNvdXJjZT1wcGMmY2FtcGFpZ25fbmFtZT1QRGZNLURlbWFuZEdlbi1FTi1UaWVyMSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM1NDM1OTM2NzG4E____________wGIFAOwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF62ic4xxbp6fuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIoqjHt8uUlAMVb808Ah1clQM1EAEYAyAAEgJ01fD_BwE&num=3&cid=CAASwwHkaKIStVTLnCfLBrgJ1xAn2gdma6YbD49uZt0icKIuNaPwU_eG1O_NK-m69sLT61zGBqO7gIx6XB9R4tvtYGgEpRDT9Tmbi-ckiBwBKqBHeKmBTiNOJZBPNipxS2bosPWntzlIJJxWpNb9vO4-IhXuWseq8G4xBc3_iUoLyGgy5cUId9pogud_qDNr7d50QInbTq9USaTuCJyEQ2Xvu242Aeo_IIDFCgTFPNWOF0uh2DA0ZjSWOKpjbpwzRbbKkLrpcLE&sig=AOD64_1zG-__U0djf0XQ_thh9Dhc-CgkRg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Windows on Mac. macOS Tahoe Optimized. Play PC Games on Intel, M1/M2/M3 chip Mac." [ref=e322]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CPYqTmsbyaaLzGe-a88EP3KqOqAP1h8D8hQGKnsWx1xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAlO_8A6gDBMgDCqoEmAJP0Bau97NkocMUdr44ZzUkYPVIuEtUwK11YgXhrkKOfbhTxtOO5lVh14Q9lsygiKzozltRWHAf0FxYZp81vfoDkBeUJO6QR5uHUtfhvBUnwDjxFfdCmM0XS55dO7K-Eng76B_i-xnkFGhmERmOvT5EPpPMVbLdtRg50pY5khPDR8Qfyr8KVpepPohFxpr2bTZ4dBGdsUC6qlQSIpVARVyl1GNkZqo85cCorTUd4QUTocGUY3vcjE7xxwBGy3rHUymfYEzz0DZxs0zSKzWDMBbXYKGlllxcle9z-TqpD9vlDEL-bFSLSRt9qjoCvClFpIVx-GPthTPY2cUeC63uTTJAPUZ20Xmk_7VXKAMcH_NPQrurSNkkQAAZiAXH9braV5IFBwgTePyVxQSgBm6AB6jrkAOQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRY8JXHt8uUlAOaCS9odHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvL7EJmUHiHWMQt0_ICQDICYoCyAmXApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMFdmlzaW7QCxKiDDViFgoUY29tLnBhcmFsbGVscy5jbGllbnRqFgoUY29tLnBhcmFsbGVscy5jbGllbnR4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g2tAmh0dHBzOi8vd3d3LnBhcmFsbGVscy5jb20vcHJvZHVjdHMvZGVza3RvcC9wcm8vP3V0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV90ZXJtPSZ1dG1fY29udGVudD0mdXRtX2lkPTIzNTQzNTkzNjcxJmV4dGVuc2lvbmlkPSZtYXRjaHR5cGU9JmRldmljZT1jJmRldmljZW1vZGVsPSZjcmVhdGl2ZT03OTY3MjkyNTgyNTcmbmV0d29yaz0mcGxhY2VtZW50PSZ4LXNvdXJjZT1wcGMmY2FtcGFpZ25fbmFtZT1QRGZNLURlbWFuZEdlbi1FTi1UaWVyMSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM1NDM1OTM2NzG4E____________wGIFAOwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF62ic4xxbp6fuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIoqjHt8uUlAMVb808Ah1clQM1EAEYAyAAEgJ01fD_BwE&num=3&cid=CAASwwHkaKIStVTLnCfLBrgJ1xAn2gdma6YbD49uZt0icKIuNaPwU_eG1O_NK-m69sLT61zGBqO7gIx6XB9R4tvtYGgEpRDT9Tmbi-ckiBwBKqBHeKmBTiNOJZBPNipxS2bosPWntzlIJJxWpNb9vO4-IhXuWseq8G4xBc3_iUoLyGgy5cUId9pogud_qDNr7d50QInbTq9USaTuCJyEQ2Xvu242Aeo_IIDFCgTFPNWOF0uh2DA0ZjSWOKpjbpwzRbbKkLrpcLE&sig=AOD64_1zG-__U0djf0XQ_thh9Dhc-CgkRg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e323]:
+                  - generic [ref=e325]:
+                    - generic [ref=e326]: Sponsored
+                    - text: ·
+                  - generic [ref=e328]: Parallels
+              - button "My Ad Center" [ref=e331]:
+                - generic [ref=e335]:
+                  - img
+          - generic [ref=e340]:
+            - link [ref=e342] [cursor=pointer]:
+              - /url: /@aimlhuman
+            - generic [ref=e345]:
+              - link "AI & ML Human Training @aimlhuman A central hub for AI and ML - curated education, learning, and training. For humans, by a human." [ref=e346] [cursor=pointer]:
+                - /url: /@aimlhuman
+                - generic [ref=e347]:
+                  - generic [ref=e351]: AI & ML Human Training
+                  - generic [ref=e352]: "@aimlhuman"
+                  - generic [ref=e353]: A central hub for AI and ML - curated education, learning, and training. For humans, by a human.
+              - link "Subscribe" [ref=e358] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqblBCTzNtX2ZjOVlNS2lUSF9mbEYtejVvTEJId3xBQ3Jtc0tuRV9QVFBLVUlCWHFHUlFFVGFlcnY1N1hieXBlOS1CS2N0emV3UGF3akNUSHY0cVhLYjd6WkktbEdGbzRFNHJNaWJKUVk0anlvTjljdlI2R3FWTGREMVBLYWRtakdseXJSXzNyNEx3dmFQU0ZIY2hkTGFVT1c1VkhPM1YzeVo3ZFFqcUZtWjNJa1o4X1d2OUpBX3JQMVJoQk9wODJ0akt4VTc2VUVlMEFNMlVkbDdmX3VYdmhGdmJySVhMN1hmWklQanFxNEI&hl=en
+                - generic [ref=e359]: Subscribe
+          - generic [ref=e364]:
+            - link [ref=e366] [cursor=pointer]:
+              - /url: /@Next.Gen.QA.Official
+            - generic [ref=e369]:
+              - link "NextGenQA @Next.Gen.QA.Official•107 subscribers NextGenQA – AI-Powered Testing & Engineering I'm Soumyansh, AVP / Senior QA Engineer with 13+ years in banking & fintech, ..." [ref=e370] [cursor=pointer]:
+                - /url: /@Next.Gen.QA.Official
+                - generic [ref=e371]:
+                  - generic [ref=e375]: NextGenQA
+                  - generic [ref=e376]: "@Next.Gen.QA.Official•107 subscribers"
+                  - generic [ref=e377]: NextGenQA – AI-Powered Testing & Engineering I'm Soumyansh, AVP / Senior QA Engineer with 13+ years in banking & fintech, ...
+              - link "Subscribe" [ref=e382] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqa1phZDVVRG1NaHVMODh6RUFGdVBSMHg1YmN0QXxBQ3Jtc0ttU1NIY2JWNTBqQUtDOXhKM3M3YTdyMjQ5bktuNGtXOTBLWlZOMFZiM0tmX2J3YzM3SHNmTU5NMUlCZUlWS3pfaEFRTnNfWHZBUGxCS2dxOHdkZElPUk5qNXdqRlJBbkJQMko4QjA1dlVLZG1XVWtVcFpSMjVCTlczWUMzWFJ3cGNmUFlwYkd3cW01blV5VHVNLXhYYmM5Y3RwUHotZk45cDFUVDRUUnpuNGMycEhkUko1Tk9NQnU4OTZ2NW9LT014UFBFbnc&hl=en
+                - generic [ref=e383]: Subscribe
+          - generic [ref=e388]:
+            - link [ref=e390] [cursor=pointer]:
+              - /url: /@EvgenyShkuratovDesigner
+            - generic [ref=e393]:
+              - link "Evgeny Shkuratov @EvgenyShkuratovDesigner•110 subscribers My name is Evgeny Shkuratov I'm a product designer with 8+ years and 100+ products shipped. Now I design AND build with AI." [ref=e394] [cursor=pointer]:
+                - /url: /@EvgenyShkuratovDesigner
+                - generic [ref=e395]:
+                  - generic [ref=e399]: Evgeny Shkuratov
+                  - generic [ref=e400]: "@EvgenyShkuratovDesigner•110 subscribers"
+                  - generic [ref=e401]: My name is Evgeny Shkuratov I'm a product designer with 8+ years and 100+ products shipped. Now I design AND build with AI.
+              - link "Subscribe" [ref=e406] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbGVKbThYNkJwTGpoZnpkbFFRMFBIVlZ4Z0EwZ3xBQ3Jtc0tuUnRYU0U0d3ZmaWhjdzlZU0g0eHh5MHhPVHRHZ1gwN2pteGNJUzNQN2dsWUJUVjBSbEh2U0NFT19xYnhHR3gtZVEzSHFrb1RVTWtwUGxUWnhVZ21DYWZfV1FIME5XMkJlbUdROC1CdHlPUUJzQ3VYZkJFU09rV3J4eVctcUd3dUJXMXRpb3pMY0gxRzE1RjhwSVVkdldGQUVsREYzY2FLWGVqeTJ0d1ZENGxtQm9acFE3bFB0M3dTbmtZS2xQUXNIRTZadzU&hl=en
+                - generic [ref=e407]: Subscribe
+          - generic [ref=e412]:
+            - link [ref=e414] [cursor=pointer]:
+              - /url: /@thebuilderweekly
+            - generic [ref=e417]:
+              - link "The Builder Weekly @thebuilderweekly•212 subscribers The Builder Weekly is where AI builders come to learn, get inspired, and ship. Every week we break down AI concepts, surface ..." [ref=e418] [cursor=pointer]:
+                - /url: /@thebuilderweekly
+                - generic [ref=e419]:
+                  - generic [ref=e423]: The Builder Weekly
+                  - generic [ref=e424]: "@thebuilderweekly•212 subscribers"
+                  - generic [ref=e425]: The Builder Weekly is where AI builders come to learn, get inspired, and ship. Every week we break down AI concepts, surface ...
+              - link "Subscribe" [ref=e430] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbXk0UFV0NUtBT0p1LTJ6ckdsWU9ESFJyX190UXxBQ3Jtc0tsbjV4UDhnM1p6YkVScjZuYTlxOGVFUFIyY3F1WkFQMUpkYnVsVXYyZ0czZjNiTWFHSGRfV3IySWUyX3dqZ3Q4SjFMcElRUjN2a0dMSEVDd2NWU2J6aHA3Vzc5ODA2RW8xX3U0d21sWXJ1MTRDZWhlWDRUQTkxajBJeFBic1FOaGpoaHRZejFLMmNuWFNFc2VwYTcxc2lIZm85NjhqUnotRXRNbk1RMkdraWxRQzlkRVR6QnlmbllvWWxLNWhUMGlKTWlrUkE&hl=en
+                - generic [ref=e431]: Subscribe
+          - generic [ref=e436]:
+            - link [ref=e438] [cursor=pointer]:
+              - /url: /@fraser-ai
+            - generic [ref=e441]:
+              - link "Fraser AI @fraser-ai•663 subscribers Hi, I'm Fraser! I own an AI Automation Agency which serves clients across the UK, USA, Europe and Asia. I also help ..." [ref=e442] [cursor=pointer]:
+                - /url: /@fraser-ai
+                - generic [ref=e443]:
+                  - generic [ref=e447]: Fraser AI
+                  - generic [ref=e448]: "@fraser-ai•663 subscribers"
+                  - generic [ref=e449]: Hi, I'm Fraser! I own an AI Automation Agency which serves clients across the UK, USA, Europe and Asia. I also help ...
+              - link "Subscribe" [ref=e454] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbXJZVmdmUGMzend1WFJHU09XOG1CMjB2OHFpQXxBQ3Jtc0trOVJKU1R3bldRd25pR1dOS3RBdk85NnRvbVVkMmtaeFVRRWlsY0ZVeTZzMkFnaGg5V2ZrQlFmMnpLRWFFSWhVNUJya2dOUEhobEIwdDNIcmRNWHpITkJZbktRRkxUODVrSEgxZ195WjFGN0RaX3RQWFdWSlhiVUJDZnhSQjZkUUs3SkxRQUdMVDVLUTVid0wxeVdDQV9SN0xhMjdIRU9vMzBBdU5DTWk1c1VPUlpia0RNOWpHV3FCX2hfYXhVNncxUkpVME0&hl=en
+                - generic [ref=e455]: Subscribe
+          - generic [ref=e463]:
+            - img [ref=e469]:
+              - generic [ref=e471]:
+                - img
+            - generic [ref=e473] [cursor=pointer]:
+              - generic [ref=e474]:
+                - link "Build AI Agents Free" [ref=e477]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5jv9msbyaaLzGe-a88EP3KqOqAO3tfDWhgH69JPZ7xVkEAQgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABgZm0wAOoAwTIAwqqBJMCT9AWrvezZKHDFHa-OGc1JGD1SLhLVMCtdWIF4a5Cjn24U8bTjuZVYdeEPZbMoIis6M5bUVhwH9BcWGafNb36A5AXlCTukEebh1LX4bwVJ8A48RX3QpjNF0ueXTuyvhJ4O-gf4vsZ5BRoZhEZjr0-RD6TzFWy3bUYOdKWOZITw0fEH8q_ClaXqT6IRcaa9m02eHQRnbFAuqpUEiKVQEVcpdRjZGaqPOXAqK01HeEFE6HBlGN73IxO8ccARst6x1Mpn2BM89A2cbNM0is1gzAW12ChpZZcXJXv6Dj4p8kROwhlntqtbcB-U8onF7zxqoeZoSPq_S092MmxXj-6xm3H0fp4UsDmYlQVcN__r9bVtsE5D3SIBey646hYkgUICBN4j5m7pRmgBm6AB5Sr15YZkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWPCVx7fLlJQDmgkraHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU4L7EJ3JatBdh-JPbICQDICYoCmAsBugs9CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEtIMAhABmg0BEqoNAk1ZyA0B0g1TaHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU4Lz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MDc4MzU3NTa4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFwVp09G4h8LkuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIoqjHt8uUlAMVb808Ah1clQM1EAEYBCAAEgITrPD_BwE&num=4&cid=CAASwwHkaKIStVTLnCfLBrgJ1xAn2gdma6YbD49uZt0icKIuNaPwU_eG1O_NK-m69sLT61zGBqO7gIx6XB9R4tvtYGgEpRDT9Tmbi-ckiBwBKqBHeKmBTiNOJZBPNipxS2bosPWntzlIJJxWpNb9vO4-IhXuWseq8G4xBc3_iUoLyGgy5cUId9pogud_qDNr7d50QInbTq9USaTuCJyEQ2Xvu242Aeo_IIDFCgTFPNWOF0uh2DA0ZjSWOKpjbpwzRbbKkLrpcLE&sig=AOD64_2eYWL7jeUww8NWZkO0aopWtMZAVQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Built for advanced reasoning, scalable efficiency, and real-world performance" [ref=e480]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5jv9msbyaaLzGe-a88EP3KqOqAO3tfDWhgH69JPZ7xVkEAQgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABgZm0wAOoAwTIAwqqBJMCT9AWrvezZKHDFHa-OGc1JGD1SLhLVMCtdWIF4a5Cjn24U8bTjuZVYdeEPZbMoIis6M5bUVhwH9BcWGafNb36A5AXlCTukEebh1LX4bwVJ8A48RX3QpjNF0ueXTuyvhJ4O-gf4vsZ5BRoZhEZjr0-RD6TzFWy3bUYOdKWOZITw0fEH8q_ClaXqT6IRcaa9m02eHQRnbFAuqpUEiKVQEVcpdRjZGaqPOXAqK01HeEFE6HBlGN73IxO8ccARst6x1Mpn2BM89A2cbNM0is1gzAW12ChpZZcXJXv6Dj4p8kROwhlntqtbcB-U8onF7zxqoeZoSPq_S092MmxXj-6xm3H0fp4UsDmYlQVcN__r9bVtsE5D3SIBey646hYkgUICBN4j5m7pRmgBm6AB5Sr15YZkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWPCVx7fLlJQDmgkraHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU4L7EJ3JatBdh-JPbICQDICYoCmAsBugs9CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEtIMAhABmg0BEqoNAk1ZyA0B0g1TaHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU4Lz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MDc4MzU3NTa4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFwVp09G4h8LkuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIoqjHt8uUlAMVb808Ah1clQM1EAEYBCAAEgITrPD_BwE&num=4&cid=CAASwwHkaKIStVTLnCfLBrgJ1xAn2gdma6YbD49uZt0icKIuNaPwU_eG1O_NK-m69sLT61zGBqO7gIx6XB9R4tvtYGgEpRDT9Tmbi-ckiBwBKqBHeKmBTiNOJZBPNipxS2bosPWntzlIJJxWpNb9vO4-IhXuWseq8G4xBc3_iUoLyGgy5cUId9pogud_qDNr7d50QInbTq9USaTuCJyEQ2Xvu242Aeo_IIDFCgTFPNWOF0uh2DA0ZjSWOKpjbpwzRbbKkLrpcLE&sig=AOD64_2eYWL7jeUww8NWZkO0aopWtMZAVQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e481]:
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: Sponsored
+                    - text: ·
+                  - generic [ref=e486]: Alibaba Cloud
+              - button "My Ad Center" [ref=e489]:
+                - generic [ref=e493]:
+                  - img
+          - generic [ref=e498]:
+            - link [ref=e500] [cursor=pointer]:
+              - /url: /@indydevdan
+            - generic [ref=e503]:
+              - link "IndyDevDan @indydevdan•130K subscribers On this channel we think, plan, and build. Right now on the channel, we're on the path to evolve into Agentic engineers." [ref=e504] [cursor=pointer]:
+                - /url: /@indydevdan
+                - generic [ref=e505]:
+                  - generic [ref=e509]: IndyDevDan
+                  - generic [ref=e510]: "@indydevdan•130K subscribers"
+                  - generic [ref=e511]: On this channel we think, plan, and build. Right now on the channel, we're on the path to evolve into Agentic engineers.
+              - link "Subscribe" [ref=e516] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqazZyQTQ3dWtaUWFVejFaaGtCcS1YYzdVSkVxZ3xBQ3Jtc0tuczlmaUtfQ3QzU3d3MElfRTBMWGViNUlodWxaWS1TQW82Z1p5ZktPMWNOYnZfYlhOQlEwTml2LWMwSkF2WXFoelJiTmJoMUNTNmRySmZGem1kYWdLLWlnUXZMaldJQi1IUWlKTEtLVWlZUzkwdXFHTFh1elNEV2hJVWFDeHBRU2pJZmpYTjQyT2hTeGtDWmFyY3BlWGE5bFl0YnBsZW02SWF2WlBYQi0tYWR1SzJzNWNIejFTdko0UTJ3NFJVWV93R2FJNkE&hl=en
+                - generic [ref=e517]: Subscribe
+          - generic [ref=e522]:
+            - link [ref=e524] [cursor=pointer]:
+              - /url: /@NativeNotify
+            - generic [ref=e527]:
+              - link "Native Notify @NativeNotify•11.6K subscribers Check out NativeNotify.com if you're looking to set up push notifications for your app." [ref=e528] [cursor=pointer]:
+                - /url: /@NativeNotify
+                - generic [ref=e529]:
+                  - generic [ref=e533]: Native Notify
+                  - generic [ref=e534]: "@NativeNotify•11.6K subscribers"
+                  - generic [ref=e535]: Check out NativeNotify.com if you're looking to set up push notifications for your app.
+              - link "Subscribe" [ref=e540] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbHg2R1ZLVFJjcGZDLTRFd255UktMUHB1RmFOZ3xBQ3Jtc0tuTFBldTB2a2QtUjIza0l3ejBYNW1OdWpFdkRZb3hTeTdYc3RONWstV3k2MFhEcXZBVFhsM0xUQnZJSUdOVWM0TjRFd0RLbFNNWElIMmJwT19ISi1VRThfeFZPY05OblNxSC1MVnRYUTdyd2tqb2g1TXhTMGEwMWUxWXg1U00tZFMyTkJvdmx3RlZRdlcyZ2ZMaUtiRFl1SGpNaEE2MHp3VVI2SEQteUxRV3pJR2x2b3hyOHVjWW56NkhGN3FfLWc2WDNXR2o&hl=en
+                - generic [ref=e541]: Subscribe
+          - generic [ref=e546]:
+            - link [ref=e548] [cursor=pointer]:
+              - /url: /@LeadGenMan
+            - generic [ref=e551]:
+              - 'link "Manthan | Lead Gen Man @LeadGenMan•5.99K subscribers My two goal: the first is to be a leading figure in AI education and lead generation, and the second is to teach businesses how to ..." [ref=e552] [cursor=pointer]':
+                - /url: /@LeadGenMan
+                - generic [ref=e553]:
+                  - generic [ref=e557]: Manthan | Lead Gen Man
+                  - generic [ref=e558]: "@LeadGenMan•5.99K subscribers"
+                  - generic [ref=e559]: "My two goal: the first is to be a leading figure in AI education and lead generation, and the second is to teach businesses how to ..."
+              - link "Subscribe" [ref=e564] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqa1RSNUxVa3Q1WEtxdjFUaTBmTmg4azl5Z3lKQXxBQ3Jtc0tsOGhDRnA3QzQxb2g5VDNjTUJVRC16QzA0NmZPZ1pwWEs0UE10ejRvMWJHb0lYOVVUWDBxQk1pdklTU0YyUG44d2hySjBkV3FFckFfdFF0bnQ4OFp2VzJtd3F0WGNUdTczZW9NNUdUQnc3aHVrZWZOaHNEOHNKVTN1ZW1YVlRpeG9KYWhqV2RHMXozUUowaGM2Y0pYd0xBNHY2cldWYkhGeFFBVV92MDVSakl6c2hKMGw0WHBYcEdETVhOOWc1LTVHSVdjWFE&hl=en
+                - generic [ref=e565]: Subscribe
+          - generic [ref=e570]:
+            - link [ref=e572] [cursor=pointer]:
+              - /url: /@yaninaledovaya
+            - generic [ref=e575]:
+              - link "Yanina Ledovaya @yaninaledovaya•13 subscribers A cognitive psychologist exploring AI, software development, and the human side of programming." [ref=e576] [cursor=pointer]:
+                - /url: /@yaninaledovaya
+                - generic [ref=e577]:
+                  - generic [ref=e581]: Yanina Ledovaya
+                  - generic [ref=e582]: "@yaninaledovaya•13 subscribers"
+                  - generic [ref=e583]: A cognitive psychologist exploring AI, software development, and the human side of programming.
+              - link "Subscribe" [ref=e588] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbjNTZzlKLWxQaHpxcFUxRXN1ckpCUVhkdEtRd3xBQ3Jtc0tuQmZFQ1lSU0d0MDUwR1QwamE4X0djejB3eHhxSERUUG5SRWV2QzhtU2tqRFA2Uzlmb29KSDlpQ3Z0cmFBQmdQMElYbFBJd3lGOEJZMmhXMERYWkR6ZkxpNWN1RUNiQUxtcjZSWUhsVVUzdUpNdFRENUMwNFJQenlBT0JqSHdkZ0REQm9KVi1RNGVXbTExcTh0bjl0cEFsR3BfTXBub2F3QnJQbm11eHQwNVdObnZqcHZWemIxWEhsTWQwVldLSkdYZXZqQjU&hl=en
+                - generic [ref=e589]: Subscribe
+          - generic [ref=e594]:
+            - link [ref=e596] [cursor=pointer]:
+              - /url: /@J_clipz11
+            - generic [ref=e599]:
+              - link "Jeff @J_clipz11•18 subscribers" [ref=e600] [cursor=pointer]:
+                - /url: /@J_clipz11
+                - generic [ref=e601]:
+                  - generic [ref=e605]: Jeff
+                  - generic [ref=e606]: "@J_clipz11•18 subscribers"
+              - link "Subscribe" [ref=e611] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqa0h5RmhlQVVROWtfOGZyQXY5OVI4ekR2RTFGUXxBQ3Jtc0ttWFZHYTlZNE91VHo2alpzTFBFM0c4d25Zc0MwNktPWXk5UnFxRDJkNTc5T2VNS1pzd2Z5UHU0cnRoODBUWnhHZ0llWWtMVUJRUEpOUkZwV1JNWjNnYXFWM25TYjFKQTNXa082d1VxWXdtdDZWRVlOSW9uT2NUUFM1cU1yYWFRQXVTTWtWYzNKT3haRTlQakVNRFFKWHJKTmpkZHhOT0toSHFSaWl0eERUYmh3bnpyMXlZTHJCbEhDdGNwZ1lBSTdiejlCcEg&hl=en
+                - generic [ref=e612]: Subscribe
+          - generic [ref=e617]:
+            - link [ref=e619] [cursor=pointer]:
+              - /url: /@ai-with-GP
+            - generic [ref=e622]:
+              - link "Gnaneshwari-Pinna @ai-with-GP•18 subscribers Free Skool Community ..." [ref=e623] [cursor=pointer]:
+                - /url: /@ai-with-GP
+                - generic [ref=e624]:
+                  - generic [ref=e628]: Gnaneshwari-Pinna
+                  - generic [ref=e629]: "@ai-with-GP•18 subscribers"
+                  - generic [ref=e630]: Free Skool Community ...
+              - link "Subscribe" [ref=e635] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbHNybllpTlhHUFlGTS1vNFFOakdKNkhNWEEzZ3xBQ3Jtc0trWDZTQjVqV2ZiMVl4THhwSmVQY3Q0aDkyeHFDNThMcUdUOFh3UVpBTzhfalRqd0t6dVZ5ZlZBNUJGQWdYN0ItSFpkZGJFdVlUT295Ymo2dkdrM3JXTUVDUllCTUgtZ1N2WWhTU2kzLUFBX3N2SURtYkVMblZXbnluNzNTbXp6ek1jU0YxU2hxcjVtUW8yVjEtQkM1SE5oRzJBdmFVUzRkVzJWdC1FbXdfQklwdnlkTEpTdUhVeWtlZjBFeTRvRmFnVUoxb0w&hl=en
+                - generic [ref=e636]: Subscribe
+          - generic [ref=e641]:
+            - link [ref=e643] [cursor=pointer]:
+              - /url: /@adev_cpl
+            - generic [ref=e646]:
+              - link "Adrian CHIAPELLO | Claude Code @adev_cpl•2.6K subscribers Code moins. Gagne plus. Même un débutant peut coder comme un senior maintenant. L'IA fait le sale boulot, toi tu gardes le ..." [ref=e647] [cursor=pointer]:
+                - /url: /@adev_cpl
+                - generic [ref=e648]:
+                  - generic [ref=e652]: Adrian CHIAPELLO | Claude Code
+                  - generic [ref=e653]: "@adev_cpl•2.6K subscribers"
+                  - generic [ref=e654]: Code moins. Gagne plus. Même un débutant peut coder comme un senior maintenant. L'IA fait le sale boulot, toi tu gardes le ...
+              - link "Subscribe" [ref=e659] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbGNrWDNNcDV4UUVGZ2l0cDVROVhSNEVzMGNwQXxBQ3Jtc0ttS3RKZmVrN0tUUzlwdElWdi1hQlNwaFFKMGJ6SmtBWklsTGdtbUUwa3ZhV0thRk9jZkNzZWtZVVpfeDZ3c2EwQ1Z6NjdvVXo2NWplNUU1N3ZHOHZDR0xGUTFRZWN3WjJXZGtSQTlFc2c3VlgyY0xtWXNRRDU4M05VdzF4bVlkQXBIU1BPNDRpRTM3T01KVWVsRUJHZXVEbE9pUHpBeC1JN2J1MG02RTJ6QnpVMW9aNkg3Yk9tU2pKMEcwRzRqOTFvcXEwVXQ&hl=en
+                - generic [ref=e660]: Subscribe
+          - generic [ref=e665]:
+            - link [ref=e667] [cursor=pointer]:
+              - /url: /@CodarComIA
+            - generic [ref=e670]:
+              - link "Codar Com IA @CodarComIA•381 subscribers" [ref=e671] [cursor=pointer]:
+                - /url: /@CodarComIA
+                - generic [ref=e672]:
+                  - generic [ref=e676]: Codar Com IA
+                  - generic [ref=e677]: "@CodarComIA•381 subscribers"
+              - link "Subscribe" [ref=e682] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbHpDM2dtQVNaTkpFZkxXLUVDUHR2QTFMaVVEUXxBQ3Jtc0tsdExQSmxUV2FfdnVySVFlcmtydFpidjhKUEdBYldsTWhJWnBvZHkxbEZjNy1ManByYVVhSFJ4cXd5alpNUjE3eEt4RWhmbzZRRXhzUUx4MnIwUDhiTDlMQnQ5dFBkSnIxRmZzM3ZIQ3ZCTExSUWxmME1DVGlpZW1JX3RuTGtreE9KY2Eyd245blZGaE92bVVaWWYzZzZtX2RhMlpNaUlTS3pqT1ozaS1aOUU3UERsY2pOY3JuNWxIU3k0Y05XT2lVTHJKeHQ&hl=en
+                - generic [ref=e683]: Subscribe
+          - generic [ref=e688]:
+            - link [ref=e690] [cursor=pointer]:
+              - /url: /@aibr%C3%AF%C3%AF%C4%93f
+            - generic [ref=e693]:
+              - link "AI BRIEF @aibrïïēf•16 subscribers AI BRIEF explores the world of artificial intelligence with depth, clarity, and insight. We break down global AI trends, investment ..." [ref=e694] [cursor=pointer]:
+                - /url: /@aibr%C3%AF%C3%AF%C4%93f
+                - generic [ref=e695]:
+                  - generic [ref=e699]: AI BRIEF
+                  - generic [ref=e700]: "@aibrïïēf•16 subscribers"
+                  - generic [ref=e701]: AI BRIEF explores the world of artificial intelligence with depth, clarity, and insight. We break down global AI trends, investment ...
+              - link "Subscribe" [ref=e706] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbDkxYW9kMk5oZVIycUpPaVdDU3RIWEhUUmV6UXxBQ3Jtc0tsdmRJUW9NdHEwY3BQZ2hLV0d3Z0NpMkxCUC0xcFlRY0lnc3BpbDRjTFhIOE1WXzVhNlZyOVc0WVpQTEdZWWVPdnRaWGh2cUdfeGxDNEJUXzQ2enpXUjh1QTliX19peUVhbTRmRE1OU19sTEpVM0tMOTFTSzhJQ3Zab2VycFI1X3YtWkl5Umc2dkRhWDdBeTY5aDNTNG9SaFRnSGp2ay1zSlRzdFgtZlQ0M00yaDRBLUhUMjlLUjlxRUpBTGdHYXZOV1VkRWY&hl=en
+                - generic [ref=e707]: Subscribe
+          - generic [ref=e712]:
+            - link [ref=e714] [cursor=pointer]:
+              - /url: /@Adhiraj.Hangal
+            - generic [ref=e717]:
+              - link "Adhiraj @Adhiraj.Hangal•365 subscribers Hi I'm Adhiraj. I help businesses use AI systems to save time and stay competitive. While studying computer engineering and ..." [ref=e718] [cursor=pointer]:
+                - /url: /@Adhiraj.Hangal
+                - generic [ref=e719]:
+                  - generic [ref=e723]: Adhiraj
+                  - generic [ref=e724]: "@Adhiraj.Hangal•365 subscribers"
+                  - generic [ref=e725]: Hi I'm Adhiraj. I help businesses use AI systems to save time and stay competitive. While studying computer engineering and ...
+              - link "Subscribe" [ref=e730] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbmlJTDdOWk1CWXpIVWxiaV9Wa1QxdEFyYUpOZ3xBQ3Jtc0trSVNxU19rZWJMRm5jelBlZ3VRTzJzcGMxS29KMGlmc3dia1RtdWpZVTd4SkJWSVFUcktxWU02U2ZYSUU2dTlnM1BXVkMyZHBxc0stVjVUbWdOTTlnMWx0ZFlBYmZ6b3pxbHAyZFlndmdYeG9GcmtRcldpODNEOTRBcVpuQ0JhZC1YS1VaSUVNenI4akRUV090M01kNW1ZWHNQczhPZDdua3ZwWVBSTUVJVVVvaGFjVUY3M3hySG1Dc3dIMWF0aGhHdDd3YjA&hl=en
+                - generic [ref=e731]: Subscribe
+          - generic [ref=e736]:
+            - link [ref=e738] [cursor=pointer]:
+              - /url: /@FlowScale-AI
+            - generic [ref=e741]:
+              - link "FlowScale AI @FlowScale-AI•77 subscribers Revolutionize your AI development with FlowScale!" [ref=e742] [cursor=pointer]:
+                - /url: /@FlowScale-AI
+                - generic [ref=e743]:
+                  - generic [ref=e747]: FlowScale AI
+                  - generic [ref=e748]: "@FlowScale-AI•77 subscribers"
+                  - generic [ref=e749]: Revolutionize your AI development with FlowScale!
+              - link "Subscribe" [ref=e754] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DBoris%252BCherny%2526sp%253DEgIQAg%2525253D%2525253D%26continue_action%3DQUFFLUhqbGM0blAzT0dqdUgtU3FuaF9VeE5yMUJnMTI0UXxBQ3Jtc0tucmJ1T1pid0ZFUEpxS3U0SkszcDNQRjlEczBzTVJIQllRdGljWkhWVGFCMU5rWDRqQjNJQ1RYa21xTXRDRTEyWHNwZHNBN3pWTDJVVE9UQVdORkgySm1qbVhrY0phVnhER2xnQWt3U0RzNkZYdzJfTXdDUUJwNXdhSVZqVVBueXFrTEhjV2VEbHNEVU9hY0JxRmlqbHV6LTM1TVRwd3BEdnp3MHpFSTU1NU41V2daVHRmdTJRR25GTVJRRkh6N2gxYWpMemM&hl=en
+                - generic [ref=e755]: Subscribe
+    - text: •

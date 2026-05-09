@@ -1,0 +1,708 @@
+- generic [ref=e87]:
+  - banner [ref=e67]:
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - button "Guide" [ref=e72] [cursor=pointer]:
+          - generic [ref=e89]:
+            - img
+        - generic [ref=e90]:
+          - link "YouTube Home" [ref=e91] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e96]:
+              - img
+          - generic [ref=e97]: MY
+        - button "Skip navigation" [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]: Skip navigation
+      - generic [ref=e74]:
+        - search [ref=e75]:
+          - generic [ref=e76]:
+            - combobox "Search" [expanded] [ref=e106]
+            - button "Search" [ref=e80] [cursor=pointer]:
+              - generic [ref=e108]:
+                - img
+        - generic [ref=e110]:
+          - button "Search with your voice" [ref=e112] [cursor=pointer]:
+            - generic [ref=e116]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e120]:
+        - button "Settings" [ref=e125] [cursor=pointer]:
+          - generic [ref=e128]:
+            - img
+        - link "Sign in" [ref=e131] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DQZMljuD10sU&hl=en&ec=65620
+          - generic [ref=e135]:
+            - img
+          - generic [ref=e136]: Sign in
+  - main [ref=e141]:
+    - complementary [ref=e147]:
+      - generic "YouTube Video Player" [ref=e5]:
+        - generic [ref=e11]:
+          - generic:
+            - generic [ref=e150]:
+              - generic "Sponsored" [ref=e152]
+              - button "My Ad Center" [ref=e154] [cursor=pointer]:
+                - generic [ref=e155]:
+                  - img
+              - link "spglobal.com This link opens in new tab" [ref=e158]:
+                - generic [ref=e159] [cursor=pointer]: spglobal.com
+            - button "Skip" [ref=e1115] [cursor=pointer]:
+              - generic [ref=e1116]: Skip
+              - generic [ref=e1117]:
+                - img
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - slider "Seek slider" [disabled] [ref=e17]
+            - generic:
+              - generic:
+                - generic:
+                  - slider "Click or scroll the panel for the precise seeking." [disabled]
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - button "Pause (k)" [ref=e28] [cursor=pointer]:
+                - img
+              - generic [ref=e29]:
+                - button "Mute (m)" [ref=e31] [cursor=pointer]:
+                  - img
+                - slider "Volume"
+              - button "0 Minutes 2 Seconds of 0 Minutes 20 Seconds" [ref=e163] [cursor=pointer]: 0:02 / 0:20
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - button "Autoplay is on" [ref=e164] [cursor=pointer]
+                - button "Subtitles/closed captions unavailable" [ref=e38] [cursor=pointer]:
+                  - generic [ref=e39]:
+                    - img
+                - button "Settings" [ref=e40] [cursor=pointer]:
+                  - img
+              - generic [ref=e41]:
+                - button "Theater mode (t)" [ref=e42] [cursor=pointer]:
+                  - img
+                - button "Full screen (f)" [ref=e43] [cursor=pointer]:
+                  - img
+    - generic [ref=e170]:
+      - generic [ref=e172]:
+        - heading "My Claude Code Can INSTANTLY Watch Any Video (Here's How)" [level=1] [ref=e174]
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - generic [ref=e177]:
+              - link [ref=e178] [cursor=pointer]:
+                - /url: /@bradbonanno
+              - generic [ref=e180]:
+                - generic "Brad | AI & Automation" [ref=e184]:
+                  - link "Brad | AI & Automation" [ref=e185] [cursor=pointer]:
+                    - /url: /@bradbonanno
+                - generic "3.7 thousand subscribers" [ref=e186]: 3.7K subscribers
+            - generic [ref=e190]:
+              - button "Subscribe to Brad | AI & Automation." [ref=e192] [cursor=pointer]:
+                - generic [ref=e193]: Subscribe
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - img
+          - generic [ref=e200]:
+            - generic [ref=e201]:
+              - generic [ref=e205]:
+                - button "like this video along with 52 other people" [ref=e209] [cursor=pointer]:
+                  - generic [ref=e213]:
+                    - img
+                  - generic [ref=e214]: "52"
+                - button "Dislike this video" [ref=e221] [cursor=pointer]:
+                  - generic [ref=e225]:
+                    - img
+              - button "Share" [ref=e231] [cursor=pointer]:
+                - generic [ref=e235]:
+                  - img
+                - generic [ref=e236]: Share
+            - generic [ref=e240]:
+              - button "Save to playlist" [ref=e243] [cursor=pointer]:
+                - generic [ref=e247]:
+                  - img
+                - generic [ref=e248]: Save
+              - button "Remove ads" [ref=e254] [cursor=pointer]:
+                - generic [ref=e1118]:
+                  - img
+                - generic [ref=e259]: Remove ads
+            - button "More actions" [ref=e264] [cursor=pointer]:
+              - generic [ref=e268]:
+                - img
+        - generic [ref=e274]:
+          - generic [ref=e277]: 493 views Apr 29, 2026
+          - generic [ref=e278]:
+            - generic [ref=e1121]:
+              - text: "Watch Skill on GitHub (FREE):"
+              - link "https://github.com/bradautomates/clau..." [ref=e1123] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRDcllHWmNmV3RIbm1PS0x2RkF2V2tsYWtrd3xBQ3Jtc0trV045RnlNMU9EWnpteUR2MW1BZTQwLWhMYjhoUGdrZUtJbUdRcHFkT2RVcDJiSkxoZW1IVXlVdlhhWGdrYkVyYjkzNEpyLUNtMHNMQS1EX2VhQy1DRzE0LWR2dmFKMU1nN3hxNjhzSFhYZ3lWZVQxMA&q=https%3A%2F%2Fgithub.com%2Fbradautomates%2Fclaude-video&v=QZMljuD10sU
+              - text: "AI Strategy Call:"
+              - link "https://cal.com/bradley-bonanno/ai-st..." [ref=e1125] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDVsRXFuQlYxQld4Sm9vUWNYYmFrMEhzSXFsQXxBQ3Jtc0tuRDBpbnNrd3lCNzBxMFQwSlZ2TlNBejB0eDlYNm1xRnBYTXllN2JSUUs4amZNRnJFMGVvbmgwaVJmM3lSa0pLQlUzMHk0WHVWSmJ2TTB3ZEN3U1lveWc4SmVYWEc1UDRGZ0lKT3JveklicmtiQ0dFOA&q=https%3A%2F%2Fcal.com%2Fbradley-bonanno%2Fai-strategy-call&v=QZMljuD10sU
+              - text: "Connect with Me:"
+              - 'link "LinkedIn Channel Link: bradbonanno" [ref=e1128] [cursor=pointer]':
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUp4NjViRy1mSUR0enhFWFBPVDBOdmVDeURZZ3xBQ3Jtc0tseDJYSjNFRW1JdWpwMU9DNVplSW5FREoyQkRpZXNtNFJHV0xka2hhMVR0bWQ5WWNGZEVyZU0zQWpscThsOUlVQU44UEdRTXpudlNtaFV0cGtsRWFMckFqNkFOaWVTaEdLcXJWYmhMREViWVFadFJzUQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbradbonanno%2F&v=QZMljuD10sU
+                - text: / bradbonanno
+              - text: "Skills Marketplace Waitlist:"
+              - link "https://brad-b.kit.com/f9a7349a1c" [ref=e1131] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHZ6Q1FRSXktdnlVRV9SdDVuYVBGeXI0dHJZd3xBQ3Jtc0ttWHhMZlVtcVFwRTBiVFBIUVktVm9YVFA4SXJ0aDdSS0gwQVRsSF8xYkVja216NlF3dkhCN3ZZLVl1emNjakFOM2gyUVNyT1otWEVBcGdyS3lhLUlKekZVSGhnWnVadXBITTR6b0RLZkVKSlYtNWJnOA&q=https%3A%2F%2Fbrad-b.kit.com%2Ff9a7349a1c&v=QZMljuD10sU
+              - text: "Claude Code can't watch video. Anthropic still has not shipped a video model, so by default Claude is blind to anything that lives inside an mp4, a YouTube link, an Instagram reel, or a Loom. Every other transcript tool I tried before this one only ever read the words and missed half of what was actually on screen, which is where most of the interesting stuff in a video lives. This Claude skill fixes that by handing Claude both the frames and the timestamped transcript at once, so it can actually watch any video, not just read its captions. In this Claude Code tutorial I walk you through the exact pipeline behind the skill. yt-dlp pulls the file from any of over a thousand sites it supports. ffmpeg slices the video into frames and a clean audio track. Free YouTube captions come in straight from the source when they exist, and Groq Whisper fills the gap when they don't. I run a 45 minute lecture through it in under two minutes, walk through the cost math (about a dollar per run, transcription almost always free on Groq's tier), and finish on the use case that actually changed how I consume content: feeding every video I would have watched manually straight into my Obsidian second brain. Whether you make YouTube content, run a research-heavy job, manage a flooded inbox, or build software, this skill replaces the manual scrubbing, pausing and re-watching with a paste. It's a Claude agent skill anyone can install in under five minutes, not just developers. Timestamps"
+              - link "0 seconds" [ref=e1133] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU
+                - text: 0:00
+              - text: — Intro
+              - link "52 seconds" [ref=e1135] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=52s
+                - text: 0:52
+              - text: — Watch Videos in Minutes
+              - link "2 minutes, 43 seconds" [ref=e1137] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=163s
+                - text: 2:43
+              - text: — Setup
+              - link "3 minutes, 43 seconds" [ref=e1139] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=223s
+                - text: 3:43
+              - text: — Under the Hood
+              - link "5 minutes, 18 seconds" [ref=e1141] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=318s
+                - text: 5:18
+              - text: — The Cost Math
+              - link "6 minutes, 30 seconds" [ref=e1143] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=390s
+                - text: 6:30
+              - text: — Analyze Video Hooks
+              - link "7 minutes, 3 seconds" [ref=e1145] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=423s
+                - text: 7:03
+              - text: — Review QA Videos
+              - link "7 minutes, 42 seconds" [ref=e1147] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=462s
+                - text: 7:42
+              - text: — Content Intelligence
+            - generic [ref=e1150]:
+              - generic [ref=e1151]:
+                - generic [ref=e1152]: How this was made
+                - generic [ref=e1153]: Auto-dubbed
+                - generic [ref=e1155]:
+                  - text: Audio tracks for some languages were automatically generated.
+                  - link "Learn more" [ref=e1157] [cursor=pointer]:
+                    - /url: //support.google.com/youtube/answer/15569972?hl=en
+              - generic [ref=e1159]:
+                - heading "Chapters View all" [level=2] [ref=e1161]:
+                  - generic [ref=e1163]:
+                    - generic [ref=e1165]: Chapters
+                    - button "View all" [ref=e1169] [cursor=pointer]:
+                      - generic [ref=e1170]: View all
+                - generic [ref=e1174]:
+                  - generic [ref=e1176]:
+                    - link "Intro 0:00" [ref=e1178] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU
+                      - generic [ref=e1181]:
+                        - heading "Intro" [level=4] [ref=e1182]
+                        - generic [ref=e1183]: 0:00
+                    - link "Watch Videos in Minutes 0:52" [ref=e1185] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=52s
+                      - generic [ref=e1188]:
+                        - heading "Watch Videos in Minutes" [level=4] [ref=e1189]
+                        - generic [ref=e1190]: 0:52
+                    - link "Setup 2:43" [ref=e1192] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=163s
+                      - generic [ref=e1195]:
+                        - heading "Setup" [level=4] [ref=e1196]
+                        - generic [ref=e1197]: 2:43
+                    - link "Under the Hood 3:43" [ref=e1199] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=223s
+                      - generic [ref=e1202]:
+                        - heading "Under the Hood" [level=4] [ref=e1203]
+                        - generic [ref=e1204]: 3:43
+                    - link "The Cost Math 5:18" [ref=e1206] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=318s
+                      - generic [ref=e1209]:
+                        - heading "The Cost Math" [level=4] [ref=e1210]
+                        - generic [ref=e1211]: 5:18
+                    - link "Analyze Video Hooks 6:30" [ref=e1213] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=390s
+                      - generic [ref=e1216]:
+                        - heading "Analyze Video Hooks" [level=4] [ref=e1217]
+                        - generic [ref=e1218]: 6:30
+                    - link "Review QA Videos 7:03" [ref=e1220] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=423s
+                      - generic [ref=e1223]:
+                        - heading "Review QA Videos" [level=4] [ref=e1224]
+                        - generic [ref=e1225]: 7:03
+                    - link "Content Intelligence 7:42" [ref=e1227] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=462s
+                      - generic [ref=e1230]:
+                        - heading "Content Intelligence" [level=4] [ref=e1231]
+                        - generic [ref=e1232]: 7:42
+                  - generic [ref=e1236] [cursor=pointer]:
+                    - img
+              - generic [ref=e1237]:
+                - generic [ref=e1239]: Transcript
+                - paragraph [ref=e1241]: Follow along using the transcript.
+                - button "Show transcript" [ref=e1246] [cursor=pointer]:
+                  - generic [ref=e1247]: Show transcript
+              - generic [ref=e1251]:
+                - link "Brad | AI & Automation 3.7K subscribers" [ref=e1252] [cursor=pointer]:
+                  - /url: /@bradbonanno
+                  - generic [ref=e1253]:
+                    - heading "Brad | AI & Automation" [level=3] [ref=e1254]
+                    - generic [ref=e1255]: 3.7K subscribers
+                - generic [ref=e1258]:
+                  - link "Videos" [ref=e1261] [cursor=pointer]:
+                    - /url: /channel/UCLHfIq7P2CkA62ReystiOrw/videos
+                    - generic [ref=e1265]:
+                      - img
+                    - generic [ref=e1266]: Videos
+                  - link "About" [ref=e1272] [cursor=pointer]:
+                    - /url: /channel/UCLHfIq7P2CkA62ReystiOrw/about
+                    - generic [ref=e1276]:
+                      - img
+                    - generic [ref=e1277]: About
+            - button "Show less" [ref=e1281] [cursor=pointer]
+      - text: •
+      - generic [ref=e292]:
+        - generic [ref=e294] [cursor=pointer]:
+          - link [ref=e295]:
+            - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e302]: 16:16
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - heading "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [level=3] [ref=e306]:
+                - link "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [ref=e307]:
+                  - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+                  - text: 32 Tricks to Level Up Claude Code in 16 Mins
+              - generic [ref=e309]:
+                - group [ref=e310]:
+                  - generic [ref=e311]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e314]:
+                      - generic [ref=e316]:
+                        - img
+                - group [ref=e317]:
+                  - generic [ref=e318]: 51K views
+                  - generic [ref=e319]: •
+                  - generic [ref=e320]: 1 day ago
+                - group [ref=e321]:
+                  - generic [ref=e325]: New
+            - button "More actions" [ref=e328]:
+              - generic [ref=e332]:
+                - img
+        - generic [ref=e337] [cursor=pointer]:
+          - link [ref=e338]:
+            - /url: /watch?v=X7YMMyd2Qnk&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e345]: 9:51
+          - generic [ref=e347]:
+            - generic [ref=e348]:
+              - heading "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [level=3] [ref=e349]:
+                - link "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [ref=e350]:
+                  - /url: /watch?v=X7YMMyd2Qnk&pp=0gcJCd8KAYcqIYzv
+                  - text: Claude Design Basics | Master 95% in 10 Minutes
+              - generic [ref=e352]:
+                - group [ref=e353]:
+                  - generic [ref=e354]: Tristen O'Brien
+                - group [ref=e355]:
+                  - generic [ref=e356]: 35K views
+                  - generic [ref=e357]: •
+                  - generic [ref=e358]: 2 days ago
+                - group [ref=e359]:
+                  - generic [ref=e363]: New
+            - button "More actions" [ref=e366]:
+              - generic [ref=e370]:
+                - img
+        - generic [ref=e375] [cursor=pointer]:
+          - link [ref=e376]:
+            - /url: /watch?v=5SQwtLneyvM
+            - generic [ref=e383]: 10:20
+          - generic [ref=e385]:
+            - generic [ref=e386]:
+              - heading "How I Track My Progress + Free Goal Tracker Template [ ENG SUBS ] 10 minutes, 20 seconds" [level=3] [ref=e387]:
+                - link "How I Track My Progress + Free Goal Tracker Template [ ENG SUBS ] 10 minutes, 20 seconds" [ref=e388]:
+                  - /url: /watch?v=5SQwtLneyvM
+                  - text: How I Track My Progress + Free Goal Tracker Template [ ENG SUBS ]
+              - generic [ref=e390]:
+                - group [ref=e391]:
+                  - generic [ref=e392]: Katty's Language Journey
+                - group [ref=e393]:
+                  - generic [ref=e394]: 53 views
+                  - generic [ref=e395]: •
+                  - generic [ref=e396]: 4 days ago
+                - group [ref=e397]:
+                  - generic [ref=e401]: New
+            - button "More actions" [ref=e404]:
+              - generic [ref=e408]:
+                - img
+        - generic [ref=e413] [cursor=pointer]:
+          - link [ref=e414]:
+            - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e421]: 10:30
+          - generic [ref=e423]:
+            - generic [ref=e424]:
+              - heading "Github are you joking? 10 minutes, 30 seconds" [level=3] [ref=e425]:
+                - link "Github are you joking? 10 minutes, 30 seconds" [ref=e426]:
+                  - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Github are you joking?
+              - generic [ref=e428]:
+                - group [ref=e429]:
+                  - generic [ref=e430]:
+                    - text: The PrimeTime
+                    - img [ref=e433]:
+                      - generic [ref=e435]:
+                        - img
+                - group [ref=e436]:
+                  - generic [ref=e437]: 319K views
+                  - generic [ref=e438]: •
+                  - generic [ref=e439]: 22 hours ago
+                - group [ref=e440]:
+                  - generic [ref=e444]: New
+            - button "More actions" [ref=e447]:
+              - generic [ref=e451]:
+                - img
+        - generic [ref=e456] [cursor=pointer]:
+          - link [ref=e457]:
+            - /url: /watch?v=DPuZafJ6UEs&pp=ugUHEgVlbi1HQg%3D%3D
+            - generic [ref=e464]: 13:12
+          - generic [ref=e466]:
+            - generic [ref=e467]:
+              - heading "How to use Claude Code FREE Forever (Openrouter) 13 minutes, 12 seconds" [level=3] [ref=e468]:
+                - link "How to use Claude Code FREE Forever (Openrouter) 13 minutes, 12 seconds" [ref=e469]:
+                  - /url: /watch?v=DPuZafJ6UEs&pp=ugUHEgVlbi1HQg%3D%3D
+                  - text: How to use Claude Code FREE Forever (Openrouter)
+              - generic [ref=e471]:
+                - group [ref=e472]:
+                  - generic [ref=e473]: Jack Roberts
+                - group [ref=e474]:
+                  - generic [ref=e475]: 168K views
+                  - generic [ref=e476]: •
+                  - generic [ref=e477]: 1 month ago
+            - button "More actions" [ref=e480]:
+              - generic [ref=e484]:
+                - img
+        - generic [ref=e489] [cursor=pointer]:
+          - link [ref=e490]:
+            - /url: /watch?v=0_dSWLOHKng
+            - generic [ref=e497]: 21:18
+          - generic [ref=e499]:
+            - generic [ref=e500]:
+              - 'heading "Claude Cowork for Beginners: Build Your AI Second Brain 21 minutes" [level=3] [ref=e501]':
+                - 'link "Claude Cowork for Beginners: Build Your AI Second Brain 21 minutes" [ref=e502]':
+                  - /url: /watch?v=0_dSWLOHKng
+                  - text: "Claude Cowork for Beginners: Build Your AI Second Brain"
+              - generic [ref=e504]:
+                - group [ref=e505]:
+                  - generic [ref=e506]:
+                    - text: Jeff Su
+                    - img [ref=e509]:
+                      - generic [ref=e511]:
+                        - img
+                - group [ref=e512]:
+                  - generic [ref=e513]: 32K views
+                  - generic [ref=e514]: •
+                  - generic [ref=e515]: 22 hours ago
+                - group [ref=e516]:
+                  - generic [ref=e520]: New
+            - button "More actions" [ref=e523]:
+              - generic [ref=e527]:
+                - img
+        - generic [ref=e532] [cursor=pointer]:
+          - link [ref=e533]:
+            - /url: /watch?v=EpPuU9k6Ahg&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e540]: 12:49
+          - generic [ref=e542]:
+            - generic [ref=e543]:
+              - heading "Never Log Into Shopify Again 12 minutes, 49 seconds" [level=3] [ref=e544]:
+                - link "Never Log Into Shopify Again 12 minutes, 49 seconds" [ref=e545]:
+                  - /url: /watch?v=EpPuU9k6Ahg&pp=ugUEEgJlbg%3D%3D
+                  - text: Never Log Into Shopify Again
+              - generic [ref=e547]:
+                - group [ref=e548]:
+                  - generic [ref=e549]: Brendan Gillen
+                - group [ref=e550]:
+                  - generic [ref=e551]: 4.9K views
+                  - generic [ref=e552]: •
+                  - generic [ref=e553]: 18 hours ago
+                - group [ref=e554]:
+                  - generic [ref=e558]: New
+            - button "More actions" [ref=e561]:
+              - generic [ref=e565]:
+                - img
+        - generic [ref=e570] [cursor=pointer]:
+          - link [ref=e571]:
+            - /url: /watch?v=MXNhophoeCs&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e578]: 16:57
+          - generic [ref=e580]:
+            - generic [ref=e581]:
+              - heading "If You're Not Using Claude Like This, You're Wasting Time 16 minutes" [level=3] [ref=e582]:
+                - link "If You're Not Using Claude Like This, You're Wasting Time 16 minutes" [ref=e583]:
+                  - /url: /watch?v=MXNhophoeCs&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: If You're Not Using Claude Like This, You're Wasting Time
+              - generic [ref=e585]:
+                - group [ref=e586]:
+                  - generic [ref=e587]: Rick Mulready
+                - group [ref=e588]:
+                  - generic [ref=e589]: 17K views
+                  - generic [ref=e590]: •
+                  - generic [ref=e591]: 5 days ago
+                - group [ref=e592]:
+                  - generic [ref=e596]: New
+            - button "More actions" [ref=e599]:
+              - generic [ref=e603]:
+                - img
+        - generic [ref=e608] [cursor=pointer]:
+          - link [ref=e609]:
+            - /url: /watch?v=_qZvORxGqI0&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+            - generic [ref=e616]: 24:50
+          - generic [ref=e618]:
+            - generic [ref=e619]:
+              - heading "How to Never Hit Your Claude Session Limit Again 24 minutes" [level=3] [ref=e620]:
+                - link "How to Never Hit Your Claude Session Limit Again 24 minutes" [ref=e621]:
+                  - /url: /watch?v=_qZvORxGqI0&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+                  - text: How to Never Hit Your Claude Session Limit Again
+              - generic [ref=e623]:
+                - group [ref=e624]:
+                  - generic [ref=e625]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e628]:
+                      - generic [ref=e630]:
+                        - img
+                - group [ref=e631]:
+                  - generic [ref=e632]: 93K views
+                  - generic [ref=e633]: •
+                  - generic [ref=e634]: 8 days ago
+            - button "More actions" [ref=e637]:
+              - generic [ref=e641]:
+                - img
+        - generic [ref=e646] [cursor=pointer]:
+          - link [ref=e647]:
+            - /url: /watch?v=DW4a1Cm8nG4
+            - generic [ref=e654]: 42:08
+          - generic [ref=e656]:
+            - generic [ref=e657]:
+              - heading "I got a private lesson on Claude Cowork & Claude Code 42 minutes" [level=3] [ref=e658]:
+                - link "I got a private lesson on Claude Cowork & Claude Code 42 minutes" [ref=e659]:
+                  - /url: /watch?v=DW4a1Cm8nG4
+                  - text: I got a private lesson on Claude Cowork & Claude Code
+              - generic [ref=e661]:
+                - group [ref=e662]:
+                  - generic [ref=e663]: Greg Isenberg
+                - group [ref=e664]:
+                  - generic [ref=e665]: 356K views
+                  - generic [ref=e666]: •
+                  - generic [ref=e667]: 3 months ago
+            - button "More actions" [ref=e670]:
+              - generic [ref=e674]:
+                - img
+        - generic [ref=e679] [cursor=pointer]:
+          - link [ref=e680]:
+            - /url: /watch?v=9ToOfgZ4qqQ&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e687]: 11:00
+          - generic [ref=e689]:
+            - generic [ref=e690]:
+              - heading "I Stopped Hitting Claude Code Usage Limits (Here's How) 11 minutes" [level=3] [ref=e691]:
+                - link "I Stopped Hitting Claude Code Usage Limits (Here's How) 11 minutes" [ref=e692]:
+                  - /url: /watch?v=9ToOfgZ4qqQ&pp=ugUEEgJlbg%3D%3D
+                  - text: I Stopped Hitting Claude Code Usage Limits (Here's How)
+              - generic [ref=e694]:
+                - group [ref=e695]:
+                  - generic [ref=e696]: Brad | AI & Automation
+                - group [ref=e697]:
+                  - generic [ref=e698]: 98K views
+                  - generic [ref=e699]: •
+                  - generic [ref=e700]: 2 weeks ago
+            - button "More actions" [ref=e703]:
+              - generic [ref=e707]:
+                - img
+        - generic [ref=e712] [cursor=pointer]:
+          - link [ref=e713]:
+            - /url: /watch?v=zKBPwDpBfhs&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e720]: 27:19
+          - generic [ref=e722]:
+            - generic [ref=e723]:
+              - heading "Master 95% of Claude Code Skills in 28 Minutes 27 minutes" [level=3] [ref=e724]:
+                - link "Master 95% of Claude Code Skills in 28 Minutes 27 minutes" [ref=e725]:
+                  - /url: /watch?v=zKBPwDpBfhs&pp=ugUEEgJlbg%3D%3D
+                  - text: Master 95% of Claude Code Skills in 28 Minutes
+              - generic [ref=e727]:
+                - group [ref=e728]:
+                  - generic [ref=e729]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e732]:
+                      - generic [ref=e734]:
+                        - img
+                - group [ref=e735]:
+                  - generic [ref=e736]: 162K views
+                  - generic [ref=e737]: •
+                  - generic [ref=e738]: 2 months ago
+            - button "More actions" [ref=e741]:
+              - generic [ref=e745]:
+                - img
+        - generic [ref=e750] [cursor=pointer]:
+          - link [ref=e751]:
+            - /url: /watch?v=S_oN3vlzpMw
+            - generic [ref=e758]: 35:26
+          - generic [ref=e760]:
+            - generic [ref=e761]:
+              - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e762]:
+                - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e763]:
+                  - /url: /watch?v=S_oN3vlzpMw
+                  - text: How AI agents & Claude skills work (Clearly Explained)
+              - generic [ref=e765]:
+                - group [ref=e766]:
+                  - generic [ref=e767]: Greg Isenberg
+                - group [ref=e768]:
+                  - generic [ref=e769]: 229K views
+                  - generic [ref=e770]: •
+                  - generic [ref=e771]: 2 weeks ago
+            - button "More actions" [ref=e774]:
+              - generic [ref=e778]:
+                - img
+        - generic [ref=e783] [cursor=pointer]:
+          - link [ref=e784]:
+            - /url: /watch?v=6t32nPxeJb8&pp=ugUHEgVlbi1HQtIHCQnfCgGHKiGM7w%3D%3D
+            - generic [ref=e791]: 17:04
+          - generic [ref=e793]:
+            - generic [ref=e794]:
+              - heading "Claude Code + NoteBookLM = Infinite Memory 17 minutes" [level=3] [ref=e795]:
+                - link "Claude Code + NoteBookLM = Infinite Memory 17 minutes" [ref=e796]:
+                  - /url: /watch?v=6t32nPxeJb8&pp=ugUHEgVlbi1HQtIHCQnfCgGHKiGM7w%3D%3D
+                  - text: Claude Code + NoteBookLM = Infinite Memory
+              - generic [ref=e798]:
+                - group [ref=e799]:
+                  - generic [ref=e800]: Jack Roberts
+                - group [ref=e801]:
+                  - generic [ref=e802]: 101K views
+                  - generic [ref=e803]: •
+                  - generic [ref=e804]: 3 weeks ago
+            - button "More actions" [ref=e807]:
+              - generic [ref=e811]:
+                - img
+        - generic [ref=e816] [cursor=pointer]:
+          - link [ref=e817]:
+            - /url: /watch?v=WSPChlfxJyA&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e824]: 19:13
+          - generic [ref=e826]:
+            - generic [ref=e827]:
+              - 'heading "Full Claude Tutorial: Beginner to Advanced in 19 Minutes 19 minutes" [level=3] [ref=e828]':
+                - 'link "Full Claude Tutorial: Beginner to Advanced in 19 Minutes 19 minutes" [ref=e829]':
+                  - /url: /watch?v=WSPChlfxJyA&pp=ugUEEgJlbg%3D%3D
+                  - text: "Full Claude Tutorial: Beginner to Advanced in 19 Minutes"
+              - generic [ref=e831]:
+                - group [ref=e832]:
+                  - generic [ref=e833]:
+                    - text: Futurepedia
+                    - img [ref=e836]:
+                      - generic [ref=e838]:
+                        - img
+                - group [ref=e839]:
+                  - generic [ref=e840]: 322K views
+                  - generic [ref=e841]: •
+                  - generic [ref=e842]: 2 weeks ago
+            - button "More actions" [ref=e845]:
+              - generic [ref=e849]:
+                - img
+        - generic [ref=e854] [cursor=pointer]:
+          - link [ref=e855]:
+            - /url: /watch?v=B2wHaRDf3Qo&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e862]: 17:17
+          - generic [ref=e864]:
+            - generic [ref=e865]:
+              - heading "Hermes Agent w/ ChatGPT 5.5 is literally magic 17 minutes" [level=3] [ref=e866]:
+                - link "Hermes Agent w/ ChatGPT 5.5 is literally magic 17 minutes" [ref=e867]:
+                  - /url: /watch?v=B2wHaRDf3Qo&pp=ugUEEgJlbg%3D%3D
+                  - text: Hermes Agent w/ ChatGPT 5.5 is literally magic
+              - generic [ref=e869]:
+                - group [ref=e870]:
+                  - generic [ref=e871]: Alex Finn
+                - group [ref=e872]:
+                  - generic [ref=e873]: 17K views
+                  - generic [ref=e874]: •
+                  - generic [ref=e875]: 13 hours ago
+                - group [ref=e876]:
+                  - generic [ref=e880]: New
+            - button "More actions" [ref=e883]:
+              - generic [ref=e887]:
+                - img
+        - generic [ref=e892] [cursor=pointer]:
+          - link [ref=e893]:
+            - /url: /watch?v=rabGqnyd_Zw&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e900]: 10:30
+          - generic [ref=e902]:
+            - generic [ref=e903]:
+              - heading "7 Secret Prompts That Make Claude 10x Better 10 minutes, 30 seconds" [level=3] [ref=e904]:
+                - link "7 Secret Prompts That Make Claude 10x Better 10 minutes, 30 seconds" [ref=e905]:
+                  - /url: /watch?v=rabGqnyd_Zw&pp=ugUEEgJlbg%3D%3D
+                  - text: 7 Secret Prompts That Make Claude 10x Better
+              - generic [ref=e907]:
+                - group [ref=e908]:
+                  - generic [ref=e909]: Sabrina Ramonov 🍄
+                - group [ref=e910]:
+                  - generic [ref=e911]: 20K views
+                  - generic [ref=e912]: •
+                  - generic [ref=e913]: 3 days ago
+                - group [ref=e914]:
+                  - generic [ref=e918]: New
+            - button "More actions" [ref=e921]:
+              - generic [ref=e925]:
+                - img
+        - generic [ref=e930] [cursor=pointer]:
+          - link [ref=e931]:
+            - /url: /watch?v=KBgZsV-0Fdo
+            - generic [ref=e938]: 6:52
+          - generic [ref=e940]:
+            - generic [ref=e941]:
+              - heading "The 6 Claude Features to Get You Ahead of 99% of People using AI 6 minutes, 52 seconds" [level=3] [ref=e942]:
+                - link "The 6 Claude Features to Get You Ahead of 99% of People using AI 6 minutes, 52 seconds" [ref=e943]:
+                  - /url: /watch?v=KBgZsV-0Fdo
+                  - text: The 6 Claude Features to Get You Ahead of 99% of People using AI
+              - generic [ref=e945]:
+                - group [ref=e946]:
+                  - generic [ref=e947]: Tristen O'Brien
+                - group [ref=e948]:
+                  - generic [ref=e949]: 210K views
+                  - generic [ref=e950]: •
+                  - generic [ref=e951]: 8 days ago
+            - button "More actions" [ref=e954]:
+              - generic [ref=e958]:
+                - img
+        - generic [ref=e963] [cursor=pointer]:
+          - link [ref=e964]:
+            - /url: /watch?v=X3uum6W2xEI&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e971]: 18:36
+          - generic [ref=e973]:
+            - generic [ref=e974]:
+              - heading "How to build Claude Skills Better than 99% of People 18 minutes" [level=3] [ref=e975]:
+                - link "How to build Claude Skills Better than 99% of People 18 minutes" [ref=e976]:
+                  - /url: /watch?v=X3uum6W2xEI&pp=ugUEEgJlbg%3D%3D
+                  - text: How to build Claude Skills Better than 99% of People
+              - generic [ref=e978]:
+                - group [ref=e979]:
+                  - generic [ref=e980]: Ben AI
+                - group [ref=e981]:
+                  - generic [ref=e982]: 222K views
+                  - generic [ref=e983]: •
+                  - generic [ref=e984]: 2 months ago
+            - button "More actions" [ref=e987]:
+              - generic [ref=e991]:
+                - img
+        - generic [ref=e996] [cursor=pointer]:
+          - link [ref=e997]:
+            - /url: /watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e1004]: 16:22
+          - generic [ref=e1006]:
+            - generic [ref=e1007]:
+              - heading "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic 16 minutes" [level=3] [ref=e1008]:
+                - link "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic 16 minutes" [ref=e1009]:
+                  - /url: /watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D
+                  - text: Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic
+              - generic [ref=e1011]:
+                - group [ref=e1012]:
+                  - generic [ref=e1013]: AI Engineer
+                - group [ref=e1014]:
+                  - generic [ref=e1015]: 1.2M views
+                  - generic [ref=e1016]: •
+                  - generic [ref=e1017]: 4 months ago
+            - button "More actions" [ref=e1020]:
+              - generic [ref=e1024]:
+                - img
+        - button "Show more" [ref=e1032] [cursor=pointer]:
+          - generic [ref=e1033]: Show more
+      - heading "Comments" [level=2] [ref=e1042]:
+        - generic [ref=e1043]: Comments

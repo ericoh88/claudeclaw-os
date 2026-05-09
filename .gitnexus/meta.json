@@ -1,0 +1,14 @@
+{
+  "repoPath": "/home/rhino/claudeclaw-os",
+  "lastCommit": "e048a3231a75cc463ab0e1643c55ea22c6a85e0a",
+  "indexedAt": "2026-04-29T09:52:55.148Z",
+  "remoteUrl": "https://github.com/earlyaidopters/claudeclaw-os",
+  "stats": {
+    "files": 150,
+    "nodes": 3695,
+    "edges": 5968,
+    "communities": 94,
+    "processes": 202,
+    "embeddings": 0
+  }
+}

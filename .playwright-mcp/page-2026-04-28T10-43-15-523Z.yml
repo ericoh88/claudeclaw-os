@@ -1,0 +1,218 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - link "Early AI-dopters" [ref=e10] [cursor=pointer]:
+            - /url: /earlyaidopters
+            - generic [ref=e14]: Early AI-dopters
+          - button [ref=e19] [cursor=pointer]:
+            - img [ref=e21]
+        - generic [ref=e28]:
+          - img [ref=e31]
+          - textbox "Search" [ref=e33]
+        - generic [ref=e35]:
+          - button [ref=e41] [cursor=pointer]:
+            - img [ref=e43]
+          - button [ref=e51] [cursor=pointer]:
+            - img [ref=e53]
+          - button "Eric Oh" [ref=e61] [cursor=pointer]:
+            - generic "Eric Oh" [ref=e64]:
+              - img "Eric Oh" [ref=e65]
+      - generic [ref=e66]:
+        - link "Community" [ref=e67] [cursor=pointer]:
+          - /url: /earlyaidopters
+          - generic [ref=e68]: Community
+        - link "Classroom" [ref=e69] [cursor=pointer]:
+          - /url: /earlyaidopters/classroom
+          - generic [ref=e70]: Classroom
+        - link "Calendar" [ref=e71] [cursor=pointer]:
+          - /url: /earlyaidopters/calendar
+          - generic [ref=e72]: Calendar
+        - link "Members" [ref=e73] [cursor=pointer]:
+          - /url: /earlyaidopters/-/members
+          - generic [ref=e74]: Members
+        - link "Map" [ref=e75] [cursor=pointer]:
+          - /url: /earlyaidopters/-/map?is=1
+          - generic [ref=e76]: Map
+        - link "Leaderboards" [ref=e77] [cursor=pointer]:
+          - /url: /earlyaidopters/-/leaderboards
+          - generic [ref=e78]: Leaderboards
+        - link "About" [ref=e79] [cursor=pointer]:
+          - /url: /earlyaidopters/about
+          - generic [ref=e80]: About
+    - generic [ref=e83]:
+      - generic [ref=e88]:
+        - img [ref=e91]
+        - textbox "Search" [ref=e93]
+      - generic [ref=e95]:
+        - button [ref=e101] [cursor=pointer]:
+          - img [ref=e103]
+        - button [ref=e111] [cursor=pointer]:
+          - img [ref=e113]
+        - button "Eric Oh" [ref=e121] [cursor=pointer]:
+          - generic "Eric Oh" [ref=e124]:
+            - img "Eric Oh" [ref=e125]
+    - generic [ref=e128]:
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - generic "YouTube Resources" [ref=e133]
+          - generic [ref=e137]: 0%
+        - generic [ref=e140] [cursor=pointer]:
+          - generic "LAST 10 VIDEO ASSETS" [ref=e142]
+          - img [ref=e145]
+        - generic [ref=e149] [cursor=pointer]:
+          - generic "🔌 Automation & Workflows (n8n, Replit, Make.com)" [ref=e151]
+          - img [ref=e154]
+        - generic [ref=e158] [cursor=pointer]:
+          - generic "🧠 Custom GPTs & AI Agents" [ref=e160]
+          - img [ref=e163]
+        - generic [ref=e166] [cursor=pointer]:
+          - generic [ref=e167]:
+            - generic "🎯 Prompting & Engineering Skills" [ref=e169]
+            - img [ref=e172]
+          - generic [ref=e174]:
+            - link "ChatGPT Thinking Modes Analysis 🧠" [ref=e177]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=e3de28c44f204b60bd3b583cc9185ef8
+              - generic "ChatGPT Thinking Modes Analysis 🧠" [ref=e180]
+            - link "Universal AI Browser Prompts 🌐" [ref=e183]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=ded54bad6ee34cd38e22c92135020a66
+              - generic "Universal AI Browser Prompts 🌐" [ref=e186]
+            - link "Prompt Engineer Anything ✏️ 📸 🎬 🎵" [ref=e189]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=08e17ebb4308401786d76ff78428906c
+              - generic "Prompt Engineer Anything ✏️ 📸 🎬 🎵" [ref=e192]
+            - link "Prompt Compression Guide 🗂️" [ref=e195]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=2bcc3c14c7e64a418e6dbb0f5e1233a6
+              - generic "Prompt Compression Guide 🗂️" [ref=e198]
+            - link "Sora Zero-to-Hero Prompting Guide 🎬" [ref=e201]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=996f5dedc67b49869743bf6685934e9e
+              - generic "Sora Zero-to-Hero Prompting Guide 🎬" [ref=e204]
+            - link "ChatGPT Task Prompting Guide + Custom GPT 🤖✏️" [ref=e207]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=a480dd6e99484058a62465d9ef70b463
+              - generic "ChatGPT Task Prompting Guide + Custom GPT 🤖✏️" [ref=e210]
+            - link "Deep Research Prompt Examples 📖" [ref=e213]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=7bcc979c4db04ad789539627c108ea48
+              - generic "Deep Research Prompt Examples 📖" [ref=e216]
+            - link "OpenAI Zero-to-Hero Guides" [ref=e219]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=de95ec41d64440229478c1edd60b997a
+              - generic "OpenAI Zero-to-Hero Guides" [ref=e222]
+            - link "Emoji Prompting Pack 🎨🤖" [ref=e225]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=298df38ca23a4eaab2d998873b3bcb91
+              - generic "Emoji Prompting Pack 🎨🤖" [ref=e228]
+            - link "Prompt Battle Testing (Level 1 to Level 4)" [ref=e231]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=ac9fda90e0f84d9e9547f70e25abcc8a
+              - generic "Prompt Battle Testing (Level 1 to Level 4)" [ref=e234]
+            - link "Sample Prompt Engineer Validation Prompt" [ref=e237]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=6d743b931557439784413ab595d1121d
+              - generic "Sample Prompt Engineer Validation Prompt" [ref=e240]
+            - link "Blended Persona Prompt" [ref=e243]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=e4424ed0adac4a6fbdad0d6ddb984a98
+              - generic "Blended Persona Prompt" [ref=e246]
+            - link "DNA Extraction Prompt" [ref=e249]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=9ca43fff49c7414389848850a597ef25
+              - generic "DNA Extraction Prompt" [ref=e252]
+            - link "n8n Prompt Engineer Workflow ✏️" [ref=e255]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=37e29cc991a048d4a0c59f208a5e9fc3
+              - generic "n8n Prompt Engineer Workflow ✏️" [ref=e258]
+            - link "4o Image Generation Suite 🖼️" [ref=e261]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=a864022eb48e47d58c2ed291d7de4458
+              - generic "4o Image Generation Suite 🖼️" [ref=e264]
+            - link "Temperature & Top P Prompt + Google Sheet + Slides" [ref=e267]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=e0b4ba40130240fa92f44ddf5fb278c5
+              - generic "Temperature & Top P Prompt + Google Sheet + Slides" [ref=e270]
+            - link "Ultimate o3 Prompt Bundle 🔋" [ref=e273]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=7beb99aee04d4935be6a1ac54586467a
+              - generic "Ultimate o3 Prompt Bundle 🔋" [ref=e276]
+            - link "Gemini Vibe Coding Prompts 😎 💖" [ref=e279]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=78eb27009e664101a6c1a6e4f6e14445
+              - generic "Gemini Vibe Coding Prompts 😎 💖" [ref=e282]
+            - link "GenSpark Prompt Vault (7 Examples) 🐣" [ref=e285]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=d27c06d19eba4104aecf6836e1b6d211
+              - generic "GenSpark Prompt Vault (7 Examples) 🐣" [ref=e288]
+            - link "Perplexity Labs Prompts 🥼 🔬" [ref=e291]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=58c30cbac3f348708036d0cd2d228b01
+              - generic "Perplexity Labs Prompts 🥼 🔬" [ref=e294]
+            - link "OpenAI Operator Sample Prompt 💻🌐" [ref=e297]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=1e9cd6f5a7144bb4b900472ca1a61520
+              - generic "OpenAI Operator Sample Prompt 💻🌐" [ref=e300]
+            - link "Scrape Anything with Apify MCP Connector" [ref=e303]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=87374baf58a941f89a34a022072f2a40
+              - generic "Scrape Anything with Apify MCP Connector" [ref=e306]
+            - link "Agent Mode Prompt Pack 🧠📋" [ref=e309]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=75c1a263130840ff9465f327531bb05d
+              - generic "Agent Mode Prompt Pack 🧠📋" [ref=e312]
+            - link "Abacus AI Plug & Play Prompts 🤖" [ref=e315]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=09a4a4dca60848ebb3a7cd54033c1203
+              - generic "Abacus AI Plug & Play Prompts 🤖" [ref=e318]
+            - link "Agent Mode Vibe Coding 🔮" [ref=e321]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=69d0981c1c6540888a8994add8dc3e8f
+              - generic "Agent Mode Vibe Coding 🔮" [ref=e324]
+            - link "Homemade AGI v1 & v2" [ref=e327]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=5aac7d7aa4064282b3b9099a247dac25
+              - generic "Homemade AGI v1 & v2" [ref=e330]
+            - link "Model Migration Master Prompt 🔄" [ref=e333]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=c7006d39d1fd4cf2a28e6ab91de47dd3
+              - generic "Model Migration Master Prompt 🔄" [ref=e336]
+            - link "Claude Code Prompt Factory Prompt + Guide" [ref=e339]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=ac55c5751d0342b6be83a9bb7c0c36e6
+              - generic "Claude Code Prompt Factory Prompt + Guide" [ref=e342]
+            - link "Claude Code GPT Factory Prompt ⚙️" [ref=e345]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=06626292188e461fa36e8052cdc919e2
+              - generic "Claude Code GPT Factory Prompt ⚙️" [ref=e348]
+            - link "Claude Code Agents Prompts + Care Package 🎁" [ref=e351]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=c0c907e6397f44faab4411ef2d86890d
+              - generic "Claude Code Agents Prompts + Care Package 🎁" [ref=e354]
+            - link "ChatGPT Atlas → n8n Builder Prompt ⚙️" [ref=e357]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=6f8a57bdb0a2499e9f6623d65f3471d7
+              - generic "ChatGPT Atlas → n8n Builder Prompt ⚙️" [ref=e360]
+            - link "Claude Skills Factory Prompt 🏭" [ref=e363]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=794baafe48154c6583ad4e9ecd970f6b
+              - generic "Claude Skills Factory Prompt 🏭" [ref=e366]
+            - link "Claude Skills in n8n" [ref=e369]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=05eaa80d60a24a5eae9a29608b50e5de
+              - generic "Claude Skills in n8n" [ref=e372]
+            - link "Gemini CLI + Claude Code" [ref=e375]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=16dc9760cbc94e27b6255f95bcd981d6
+              - generic "Gemini CLI + Claude Code" [ref=e378]
+            - link "Claude Code Skills Guide 📓 🤖" [ref=e381]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=5a79461420a84234b8e97bfb5f1a76d9
+              - generic "Claude Code Skills Guide 📓 🤖" [ref=e384]
+            - link "Agent Team Prompts for Claude Code 👥 👥" [ref=e387]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=6471aa16fbb3403b9625473107557925
+              - generic "Agent Team Prompts for Claude Code 👥 👥" [ref=e390]
+            - link "ClaudeClaw - Mega Prompt + Visual Guide 🦞" [ref=e393]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=9cbbcbdfcc244c589050d7ffec2d82e8
+              - generic "ClaudeClaw - Mega Prompt + Visual Guide 🦞" [ref=e396]
+            - link "The Council Skill for Claude Code 👑" [ref=e399]:
+              - /url: /earlyaidopters/classroom/d7cc7f1e?md=e14f5599d4964130a35ae19446b07860
+              - generic "The Council Skill for Claude Code 👑" [ref=e402]
+        - generic [ref=e405] [cursor=pointer]:
+          - generic "🗂️ Frameworks, Meta Techniques & Experiments" [ref=e407]
+          - img [ref=e410]
+        - generic [ref=e414] [cursor=pointer]:
+          - generic "📊 Tools, Cheat Sheets & Evaluations" [ref=e416]
+          - img [ref=e419]
+        - link "Google Workspace CLI Starter Kit 🏁" [ref=e423] [cursor=pointer]:
+          - /url: /earlyaidopters/classroom/d7cc7f1e?md=dc06ce89aba84e49885dc653bc30065b
+          - generic "Google Workspace CLI Starter Kit 🏁" [ref=e426]
+        - link "Second Brain StarterKit - Obsidian + Claude Code🧠" [ref=e429] [cursor=pointer]:
+          - /url: /earlyaidopters/classroom/d7cc7f1e?md=b26734070c234d5fbaf68278bd4ffa5d
+          - generic "Second Brain StarterKit - Obsidian + Claude Code🧠" [ref=e432]
+      - generic [ref=e435]:
+        - generic [ref=e436]:
+          - generic "The Council Skill for Claude Code 👑" [ref=e437]
+          - button [ref=e440] [cursor=pointer]:
+            - img [ref=e442]
+        - generic [ref=e445]:
+          - generic [ref=e448] [cursor=pointer]:
+            - img [ref=e450]
+            - generic [ref=e453]: 12:23
+          - generic [ref=e454]:
+            - generic [ref=e455]: Resources
+            - generic [ref=e457] [cursor=pointer]:
+              - img [ref=e459]
+              - generic [ref=e462]: README
+            - generic [ref=e464] [cursor=pointer]:
+              - img [ref=e466]
+              - generic [ref=e469]: council
+  - alert [ref=e471]

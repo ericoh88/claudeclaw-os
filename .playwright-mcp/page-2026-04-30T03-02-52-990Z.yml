@@ -1,0 +1,310 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - button "Guide" [active] [ref=e9] [cursor=pointer]:
+            - generic [ref=e12]:
+              - img
+          - generic [ref=e13]:
+            - link "YouTube Home" [ref=e14] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e19]:
+                - img
+            - generic [ref=e20]: MY
+          - button "Skip navigation" [ref=e24] [cursor=pointer]:
+            - generic [ref=e25]: Skip navigation
+        - generic [ref=e29]:
+          - search [ref=e30]:
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - combobox "Search" [expanded] [ref=e34]: Boris Cherny
+                - button "Clear search query" [ref=e36] [cursor=pointer]:
+                  - generic [ref=e39]:
+                    - img
+              - button "Search" [ref=e43] [cursor=pointer]:
+                - generic [ref=e46]:
+                  - img
+          - generic [ref=e48]:
+            - button "Search with your voice" [ref=e50] [cursor=pointer]
+            - tooltip "tooltip"
+        - generic [ref=e57]:
+          - button "Settings" [ref=e62] [cursor=pointer]
+          - link "Sign in" [ref=e66] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DBoris%252BCherny&hl=en&ec=65620
+            - generic [ref=e69]: Sign in
+    - main [ref=e74]:
+      - generic [ref=e75]:
+        - generic [ref=e77]:
+          - tablist [ref=e82]:
+            - tab "All" [selected] [ref=e86] [cursor=pointer]:
+              - generic [ref=e88]: All
+            - tab "Shorts" [ref=e95] [cursor=pointer]:
+              - generic [ref=e97]: Shorts
+            - tab "Unwatched" [ref=e104] [cursor=pointer]:
+              - generic [ref=e106]: Unwatched
+            - tab "Watched" [ref=e113] [cursor=pointer]:
+              - generic [ref=e115]: Watched
+            - tab "Videos" [ref=e122] [cursor=pointer]:
+              - generic [ref=e124]: Videos
+            - tab "Recently uploaded" [ref=e131] [cursor=pointer]:
+              - generic [ref=e133]: Recently uploaded
+            - tab "Live" [ref=e140] [cursor=pointer]:
+              - generic [ref=e142]: Live
+          - generic [ref=e147]:
+            - button "Search filters" [ref=e149] [cursor=pointer]:
+              - generic [ref=e150]: Filters
+            - tooltip "tooltip"
+        - generic [ref=e161]:
+          - generic [ref=e170] [cursor=pointer]:
+            - link [ref=e171]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmmQhWsbyaaahIcSV_PcP5_2B2ArR4__ChgGm9fuRqRVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB8dHanAOoAwSqBLACT9DgT3Iq1b1OviYwO2Dr1741C4pq9qiT4P3sbLwFDsQ5rOd_2Xy4bPVdtfmj18CIbukWT7nEmhgMuoTpHcVhYNwaYUV_FhpehNvWvTlHKutsWMnsqA12QB3yJ2iIf-3le8HHpMA0o3rYTBMobFM4-MTln_xRstxS2GEYwQkC61tn-d1yW8TRsEJ296a27sdHviTfVbWczWVzVZ28q5bqnXuZma8YoRgdSJ8awvemSa0m-u7Yu4T1TMZLzHB6YZ0R8MZmCFn4EOukSZJQ5XcxfONkgODyC7j6eayEBASTBRB3STcllU6BQ4TFJp-AdgYNvAyDMYrIMxPS9Ciq5O9hMLcx5g0eJHNh8Z2oVz4GWSaG596Kausd2MsbEtt6h1yyBA_DQcD97EW-wq3JgeeklYgFla_W9leSBQwIEjCD29T3-r-ViSuSBQcIE3iu-MRjoAZVgAfj9qZjkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAeVCKgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLS3hKVl82NzFMWU2oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFiYp4yZy5SUA5oJLGh0dHBzOi8vZWxldmVpZ2h0bWFya2V0cy5jb20vdjMvZWxldjgtaW52ZXN0sQkjgUaR4j3swsgJF8gJjwHICZAByAnCAZgLAboLQQgDEAUYFiAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMJdmlzaW56YWFh0AsSogwkYhAKDmNvbS5vY3RhaW52ZXN0agsKCWNvbS5lbGV2OHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDbABaHR0cHM6Ly9lbGV2ZWlnaHRtYXJrZXRzLmNvbS92My9lbGV2OC1pbnZlc3Q_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPTIzNjAyNzU1MjU0JnV0bV9jb250ZW50PSZ1dG1fdGVybT0mcGxhY2VtZW50PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2MDI3NjM2NjmwDsyEtPEYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcckaF03euGFLoXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYASAAEgIs2PD_BwE&num=1&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&ad_cpn=%5BCPN%5D&sig=AOD64_0DHHtSLn4AyURUWdCPPmatrFUWHA&ctype=110&video_id=KxJV_671LYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+              - button [ref=e176]
+            - generic [ref=e182]:
+              - generic [ref=e183]:
+                - generic [ref=e184]:
+                  - link "One account, structured tools, and clear access designed to support trading progress." [ref=e187]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmmQhWsbyaaahIcSV_PcP5_2B2ArR4__ChgGm9fuRqRVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB8dHanAOoAwSqBLACT9DgT3Iq1b1OviYwO2Dr1741C4pq9qiT4P3sbLwFDsQ5rOd_2Xy4bPVdtfmj18CIbukWT7nEmhgMuoTpHcVhYNwaYUV_FhpehNvWvTlHKutsWMnsqA12QB3yJ2iIf-3le8HHpMA0o3rYTBMobFM4-MTln_xRstxS2GEYwQkC61tn-d1yW8TRsEJ296a27sdHviTfVbWczWVzVZ28q5bqnXuZma8YoRgdSJ8awvemSa0m-u7Yu4T1TMZLzHB6YZ0R8MZmCFn4EOukSZJQ5XcxfONkgODyC7j6eayEBASTBRB3STcllU6BQ4TFJp-AdgYNvAyDMYrIMxPS9Ciq5O9hMLcx5g0eJHNh8Z2oVz4GWSaG596Kausd2MsbEtt6h1yyBA_DQcD97EW-wq3JgeeklYgFla_W9leSBQwIEjCD29T3-r-ViSuSBQcIE3iu-MRjoAZVgAfj9qZjkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAeVCKgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLS3hKVl82NzFMWU2oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFiYp4yZy5SUA5oJLGh0dHBzOi8vZWxldmVpZ2h0bWFya2V0cy5jb20vdjMvZWxldjgtaW52ZXN0sQkjgUaR4j3swsgJF8gJjwHICZAByAnCAZgLAboLQQgDEAUYFiAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMJdmlzaW56YWFh0AsSogwkYhAKDmNvbS5vY3RhaW52ZXN0agsKCWNvbS5lbGV2OHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDbABaHR0cHM6Ly9lbGV2ZWlnaHRtYXJrZXRzLmNvbS92My9lbGV2OC1pbnZlc3Q_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPTIzNjAyNzU1MjU0JnV0bV9jb250ZW50PSZ1dG1fdGVybT0mcGxhY2VtZW50PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2MDI3NjM2NjmwDsyEtPEYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcckaF03euGFLoXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYASAAEgIs2PD_BwE&num=1&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&ad_cpn=%5BCPN%5D&sig=AOD64_0DHHtSLn4AyURUWdCPPmatrFUWHA&ctype=110&video_id=KxJV_671LYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - link "The trading reliability you know, now supported by a broader ecosystem of tools." [ref=e190]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmmQhWsbyaaahIcSV_PcP5_2B2ArR4__ChgGm9fuRqRVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB8dHanAOoAwSqBLACT9DgT3Iq1b1OviYwO2Dr1741C4pq9qiT4P3sbLwFDsQ5rOd_2Xy4bPVdtfmj18CIbukWT7nEmhgMuoTpHcVhYNwaYUV_FhpehNvWvTlHKutsWMnsqA12QB3yJ2iIf-3le8HHpMA0o3rYTBMobFM4-MTln_xRstxS2GEYwQkC61tn-d1yW8TRsEJ296a27sdHviTfVbWczWVzVZ28q5bqnXuZma8YoRgdSJ8awvemSa0m-u7Yu4T1TMZLzHB6YZ0R8MZmCFn4EOukSZJQ5XcxfONkgODyC7j6eayEBASTBRB3STcllU6BQ4TFJp-AdgYNvAyDMYrIMxPS9Ciq5O9hMLcx5g0eJHNh8Z2oVz4GWSaG596Kausd2MsbEtt6h1yyBA_DQcD97EW-wq3JgeeklYgFla_W9leSBQwIEjCD29T3-r-ViSuSBQcIE3iu-MRjoAZVgAfj9qZjkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAeVCKgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLS3hKVl82NzFMWU2oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFiYp4yZy5SUA5oJLGh0dHBzOi8vZWxldmVpZ2h0bWFya2V0cy5jb20vdjMvZWxldjgtaW52ZXN0sQkjgUaR4j3swsgJF8gJjwHICZAByAnCAZgLAboLQQgDEAUYFiAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMJdmlzaW56YWFh0AsSogwkYhAKDmNvbS5vY3RhaW52ZXN0agsKCWNvbS5lbGV2OHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDbABaHR0cHM6Ly9lbGV2ZWlnaHRtYXJrZXRzLmNvbS92My9lbGV2OC1pbnZlc3Q_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPTIzNjAyNzU1MjU0JnV0bV9jb250ZW50PSZ1dG1fdGVybT0mcGxhY2VtZW50PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2MDI3NjM2NjmwDsyEtPEYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcckaF03euGFLoXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYASAAEgIs2PD_BwE&num=1&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&ad_cpn=%5BCPN%5D&sig=AOD64_0DHHtSLn4AyURUWdCPPmatrFUWHA&ctype=110&video_id=KxJV_671LYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - generic [ref=e191]:
+                    - button "Elev8" [ref=e195]
+                    - generic [ref=e199]:
+                      - generic [ref=e200]: Sponsored
+                      - text: ·
+                    - generic [ref=e202]: Elev8
+                - button "My Ad Center" [ref=e205]
+              - generic [ref=e213]:
+                - link "Watch" [ref=e216]:
+                  - /url: /watch?v=KxJV_671LYM
+                  - generic [ref=e217]: Watch
+                - link "Visit site" [ref=e223]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmmQhWsbyaaahIcSV_PcP5_2B2ArR4__ChgGm9fuRqRVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB8dHanAOoAwSqBLACT9DgT3Iq1b1OviYwO2Dr1741C4pq9qiT4P3sbLwFDsQ5rOd_2Xy4bPVdtfmj18CIbukWT7nEmhgMuoTpHcVhYNwaYUV_FhpehNvWvTlHKutsWMnsqA12QB3yJ2iIf-3le8HHpMA0o3rYTBMobFM4-MTln_xRstxS2GEYwQkC61tn-d1yW8TRsEJ296a27sdHviTfVbWczWVzVZ28q5bqnXuZma8YoRgdSJ8awvemSa0m-u7Yu4T1TMZLzHB6YZ0R8MZmCFn4EOukSZJQ5XcxfONkgODyC7j6eayEBASTBRB3STcllU6BQ4TFJp-AdgYNvAyDMYrIMxPS9Ciq5O9hMLcx5g0eJHNh8Z2oVz4GWSaG596Kausd2MsbEtt6h1yyBA_DQcD97EW-wq3JgeeklYgFla_W9leSBQwIEjCD29T3-r-ViSuSBQcIE3iu-MRjoAZVgAfj9qZjkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAeVCKgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLS3hKVl82NzFMWU2oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFiYp4yZy5SUA5oJLGh0dHBzOi8vZWxldmVpZ2h0bWFya2V0cy5jb20vdjMvZWxldjgtaW52ZXN0sQkjgUaR4j3swsgJF8gJjwHICZAByAnCAZgLAboLQQgDEAUYFiAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMJdmlzaW56YWFh0AsSogwkYhAKDmNvbS5vY3RhaW52ZXN0agsKCWNvbS5lbGV2OHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDbABaHR0cHM6Ly9lbGV2ZWlnaHRtYXJrZXRzLmNvbS92My9lbGV2OC1pbnZlc3Q_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPTIzNjAyNzU1MjU0JnV0bV9jb250ZW50PSZ1dG1fdGVybT0mcGxhY2VtZW50PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2MDI3NjM2NjmwDsyEtPEYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcckaF03euGFLoXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYASAAEgIs2PD_BwE&num=1&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&ad_cpn=%5BCPN%5D&sig=AOD64_0DHHtSLn4AyURUWdCPPmatrFUWHA&ctype=110&video_id=KxJV_671LYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - generic [ref=e224]: Visit site
+          - generic [ref=e229]:
+            - link [ref=e231] [cursor=pointer]:
+              - /url: /watch?v=julbw1JuAz0&pp=ygUMQm9yaXMgQ2hlcm55
+              - img [ref=e233]
+              - img [ref=e236]:
+                - generic [ref=e237]: 1:37:59
+              - generic:
+                - generic: Now playing
+                - generic:
+                  - img
+            - generic [ref=e238] [cursor=pointer]:
+              - generic [ref=e239]:
+                - heading "Building Claude Code with Boris Cherny 1 hour, 37 minutes" [level=3] [ref=e241]:
+                  - link "Building Claude Code with Boris Cherny 1 hour, 37 minutes" [ref=e242]:
+                    - /url: /watch?v=julbw1JuAz0&pp=ygUMQm9yaXMgQ2hlcm55
+                    - text: Building Claude Code with Boris Cherny
+                - generic [ref=e245]:
+                  - generic [ref=e246]: 270K views
+                  - generic [ref=e247]: •1 month ago
+              - generic [ref=e248]:
+                - link "Go to channel The Pragmatic Engineer" [ref=e249]:
+                  - /url: /@pragmaticengineer
+                - link "The Pragmatic Engineer" [ref=e255]:
+                  - /url: /@pragmaticengineer
+              - generic [ref=e256]:
+                - generic [ref=e257]: Boris Cherny is the creator and Head of Claude Code at Anthropic. He previously spent five years at Meta as a Principal Engineer ...
+                - tooltip "tooltip"
+              - generic [ref=e260]:
+                - generic [ref=e261]:
+                  - generic [ref=e265]: 17 chapters
+                  - button "Intro | Lessons from Meta | Joining Anthropic | The origins of Claude Code | Boris's Claude Code workflow | Parallel agents | Code reviews | Claude Code's architecture | Permissions and sandboxing | Engineering culture at Anthropic | Claude Cowork | Observability and privacy | Agent swarms | LLMs and the printing press analogy | Standout engineer archetypes | What skills still matter for engineers | Book recommendations" [ref=e266]
+                - button "More" [ref=e271]
+          - generic [ref=e278]:
+            - link [ref=e280] [cursor=pointer]:
+              - /url: /watch?v=We7BZVKbCVw&pp=ygUMQm9yaXMgQ2hlcm55
+            - generic [ref=e282] [cursor=pointer]:
+              - generic [ref=e283]:
+                - 'heading "Head of Claude Code: What happens after coding is solved | Boris Cherny 1 hour, 27 minutes" [level=3] [ref=e285]':
+                  - 'link "Head of Claude Code: What happens after coding is solved | Boris Cherny 1 hour, 27 minutes" [ref=e286]':
+                    - /url: /watch?v=We7BZVKbCVw&pp=ygUMQm9yaXMgQ2hlcm55
+                    - text: "Head of Claude Code: What happens after coding is solved | Boris Cherny"
+                - generic [ref=e289]:
+                  - generic [ref=e290]: 493K views
+                  - generic [ref=e291]: •2 months ago
+              - generic [ref=e292]:
+                - link "Go to channel Lenny's Podcast" [ref=e293]:
+                  - /url: /@LennysPodcast
+                - generic [ref=e295]:
+                  - link "Lenny's Podcast" [ref=e299]:
+                    - /url: /@LennysPodcast
+                  - img "Verified" [ref=e304]
+              - generic [ref=e306]:
+                - generic [ref=e307]: Boris Cherny is the creator and head of Claude Code at Anthropic. What began as a simple terminal-based prototype just a year ...
+                - tooltip "tooltip"
+              - generic [ref=e310]:
+                - generic [ref=e311]:
+                  - generic [ref=e315]: 26 chapters
+                  - button [ref=e316]
+                - button "More" [ref=e321]
+          - generic [ref=e331]:
+            - img [ref=e337]
+            - generic [ref=e339] [cursor=pointer]:
+              - generic [ref=e340]:
+                - link "Seedance 2.0 Official Launch" [ref=e343]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrJIqWsbyaaahIcSV_PcP5_2B2ArN-cTKhgGKq_2VhhVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLsCT9ApvVIK1S9OlibiQ0bBxIwiCZBI-Iq289O3Ue4jJNcLu-Vl-3KaRPNkhOuawsGZdu1JeuvisAs-rYbzPf9kGcpIR2toNRhCqdzZtiAIAaVtS97okg1MQw3mIXnQcrLDYfH2qu9-qiXFXQEkeV8ErLCtwOFAoNBH1HQYxTNCmlt5-dtwWcbdrEpv6aGobPb6yFzfDLvdwX5zQ43wrdfkKBdy7-kY-BZcRIQa1OfqT-wouvGSupTqTdkAzCpodp8LzN9MHF7kX9D2eZRRp0dyWvlviw6JiiL5WIkwxgpfzx4Z8GdrDVebJRDne0Yusw7gbupk4YBQuVlzDzY8HtKnJ89_DTCTDFQ5S6JWOgp2-DEQGfWoaucMTa5WHiVlpVy8ENHdG-hb8We-w7sv5fGyeSAEm7MfYv-9X50WiAWSu_67WJIFCAgTeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmKeMmcuUlAOaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCZTgxDKM8xTiyAkAmAsBugtBCAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYAiAAEgK6jfD_BwE&num=2&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&sig=AOD64_3vbtFBNWkhe_T7t_sw4e92RS8_8Q&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Seedance 2.0 instant access, no wait. Join now or be out of AI revolution." [ref=e346]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrJIqWsbyaaahIcSV_PcP5_2B2ArN-cTKhgGKq_2VhhVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLsCT9ApvVIK1S9OlibiQ0bBxIwiCZBI-Iq289O3Ue4jJNcLu-Vl-3KaRPNkhOuawsGZdu1JeuvisAs-rYbzPf9kGcpIR2toNRhCqdzZtiAIAaVtS97okg1MQw3mIXnQcrLDYfH2qu9-qiXFXQEkeV8ErLCtwOFAoNBH1HQYxTNCmlt5-dtwWcbdrEpv6aGobPb6yFzfDLvdwX5zQ43wrdfkKBdy7-kY-BZcRIQa1OfqT-wouvGSupTqTdkAzCpodp8LzN9MHF7kX9D2eZRRp0dyWvlviw6JiiL5WIkwxgpfzx4Z8GdrDVebJRDne0Yusw7gbupk4YBQuVlzDzY8HtKnJ89_DTCTDFQ5S6JWOgp2-DEQGfWoaucMTa5WHiVlpVy8ENHdG-hb8We-w7sv5fGyeSAEm7MfYv-9X50WiAWSu_67WJIFCAgTeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmKeMmcuUlAOaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCZTgxDKM8xTiyAkAmAsBugtBCAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYAiAAEgK6jfD_BwE&num=2&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&sig=AOD64_3vbtFBNWkhe_T7t_sw4e92RS8_8Q&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e347]:
+                  - generic [ref=e349]:
+                    - generic [ref=e350]: Sponsored
+                    - text: ·
+                  - generic [ref=e352]: BytePlus
+              - button "My Ad Center" [ref=e355]
+          - generic [ref=e362]:
+            - link [ref=e364] [cursor=pointer]:
+              - /url: /watch?v=PQU9o_5rHC4&pp=ygUMQm9yaXMgQ2hlcm55
+            - generic [ref=e366] [cursor=pointer]:
+              - generic [ref=e367]:
+                - heading "Inside Claude Code With Its Creator Boris Cherny 50 minutes" [level=3] [ref=e369]:
+                  - link "Inside Claude Code With Its Creator Boris Cherny 50 minutes" [ref=e370]:
+                    - /url: /watch?v=PQU9o_5rHC4&pp=ygUMQm9yaXMgQ2hlcm55
+                    - text: Inside Claude Code With Its Creator Boris Cherny
+                - generic [ref=e373]:
+                  - generic [ref=e374]: 209K views
+                  - generic [ref=e375]: •2 months ago
+              - generic [ref=e376]:
+                - link "Go to channel Y Combinator" [ref=e377]:
+                  - /url: /@ycombinator
+                - generic [ref=e378]:
+                  - link "Y Combinator" [ref=e382]:
+                    - /url: /@ycombinator
+                  - img "Verified" [ref=e387]
+              - generic [ref=e389]:
+                - generic [ref=e390]: A very special guest on this episode of the Lightcone! Boris Cherny, the creator of Claude Code, sits down to share the incredible ...
+                - tooltip "tooltip"
+              - generic [ref=e393]:
+                - generic [ref=e394]:
+                  - generic [ref=e398]: 22 chapters
+                  - button "Intro | The most surprising moment in the rise of Claude Code | How Boris came up with the idea for Claude Code | The elegant simplicity of terminals | The first use cases | What’s in Boris’ CLAUDE.md? | How do you decide the terminal’s verbosity? | Beginner’s mindset is key as the models improve | Hyper specialists vs hyper generalists | The vision for Claude teams | Subagents | A world without plan mode? | Tips for founders to build for the future | How much life does the terminal still have? | Advice for dev tool founders | Claude Code and TypeScript parallels | Designing for the terminal was hard | Other advice for builders | Productivity per engineer | Why Boris chose to join Anthropic | How coding will change | Outro" [ref=e399]
+                - button "More" [ref=e404]
+          - generic [ref=e411]:
+            - link [ref=e413] [cursor=pointer]:
+              - /url: /watch?v=6eBSHbLKuN0&pp=ygUMQm9yaXMgQ2hlcm55
+            - generic [ref=e415] [cursor=pointer]:
+              - generic [ref=e416]:
+                - heading "Mastering Claude Code in 30 minutes 28 minutes" [level=3] [ref=e418]:
+                  - link "Mastering Claude Code in 30 minutes 28 minutes" [ref=e419]:
+                    - /url: /watch?v=6eBSHbLKuN0&pp=ygUMQm9yaXMgQ2hlcm55
+                    - text: Mastering Claude Code in 30 minutes
+                - generic [ref=e422]:
+                  - generic [ref=e423]: 1.1M views
+                  - generic [ref=e424]: •Streamed 11 months ago
+              - generic [ref=e425]:
+                - link "Go to channel Anthropic" [ref=e426]:
+                  - /url: /@anthropic-ai
+                - link "Anthropic" [ref=e431]:
+                  - /url: /@anthropic-ai
+              - generic [ref=e432]:
+                - text: Learn advanced features, shortcuts, and workflows to get the most from Claude Code.
+                - tooltip "tooltip"
+          - generic [ref=e437]:
+            - img [ref=e443]
+            - generic [ref=e445] [cursor=pointer]:
+              - generic [ref=e446]:
+                - link "Parallels® Desktop" [ref=e449]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C36gvWsbyaaahIcSV_PcP5_2B2Ar1h8D8hQGKnsWx1xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAlO_8A6gDBMgDCqoEmAJP0OBPcirVvU6-JjA7YOvXvjULimr2qJPg_exsvAUOxDms53_ZfLhs9V21-aPXwIhu6RZPucSaGAy6hOkdxWFg3BphRX8WGl6E29a9OUcq62xYyeyoDXZAHfInaIh_7eV7wcekwDSjethMEyhsUzj4xOWf_FGy3FLYYRjBCQLrW2f53XJbxNGwQnb3prbux0e-JN9VtZzNZXNVnbyrluqde5mZrxihGB1InxrC96ZJrSb67ti7hPVMxkvMcHphnRHwxmYIWfgQ66RJklDldzF842SA4PILuPoRivwEBpsFoT77EMnzsWE2R28TUySzJN-Wo75ziOi7v8F1IoDfOlsL6MD2BLHQsvXWSKofD69EDjjj5CfYDJ19iAXH9braV5IFBwgTePyVxQSgBm6AB6jrkAOQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmKeMmcuUlAOaCS9odHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvL7EJmUHiHWMQt0_ICQDICYoCyAmXApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsSogw1YhYKFGNvbS5wYXJhbGxlbHMuY2xpZW50ahYKFGNvbS5wYXJhbGxlbHMuY2xpZW50eACIAQDSDAIQAZoNARKqDQJNWcgNAdINrQJodHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvLz91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9JnV0bV9pZD0yMzU0MzU5MzY3MSZleHRlbnNpb25pZD0mbWF0Y2h0eXBlPSZkZXZpY2U9YyZkZXZpY2Vtb2RlbD0mY3JlYXRpdmU9Nzk2NzI5MjU4MjU3Jm5ldHdvcms9JnBsYWNlbWVudD0meC1zb3VyY2U9cHBjJmNhbXBhaWduX25hbWU9UERmTS1EZW1hbmRHZW4tRU4tVGllcjEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNTQzNTkzNjcxuBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRetonOMcW6en7oXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYAyAAEgJE1vD_BwE&num=3&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&sig=AOD64_3gXmcgTyATAa8jIfjblFXiPGeerA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Windows on Mac. macOS Tahoe Optimized. Play PC Games on Intel, M1/M2/M3 chip Mac." [ref=e452]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C36gvWsbyaaahIcSV_PcP5_2B2Ar1h8D8hQGKnsWx1xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAlO_8A6gDBMgDCqoEmAJP0OBPcirVvU6-JjA7YOvXvjULimr2qJPg_exsvAUOxDms53_ZfLhs9V21-aPXwIhu6RZPucSaGAy6hOkdxWFg3BphRX8WGl6E29a9OUcq62xYyeyoDXZAHfInaIh_7eV7wcekwDSjethMEyhsUzj4xOWf_FGy3FLYYRjBCQLrW2f53XJbxNGwQnb3prbux0e-JN9VtZzNZXNVnbyrluqde5mZrxihGB1InxrC96ZJrSb67ti7hPVMxkvMcHphnRHwxmYIWfgQ66RJklDldzF842SA4PILuPoRivwEBpsFoT77EMnzsWE2R28TUySzJN-Wo75ziOi7v8F1IoDfOlsL6MD2BLHQsvXWSKofD69EDjjj5CfYDJ19iAXH9braV5IFBwgTePyVxQSgBm6AB6jrkAOQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmKeMmcuUlAOaCS9odHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvL7EJmUHiHWMQt0_ICQDICYoCyAmXApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsSogw1YhYKFGNvbS5wYXJhbGxlbHMuY2xpZW50ahYKFGNvbS5wYXJhbGxlbHMuY2xpZW50eACIAQDSDAIQAZoNARKqDQJNWcgNAdINrQJodHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvLz91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9JnV0bV9pZD0yMzU0MzU5MzY3MSZleHRlbnNpb25pZD0mbWF0Y2h0eXBlPSZkZXZpY2U9YyZkZXZpY2Vtb2RlbD0mY3JlYXRpdmU9Nzk2NzI5MjU4MjU3Jm5ldHdvcms9JnBsYWNlbWVudD0meC1zb3VyY2U9cHBjJmNhbXBhaWduX25hbWU9UERmTS1EZW1hbmRHZW4tRU4tVGllcjEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNTQzNTkzNjcxuBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRetonOMcW6en7oXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYAyAAEgJE1vD_BwE&num=3&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&sig=AOD64_3gXmcgTyATAa8jIfjblFXiPGeerA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e453]:
+                  - generic [ref=e455]:
+                    - generic [ref=e456]: Sponsored
+                    - text: ·
+                  - generic [ref=e458]: Parallels
+              - button "My Ad Center" [ref=e461]
+          - generic [ref=e468]:
+            - link [ref=e470] [cursor=pointer]:
+              - /url: /watch?v=AmdLVWMdjOk&pp=ygUMQm9yaXMgQ2hlcm55
+            - generic [ref=e472] [cursor=pointer]:
+              - generic [ref=e473]:
+                - heading "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic 1 hour, 24 minutes" [level=3] [ref=e475]:
+                  - link "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic 1 hour, 24 minutes" [ref=e476]:
+                    - /url: /watch?v=AmdLVWMdjOk&pp=ygUMQm9yaXMgQ2hlcm55
+                    - text: Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic
+                - generic [ref=e479]:
+                  - generic [ref=e480]: 245K views
+                  - generic [ref=e481]: •4 months ago
+              - generic [ref=e482]:
+                - link "Go to channel Ryan Peterman" [ref=e483]:
+                  - /url: /@RyanLPeterman
+                - link "Ryan Peterman" [ref=e488]:
+                  - /url: /@RyanLPeterman
+              - generic [ref=e489]:
+                - generic [ref=e490]: Boris Cherny is the Creator of Claude Code but few people know his full career story. I interviewed him about everything he ...
+                - tooltip "tooltip"
+              - img "4K" [ref=e495]:
+                - generic [ref=e496]: 4K
+              - generic [ref=e499]:
+                - generic [ref=e500]:
+                  - generic [ref=e504]: 17 chapters
+                  - button "Intro | Starting at FB | Early side projects and book rec | Being under leveled | Staff (IC6) promo story | Proximity to leadership learnings | Scoping out work for 100s of engs | Senior Staff (IC7) promo story | How to find side projects | Principal (IC8) promo story | Building credibility in a new org | Joining Anthropic | Why Claude Code succeeded | Claude Code use outside of code | What he thinks of competition | Advice for his younger self | Outro" [ref=e505]
+                - button "More" [ref=e510]
+          - generic [ref=e516]:
+            - generic [ref=e519]:
+              - img [ref=e521]
+              - heading "Shorts" [level=2] [ref=e524]
+            - generic [ref=e526]:
+              - generic [ref=e529]:
+                - link [ref=e530] [cursor=pointer]:
+                  - /url: /shorts/eCjYIj-fEDw
+                - generic [ref=e534] [cursor=pointer]:
+                  - link "What Boris Cherny Learned From Building Claude Code" [ref=e535]:
+                    - /url: /shorts/eCjYIj-fEDw
+                  - generic [ref=e536]: 37K views
+                - button "More actions" [ref=e538] [cursor=pointer]
+              - generic [ref=e546]:
+                - link [ref=e547] [cursor=pointer]:
+                  - /url: /shorts/x5QC7Lvnt4A
+                  - img [ref=e552]:
+                    - generic [ref=e553]: New
+                - generic [ref=e554] [cursor=pointer]:
+                  - link "The creator of Claude Code Boris Cherny barely writes a line of code anymore, and the workflow is" [ref=e555]:
+                    - /url: /shorts/x5QC7Lvnt4A
+                  - generic [ref=e556]: 3.9K views
+                - button "More actions" [ref=e558] [cursor=pointer]
+              - generic [ref=e566]:
+                - link [ref=e567] [cursor=pointer]:
+                  - /url: /shorts/eJvoKhYiLac
+                - generic [ref=e571] [cursor=pointer]:
+                  - link "Boris Cherny says the role of programmers is shifting from writing code to orchestrating agents" [ref=e572]:
+                    - /url: /shorts/eJvoKhYiLac
+                  - generic [ref=e573]: 6.7K views
+                - button "More actions" [ref=e575] [cursor=pointer]
+            - button "Show more" [ref=e584] [cursor=pointer]:
+              - generic [ref=e585]: Show more
+          - generic [ref=e592]:
+            - link [ref=e594] [cursor=pointer]:
+              - /url: /watch?v=KWrsLqnB6vA&pp=ygUMQm9yaXMgQ2hlcm55
+            - generic [ref=e596] [cursor=pointer]:
+              - generic [ref=e597]:
+                - heading "How Claude Code’s Creator Starts EVERY Project 12 minutes, 17 seconds" [level=3] [ref=e599]:
+                  - link "How Claude Code’s Creator Starts EVERY Project 12 minutes, 17 seconds" [ref=e600]:
+                    - /url: /watch?v=KWrsLqnB6vA&pp=ygUMQm9yaXMgQ2hlcm55
+                    - text: How Claude Code’s Creator Starts EVERY Project
+                - generic [ref=e603]:
+                  - generic [ref=e604]: 165K views
+                  - generic [ref=e605]: •4 weeks ago
+              - generic [ref=e606]:
+                - link "Go to channel Austin Marchese" [ref=e607]:
+                  - /url: /@austin.marchese
+                - link "Austin Marchese" [ref=e612]:
+                  - /url: /@austin.marchese
+              - generic [ref=e613]:
+                - generic [ref=e614]: "... $25M+ startup): https://the-ai-playbook.com/cc In this video, I break down exactly how Boris Cherny, the creator of Claude Code, ..."
+                - tooltip "tooltip"
+              - generic [ref=e617]:
+                - generic [ref=e618]:
+                  - generic [ref=e622]: 7 chapters
+                  - 'button "How Claude Code''s Creator Starts Every Project | Plan Mode: The Foundation | Delete this file | The 2-3x Multiplier | Multiply Yourself | Your Inner Loop (Slash Commands & Skills) | Build for the Future" [ref=e623]'
+                - button "More" [ref=e628]
+  - generic [ref=e659]:
+    - link:
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmmQhWsbyaaahIcSV_PcP5_2B2ArR4__ChgGm9fuRqRVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB8dHanAOoAwSqBLACT9DgT3Iq1b1OviYwO2Dr1741C4pq9qiT4P3sbLwFDsQ5rOd_2Xy4bPVdtfmj18CIbukWT7nEmhgMuoTpHcVhYNwaYUV_FhpehNvWvTlHKutsWMnsqA12QB3yJ2iIf-3le8HHpMA0o3rYTBMobFM4-MTln_xRstxS2GEYwQkC61tn-d1yW8TRsEJ296a27sdHviTfVbWczWVzVZ28q5bqnXuZma8YoRgdSJ8awvemSa0m-u7Yu4T1TMZLzHB6YZ0R8MZmCFn4EOukSZJQ5XcxfONkgODyC7j6eayEBASTBRB3STcllU6BQ4TFJp-AdgYNvAyDMYrIMxPS9Ciq5O9hMLcx5g0eJHNh8Z2oVz4GWSaG596Kausd2MsbEtt6h1yyBA_DQcD97EW-wq3JgeeklYgFla_W9leSBQwIEjCD29T3-r-ViSuSBQcIE3iu-MRjoAZVgAfj9qZjkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAeVCKgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLS3hKVl82NzFMWU2oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFiYp4yZy5SUA5oJLGh0dHBzOi8vZWxldmVpZ2h0bWFya2V0cy5jb20vdjMvZWxldjgtaW52ZXN0sQkjgUaR4j3swsgJF8gJjwHICZAByAnCAZgLAboLQQgDEAUYFiAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMJdmlzaW56YWFh0AsSogwkYhAKDmNvbS5vY3RhaW52ZXN0agsKCWNvbS5lbGV2OHgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDbABaHR0cHM6Ly9lbGV2ZWlnaHRtYXJrZXRzLmNvbS92My9lbGV2OC1pbnZlc3Q_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPTIzNjAyNzU1MjU0JnV0bV9jb250ZW50PSZ1dG1fdGVybT0mcGxhY2VtZW50PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2MDI3NjM2NjmwDsyEtPEYuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcckaF03euGFLoXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpraMmcuUlAMVxAr_CB3nfgCrEAEYASAAEgIs2PD_BwE&num=1&cid=CAASwwHkaFTqq9YeUVajNQPXdSdGCxkEVH24gOL352aq7WRRIeYq6x1lvacNJJ3CWGU5oHUKnqaHKL4CxXGJIKQvMxKoW9UqnNPEg0ZATColJHNAzZ6tT8CBpErcdV7LQ1iXmggIK4WywnBZjf_DmCS09sNiUWX1pXCzPxejZ2TZSzrzp6h4iq0b0Q3xxFz1JFK_2GPj0ds-mMhnHzmIj97AzNqwnwsP3a1LL-Ke8TbOK4LH8tij8BegTER6YNkz6EGveoGt-DE&ad_cpn=%5BCPN%5D&sig=AOD64_0DHHtSLn4AyURUWdCPPmatrFUWHA&ctype=110&video_id=KxJV_671LYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+      - generic [ref=e660] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - img

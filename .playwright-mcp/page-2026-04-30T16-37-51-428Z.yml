@@ -1,0 +1,426 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: MY
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e34]
+            - button "Search" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=e49]:
+        - button "Settings" [ref=e54] [cursor=pointer]
+        - link "Sign in" [ref=e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540zenvanriel%252Fvideos&hl=en&ec=65620
+          - generic [ref=e61]: Sign in
+  - main [ref=e66]:
+    - generic [ref=e73]:
+      - generic [ref=e81]:
+        - generic [ref=e89]:
+          - heading "Zen van Riel" [level=1] [ref=e91]
+          - generic [ref=e92]:
+            - group [ref=e93]:
+              - generic [ref=e94]: "@zenvanriel"
+            - generic [ref=e95]: •
+            - group [ref=e96]:
+              - generic "40.4 thousand subscribers" [ref=e97]: 40.4K subscribers
+              - generic [ref=e98]: •
+              - generic [ref=e99]: 91 videos
+          - generic [ref=e101] [cursor=pointer]:
+            - generic [ref=e102]: I'm a Senior AI Engineer teaching you how to use AI to advance your career
+            - button "Description. I'm a Senior AI Engineer teaching you how to use AI to advan...tap for more." [ref=e103]:
+              - generic [ref=e104]: ...more
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - link "aiengineer.community/join" [ref=e109] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbm9LZGZ3LVhKcWVRX1psd0VfcFBNc2lyenptQXxBQ3Jtc0tuVUtRVXpWWG9HRTdULS1KQ09fTXc0bzhxMTFBeFJKY05QQzRHd0NZbFNTZ1ZnUlI5cHI1YWxFc0tBaDN3ZDhmc2c0NndpWVVocFBtT0VQbkd6ZXlCUmhmSFoxQ0lTajdzaTVMTHlIYmhXUU9aaDJXdw&q=https%3A%2F%2Faiengineer.community%2Fjoin
+            - button "and 1 more link" [ref=e112] [cursor=pointer]
+          - generic [ref=e114]:
+            - button "Subscribe" [ref=e117] [cursor=pointer]:
+              - generic [ref=e118]: Subscribe
+            - link "Community" [ref=e124] [cursor=pointer]:
+              - /url: /@zenvanriel/community
+              - generic [ref=e127]: Community
+      - tablist [ref=e134]:
+        - tablist [ref=e138]:
+          - tab "Home" [ref=e139] [cursor=pointer]:
+            - generic [ref=e140]: Home
+          - tab "Videos" [selected] [ref=e141] [cursor=pointer]:
+            - generic [ref=e142]: Videos
+          - tab "Shorts" [ref=e143] [cursor=pointer]:
+            - generic [ref=e144]: Shorts
+          - tab "Playlists" [ref=e145] [cursor=pointer]:
+            - generic [ref=e146]: Playlists
+          - tab "Posts" [ref=e147] [cursor=pointer]:
+            - generic [ref=e148]: Posts
+          - button "Search" [ref=e152] [cursor=pointer]:
+            - generic [ref=e155]:
+              - img
+    - generic [ref=e161]:
+      - tablist [ref=e164]:
+        - tab "Latest" [selected] [ref=e168] [cursor=pointer]:
+          - generic [ref=e170]: Latest
+        - tab "Popular" [ref=e177] [cursor=pointer]:
+          - generic [ref=e179]: Popular
+        - tab "Oldest" [ref=e186] [cursor=pointer]:
+          - generic [ref=e188]: Oldest
+      - generic [ref=e192]:
+        - generic [ref=e196]:
+          - link [ref=e199] [cursor=pointer]:
+            - /url: /watch?v=v7qMjy_RxOs
+            - img [ref=e201]
+            - img [ref=e204]:
+              - generic [ref=e205]: 20:08
+            - generic:
+              - generic: Now playing
+              - generic:
+                - img
+          - generic [ref=e207] [cursor=pointer]:
+            - heading "The Honest Guide To Fine-Tuning Local AI In 2026 20 minutes" [level=3] [ref=e208]:
+              - link "The Honest Guide To Fine-Tuning Local AI In 2026 20 minutes" [ref=e209]:
+                - /url: /watch?v=v7qMjy_RxOs
+                - generic [ref=e210]: The Honest Guide To Fine-Tuning Local AI In 2026
+            - generic [ref=e213]:
+              - generic [ref=e214]: 9.2K views
+              - generic [ref=e215]: •7 days ago
+        - generic [ref=e219]:
+          - link [ref=e222] [cursor=pointer]:
+            - /url: /watch?v=aEL384kTznk
+            - img [ref=e224]
+            - img [ref=e227]:
+              - generic [ref=e228]: 8:34
+            - generic:
+              - generic: Now playing
+              - generic:
+                - img
+          - generic [ref=e230] [cursor=pointer]:
+            - heading "I Quit My GitHub Job Because AI Breaks Software 8 minutes, 34 seconds" [level=3] [ref=e231]:
+              - link "I Quit My GitHub Job Because AI Breaks Software 8 minutes, 34 seconds" [ref=e232]:
+                - /url: /watch?v=aEL384kTznk
+                - generic [ref=e233]: I Quit My GitHub Job Because AI Breaks Software
+            - generic [ref=e236]:
+              - generic [ref=e237]: 69K views
+              - generic [ref=e238]: •2 weeks ago
+        - generic [ref=e242]:
+          - link [ref=e245] [cursor=pointer]:
+            - /url: /watch?v=1mix7WnuEK0
+          - generic [ref=e248] [cursor=pointer]:
+            - heading "I Replaced My AI Server With A Browser Tab (WebGPU 2026 Setup) 9 minutes, 26 seconds" [level=3] [ref=e249]:
+              - link "I Replaced My AI Server With A Browser Tab (WebGPU 2026 Setup) 9 minutes, 26 seconds" [ref=e250]:
+                - /url: /watch?v=1mix7WnuEK0
+                - generic [ref=e251]: I Replaced My AI Server With A Browser Tab (WebGPU 2026 Setup)
+            - generic [ref=e254]:
+              - generic [ref=e255]: 9.3K views
+              - generic [ref=e256]: •3 weeks ago
+        - generic [ref=e260]:
+          - link [ref=e263] [cursor=pointer]:
+            - /url: /watch?v=5Z2HBJTUNik
+          - generic [ref=e266] [cursor=pointer]:
+            - heading "Why You Should Bet Your Career on Local AI 5 minutes, 57 seconds" [level=3] [ref=e267]:
+              - link "Why You Should Bet Your Career on Local AI 5 minutes, 57 seconds" [ref=e268]:
+                - /url: /watch?v=5Z2HBJTUNik
+                - generic [ref=e269]: Why You Should Bet Your Career on Local AI
+            - generic [ref=e272]:
+              - generic [ref=e273]: 101K views
+              - generic [ref=e274]: •4 weeks ago
+        - generic [ref=e278]:
+          - link [ref=e281] [cursor=pointer]:
+            - /url: /watch?v=ibg2QJPCKQ8
+          - generic [ref=e284] [cursor=pointer]:
+            - heading "Why So Many AI Startups Are Lying 7 minutes, 34 seconds" [level=3] [ref=e285]:
+              - link "Why So Many AI Startups Are Lying 7 minutes, 34 seconds" [ref=e286]:
+                - /url: /watch?v=ibg2QJPCKQ8
+                - generic [ref=e287]: Why So Many AI Startups Are Lying
+            - generic [ref=e290]:
+              - generic [ref=e291]: 6.9K views
+              - generic [ref=e292]: •1 month ago
+        - generic [ref=e296]:
+          - link [ref=e299] [cursor=pointer]:
+            - /url: /watch?v=pr9fsrK8nmQ&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e302] [cursor=pointer]:
+            - heading "The Ultimate Local AI Tier List For 2026 22 minutes" [level=3] [ref=e303]:
+              - link "The Ultimate Local AI Tier List For 2026 22 minutes" [ref=e304]:
+                - /url: /watch?v=pr9fsrK8nmQ&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e305]: The Ultimate Local AI Tier List For 2026
+            - generic [ref=e308]:
+              - generic [ref=e309]: 48K views
+              - generic [ref=e310]: •1 month ago
+        - generic [ref=e314]:
+          - link [ref=e317] [cursor=pointer]:
+            - /url: /watch?v=3zSANOIBHYw&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e320] [cursor=pointer]:
+            - heading "The Unbeatable Local AI Coding Workflow (Full 2026 Setup) 16 minutes" [level=3] [ref=e321]:
+              - link "The Unbeatable Local AI Coding Workflow (Full 2026 Setup) 16 minutes" [ref=e322]:
+                - /url: /watch?v=3zSANOIBHYw&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e323]: The Unbeatable Local AI Coding Workflow (Full 2026 Setup)
+            - generic [ref=e326]:
+              - generic [ref=e327]: 179K views
+              - generic [ref=e328]: •1 month ago
+        - generic [ref=e332]:
+          - link [ref=e335] [cursor=pointer]:
+            - /url: /watch?v=hl2LqZz1bO8
+          - generic [ref=e338] [cursor=pointer]:
+            - heading "Don't Lose Your Engineering Career To AI 8 minutes, 21 seconds" [level=3] [ref=e339]:
+              - link "Don't Lose Your Engineering Career To AI 8 minutes, 21 seconds" [ref=e340]:
+                - /url: /watch?v=hl2LqZz1bO8
+                - generic [ref=e341]: Don't Lose Your Engineering Career To AI
+            - generic [ref=e344]:
+              - generic [ref=e345]: 5.6K views
+              - generic [ref=e346]: •2 months ago
+        - generic [ref=e350]:
+          - link [ref=e353] [cursor=pointer]:
+            - /url: /watch?v=S5QlsnIcogs
+          - generic [ref=e356] [cursor=pointer]:
+            - heading "Become The Product Engineer Companies Hire On Day One 7 minutes, 39 seconds" [level=3] [ref=e357]:
+              - link "Become The Product Engineer Companies Hire On Day One 7 minutes, 39 seconds" [ref=e358]:
+                - /url: /watch?v=S5QlsnIcogs
+                - generic [ref=e359]: Become The Product Engineer Companies Hire On Day One
+            - generic [ref=e362]:
+              - generic [ref=e363]: 2.1K views
+              - generic [ref=e364]: •2 months ago
+        - generic [ref=e368]:
+          - link [ref=e371] [cursor=pointer]:
+            - /url: /watch?v=fp_mecPRKxs
+          - generic [ref=e374] [cursor=pointer]:
+            - heading "Go Fullstack This Year Before AI Replaces You 5 minutes, 32 seconds" [level=3] [ref=e375]:
+              - link "Go Fullstack This Year Before AI Replaces You 5 minutes, 32 seconds" [ref=e376]:
+                - /url: /watch?v=fp_mecPRKxs
+                - generic [ref=e377]: Go Fullstack This Year Before AI Replaces You
+            - generic [ref=e380]:
+              - generic [ref=e381]: 1.7K views
+              - generic [ref=e382]: •2 months ago
+        - generic [ref=e386]:
+          - link [ref=e389] [cursor=pointer]:
+            - /url: /watch?v=1npq8zDPJQA
+          - generic [ref=e392] [cursor=pointer]:
+            - heading "Don't Waste 2026 Competing Against PhDs (MLOps vs ML Engineer) 7 minutes, 7 seconds" [level=3] [ref=e393]:
+              - link "Don't Waste 2026 Competing Against PhDs (MLOps vs ML Engineer) 7 minutes, 7 seconds" [ref=e394]:
+                - /url: /watch?v=1npq8zDPJQA
+                - generic [ref=e395]: Don't Waste 2026 Competing Against PhDs (MLOps vs ML Engineer)
+            - generic [ref=e398]:
+              - generic [ref=e399]: 30K views
+              - generic [ref=e400]: •3 months ago
+        - generic [ref=e404]:
+          - link [ref=e407] [cursor=pointer]:
+            - /url: /watch?v=RRJaLUJEG5Q
+          - generic [ref=e410] [cursor=pointer]:
+            - heading "Vibe Coders Just Gifted You A 6-Figure Career 5 minutes, 59 seconds" [level=3] [ref=e411]:
+              - link "Vibe Coders Just Gifted You A 6-Figure Career 5 minutes, 59 seconds" [ref=e412]:
+                - /url: /watch?v=RRJaLUJEG5Q
+                - generic [ref=e413]: Vibe Coders Just Gifted You A 6-Figure Career
+            - generic [ref=e416]:
+              - generic [ref=e417]: 1.5K views
+              - generic [ref=e418]: •3 months ago
+        - generic [ref=e422]:
+          - link [ref=e425] [cursor=pointer]:
+            - /url: /watch?v=wudNmLHcZeE
+          - generic [ref=e428] [cursor=pointer]:
+            - heading "Why Everyone's Switching to Linux for Local AI 11 minutes, 45 seconds" [level=3] [ref=e429]:
+              - link "Why Everyone's Switching to Linux for Local AI 11 minutes, 45 seconds" [ref=e430]:
+                - /url: /watch?v=wudNmLHcZeE
+                - generic [ref=e431]: Why Everyone's Switching to Linux for Local AI
+            - generic [ref=e434]:
+              - generic [ref=e435]: 25K views
+              - generic [ref=e436]: •3 months ago
+        - generic [ref=e440]:
+          - link [ref=e443] [cursor=pointer]:
+            - /url: /watch?v=W45XJWZiwPM
+          - generic [ref=e446] [cursor=pointer]:
+            - heading "Run Multiple Claude Code Agents Without Git Conflicts (Vibe Kanban) 9 minutes, 27 seconds" [level=3] [ref=e447]:
+              - link "Run Multiple Claude Code Agents Without Git Conflicts (Vibe Kanban) 9 minutes, 27 seconds" [ref=e448]:
+                - /url: /watch?v=W45XJWZiwPM
+                - generic [ref=e449]: Run Multiple Claude Code Agents Without Git Conflicts (Vibe Kanban)
+            - generic [ref=e452]:
+              - generic [ref=e453]: 15K views
+              - generic [ref=e454]: •3 months ago
+        - generic [ref=e458]:
+          - link [ref=e461] [cursor=pointer]:
+            - /url: /watch?v=YlCkX6PROyk
+          - generic [ref=e464] [cursor=pointer]:
+            - heading "The Most Underrated Engineering Role in 2026 5 minutes, 55 seconds" [level=3] [ref=e465]:
+              - link "The Most Underrated Engineering Role in 2026 5 minutes, 55 seconds" [ref=e466]:
+                - /url: /watch?v=YlCkX6PROyk
+                - generic [ref=e467]: The Most Underrated Engineering Role in 2026
+            - generic [ref=e470]:
+              - generic [ref=e471]: 3.6K views
+              - generic [ref=e472]: •3 months ago
+        - generic [ref=e476]:
+          - link [ref=e479] [cursor=pointer]:
+            - /url: /watch?v=NBibgD7I48w
+          - generic [ref=e482] [cursor=pointer]:
+            - heading "I Added Unlimited Image Generation To Claude Code (Nano Banana) 6 minutes, 57 seconds" [level=3] [ref=e483]:
+              - link "I Added Unlimited Image Generation To Claude Code (Nano Banana) 6 minutes, 57 seconds" [ref=e484]:
+                - /url: /watch?v=NBibgD7I48w
+                - generic [ref=e485]: I Added Unlimited Image Generation To Claude Code (Nano Banana)
+            - generic [ref=e488]:
+              - generic [ref=e489]: 11K views
+              - generic [ref=e490]: •4 months ago
+        - generic [ref=e494]:
+          - link [ref=e497] [cursor=pointer]:
+            - /url: /watch?v=lffYEu5MhSQ
+          - generic [ref=e500] [cursor=pointer]:
+            - heading "Claude Code Just Got The Ultimate Dev Shortcut (LSP Explained) 5 minutes, 42 seconds" [level=3] [ref=e501]:
+              - link "Claude Code Just Got The Ultimate Dev Shortcut (LSP Explained) 5 minutes, 42 seconds" [ref=e502]:
+                - /url: /watch?v=lffYEu5MhSQ
+                - generic [ref=e503]: Claude Code Just Got The Ultimate Dev Shortcut (LSP Explained)
+            - generic [ref=e506]:
+              - generic [ref=e507]: 67K views
+              - generic [ref=e508]: •4 months ago
+        - generic [ref=e512]:
+          - link [ref=e515] [cursor=pointer]:
+            - /url: /watch?v=0WWedfT2AUA
+          - generic [ref=e518] [cursor=pointer]:
+            - heading "Why Real Engineers Won't Be Replaced By AI 38 minutes" [level=3] [ref=e519]:
+              - link "Why Real Engineers Won't Be Replaced By AI 38 minutes" [ref=e520]:
+                - /url: /watch?v=0WWedfT2AUA
+                - generic [ref=e521]: Why Real Engineers Won't Be Replaced By AI
+            - generic [ref=e524]:
+              - generic [ref=e525]: 1.2K views
+              - generic [ref=e526]: •4 months ago
+        - generic [ref=e530]:
+          - link [ref=e533] [cursor=pointer]:
+            - /url: /watch?v=s0mbV0XIzWg
+          - generic [ref=e536] [cursor=pointer]:
+            - heading "How To Dominate 2026 as a Software Developer 5 minutes, 43 seconds" [level=3] [ref=e537]:
+              - link "How To Dominate 2026 as a Software Developer 5 minutes, 43 seconds" [ref=e538]:
+                - /url: /watch?v=s0mbV0XIzWg
+                - generic [ref=e539]: How To Dominate 2026 as a Software Developer
+            - generic [ref=e542]:
+              - generic [ref=e543]: 12K views
+              - generic [ref=e544]: •4 months ago
+        - generic [ref=e548]:
+          - link [ref=e551] [cursor=pointer]:
+            - /url: /watch?v=cqDQV5g7zHo
+          - generic [ref=e554] [cursor=pointer]:
+            - heading "Don't Waste 2026 on the Wrong Career (ML vs AI Engineer) 5 minutes, 37 seconds" [level=3] [ref=e555]:
+              - link "Don't Waste 2026 on the Wrong Career (ML vs AI Engineer) 5 minutes, 37 seconds" [ref=e556]:
+                - /url: /watch?v=cqDQV5g7zHo
+                - generic [ref=e557]: Don't Waste 2026 on the Wrong Career (ML vs AI Engineer)
+            - generic [ref=e560]:
+              - generic [ref=e561]: 314K views
+              - generic [ref=e562]: •4 months ago
+        - generic [ref=e566]:
+          - link [ref=e569] [cursor=pointer]:
+            - /url: /watch?v=ZnN9HXEIDcI
+          - generic [ref=e572] [cursor=pointer]:
+            - heading "Unleash AI Code Agents on Autopilot (Never Look Back) 8 minutes, 9 seconds" [level=3] [ref=e573]:
+              - link "Unleash AI Code Agents on Autopilot (Never Look Back) 8 minutes, 9 seconds" [ref=e574]:
+                - /url: /watch?v=ZnN9HXEIDcI
+                - generic [ref=e575]: Unleash AI Code Agents on Autopilot (Never Look Back)
+            - generic [ref=e578]:
+              - generic [ref=e579]: 10K views
+              - generic [ref=e580]: •5 months ago
+        - generic [ref=e584]:
+          - link [ref=e587] [cursor=pointer]:
+            - /url: /watch?v=uR_lvAZFBw0
+          - generic [ref=e590] [cursor=pointer]:
+            - heading "Why Top AI Engineers Don't Use LangChain 11 minutes, 45 seconds" [level=3] [ref=e591]:
+              - link "Why Top AI Engineers Don't Use LangChain 11 minutes, 45 seconds" [ref=e592]:
+                - /url: /watch?v=uR_lvAZFBw0
+                - generic [ref=e593]: Why Top AI Engineers Don't Use LangChain
+            - generic [ref=e596]:
+              - generic [ref=e597]: 16K views
+              - generic [ref=e598]: •5 months ago
+        - generic [ref=e602]:
+          - link [ref=e605] [cursor=pointer]:
+            - /url: /watch?v=WUo5tKg2lnE
+          - generic [ref=e608] [cursor=pointer]:
+            - heading "The Simple AI Project To Get You Hired In 2026 8 minutes, 1 second" [level=3] [ref=e609]:
+              - link "The Simple AI Project To Get You Hired In 2026 8 minutes, 1 second" [ref=e610]:
+                - /url: /watch?v=WUo5tKg2lnE
+                - generic [ref=e611]: The Simple AI Project To Get You Hired In 2026
+            - generic [ref=e614]:
+              - generic [ref=e615]: 11K views
+              - generic [ref=e616]: •5 months ago
+        - generic [ref=e620]:
+          - link [ref=e623] [cursor=pointer]:
+            - /url: /watch?v=nYDUdnMVDdU&pp=0gcJCd8KAYcqIYzv
+          - generic [ref=e626] [cursor=pointer]:
+            - heading "AI Coding Without Rate Limits Is Finally Here (Local Claude Code) 11 minutes, 2 seconds" [level=3] [ref=e627]:
+              - link "AI Coding Without Rate Limits Is Finally Here (Local Claude Code) 11 minutes, 2 seconds" [ref=e628]:
+                - /url: /watch?v=nYDUdnMVDdU&pp=0gcJCd8KAYcqIYzv
+                - generic [ref=e629]: AI Coding Without Rate Limits Is Finally Here (Local Claude Code)
+            - generic [ref=e632]:
+              - generic [ref=e633]: 87K views
+              - generic [ref=e634]: •6 months ago
+        - generic [ref=e638]:
+          - link [ref=e641] [cursor=pointer]:
+            - /url: /watch?v=rp5EwOogWEw
+          - generic [ref=e644] [cursor=pointer]:
+            - heading "The Ultimate Local AI Coding Guide For 2026 36 minutes" [level=3] [ref=e645]:
+              - link "The Ultimate Local AI Coding Guide For 2026 36 minutes" [ref=e646]:
+                - /url: /watch?v=rp5EwOogWEw
+                - generic [ref=e647]: The Ultimate Local AI Coding Guide For 2026
+            - generic [ref=e650]:
+              - generic [ref=e651]: 251K views
+              - generic [ref=e652]: •6 months ago
+        - generic [ref=e656]:
+          - link [ref=e659] [cursor=pointer]:
+            - /url: /watch?v=kU4L-JXq9sM
+          - generic [ref=e662] [cursor=pointer]:
+            - heading "The Complete AI Voice Agent Blueprint 8 minutes, 47 seconds" [level=3] [ref=e663]:
+              - link "The Complete AI Voice Agent Blueprint 8 minutes, 47 seconds" [ref=e664]:
+                - /url: /watch?v=kU4L-JXq9sM
+                - generic [ref=e665]: The Complete AI Voice Agent Blueprint
+            - generic [ref=e668]:
+              - generic [ref=e669]: 1.1K views
+              - generic [ref=e670]: •6 months ago
+        - generic [ref=e674]:
+          - link [ref=e677] [cursor=pointer]:
+            - /url: /watch?v=dBebGUgiz34
+          - generic [ref=e680] [cursor=pointer]:
+            - heading "Learn Faster with an AI Knowledge Graph in Obsidian 12 minutes, 14 seconds" [level=3] [ref=e681]:
+              - link "Learn Faster with an AI Knowledge Graph in Obsidian 12 minutes, 14 seconds" [ref=e682]:
+                - /url: /watch?v=dBebGUgiz34
+                - generic [ref=e683]: Learn Faster with an AI Knowledge Graph in Obsidian
+            - generic [ref=e686]:
+              - generic [ref=e687]: 9.7K views
+              - generic [ref=e688]: •7 months ago
+        - generic [ref=e692]:
+          - link [ref=e695] [cursor=pointer]:
+            - /url: /watch?v=WmS9_m5n1kU
+          - generic [ref=e698] [cursor=pointer]:
+            - heading "This AI Coding Trap Destroys Your Productivity 11 minutes, 55 seconds" [level=3] [ref=e699]:
+              - link "This AI Coding Trap Destroys Your Productivity 11 minutes, 55 seconds" [ref=e700]:
+                - /url: /watch?v=WmS9_m5n1kU
+                - generic [ref=e701]: This AI Coding Trap Destroys Your Productivity
+            - generic [ref=e704]:
+              - generic [ref=e705]: 3.7K views
+              - generic [ref=e706]: •7 months ago
+        - generic [ref=e710]:
+          - link [ref=e713] [cursor=pointer]:
+            - /url: /watch?v=9hW9UViNzdE
+          - generic [ref=e716] [cursor=pointer]:
+            - heading "The Git Workflow That Fixes Broken Code 19 minutes" [level=3] [ref=e717]:
+              - link "The Git Workflow That Fixes Broken Code 19 minutes" [ref=e718]:
+                - /url: /watch?v=9hW9UViNzdE
+                - generic [ref=e719]: The Git Workflow That Fixes Broken Code
+            - generic [ref=e722]:
+              - generic [ref=e723]: 3.1K views
+              - generic [ref=e724]: •7 months ago
+        - generic [ref=e728]:
+          - link [ref=e731] [cursor=pointer]:
+            - /url: /watch?v=9nBpIz6RIWk
+          - generic [ref=e734] [cursor=pointer]:
+            - heading "The Truth Behind Comparing Claude Code VS Codex (Opus 4.6, GPT 5.3) 12 minutes, 4 seconds" [level=3] [ref=e735]:
+              - link "The Truth Behind Comparing Claude Code VS Codex (Opus 4.6, GPT 5.3) 12 minutes, 4 seconds" [ref=e736]:
+                - /url: /watch?v=9nBpIz6RIWk
+                - generic [ref=e737]: The Truth Behind Comparing Claude Code VS Codex (Opus 4.6, GPT 5.3)
+            - generic [ref=e740]:
+              - generic [ref=e741]: 24K views
+              - generic [ref=e742]: •7 months ago

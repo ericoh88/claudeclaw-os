@@ -1,0 +1,210 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e48]:
+    - generic [ref=e55]:
+      - generic [ref=e63]:
+        - generic [ref=e71]:
+          - heading "Mark Kashef" [level=1] [ref=e73]
+          - generic [ref=e74]:
+            - group [ref=e75]:
+              - generic [ref=e76]: "@Mark_Kashef"
+            - generic [ref=e77]: •
+            - group [ref=e78]:
+              - generic "75.4 thousand subscribers" [ref=e79]: 75.4K subscribers
+              - generic [ref=e80]: •
+              - generic [ref=e81]: 204 videos
+          - generic [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]: I'm an AI expert (and mad scientist) with over 10 years in Data Science & NLP
+            - button "Description. I'm an AI expert (and mad scientist) with over 10 years in D...tap for more." [ref=e85]:
+              - generic [ref=e86]: ...more
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - link "skool.com/earlyaidopters" [ref=e91] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbWRNRUJEOHVEdFB2T0c1elNYY2J5RFFSMndUd3xBQ3Jtc0trM2FVeVRDaGkyN2pRbTVROU5QZHQwd1dHN3pHckhfZUFHY3ZCTUJHSVFRdE9VVExZM0x4U3pVMUQtOG1iSTJEZmtzOXh5ZzduajJVTm9OUnZKTEdWTXFETG9icklTREVNbndMUmhJbVU1TUNuTE12Yw&q=https%3A%2F%2Fwww.skool.com%2Fearlyaidopters
+            - button "and 4 more links" [ref=e94] [cursor=pointer]
+          - button "Subscribe" [ref=e99] [cursor=pointer]:
+            - generic [ref=e100]: Subscribe
+      - tablist [ref=e107]:
+        - tablist [ref=e111]:
+          - tab "Home" [selected] [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: Home
+          - tab "Videos" [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]: Videos
+          - tab "Shorts" [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]: Shorts
+          - tab "Playlists" [ref=e118] [cursor=pointer]:
+            - generic [ref=e119]: Playlists
+          - tab "Posts" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]: Posts
+          - button "Search" [ref=e125] [cursor=pointer]
+    - generic [ref=e133]:
+      - generic [ref=e141]:
+        - 'heading "The AI Playbook for 2026: Focus, Scale, or Die 17 minutes" [level=3] [ref=e142]':
+          - 'link "The AI Playbook for 2026: Focus, Scale, or Die" [ref=e143] [cursor=pointer]':
+            - /url: /watch?v=C1QHbNk2Pvg
+        - generic [ref=e146]:
+          - generic [ref=e147]: 9,535 views
+          - generic [ref=e148]: •3 months ago
+      - generic [ref=e152]:
+        - heading "Videos" [level=2] [ref=e155]:
+          - link "Videos" [ref=e158] [cursor=pointer]:
+            - /url: /@Mark_Kashef/videos?view=0&sort=dd&shelf_id=2
+            - generic [ref=e159]: Videos
+        - generic [ref=e161]:
+          - generic [ref=e164]:
+            - generic [ref=e166]:
+              - link [ref=e168] [cursor=pointer]:
+                - /url: /watch?v=RChO5deJ_fE
+              - generic [ref=e172] [cursor=pointer]:
+                - heading "You Can Make Claude + Codex Plan Together. Here's How. 8 minutes, 35 seconds" [level=3] [ref=e173]:
+                  - link "You Can Make Claude + Codex Plan Together. Here's How. 8 minutes, 35 seconds" [ref=e174]:
+                    - /url: /watch?v=RChO5deJ_fE
+                    - text: You Can Make Claude + Codex Plan Together. Here's How.
+                - generic [ref=e177]:
+                  - generic [ref=e178]: 4.5K views
+                  - generic [ref=e179]: •1 day ago
+            - generic [ref=e181]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: /watch?v=Fu5KIG2Jm1g
+              - generic [ref=e187] [cursor=pointer]:
+                - heading "You Can Run Claude AND Codex Together. Here's How. 14 minutes, 50 seconds" [level=3] [ref=e188]:
+                  - link "You Can Run Claude AND Codex Together. Here's How. 14 minutes, 50 seconds" [ref=e189]:
+                    - /url: /watch?v=Fu5KIG2Jm1g
+                    - text: You Can Run Claude AND Codex Together. Here's How.
+                - generic [ref=e192]:
+                  - generic [ref=e193]: 20K views
+                  - generic [ref=e194]: •3 days ago
+            - generic [ref=e196]:
+              - link [ref=e198] [cursor=pointer]:
+                - /url: /watch?v=OMkdlwZxSt8
+              - generic [ref=e202] [cursor=pointer]:
+                - heading "Master ALL 7 Levels of Claude Code Memory 20 minutes" [level=3] [ref=e203]:
+                  - link "Master ALL 7 Levels of Claude Code Memory 20 minutes" [ref=e204]:
+                    - /url: /watch?v=OMkdlwZxSt8
+                    - text: Master ALL 7 Levels of Claude Code Memory
+                - generic [ref=e207]:
+                  - generic [ref=e208]: 9.3K views
+                  - generic [ref=e209]: •7 days ago
+            - generic [ref=e211]:
+              - link [ref=e213] [cursor=pointer]:
+                - /url: /watch?v=TJRsTwi1McI
+              - generic [ref=e217] [cursor=pointer]:
+                - heading "Claude Design Just Shook Up the Design Industry 10 minutes, 45 seconds" [level=3] [ref=e218]:
+                  - link "Claude Design Just Shook Up the Design Industry 10 minutes, 45 seconds" [ref=e219]:
+                    - /url: /watch?v=TJRsTwi1McI
+                    - text: Claude Design Just Shook Up the Design Industry
+                - generic [ref=e222]:
+                  - generic [ref=e223]: 23K views
+                  - generic [ref=e224]: •12 days ago
+            - generic [ref=e226]:
+              - link [ref=e228] [cursor=pointer]:
+                - /url: /watch?v=rVzGu5OYYS0
+              - generic [ref=e232] [cursor=pointer]:
+                - heading "I Replaced OpenClaw and Hermes With This Claude Code Setup 22 minutes" [level=3] [ref=e233]:
+                  - link "I Replaced OpenClaw and Hermes With This Claude Code Setup 22 minutes" [ref=e234]:
+                    - /url: /watch?v=rVzGu5OYYS0
+                    - text: I Replaced OpenClaw and Hermes With This Claude Code Setup
+                - generic [ref=e237]:
+                  - generic [ref=e238]: 82K views
+                  - generic [ref=e239]: •2 weeks ago
+            - generic [ref=e241]:
+              - link [ref=e243] [cursor=pointer]:
+                - /url: /watch?v=KsYCtXeAGBg
+              - generic [ref=e247] [cursor=pointer]:
+                - heading "Claude Code Quietly Enabled the Most Powerful Feature Yet 10 minutes, 29 seconds" [level=3] [ref=e248]:
+                  - link "Claude Code Quietly Enabled the Most Powerful Feature Yet 10 minutes, 29 seconds" [ref=e249]:
+                    - /url: /watch?v=KsYCtXeAGBg
+                    - text: Claude Code Quietly Enabled the Most Powerful Feature Yet
+                - generic [ref=e252]:
+                  - generic [ref=e253]: 12K views
+                  - generic [ref=e254]: •2 weeks ago
+          - button "Next" [ref=e257] [cursor=pointer]
+      - generic [ref=e266]:
+        - heading "Popular videos" [level=2] [ref=e269]:
+          - link "Popular videos" [ref=e272] [cursor=pointer]:
+            - /url: /@Mark_Kashef/videos?view=0&sort=p&shelf_id=3
+            - generic [ref=e273]: Popular videos
+        - generic [ref=e278]:
+          - generic [ref=e280]:
+            - link [ref=e282] [cursor=pointer]:
+              - /url: /watch?v=u2NluvotA80
+            - generic [ref=e286] [cursor=pointer]:
+              - heading "How to INSTANTLY Build An AI Agent Army in n8n with Claude 24 minutes" [level=3] [ref=e287]:
+                - link "How to INSTANTLY Build An AI Agent Army in n8n with Claude 24 minutes" [ref=e288]:
+                  - /url: /watch?v=u2NluvotA80
+                  - text: How to INSTANTLY Build An AI Agent Army in n8n with Claude
+              - generic [ref=e291]:
+                - generic [ref=e292]: 156K views
+                - generic [ref=e293]: •11 months ago
+          - generic [ref=e295]:
+            - link [ref=e297] [cursor=pointer]:
+              - /url: /watch?v=JM0y9JKopc0
+            - generic [ref=e301] [cursor=pointer]:
+              - heading "How to Use Claude to INSTANTLY Build & Replicate Any n8n Agents 19 minutes" [level=3] [ref=e302]:
+                - link "How to Use Claude to INSTANTLY Build & Replicate Any n8n Agents 19 minutes" [ref=e303]:
+                  - /url: /watch?v=JM0y9JKopc0
+                  - text: How to Use Claude to INSTANTLY Build & Replicate Any n8n Agents
+              - generic [ref=e306]:
+                - generic [ref=e307]: 136K views
+                - generic [ref=e308]: •1 year ago
+          - generic [ref=e310]:
+            - link [ref=e312] [cursor=pointer]:
+              - /url: /watch?v=e2zIr_2JMbE
+            - generic [ref=e316] [cursor=pointer]:
+              - heading "Master ALL 20 Agentic AI Design Patterns [Complete Course] 1 hour, 3 minutes" [level=3] [ref=e317]:
+                - link "Master ALL 20 Agentic AI Design Patterns [Complete Course] 1 hour, 3 minutes" [ref=e318]:
+                  - /url: /watch?v=e2zIr_2JMbE
+                  - text: Master ALL 20 Agentic AI Design Patterns [Complete Course]
+              - generic [ref=e321]:
+                - generic [ref=e322]: 125K views
+                - generic [ref=e323]: •7 months ago
+          - generic [ref=e325]:
+            - link [ref=e327] [cursor=pointer]:
+              - /url: /watch?v=2kbINqpluM0
+            - generic [ref=e331] [cursor=pointer]:
+              - heading "Claude Code Turned Obsidian Into My Dream Second Brain 14 minutes, 1 second" [level=3] [ref=e332]:
+                - link "Claude Code Turned Obsidian Into My Dream Second Brain 14 minutes, 1 second" [ref=e333]:
+                  - /url: /watch?v=2kbINqpluM0
+                  - text: Claude Code Turned Obsidian Into My Dream Second Brain
+              - generic [ref=e336]:
+                - generic [ref=e337]: 84K views
+                - generic [ref=e338]: •1 month ago
+          - generic [ref=e340]:
+            - link [ref=e342] [cursor=pointer]:
+              - /url: /watch?v=rVzGu5OYYS0
+            - generic [ref=e346] [cursor=pointer]:
+              - heading "I Replaced OpenClaw and Hermes With This Claude Code Setup 22 minutes" [level=3] [ref=e347]:
+                - link "I Replaced OpenClaw and Hermes With This Claude Code Setup 22 minutes" [ref=e348]:
+                  - /url: /watch?v=rVzGu5OYYS0
+                  - text: I Replaced OpenClaw and Hermes With This Claude Code Setup
+              - generic [ref=e351]:
+                - generic [ref=e352]: 82K views
+                - generic [ref=e353]: •2 weeks ago
+          - generic [ref=e355]:
+            - link [ref=e357] [cursor=pointer]:
+              - /url: /watch?v=9Svv-n11Ysk
+            - generic [ref=e361] [cursor=pointer]:
+              - heading "I Replaced OpenClaw With Claude Code in One Day 15 minutes" [level=3] [ref=e362]:
+                - link "I Replaced OpenClaw With Claude Code in One Day 15 minutes" [ref=e363]:
+                  - /url: /watch?v=9Svv-n11Ysk
+                  - text: I Replaced OpenClaw With Claude Code in One Day
+              - generic [ref=e366]:
+                - generic [ref=e367]: 77K views
+                - generic [ref=e368]: •2 months ago

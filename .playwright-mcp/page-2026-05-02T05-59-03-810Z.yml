@@ -1,0 +1,729 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Global navigation" [ref=e5]:
+      - link "n8n.io" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e8]: n8n.io
+        - img [ref=e9]
+      - generic [ref=e12]:
+        - link "186,328" [ref=e13] [cursor=pointer]:
+          - /url: https://github.com/n8n-io/n8n
+          - generic [ref=e14]:
+            - img [ref=e15]
+            - text: 186,328
+        - link "Sign in" [ref=e17] [cursor=pointer]:
+          - /url: https://app.n8n.cloud/login
+        - link "Get Started" [ref=e18] [cursor=pointer]:
+          - /url: https://app.n8n.cloud/register
+  - generic [ref=e21]:
+    - generic [ref=e24]:
+      - link "Back to Templates" [ref=e25] [cursor=pointer]:
+        - /url: /workflows/
+        - img [ref=e26]
+        - text: Back to Templates
+      - list [ref=e28]:
+        - listitem [ref=e29]:
+          - link "HTTP Request" [ref=e30] [cursor=pointer]:
+            - /url: /integrations/http-request/
+            - tooltip "HTTP Request" [ref=e31]:
+              - img [ref=e32]
+              - generic: HTTP Request
+        - listitem [ref=e33]:
+          - link "If" [ref=e34] [cursor=pointer]:
+            - /url: /integrations/if/
+            - tooltip "If" [ref=e35]:
+              - img [ref=e36]
+              - generic: If
+        - listitem [ref=e38]:
+          - link "Merge" [ref=e39] [cursor=pointer]:
+            - /url: /integrations/merge/
+            - tooltip "Merge" [ref=e40]:
+              - img [ref=e41]
+              - generic: Merge
+        - listitem [ref=e42]:
+          - generic [ref=e43]: "+5"
+      - heading "Turn any video into summary clips and transcript with WayinVideo AI" [level=1] [ref=e44]:
+        - generic [ref=e45]: Turn any video into summary clips and transcript with WayinVideo AI
+      - button "Use for free" [ref=e47] [cursor=pointer]:
+        - generic [ref=e48]: Use for free
+        - img [ref=e49]
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - paragraph [ref=e56]: Created by
+          - 'link "Created by: Incrementors || incrementors Incrementors" [ref=e57] [cursor=pointer]':
+            - /url: /creators/incrementors/
+            - 'img "Created by: Incrementors || incrementors" [ref=e59]'
+            - generic [ref=e60]:
+              - text: Incrementors
+              - img [ref=e62]
+        - generic [ref=e65]:
+          - paragraph [ref=e66]: Last update
+          - paragraph [ref=e67]: Last update 11 days ago
+        - generic [ref=e68]:
+          - paragraph [ref=e69]: Categories
+          - list [ref=e70]:
+            - listitem [ref=e71]:
+              - link "Content Creation" [ref=e72] [cursor=pointer]:
+                - /url: /workflows/categories/content-creation/
+            - listitem [ref=e73]:
+              - link "Multimodal AI" [ref=e74] [cursor=pointer]:
+                - /url: /workflows/categories/multimodal-ai/
+        - generic [ref=e75]:
+          - paragraph [ref=e76]: Share
+          - generic [ref=e77]:
+            - link "Share with X" [ref=e78] [cursor=pointer]:
+              - /url: https://x.com/intent/post?url=https://n8n.io/workflows/14714-turn-any-video-into-summary-clips-and-transcript-with-wayinvideo-ai/
+              - img [ref=e79]
+            - link "Share with LinkedIn" [ref=e81] [cursor=pointer]:
+              - /url: https://www.linkedin.com/sharing/share-offsite/?url=https://n8n.io/workflows/14714-turn-any-video-into-summary-clips-and-transcript-with-wayinvideo-ai/
+              - img [ref=e82]
+      - generic [ref=e84]:
+        - separator [ref=e85]
+        - generic [ref=e87]:
+          - paragraph [ref=e88]: Paste any video URL into a simple form and the workflow runs three AI tasks at the same time — summary, viral clip identification, and full transcription. It waits for all three to finish, combines every result into a single structured HTML report, and sends it to your email automatically. Built for content creators, marketers, and agencies who want a complete content breakdown from any video in one click — no manual watching, editing, or copy-pasting required.
+          - separator [ref=e89]
+          - heading "What This Workflow Does" [level=2] [ref=e90]
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - strong [ref=e93]: Three outputs from one video URL
+              - text: — Paste one URL and get back a written summary (for blog posts or show notes), top 5 viral clips with AI scores (for social media), and a full speaker-labeled transcript (for captions or SEO content) — three deliverables in one run
+            - listitem [ref=e94]:
+              - strong [ref=e95]: Parallel processing — no extra wait
+              - text: — All three WayinVideo tasks start at the same time — if you ran them one by one it would take 3x longer, this workflow cuts that down to the time of the slowest single task
+            - listitem [ref=e96]:
+              - strong [ref=e97]: All-or-nothing status check
+              - text: — The workflow only moves forward when all three tasks finish successfully — if even one is still processing, it waits and retries so you never receive a partial or empty report
+            - listitem [ref=e98]:
+              - strong [ref=e99]: Auto-retry every 30 seconds
+              - text: — If any task takes longer than expected, the workflow checks again automatically every 30 seconds — no manual re-runs, no babysitting
+            - listitem [ref=e100]:
+              - strong [ref=e101]: API cost included in every report
+              - text: — The email shows the total WayinVideo API units used across all three tasks combined — useful for client billing, usage tracking, or agency reporting
+            - listitem [ref=e102]:
+              - strong [ref=e103]: One email with everything inside
+              - text: — You receive a single formatted HTML email containing the video title and URL, AI summary with tags, timeline highlights with timestamps, top 5 ranked clips with scores and durations, and a full scrollable transcript — nothing to open separately
+            - listitem [ref=e104]:
+              - strong [ref=e105]: One language setting runs across all three tasks
+              - text: — Enter a language code once in the form (e.g.
+              - code [ref=e106]: es
+              - text: for Spanish,
+              - code [ref=e107]: hi
+              - text: for Hindi) and all three tasks — summary, clips, and transcript — automatically process in that language
+          - separator [ref=e108]
+          - heading "Setup Requirements" [level=2] [ref=e109]
+          - heading "Tools you'll need:" [level=3] [ref=e110]
+          - list [ref=e111]:
+            - listitem [ref=e112]: Active n8n instance (self-hosted or n8n Cloud)
+            - listitem [ref=e113]: WayinVideo account + API key
+            - listitem [ref=e114]: Google account connected to n8n via Gmail OAuth2
+          - paragraph [ref=e115]:
+            - strong [ref=e116]: "Estimated Setup Time: 10–15 minutes"
+          - separator [ref=e117]
+          - heading "Step-by-Step Setup" [level=2] [ref=e118]
+          - list [ref=e119]:
+            - listitem [ref=e120]:
+              - paragraph [ref=e121]:
+                - strong [ref=e122]: Get your WayinVideo API key
+                - text: Log in at WayinVideo, go to your account settings or developer section, and copy your API key.
+            - listitem [ref=e123]:
+              - paragraph [ref=e124]:
+                - strong [ref=e125]: Paste the API key into node "3. WayinVideo — Submit Summary Task"
+                - text: Open this node, find the Authorization header, and replace
+                - code [ref=e126]: YOUR_WAYIN_API_KEY
+                - text: with your actual key.
+            - listitem [ref=e127]:
+              - paragraph [ref=e128]:
+                - strong [ref=e129]: Paste the API key into node "4. WayinVideo — Submit Clipping Task"
+                - text: Open this node, find the Authorization header, and replace
+                - code [ref=e130]: YOUR_WAYIN_API_KEY
+                - text: .
+            - listitem [ref=e131]:
+              - paragraph [ref=e132]:
+                - strong [ref=e133]: Paste the API key into node "5. WayinVideo — Submit Transcription Task"
+                - text: Open this node, find the Authorization header, and replace
+                - code [ref=e134]: YOUR_WAYIN_API_KEY
+                - text: .
+            - listitem [ref=e135]:
+              - paragraph [ref=e136]:
+                - strong [ref=e137]: Paste the API key into node "9. WayinVideo — Poll Summary Results"
+                - text: Open this node and replace
+                - code [ref=e138]: YOUR_WAYIN_API_KEY
+                - text: in the Authorization header.
+            - listitem [ref=e139]:
+              - paragraph [ref=e140]:
+                - strong [ref=e141]: Paste the API key into node "10. WayinVideo — Poll Clipping Results"
+                - text: Open this node and replace
+                - code [ref=e142]: YOUR_WAYIN_API_KEY
+                - text: .
+            - listitem [ref=e143]:
+              - paragraph [ref=e144]:
+                - strong [ref=e145]: Paste the API key into node "11. WayinVideo — Poll Transcription Results"
+                - text: Open this node and replace
+                - code [ref=e146]: YOUR_WAYIN_API_KEY
+                - text: .
+              - blockquote [ref=e147]:
+                - paragraph [ref=e148]:
+                  - text: ⚠️ This key appears in
+                  - strong [ref=e149]: 6 nodes
+                  - text: "— you must replace it in all of:"
+                  - strong [ref=e150]: "\"3. WayinVideo — Submit Summary Task\""
+                  - text: ","
+                  - strong [ref=e151]: "\"4. WayinVideo — Submit Clipping Task\""
+                  - text: ","
+                  - strong [ref=e152]: "\"5. WayinVideo — Submit Transcription Task\""
+                  - text: ","
+                  - strong [ref=e153]: "\"9. WayinVideo — Poll Summary Results\""
+                  - text: ","
+                  - strong [ref=e154]: "\"10. WayinVideo — Poll Clipping Results\""
+                  - text: ", and"
+                  - strong [ref=e155]: "\"11. WayinVideo — Poll Transcription Results\""
+                  - text: . Missing even one will cause that task to fail silently.
+            - listitem [ref=e156]:
+              - paragraph [ref=e157]:
+                - strong [ref=e158]: Set your recipient email address in node "16. Gmail — Send Content Report"
+                - text: Open this node and replace
+                - code [ref=e159]: YOUR_RECIPIENT_EMAIL
+                - text: with the email address where you want to receive the report.
+            - listitem [ref=e160]:
+              - paragraph [ref=e161]:
+                - strong [ref=e162]: Connect your Gmail account in node "16. Gmail — Send Content Report"
+                - text: Click the credential field in this node and connect your Google account via Gmail OAuth2. Follow the on-screen prompts to authorise n8n.
+            - listitem [ref=e163]:
+              - paragraph [ref=e164]:
+                - strong [ref=e165]: Activate the workflow
+                - text: Toggle the workflow to Active. Open the form URL generated by node
+                - strong [ref=e166]: "\"1. Form — Enter Video URL\""
+                - text: and submit a test video URL to confirm the full workflow runs and the report email arrives.
+          - separator [ref=e167]
+          - heading "How It Works (Step by Step)" [level=2] [ref=e168]
+          - paragraph [ref=e169]:
+            - strong [ref=e170]: Step 1 — Form Trigger (Web Form)
+            - text: "The workflow starts when someone fills in the form. You enter three things: the video URL (YouTube or any supported link), an optional project name, and an optional target language code (e.g."
+            - code [ref=e171]: en
+            - text: for English — leave blank for auto-detect). If you skip the project name, the workflow generates one automatically using today's date.
+          - paragraph [ref=e172]:
+            - strong [ref=e173]: Step 2 — Set Variables
+            - text: The video URL, project name, and target language are stored as clean, labelled variables. This ensures all three WayinVideo tasks that run next all use exactly the same video URL and language — no duplication errors.
+          - paragraph [ref=e174]:
+            - strong [ref=e175]: Steps 3, 4, 5 — Submit Three Tasks to WayinVideo (Parallel)
+            - text: "All three tasks are submitted to WayinVideo at the same time:"
+          - list [ref=e176]:
+            - listitem [ref=e177]:
+              - strong [ref=e178]: Step 3
+              - text: sends the video to the Summaries API — to generate a written summary, highlights, and tags
+            - listitem [ref=e179]:
+              - strong [ref=e180]: Step 4
+              - text: sends it to the Clips API — to identify the top 5 viral-worthy clip moments with scores and timestamps
+            - listitem [ref=e181]:
+              - strong [ref=e182]: Step 5
+              - text: sends it to the Transcripts API — to generate a full speaker-labelled transcript
+          - paragraph [ref=e183]: Each returns a unique task ID used to check for results later.
+          - paragraph [ref=e184]:
+            - strong [ref=e185]: Step 6 — Merge and Collect All Task IDs
+            - text: The three task IDs coming back from the submission steps are collected together into a single package so the next step can store them all at once.
+          - paragraph [ref=e186]:
+            - strong [ref=e187]: Step 7 — Store All Task IDs
+            - text: "All three task IDs — plus the original video URL — are saved into clearly labelled variables:"
+            - code [ref=e188]: summaryTaskId
+            - text: ","
+            - code [ref=e189]: clipsTaskId
+            - text: ","
+            - code [ref=e190]: transcriptTaskId
+            - text: ", and"
+            - code [ref=e191]: videoUrl
+            - text: . These are used in every subsequent polling step.
+          - paragraph [ref=e192]:
+            - strong [ref=e193]: Step 8 — Wait 90 Seconds
+            - text: The workflow pauses for 90 seconds to give WayinVideo time to process all three tasks before the first status check. All three tasks are running in parallel on WayinVideo's side during this wait.
+          - paragraph [ref=e194]:
+            - strong [ref=e195]: Steps 9, 10, 11 — Poll All Three Results (Parallel)
+            - text: After the wait, the workflow checks the status of all three tasks simultaneously — each using its stored task ID. Each polling step calls its respective WayinVideo results endpoint and returns the current status and data.
+          - paragraph [ref=e196]:
+            - strong [ref=e197]: "Step 12 — Check: All 3 Tasks SUCCEEDED? (YES / NO branch)"
+          - list [ref=e198]:
+            - listitem [ref=e199]:
+              - strong [ref=e200]: "YES"
+              - text: — If all three statuses equal
+              - code [ref=e201]: SUCCEEDED
+              - text: at the same time, the workflow moves forward to build the final report.
+            - listitem [ref=e202]:
+              - strong [ref=e203]: "NO"
+              - text: — If even one task is still processing, the workflow routes to a 30-second retry wait and then loops back to re-poll all three. This repeats until all three are complete.
+          - blockquote [ref=e204]:
+            - paragraph [ref=e205]:
+              - text: ⚠️
+              - strong [ref=e206]: "Infinite Loop Risk:"
+              - text: If any one task never reaches
+              - code [ref=e207]: SUCCEEDED
+              - text: — due to an invalid video URL, API error, or unsupported format — the loop runs forever. Add a retry counter to stop after 10 attempts and send an error email instead.
+          - paragraph [ref=e208]:
+            - strong [ref=e209]: Step 13 — Wait 30 Seconds (Retry)
+            - text: When not all tasks are ready yet, the workflow waits 30 seconds before polling again — preventing excessive API requests during the retry loop.
+          - paragraph [ref=e210]:
+            - strong [ref=e211]: Step 14 — Build Final Output Data
+            - text: "All results from the three polling steps are assembled into a clean set of labelled variables: the video title, summary text, tags, timeline highlights with timestamps, top 5 clip details with scores, the full speaker-labelled transcript, and the total API units used across all three tasks."
+          - paragraph [ref=e212]:
+            - strong [ref=e213]: Step 15 — Build HTML Email Body
+            - text: "The assembled data is formatted into a complete HTML email with five colour-coded sections: video info and URL, AI summary and tags, timeline highlights, top 5 viral clips with scores and timestamps, and the full transcript in a scrollable block. The email footer includes the generation timestamp."
+          - paragraph [ref=e214]:
+            - strong [ref=e215]: Step 16 — Gmail Sends the Content Report
+            - text: The finished HTML report is sent to the email address you set during setup. The subject line includes the video's AI-generated title. You receive one complete report covering all three WayinVideo outputs — in a single email.
+          - separator [ref=e216]
+          - heading "Key Features" [level=2] [ref=e217]
+          - paragraph [ref=e218]:
+            - text: ✅
+            - strong [ref=e219]: Three outputs in one run
+            - text: — Summary, viral clips, and full transcript are all generated from a single form submission — no separate workflows needed
+            - text: ✅
+            - strong [ref=e220]: Parallel task submission
+            - text: — All three WayinVideo tasks start at the same time — the total wait is the longest single task, not all three added together
+            - text: ✅
+            - strong [ref=e221]: Single combined IF check
+            - text: — The workflow only proceeds when ALL three tasks succeed simultaneously — no partial or incomplete reports
+            - text: ✅
+            - strong [ref=e222]: Auto-retry on any failure
+            - text: — If any one task is still running, the workflow loops back automatically every 30 seconds — no manual monitoring needed
+            - text: ✅
+            - strong [ref=e223]: Speaker-labelled transcript
+            - text: — The transcript section of the email labels each line by speaker and timestamp — useful for quotes, repurposing, and SEO content
+            - text: ✅
+            - strong [ref=e224]: API cost included in report
+            - text: — The email shows total WayinVideo API units used across all three tasks — useful for tracking usage and billing
+            - text: ✅
+            - strong [ref=e225]: Auto project naming
+            - text: — If you skip the project name in the form, the workflow generates one using today's date — so nothing is ever unnamed
+            - text: ✅
+            - strong [ref=e226]: Language-aware
+            - text: — Enter any supported language code in the form and all three tasks automatically process in that language
+          - separator [ref=e227]
+          - heading "Customisation Options" [level=2] [ref=e228]
+          - paragraph [ref=e229]:
+            - strong [ref=e230]: Get more viral clips in the report
+            - text: In node
+            - strong [ref=e231]: "\"4. WayinVideo — Submit Clipping Task\""
+            - text: ", change"
+            - code [ref=e232]: "\"limit\": 5"
+            - text: to
+            - code [ref=e233]: "10"
+            - text: to include more clip results in the report — the email template shows up to 5 by default but you can increase that in
+            - strong [ref=e234]: "\"14. Set — Build Final Output Data\""
+            - text: too.
+          - paragraph [ref=e235]:
+            - strong [ref=e236]: Change clip duration range
+            - text: In node
+            - strong [ref=e237]: "\"4. WayinVideo — Submit Clipping Task\""
+            - text: ", change"
+            - code [ref=e238]: "\"target_duration\": \"DURATION_0_90\""
+            - text: to
+            - code [ref=e239]: "\"DURATION_30_60\""
+            - text: to target clips in the 30–60 second range — better suited for Reels or Shorts.
+          - paragraph [ref=e240]:
+            - strong [ref=e241]: Archive every report to Google Sheets
+            - text: After
+            - strong [ref=e242]: "\"16. Gmail — Send Content Report\""
+            - text: ", add a Google Sheets \"Append Row\" step to log the video URL, project name, summary title, date, and API cost for every report — useful for tracking what has been processed."
+          - paragraph [ref=e243]:
+            - strong [ref=e244]: Send the report to a Slack channel instead of email
+            - text: Replace
+            - strong [ref=e245]: "\"16. Gmail — Send Content Report\""
+            - text: with a Slack node to post the summary and top clips directly into a team channel — cut down on email noise for internal teams.
+          - paragraph [ref=e246]:
+            - strong [ref=e247]: Add a Google Drive text file export
+            - text: After
+            - strong [ref=e248]: "\"14. Set — Build Final Output Data\""
+            - text: ", add an HTTP Request step to create a"
+            - code [ref=e249]: .txt
+            - text: file with the full transcript and upload it to Google Drive — so the transcript is permanently stored and searchable.
+          - paragraph [ref=e250]:
+            - strong [ref=e251]: Increase the wait time for long videos
+            - text: In node
+            - strong [ref=e252]: "\"8. Wait — 90 Seconds\""
+            - text: ", increase the wait amount to"
+            - code [ref=e253]: "120"
+            - text: or
+            - code [ref=e254]: "180"
+            - text: seconds if you are processing long recordings (60+ minutes) — this reduces unnecessary first-poll failures.
+          - separator [ref=e255]
+          - heading "Troubleshooting" [level=2] [ref=e256]
+          - paragraph [ref=e257]:
+            - strong [ref=e258]: "WayinVideo API key not working:"
+          - list [ref=e259]:
+            - listitem [ref=e260]:
+              - text: Check that you replaced
+              - code [ref=e261]: YOUR_WAYIN_API_KEY
+              - text: in all
+              - strong [ref=e262]: six
+              - text: "nodes:"
+              - strong [ref=e263]: "\"3. WayinVideo — Submit Summary Task\""
+              - text: ","
+              - strong [ref=e264]: "\"4. WayinVideo — Submit Clipping Task\""
+              - text: ","
+              - strong [ref=e265]: "\"5. WayinVideo — Submit Transcription Task\""
+              - text: ","
+              - strong [ref=e266]: "\"9. WayinVideo — Poll Summary Results\""
+              - text: ","
+              - strong [ref=e267]: "\"10. WayinVideo — Poll Clipping Results\""
+              - text: ", and"
+              - strong [ref=e268]: "\"11. WayinVideo — Poll Transcription Results\""
+            - listitem [ref=e269]: Confirm your WayinVideo account is active and your API key has not expired
+            - listitem [ref=e270]: Make sure there are no extra spaces before or after the key when pasting
+          - paragraph [ref=e271]:
+            - strong [ref=e272]: "Workflow stuck in the retry loop:"
+          - list [ref=e273]:
+            - listitem [ref=e274]: Check that the video URL is publicly accessible — private, age-restricted, or geo-blocked videos will not be processed
+            - listitem [ref=e275]:
+              - text: Open the output of each Poll step (
+              - strong [ref=e276]: "9"
+              - text: ","
+              - strong [ref=e277]: "10"
+              - text: ","
+              - strong [ref=e278]: "11"
+              - text: ) and inspect the raw response — one of them may be returning an error instead of
+              - code [ref=e279]: SUCCEEDED
+            - listitem [ref=e280]: If the loop never exits, deactivate and reactivate the workflow, fix the video URL, and resubmit the form
+          - paragraph [ref=e281]:
+            - strong [ref=e282]: "Email not arriving:"
+          - list [ref=e283]:
+            - listitem [ref=e284]:
+              - text: Check that
+              - code [ref=e285]: YOUR_RECIPIENT_EMAIL
+              - text: in
+              - strong [ref=e286]: "\"16. Gmail — Send Content Report\""
+              - text: was replaced with a real email address
+            - listitem [ref=e287]: Confirm the Gmail OAuth2 credential is connected and not expired — reconnect it in n8n credentials if needed
+            - listitem [ref=e288]: Check your spam or promotions folder — HTML emails from automated senders sometimes get filtered
+          - paragraph [ref=e289]:
+            - strong [ref=e290]: "Email arrives but sections are blank or show errors:"
+          - list [ref=e291]:
+            - listitem [ref=e292]: This happens when one of the Poll steps returned incomplete data because processing was not fully finished
+            - listitem [ref=e293]:
+              - text: The summary, clips, or transcript field may be empty — check the output of
+              - strong [ref=e294]: "\"14. Set — Build Final Output Data\""
+              - text: to see which field is missing
+            - listitem [ref=e295]:
+              - text: Increase the wait time in
+              - strong [ref=e296]: "\"8. Wait — 90 Seconds\""
+              - text: to give WayinVideo more processing time before the first poll
+          - paragraph [ref=e297]:
+            - strong [ref=e298]: "Form not triggering the workflow:"
+          - list [ref=e299]:
+            - listitem [ref=e300]:
+              - text: Make sure the workflow is set to
+              - strong [ref=e301]: Active
+              - text: — it will not accept form submissions while inactive
+            - listitem [ref=e302]:
+              - text: Copy the production form URL directly from
+              - strong [ref=e303]: "\"1. Form — Enter Video URL\""
+              - text: by clicking the node — do not use the test URL in production mode
+          - separator [ref=e304]
+          - heading "Support" [level=2] [ref=e305]
+          - paragraph [ref=e306]: Need help setting this up or want a custom version built for your team or agency?
+          - paragraph [ref=e307]:
+            - text: "📧 Email:"
+            - link "info@incrementors.com" [ref=e308] [cursor=pointer]:
+              - /url: /info@incrementors.com/
+            - text: "🌐 Website:"
+            - link "https://incrementors.com/" [ref=e309] [cursor=pointer]:
+              - /url: https://incrementors.com/
+  - contentinfo [ref=e310]:
+    - generic [ref=e311]:
+      - list [ref=e315]:
+        - listitem [ref=e316]:
+          - paragraph [ref=e320]:
+            - strong [ref=e321]: Build complex workflows that other tools can't
+            - text: ". I used other tools before. I got to know the N8N and I say it properly: it is better to do everything on the n8n! Congratulations on your work, you are a star!"
+          - generic [ref=e323]:
+            - paragraph [ref=e324]: Igor Fediczko
+            - paragraph [ref=e328]:
+              - link "@igordisco" [ref=e329] [cursor=pointer]:
+                - /url: https://x.com/@igordisco
+        - listitem [ref=e330]:
+          - paragraph [ref=e334]:
+            - strong [ref=e335]: Thank you to the n8n community
+            - text: . I did the beginners course and promptly took an automation WAY beyond my skill level.
+          - generic [ref=e336]:
+            - img "neutral-avatar-purple.PNG" [ref=e337]
+            - generic [ref=e338]:
+              - paragraph [ref=e339]: Robin Tindall
+              - paragraph [ref=e343]:
+                - link "@robm" [ref=e344] [cursor=pointer]:
+                  - /url: https://x.com/@robm
+        - listitem [ref=e345]:
+          - paragraph [ref=e349]:
+            - strong [ref=e350]: n8n is a beast for automation.
+            - text: self-hosting and low-code make it a dev’s dream. if you’re not automating yet, you’re working too hard.
+          - generic [ref=e352]:
+            - paragraph [ref=e353]: Anderoav
+            - paragraph [ref=e357]:
+              - link "@Anderoav" [ref=e358] [cursor=pointer]:
+                - /url: https://x.com/anderoav
+        - listitem [ref=e359]:
+          - paragraph [ref=e363]:
+            - strong [ref=e364]: n8n accelerated our development
+            - text: ", we were able to release the solution before the rest of the market even realized what we were building."
+          - generic [ref=e366]:
+            - paragraph [ref=e367]: Luiza Vidal
+            - paragraph [ref=e371]:
+              - link "@Luiza Vidal" [ref=e372] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/luiza-vidal-po/
+        - listitem [ref=e373]:
+          - paragraph [ref=e377]:
+            - strong [ref=e378]: I've said it many times. But I'll say it again. n8n is the GOAT
+            - text: . Anything is possible with n8n. You just need some technical knowledge + imagination. I'm actually looking to start a side project. Just to have an excuse to use n8n more 😅
+          - generic [ref=e380]:
+            - paragraph [ref=e381]: Maxim Poulsen
+            - paragraph [ref=e385]:
+              - link "@maximpoulsen" [ref=e386] [cursor=pointer]:
+                - /url: https://x.com/@maximpoulsen
+        - listitem [ref=e387]:
+          - paragraph [ref=e391]:
+            - strong [ref=e392]: n8n was the big unlock.
+            - text: Tools like ChatGPT and Claude are great, but n8n is the thing that allows you to integrate AI into your work and your processes in a safe and controlled way.
+          - generic [ref=e394]:
+            - paragraph [ref=e395]: Ollie Scheers
+            - paragraph [ref=e399]:
+              - link "@olliescheers" [ref=e400] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/olliescheers/
+        - listitem [ref=e401]:
+          - paragraph [ref=e405]:
+            - strong [ref=e406]: It blows my mind.
+            - text: I was hating on no-code tools my whole life, but n8n changed everything. Made a Slack agent that can basically do everything, in half an hour.
+          - generic [ref=e408]:
+            - paragraph [ref=e409]: Felix Leber
+            - paragraph [ref=e413]:
+              - link "@felixleber" [ref=e414] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/felixleber/
+        - listitem [ref=e415]:
+          - paragraph [ref=e419]:
+            - text: I just have to say,
+            - strong [ref=e420]: n8n's integration with third-party services is absolutely mind-blowing
+            - text: . It's like having a Swiss Army knife for automation. So many tasks become a breeze, and I can quickly validate and implement my ideas without any hassle.
+          - generic [ref=e422]:
+            - paragraph [ref=e423]: Nanbing
+            - paragraph [ref=e427]:
+              - link "@1ronben" [ref=e428] [cursor=pointer]:
+                - /url: https://x.com/1ronben
+        - listitem [ref=e429]:
+          - paragraph [ref=e433]:
+            - strong [ref=e434]: Found the holy grail of automation yesterday...
+            - text: Yesterday I tried n8n and it blew my mind 🤯 What would've taken me 3 days to code from scratch? Done in 2 hours. The best part? If you still want to get your hands dirty with code (because let's be honest, we developers can't help ourselves 😅), you can just drop in custom code nodes. Zero restrictions.
+          - generic [ref=e436]:
+            - paragraph [ref=e437]: Francois Laßl
+            - paragraph [ref=e441]:
+              - link "@francois-laßl" [ref=e442] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/francois-la%C3%9Fl-817937243/
+        - listitem [ref=e443]:
+          - paragraph [ref=e447]:
+            - strong [ref=e448]: Anything is possible with n8n
+            - text: . I think @n8n_io Cloud version is great, they are doing amazing stuff and I love that everything is available to look at on Github.
+          - generic [ref=e449]:
+            - img "neutral-avatar-purple.PNG" [ref=e450]
+            - generic [ref=e451]:
+              - paragraph [ref=e452]: Jodie M
+              - paragraph [ref=e456]:
+                - link "@jodiem" [ref=e457] [cursor=pointer]:
+                  - /url: https://x.com/@jodiem
+      - generic [ref=e459]:
+        - generic [ref=e460]:
+          - heading "Simple enough to see. Powerful enough to ship." [level=2] [ref=e461]:
+            - text: Simple enough to see.
+            - text: Powerful enough to ship.
+          - paragraph [ref=e462]: Join the teams building AI automation they can actually explain.
+        - link "Start building" [ref=e464] [cursor=pointer]:
+          - /url: https://app.n8n.cloud/register
+          - generic [ref=e465]: Start building
+          - img [ref=e466]
+    - generic [ref=e469]:
+      - generic [ref=e470]:
+        - img "Stars"
+      - generic [ref=e471]:
+        - generic [ref=e472]:
+          - generic [ref=e473]:
+            - generic [ref=e474]:
+              - link "n8n.io" [ref=e475] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e476]: n8n.io
+                - img [ref=e477]
+              - strong [ref=e480]: Automate without limits
+            - list [ref=e481]:
+              - listitem [ref=e482]:
+                - link "Twitter" [ref=e483] [cursor=pointer]:
+                  - /url: https://twitter.com/n8n_io
+                  - img "Twitter" [ref=e484]
+              - listitem [ref=e485]:
+                - link "GitHub" [ref=e486] [cursor=pointer]:
+                  - /url: https://github.com/n8n-io/n8n
+                  - img "GitHub" [ref=e487]
+              - listitem [ref=e488]:
+                - link "Discord" [ref=e489] [cursor=pointer]:
+                  - /url: https://discord.gg/n8n
+                  - img "Discord" [ref=e490]
+              - listitem [ref=e491]:
+                - link "Linkedin" [ref=e492] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/n8n/
+                  - img "Linkedin" [ref=e493]
+              - listitem [ref=e494]:
+                - link "youtube" [ref=e495] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/n8n-io
+                  - img "youtube" [ref=e496]
+          - generic [ref=e497]:
+            - generic [ref=e498]:
+              - link "Careers Hiring" [ref=e499] [cursor=pointer]:
+                - /url: /careers/
+                - text: Careers
+                - generic [ref=e500]: Hiring
+              - link "Contact" [ref=e501] [cursor=pointer]:
+                - /url: /contact/
+              - link "Merch" [ref=e502] [cursor=pointer]:
+                - /url: https://merch.n8n.io
+              - link "Press" [ref=e503] [cursor=pointer]:
+                - /url: /press/
+              - link "Legal" [ref=e504] [cursor=pointer]:
+                - /url: /legal/
+              - link "Tools" [ref=e505] [cursor=pointer]:
+                - /url: /tools/
+            - generic [ref=e506]:
+              - link "Case Studies" [ref=e507] [cursor=pointer]:
+                - /url: /case-studies/
+              - link "AI agent report" [ref=e508] [cursor=pointer]:
+                - /url: /reports/ai-agent-development-tools/
+              - link "AI benchmark" [ref=e509] [cursor=pointer]:
+                - /url: /ai-benchmark/
+              - link "n8n alternatives" [ref=e510] [cursor=pointer]:
+                - /url: /vs/
+              - link "Events" [ref=e511] [cursor=pointer]:
+                - /url: https://luma.com/n8n-events
+            - generic [ref=e512]:
+              - link "Partners" [ref=e513] [cursor=pointer]:
+                - /url: /partners/
+              - link "Affiliate program" [ref=e514] [cursor=pointer]:
+                - /url: /affiliates/
+              - link "Hire an expert" [ref=e515] [cursor=pointer]:
+                - /url: https://experts.n8n.io
+              - link "Join user tests, get a gift" [ref=e516] [cursor=pointer]:
+                - /url: https://internal.users.n8n.cloud/form/n8n-usability-test-signup
+              - link "Brand guidelines" [ref=e517] [cursor=pointer]:
+                - /url: /brandguidelines/
+        - generic [ref=e519]:
+          - generic [ref=e520]:
+            - strong [ref=e521]: Popular integrations
+            - list [ref=e522]:
+              - listitem [ref=e523]:
+                - link "Google Sheets" [ref=e524] [cursor=pointer]:
+                  - /url: /integrations/google-sheets/
+              - listitem [ref=e525]:
+                - link "Telegram" [ref=e526] [cursor=pointer]:
+                  - /url: /integrations/telegram/
+              - listitem [ref=e527]:
+                - link "MySQL" [ref=e528] [cursor=pointer]:
+                  - /url: /integrations/mysql/
+              - listitem [ref=e529]:
+                - link "Slack" [ref=e530] [cursor=pointer]:
+                  - /url: /integrations/slack/
+              - listitem [ref=e531]:
+                - link "Discord" [ref=e532] [cursor=pointer]:
+                  - /url: /integrations/discord/
+              - listitem [ref=e533]:
+                - link "Postgres" [ref=e534] [cursor=pointer]:
+                  - /url: /integrations/postgres/
+            - generic [ref=e536] [cursor=pointer]: Show more
+          - generic [ref=e537]:
+            - strong [ref=e538]: Trending combinations
+            - list [ref=e539]:
+              - listitem [ref=e540]:
+                - link "HubSpot and Salesforce" [ref=e541] [cursor=pointer]:
+                  - /url: /integrations/hubspot/and/salesforce/
+              - listitem [ref=e542]:
+                - link "Twilio and WhatsApp" [ref=e543] [cursor=pointer]:
+                  - /url: /integrations/twilio/and/whatsapp-business-cloud/
+              - listitem [ref=e544]:
+                - link "GitHub and Jira" [ref=e545] [cursor=pointer]:
+                  - /url: /integrations/github/and/jira-software/
+              - listitem [ref=e546]:
+                - link "Asana and Slack" [ref=e547] [cursor=pointer]:
+                  - /url: /integrations/asana/and/slack/
+              - listitem [ref=e548]:
+                - link "Asana and Salesforce" [ref=e549] [cursor=pointer]:
+                  - /url: /integrations/asana/and/salesforce/
+              - listitem [ref=e550]:
+                - link "Jira and Slack" [ref=e551] [cursor=pointer]:
+                  - /url: /integrations/jira-software/and/slack/
+            - generic [ref=e553] [cursor=pointer]: Show more
+          - generic [ref=e554]:
+            - strong [ref=e555]: Top integration categories
+            - list [ref=e556]:
+              - listitem [ref=e557]:
+                - link "Communication" [ref=e558] [cursor=pointer]:
+                  - /url: /integrations/categories/communication/
+              - listitem [ref=e559]:
+                - link "Development" [ref=e560] [cursor=pointer]:
+                  - /url: /integrations/categories/development/
+              - listitem [ref=e561]:
+                - link "Cybersecurity" [ref=e562] [cursor=pointer]:
+                  - /url: /integrations/categories/cybersecurity/
+              - listitem [ref=e563]:
+                - link "AI" [ref=e564] [cursor=pointer]:
+                  - /url: /integrations/categories/ai/
+              - listitem [ref=e565]:
+                - link "Data & Storage" [ref=e566] [cursor=pointer]:
+                  - /url: /integrations/categories/data-and-storage/
+              - listitem [ref=e567]:
+                - link "Marketing" [ref=e568] [cursor=pointer]:
+                  - /url: /integrations/categories/marketing/
+            - generic [ref=e570] [cursor=pointer]: Show more
+          - generic [ref=e571]:
+            - strong [ref=e572]: Trending templates
+            - list [ref=e573]:
+              - listitem [ref=e574]:
+                - link "Creating an API endpoint" [ref=e575] [cursor=pointer]:
+                  - /url: /workflows/1750-creating-an-api-endpoint/
+              - listitem [ref=e576]:
+                - link "AI agent chat" [ref=e577] [cursor=pointer]:
+                  - /url: /workflows/1954-ai-agent-chat/
+              - listitem [ref=e578]:
+                - link "Scrape and summarize webpages with AI" [ref=e579] [cursor=pointer]:
+                  - /url: /workflows/1951-scrape-and-summarize-webpages-with-ai/
+              - listitem [ref=e580]:
+                - link "Joining different datasets" [ref=e581] [cursor=pointer]:
+                  - /url: /workflows/1747-joining-different-datasets/
+              - listitem [ref=e582]:
+                - link "Back Up Your n8n Workflows To Github" [ref=e583] [cursor=pointer]:
+                  - /url: /workflows/1534-back-up-your-n8n-workflows-to-github/
+              - listitem [ref=e584]:
+                - link "Very quick quickstart" [ref=e585] [cursor=pointer]:
+                  - /url: /workflows/1700-very-quick-quickstart/
+            - generic [ref=e587] [cursor=pointer]: Show more
+          - generic [ref=e588]:
+            - strong [ref=e589]: Top guides
+            - list [ref=e590]:
+              - listitem [ref=e591]:
+                - link "Telegram bots" [ref=e592] [cursor=pointer]:
+                  - /url: https://blog.n8n.io/telegram-bots/
+              - listitem [ref=e593]:
+                - link "Open-source chatbot" [ref=e594] [cursor=pointer]:
+                  - /url: https://blog.n8n.io/open-source-chatbot/
+              - listitem [ref=e595]:
+                - link "Open-source LLM" [ref=e596] [cursor=pointer]:
+                  - /url: https://blog.n8n.io/open-source-llm/
+              - listitem [ref=e597]:
+                - link "Open-source low-code platforms" [ref=e598] [cursor=pointer]:
+                  - /url: https://blog.n8n.io/open-source-low-code-platforms/
+              - listitem [ref=e599]:
+                - link "Zapier alternatives" [ref=e600] [cursor=pointer]:
+                  - /url: https://blog.n8n.io/free-zapier-alternatives/
+              - listitem [ref=e601]:
+                - link "Make vs Zapier" [ref=e602] [cursor=pointer]:
+                  - /url: https://blog.n8n.io/make-vs-zapier/
+            - generic [ref=e604] [cursor=pointer]: Show more
+        - generic [ref=e605]:
+          - generic [ref=e606]:
+            - link "Imprint" [ref=e607] [cursor=pointer]:
+              - /url: /imprint/
+            - link "| Security" [ref=e608] [cursor=pointer]:
+              - /url: /legal/security/
+            - link "| Privacy" [ref=e609] [cursor=pointer]:
+              - /url: /legal/privacy/
+            - link "| Report a vulnerability" [ref=e610] [cursor=pointer]:
+              - /url: /report-a-vulnerability/
+          - paragraph [ref=e613]: © 2026 n8n | All rights reserved.

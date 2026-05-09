@@ -1,0 +1,143 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic:
+          - link:
+            - /url: /
+            - generic:
+              - generic:
+                - img
+      - search [ref=e12]:
+        - generic [ref=e13]:
+          - combobox [expanded] [ref=e16]
+          - button "Search" [ref=e17] [cursor=pointer]
+  - main [ref=e25]:
+    - generic [ref=e32]:
+      - generic [ref=e40]:
+        - generic [ref=e48]:
+          - heading "Nate Herk | AI Automation, Verified" [level=1] [ref=e50]:
+            - generic [ref=e51]:
+              - text: Nate Herk | AI Automation
+              - img [ref=e54]
+          - generic [ref=e55]:
+            - group [ref=e56]:
+              - generic [ref=e57]: "@nateherk"
+            - generic [ref=e58]: •
+            - group [ref=e59]:
+              - generic "698 thousand subscribers" [ref=e60]: 698K subscribers
+              - generic [ref=e61]: •
+              - generic [ref=e62]: 400 videos
+          - generic [ref=e64] [cursor=pointer]:
+            - generic [ref=e65]: Hi 👋 I'm Nate Herk. I’m passionate about helping businesses unlock the power of AI Automations to save time, cut costs, and stay competitive.
+            - button "Description. Hi 👋 I'm Nate Herk. I’m passionate about helping busine...tap for more." [ref=e66]:
+              - generic [ref=e67]: ...more
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - link "skool.com/ai-automation-society/about" [ref=e72] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbUJpN2hCaGVXMUx1MnpYaXNNdEc3cTNJdTdoQXxBQ3Jtc0ttTGpNMVZMTEtEZHRtUVBmYWJpZ0JEUHB2TTFJa0YxMk5YTUVXLXRvcnQxSjVyeFVHY3cyYVdaeWFmcHV2dkVlRnltdVpaWHk2MDZqbnVIWDZqOURxQU0wLUJMLW5vcFphbnp6NWotMnZ4dThYdmxPTQ&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society%2Fabout
+            - button "and 4 more links" [ref=e75] [cursor=pointer]
+          - button "Subscribe" [ref=e80] [cursor=pointer]:
+            - generic [ref=e81]: Subscribe
+      - tablist [ref=e88]:
+        - button [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img
+        - tablist [ref=e94]:
+          - tab "Home" [selected] [ref=e95] [cursor=pointer]:
+            - generic [ref=e96]: Home
+          - tab "Videos" [ref=e97] [cursor=pointer]:
+            - generic [ref=e98]: Videos
+          - tab "Shorts" [ref=e99] [cursor=pointer]:
+            - generic [ref=e100]: Shorts
+          - tab "Podcasts" [ref=e101] [cursor=pointer]:
+            - generic [ref=e102]: Podcasts
+          - tab "Playlists" [ref=e103] [cursor=pointer]:
+            - generic [ref=e104]: Playlists
+          - tab "Posts" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: Posts
+          - button "Search" [ref=e110] [cursor=pointer]
+        - button [ref=e114] [cursor=pointer]:
+          - generic [ref=e115]:
+            - img
+    - generic [ref=e119]:
+      - generic [ref=e127]:
+        - heading "Build & Sell with Claude Code (10+ Hour Course) 10 hours" [level=3] [ref=e128]:
+          - link "Build & Sell with Claude Code (10+ Hour Course)" [ref=e129] [cursor=pointer]:
+            - /url: /watch?v=mpALXah_PBg
+        - generic [ref=e132]:
+          - generic [ref=e133]: 512,601 views
+          - generic [ref=e134]: •1 month ago
+      - generic [ref=e138]:
+        - heading "Videos" [level=2] [ref=e141]:
+          - link "Videos" [ref=e144] [cursor=pointer]:
+            - /url: /@nateherk/videos?view=0&sort=dd&shelf_id=2
+            - generic [ref=e145]: Videos
+        - generic [ref=e150]:
+          - generic [ref=e152]:
+            - link [ref=e154] [cursor=pointer]:
+              - /url: /watch?v=jqoFP9QapXI
+            - generic [ref=e158] [cursor=pointer]:
+              - heading "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [level=3] [ref=e159]:
+                - link "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [ref=e160]:
+                  - /url: /watch?v=jqoFP9QapXI
+                  - text: 32 Tricks to Level Up Claude Code in 16 Mins
+              - generic [ref=e163]:
+                - generic [ref=e164]: 59K views
+                - generic [ref=e165]: •2 days ago
+          - generic [ref=e167]:
+            - link [ref=e169] [cursor=pointer]:
+              - /url: /watch?v=J-6pnl5DQg8
+            - generic [ref=e173] [cursor=pointer]:
+              - heading "Playwright Makes Claude Code Unstoppable, Seriously 18 minutes" [level=3] [ref=e174]:
+                - link "Playwright Makes Claude Code Unstoppable, Seriously 18 minutes" [ref=e175]:
+                  - /url: /watch?v=J-6pnl5DQg8
+                  - text: Playwright Makes Claude Code Unstoppable, Seriously
+              - generic [ref=e178]:
+                - generic [ref=e179]: 76K views
+                - generic [ref=e180]: •4 days ago
+          - generic [ref=e182]:
+            - link [ref=e184] [cursor=pointer]:
+              - /url: /watch?v=WX4rp-vP3zo&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e188] [cursor=pointer]:
+              - 'heading "I Tested GPT 5.5 vs Opus 4.7: What You Need to Know 19 minutes" [level=3] [ref=e189]':
+                - 'link "I Tested GPT 5.5 vs Opus 4.7: What You Need to Know 19 minutes" [ref=e190]':
+                  - /url: /watch?v=WX4rp-vP3zo&pp=0gcJCd8KAYcqIYzv
+                  - text: "I Tested GPT 5.5 vs Opus 4.7: What You Need to Know"
+              - generic [ref=e193]:
+                - generic [ref=e194]: 143K views
+                - generic [ref=e195]: •6 days ago
+          - generic [ref=e197]:
+            - link [ref=e199] [cursor=pointer]:
+              - /url: /watch?v=Aw3BkmhYu4I
+            - generic [ref=e203] [cursor=pointer]:
+              - heading "Claude Video Editing Just Became Unrecognizable 28 minutes" [level=3] [ref=e204]:
+                - link "Claude Video Editing Just Became Unrecognizable 28 minutes" [ref=e205]:
+                  - /url: /watch?v=Aw3BkmhYu4I
+                  - text: Claude Video Editing Just Became Unrecognizable
+              - generic [ref=e208]:
+                - generic [ref=e209]: 134K views
+                - generic [ref=e210]: •6 days ago
+          - generic [ref=e212]:
+            - link [ref=e214] [cursor=pointer]:
+              - /url: /watch?v=GY-kAiZGLOw
+            - generic [ref=e218] [cursor=pointer]:
+              - heading "OpenAI Image 2 is Nuts. Here are 10 Ways to Use it. 13 minutes, 58 seconds" [level=3] [ref=e219]:
+                - link "OpenAI Image 2 is Nuts. Here are 10 Ways to Use it. 13 minutes, 58 seconds" [ref=e220]:
+                  - /url: /watch?v=GY-kAiZGLOw
+                  - text: OpenAI Image 2 is Nuts. Here are 10 Ways to Use it.
+              - generic [ref=e223]:
+                - generic [ref=e224]: 37K views
+                - generic [ref=e225]: •7 days ago
+          - generic [ref=e227]:
+            - link [ref=e229] [cursor=pointer]:
+              - /url: /watch?v=TcFeSjwTo7g
+            - generic [ref=e233] [cursor=pointer]:
+              - heading "Claude Design Builds Beautiful 3D Websites Instantly (full tutorial) 35 minutes" [level=3] [ref=e234]:
+                - link "Claude Design Builds Beautiful 3D Websites Instantly (full tutorial) 35 minutes" [ref=e235]:
+                  - /url: /watch?v=TcFeSjwTo7g
+                  - text: Claude Design Builds Beautiful 3D Websites Instantly (full tutorial)
+              - generic [ref=e238]:
+                - generic [ref=e239]: 54K views
+                - generic [ref=e240]: •8 days ago

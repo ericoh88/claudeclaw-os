@@ -1,0 +1,12 @@
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=e901]:
+    - generic [ref=e905]: "404"
+    - heading "Page Not Found" [level=1] [ref=e906]
+    - paragraph [ref=e907]: The page you're looking for doesn't exist or has been moved.
+    - link "Return Home" [ref=e908] [cursor=pointer]:
+      - /url: "#/"
+      - button "Return Home" [ref=e909]:
+        - img [ref=e912]
+        - generic [ref=e915]: Return Home

@@ -1,0 +1,183 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e4]:
+    - region "Announcement" [ref=e5]:
+      - paragraph [ref=e6]: Free Shipping Within West Malaysia For Orders RM180 And Above
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - link "Dorsata Honey" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - img "Dorsata Honey" [ref=e12]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - button "About" [ref=e18] [cursor=pointer]:
+                - text: About
+                - img [ref=e19]
+            - listitem [ref=e21]:
+              - button "Shop" [ref=e22] [cursor=pointer]:
+                - text: Shop
+                - img [ref=e23]
+            - listitem [ref=e25]:
+              - button "Explore" [ref=e26] [cursor=pointer]:
+                - text: Explore
+                - img [ref=e27]
+            - listitem [ref=e29]:
+              - link "Contact" [ref=e30] [cursor=pointer]:
+                - /url: /pages/contact
+        - generic [ref=e32]:
+          - button "Search" [ref=e33] [cursor=pointer]:
+            - img [ref=e34]
+            - generic [ref=e36]: Search
+          - link "Log in" [ref=e37] [cursor=pointer]:
+            - /url: /account/login
+            - img [ref=e38]
+            - generic [ref=e40]: Log in
+          - link "Cart" [ref=e41] [cursor=pointer]:
+            - /url: /cart
+            - img [ref=e42]
+            - generic [ref=e44]: Cart
+  - generic [ref=e45]:
+    - main [ref=e46]:
+      - generic [ref=e49]:
+        - heading "Dorsata Honey, High in Plant Phenolics" [level=1] [ref=e51]
+        - generic [ref=e52]:
+          - heading "Your Key To Optimal Health" [level=2] [ref=e53]:
+            - strong [ref=e54]: Your Key To Optimal Health
+          - paragraph [ref=e55]:
+            - text: In our honey, there are
+            - strong [ref=e56]: EXTRAORDINARILY
+            - strong [ref=e57]: HIGH LEVELS
+            - text: of plant phenolics.
+          - paragraph [ref=e58]:
+            - strong
+            - strong [ref=e59]: What are Plant Phenolics?
+          - paragraph [ref=e60]: Plant phenolics or Polyphenols consist of phenolic acids and flavonoids. They are naturally occurring in the resin of the tree, the bark, the leaves, nectar, pollen and fruits. These phenols are the chemical compound that gives plants, trees and fruits its colour.
+          - paragraph [ref=e61]:
+            - strong [ref=e62]: What Do Plant Phenolics Do?
+          - paragraph [ref=e63]:
+            - text: Plant phenolics are the
+            - strong [ref=e64]: defense mechanism
+            - text: of the plants. They
+            - strong [ref=e65]: protect
+            - text: the plants from
+            - strong [ref=e66]: viruses, bacteria, fungi and parasites
+            - text: . When transferred into honey, it defends our body, playing the role of
+            - strong [ref=e67]: antioxidants, antimicrobials, antibacterial and anti-inflammation.
+            - text: This prevents the advancement of chronic diseases.
+          - paragraph [ref=e68]:
+            - strong [ref=e69]: How High is Dorsata Honey’s Level of Plant Phenolics?
+          - paragraph [ref=e70]:
+            - text: We refer to a research led by Professor Gan Siew Hua of Monash University and her team on Comparison of Phenolic Content and Antioxidant Properties Between 11 Tualang Honey Samples. Their conclusion was the
+            - strong [ref=e71]: mean average
+            - text: of
+            - strong [ref=e72]: Phenolic Content
+            - text: in
+            - strong [ref=e73]: Tualang Honey is 53.33mg per 100g
+            - text: of
+            - strong [ref=e74]: Tualang Honey
+          - paragraph [ref=e75]:
+            - text: "Source:"
+            - strong [ref=e76]:
+              - link "Research Gate" [ref=e78] [cursor=pointer]:
+                - /url: https://www.researchgate.net/profile/Mahaneem-Mohamed/publication/260064481_Content_and_antioxidant_properties_of_processed_Tualang_honey_AgroMasR_collected_from_different_regions_in_Malaysia/links/53e190960cf24f90ff657ae6/Content-and-antioxidant-properties-of-processed-Tualang-honey-AgroMasR-collected-from-different-regions-in-Malaysia.pdf
+          - paragraph [ref=e80]:
+            - text: "Graph source:"
+            - strong [ref=e82]:
+              - link "Research Gate Page 5" [ref=e83] [cursor=pointer]:
+                - /url: https://www.researchgate.net/profile/Mahaneem-Mohamed/publication/260064481_Content_and_antioxidant_properties_of_processed_Tualang_honey_AgroMasR_collected_from_different_regions_in_Malaysia/links/53e190960cf24f90ff657ae6/Content-and-antioxidant-properties-of-processed-Tualang-honey-AgroMasR-collected-from-different-regions-in-Malaysia.pdf
+          - paragraph [ref=e84]:
+            - text: In comparison, Dorsata Honey has
+            - strong [ref=e85]: far higher
+            - text: total polyphenol content than the ones researched. It is easily
+            - strong [ref=e86]: 17 to 189 times more!
+          - heading "Dorsata’s Total Polyphenol Content" [level=2] [ref=e87]:
+            - strong
+            - strong [ref=e88]: Dorsata’s Total Polyphenol Content
+          - img [ref=e90]
+          - paragraph [ref=e91]: "Table 1: Total Polyphenol Content Present in the Honey (mg/100g)"
+          - paragraph [ref=e92]:
+            - strong [ref=e94]:
+              - link "View Our Certifications" [ref=e95] [cursor=pointer]:
+                - /url: https://www.dorsatahoney.com/pages/certifications
+          - paragraph [ref=e96]:
+            - text: Thus the abundance of Phenolics in Dorsata Honey is the
+            - strong [ref=e97]: key to optimal
+            - text: and
+            - strong [ref=e98]: balanced health
+            - text: . This is why our customers have experienced and testified to this healing power!
+          - paragraph [ref=e99]
+          - paragraph [ref=e100]
+    - contentinfo [ref=e102]:
+      - generic [ref=e104]:
+        - generic [ref=e106]:
+          - paragraph [ref=e107]: Quick links
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - link "Home" [ref=e110] [cursor=pointer]:
+                - /url: https://www.dorsatahoney.com/
+            - listitem [ref=e111]:
+              - link "Brand Story" [ref=e112] [cursor=pointer]:
+                - /url: /pages/brand-story
+            - listitem [ref=e113]:
+              - link "How To Purchase" [ref=e114] [cursor=pointer]:
+                - /url: /pages/how-to-purchase
+            - listitem [ref=e115]:
+              - link "FAQ" [ref=e116] [cursor=pointer]:
+                - /url: /pages/faq
+            - listitem [ref=e117]:
+              - link "Career" [ref=e118] [cursor=pointer]:
+                - /url: /pages/career
+            - listitem [ref=e119]:
+              - link "Dorsata Honey, High in Plant Phenolics" [ref=e120] [cursor=pointer]:
+                - /url: /pages/dorsata-honey-high-in-plant-phenolics
+            - listitem [ref=e121]:
+              - link "Power of Plant Phenolics" [ref=e122] [cursor=pointer]:
+                - /url: /pages/power-of-plant-phenolics
+        - generic [ref=e124]:
+          - paragraph [ref=e125]: Newsletter
+          - generic [ref=e128]:
+            - textbox "Email address" [ref=e129]
+            - button "Subscribe" [ref=e131] [cursor=pointer]
+      - separator [ref=e132]
+      - generic [ref=e134]:
+        - list [ref=e136]:
+          - listitem [ref=e137]:
+            - link "Facebook" [ref=e138] [cursor=pointer]:
+              - /url: https://www.facebook.com/DorsataHoney
+              - img [ref=e139]
+              - generic [ref=e141]: Facebook
+          - listitem [ref=e142]:
+            - link "Twitter" [ref=e143] [cursor=pointer]:
+              - /url: https://twitter.com/dorsatahoney
+              - img [ref=e144]
+              - generic [ref=e146]: Twitter
+          - listitem [ref=e147]:
+            - link "Pinterest" [ref=e148] [cursor=pointer]:
+              - /url: https://www.pinterest.com/dorsatahoney
+              - img [ref=e149]
+              - generic [ref=e151]: Pinterest
+          - listitem [ref=e152]:
+            - link "Instagram" [ref=e153] [cursor=pointer]:
+              - /url: https://www.instagram.com/dorsatahoney/
+              - img [ref=e154]
+              - generic [ref=e158]: Instagram
+          - listitem [ref=e159]:
+            - link "YouTube" [ref=e160] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC6JVNyQpvRjWzbYKQ_-Y4UQ
+              - img [ref=e161]
+              - generic [ref=e163]: YouTube
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - text: © 2026,
+            - link "Dorsata Honey" [ref=e166] [cursor=pointer]:
+              - /url: /
+          - generic [ref=e167]:
+            - link:
+              - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+            - text: ", MFI DORSATA HONEY (002385043-T)"
+    - generic [ref=e168]: Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device

@@ -1,0 +1,235 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e8]:
+      - generic [ref=e10]:
+        - paragraph [ref=e11]: By continuing to browse our site you agree to our use of cookies.
+        - button "Close" [ref=e13]
+      - button "A Singapore Government Agency Website A Singapore Government Agency Website How to identify" [ref=e19] [cursor=pointer]:
+        - img "A Singapore Government Agency Website" [ref=e20]
+        - generic [ref=e21]:
+          - text: A Singapore Government Agency Website
+          - generic [ref=e22]: How to identify
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - link "home" [ref=e27] [cursor=pointer]:
+            - /url: /
+            - img "MyCareersFuture" [ref=e28]
+          - link "Switch to Employer" [ref=e29] [cursor=pointer]:
+            - /url: https://employer.mycareersfuture.gov.sg
+          - generic [ref=e30]: My careers future | An adapt and grow initiative
+        - generic [ref=e31]:
+          - button "Log In" [ref=e34]
+          - button "menu" [ref=e35]
+    - main [ref=e37]:
+      - banner [ref=e41]:
+        - generic [ref=e42]:
+          - img [ref=e43]
+          - generic [ref=e45]:
+            - text: Government officials will NEVER ask you to transfer money or disclose bank log-in details over a phone call. Call the 24/7
+            - link "ScamShield" [ref=e46] [cursor=pointer]:
+              - /url: https://www.scamshield.gov.sg
+            - text: Helpline at 1799 if you are unsure if something is a scam.
+        - button "Close Icon" [ref=e47] [cursor=pointer]:
+          - img [ref=e48]
+      - generic [ref=e50]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - generic [ref=e57]:
+                  - generic [ref=e58]: BETA
+                  - generic [ref=e59]: You can view this job in
+                - generic [ref=e60]:
+                  - button "English (original)" [disabled] [ref=e61]: English (original)
+                  - button "中文" [ref=e62]
+                  - button "Bahasa Melayu" [ref=e63]
+                  - button "தமிழ்" [ref=e64]
+              - generic [ref=e65]: The machine translation for this job description is powered by Microsoft Translator.
+            - button "bookmark-button" [ref=e68]
+            - generic [ref=e71]:
+              - generic [ref=e72]:
+                - paragraph [ref=e73]: PTC SYSTEM (S) PTE LTD
+                - heading "AI Solution Director" [level=1] [ref=e74]
+              - generic [ref=e75]: MCF-2022-0276568
+              - generic [ref=e76]:
+                - generic [ref=e77]:
+                  - paragraph [ref=e78]:
+                    - link "JACKSON DESIGN HUB, 29 TAI SENG STREET 534120" [ref=e79] [cursor=pointer]:
+                      - /url: "#location_map"
+                  - paragraph [ref=e80]: Full Time
+                  - paragraph [ref=e81]: Senior Management
+                  - paragraph [ref=e82]: 5 years exp
+                  - paragraph [ref=e83]: Consulting, Engineering, Information Technology, Professional Services
+                - generic [ref=e85]:
+                  - generic [ref=e87]:
+                    - generic [ref=e88]: $7,000
+                    - generic [ref=e89]: to$9,000
+                  - generic [ref=e90]: Monthly
+              - generic [ref=e91]:
+                - generic [ref=e92]: 3 applications
+                - generic [ref=e93]: Posted 21 Apr 2022
+                - generic [ref=e94]: Closed on 21 May 2022
+            - generic [ref=e95]:
+              - link "Report discriminatory job ad to TAFEP" [ref=e97] [cursor=pointer]:
+                - /url: https://www.tal.sg/tafep/Contact-Us/MCF-referrals
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: Roles & Responsibilities
+                - generic [ref=e102]:
+                  - paragraph [ref=e103]: · You will be responsible for all aspects of demand creation, co-selling, forecasting and sales leadership related to NVIDIA DGX and AI with end user customers and other solution partners.
+                  - paragraph [ref=e104]: · Grow revenue and market share for NVIDIA Compute DGX products and other AI related solutions in assigned territory including but not limited to higher education, government & research centre.
+                  - paragraph [ref=e105]: · Be the key point of contact and relationship owner of our centre of excellence for a defined set of customers, technology partners and surrounding ecosystem.
+                  - paragraph [ref=e106]: · Build key accounts into strategic partnerships and drive sustaining revenue.
+                  - paragraph [ref=e107]: · Work closely with NVIDIA, distributors, networking/storage solution partners, ISVs and research partners to craft and implement go-to-market plans to accelerate growth and adoption of the solution made up by the new centre of excellence.
+                  - paragraph [ref=e108]: · Define, drive and communicate product strategy for future products and features specific to your customer's needs back into the project and engineering team.
+                  - paragraph [ref=e109]: · Ability to travel as business requirements require.
+            - generic [ref=e111]:
+              - paragraph [ref=e113]
+              - paragraph [ref=e115]: See how you compare with other applicants
+              - button "Log in to view" [ref=e117]
+            - text: ▸
+            - generic [ref=e118]:
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - paragraph [ref=e122]: Tell employers what skills you have
+                  - paragraph [ref=e123]: The more skills you have, the better your job match.
+                  - generic [ref=e124]: 0% skills matched
+                - generic [ref=e127]:
+                  - paragraph [ref=e128]: Add these skills if you have them
+                  - generic [ref=e129]:
+                    - generic [ref=e130]:
+                      - checkbox "Vendor Management Experience" [ref=e131]
+                      - generic [ref=e132]: Vendor Management Experience
+                    - generic [ref=e133]:
+                      - checkbox "Higher Education" [ref=e134]
+                      - generic [ref=e135]: Higher Education
+                    - generic [ref=e136]:
+                      - checkbox "TensorFlow" [ref=e137]
+                      - generic [ref=e138]: TensorFlow
+                    - generic [ref=e139]:
+                      - checkbox "Forecasting" [ref=e140]
+                      - generic [ref=e141]: Forecasting
+                    - generic [ref=e142]:
+                      - checkbox "Leadership" [ref=e143]
+                      - generic [ref=e144]: Leadership
+                    - generic [ref=e145]:
+                      - checkbox "Autonomy" [ref=e146]
+                      - generic [ref=e147]: Autonomy
+                    - generic [ref=e148]:
+                      - checkbox "Architect" [ref=e149]
+                      - generic [ref=e150]: Architect
+                    - generic [ref=e151]:
+                      - checkbox "Technical Management" [ref=e152]
+                      - generic [ref=e153]: Technical Management
+                    - generic [ref=e154]:
+                      - checkbox "Strategy" [ref=e155]
+                      - generic [ref=e156]: Strategy
+                    - generic [ref=e157]:
+                      - checkbox "Data Engineering" [ref=e158]
+                      - generic [ref=e159]: Data Engineering
+                    - generic [ref=e160]:
+                      - checkbox "Product Management" [ref=e161]
+                      - generic [ref=e162]: Product Management
+                    - generic [ref=e163]:
+                      - checkbox "Product Development" [ref=e164]
+                      - generic [ref=e165]: Product Development
+                    - generic [ref=e166]:
+                      - checkbox "Orchestration" [ref=e167]
+                      - generic [ref=e168]: Orchestration
+                    - generic [ref=e169]:
+                      - checkbox "Strategic Partnerships" [ref=e170]
+                      - generic [ref=e171]: Strategic Partnerships
+                    - generic [ref=e172]:
+                      - checkbox "Technical Project Delivery" [ref=e173]
+                      - generic [ref=e174]: Technical Project Delivery
+                    - generic [ref=e175]:
+                      - checkbox "Business Requirements" [ref=e176]
+                      - generic [ref=e177]: Business Requirements
+              - generic [ref=e180]:
+                - generic [ref=e181]:
+                  - paragraph [ref=e182]: Grow your job opportunities
+                  - paragraph [ref=e183]: "Explore some relevant courses from MySkillsFuture.gov.sg on:"
+                - generic [ref=e184]:
+                  - link "TensorFlow" [ref=e186] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=TensorFlow
+                  - link "Forecasting" [ref=e188] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Forecasting
+                  - link "Leadership" [ref=e190] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Leadership
+                  - link "Autonomy" [ref=e192] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Autonomy
+                  - link "Architect" [ref=e194] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Architect
+                  - link "Strategy" [ref=e196] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Strategy
+                  - link "Orchestration" [ref=e198] [cursor=pointer]:
+                    - /url: https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?q=Orchestration
+          - generic [ref=e199]:
+            - generic [ref=e204]:
+              - img "PTC SYSTEM (S) PTE LTD's logo" [ref=e208]
+              - generic [ref=e210]:
+                - paragraph [ref=e211]: About the Company
+                - generic [ref=e212]:
+                  - paragraph [ref=e213]:
+                    - strong [ref=e214]: PTC SYSTEM (S) PTE LTD
+                  - paragraph [ref=e215]: PTC was incorporated in 1991. We are headquartered in Singapore with regional offices in SE Asia. PTC is a leading IT System Integrator specializing in providing enterprise data management solutions to manage the technology challenges of enterprise clients. Our strengths are built upon our passion, total commitment and vision on data management services to help our clients to achieve the best business results like better performance, protection investment and maximum returns.
+                - text: ▸
+                - link "More jobs from this company" [ref=e216] [cursor=pointer]:
+                  - /url: /companies/ptc-system-199102881H
+            - generic [ref=e217]:
+              - paragraph [ref=e218]: Applications have closed for this job
+              - generic [ref=e219]:
+                - button "Log in to Apply" [disabled] [ref=e221]
+                - paragraph [ref=e222]: You'll need to log in with Singpass to verify your identity
+            - generic [ref=e223]:
+              - region "Tips" [ref=e225]:
+                - generic [ref=e226]:
+                  - paragraph [ref=e230]: Job Numbers Are Rising, But Which Industries Should You Target Your Search Towards?
+                  - link "Learn More" [ref=e233] [cursor=pointer]:
+                    - /url: https://content.mycareersfuture.gov.sg/hirings-horizon-2021
+              - generic [ref=e235]:
+                - paragraph [ref=e236]: Awards and Recognition
+                - generic [ref=e238]:
+                  - img "Tripartite badge" [ref=e241]
+                  - generic [ref=e242]: "This progressive employer supports:"
+                  - generic [ref=e243]:
+                    - generic [ref=e244]: • Flexible Work Arrangements
+                    - link "Learn more" [ref=e245] [cursor=pointer]:
+                      - /url: https://www.tal.sg/tafep/getting-started/progressive/tripartite-standards
+                - text: ▸
+        - generic [ref=e248]:
+          - generic [ref=e249]:
+            - generic [ref=e251]:
+              - paragraph [ref=e253]: A collaboration between
+              - paragraph [ref=e258]: Powered by
+            - generic [ref=e268]: MyCareersFuture
+            - generic [ref=e269]:
+              - generic [ref=e270]:
+                - link "About Us" [ref=e271] [cursor=pointer]:
+                  - /url: /about-us
+                - link "Survey" [ref=e272] [cursor=pointer]:
+                  - /url: https://form.gov.sg/#!/5f713da20fffeb0011d8ff6b
+                  - text: Survey
+                - link "Post Jobs" [ref=e274] [cursor=pointer]:
+                  - /url: https://employer.mycareersfuture.gov.sg
+              - generic [ref=e275]:
+                - link "Contact Us" [ref=e276] [cursor=pointer]:
+                  - /url: https://www.wsg.gov.sg/home/about-wsg/contact-us
+                  - text: Contact Us
+                - link "Feedback" [ref=e278] [cursor=pointer]:
+                  - /url: https://www.wsg.gov.sg/serviceportal
+                  - text: Feedback
+                - link "FAQ" [ref=e280] [cursor=pointer]:
+                  - /url: https://static.mycareersfuture.gov.sg/docs/mycareersfuture_sg_user_faqs.pdf
+                  - text: FAQ
+          - generic [ref=e282]:
+            - generic [ref=e283]:
+              - link "Report Vulnerability" [ref=e284] [cursor=pointer]:
+                - /url: https://www.tech.gov.sg/report_vulnerability
+                - text: Report Vulnerability
+              - link "Privacy Statement" [ref=e286] [cursor=pointer]:
+                - /url: /privacy-policy
+              - link "Terms of Use" [ref=e287] [cursor=pointer]:
+                - /url: /terms-of-use
+            - generic [ref=e289]: © 2026, Government of Singapore
+            - generic [ref=e290]: Last updated 29 Apr 2026
+  - alert

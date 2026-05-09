@@ -1,0 +1,212 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e48]:
+    - generic [ref=e55]:
+      - generic [ref=e63]:
+        - generic [ref=e71]:
+          - heading "Matt Pocock" [level=1] [ref=e73]
+          - generic [ref=e74]:
+            - group [ref=e75]:
+              - generic [ref=e76]: "@mattpocockuk"
+            - generic [ref=e77]: •
+            - group [ref=e78]:
+              - generic "187 thousand subscribers" [ref=e79]: 187K subscribers
+              - generic [ref=e80]: •
+              - generic [ref=e81]: 265 videos
+          - generic [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]: Become an AI Hero with tips, tricks and tutorials. We don't do vibe coding - this is a channel for real engineers solving real problems.
+            - button "Description. Become an AI Hero with tips, tricks and tutorials. We don't ...tap for more." [ref=e85]:
+              - generic [ref=e86]: ...more
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - link "aihero.dev" [ref=e91] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbmVUd05fSTgyTVVRUGZGN0ZlUjVYbVZEVlpiQXxBQ3Jtc0trT2dOMkhqVTlLUzEyWGdiY2pjWGdHUVg3TzNxVmhQUGFCeU16b3J0TXJaVE9CWlBWX2N2OFdxZzdNNW95NjJibnZORU9XOVJWa0h0U3BkallGN2w5M1YybkdVRjBCbFpqQVV4ZDRybWExWWI2aEdfRQ&q=https%3A%2F%2Faihero.dev
+            - button "and 1 more link" [ref=e94] [cursor=pointer]
+          - button "Subscribe" [ref=e99] [cursor=pointer]:
+            - generic [ref=e100]: Subscribe
+      - tablist [ref=e107]:
+        - tablist [ref=e111]:
+          - tab "Home" [selected] [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: Home
+          - tab "Videos" [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]: Videos
+          - tab "Shorts" [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]: Shorts
+          - tab "Live" [ref=e118] [cursor=pointer]:
+            - generic [ref=e119]: Live
+          - tab "Playlists" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]: Playlists
+          - tab "Posts" [ref=e122] [cursor=pointer]:
+            - generic [ref=e123]: Posts
+          - button "Search" [ref=e127] [cursor=pointer]
+        - button [ref=e131] [cursor=pointer]:
+          - generic [ref=e132]:
+            - img
+    - generic [ref=e137]:
+      - generic [ref=e141]:
+        - heading "Videos" [level=2] [ref=e144]:
+          - link "Videos" [ref=e147] [cursor=pointer]:
+            - /url: /@mattpocockuk/videos?view=0&sort=dd&shelf_id=1
+            - generic [ref=e148]: Videos
+        - generic [ref=e150]:
+          - generic [ref=e153]:
+            - generic [ref=e155]:
+              - link [ref=e157] [cursor=pointer]:
+                - /url: /watch?v=3MP8D-mdheA&pp=0gcJCd8KAYcqIYzv
+              - generic [ref=e161] [cursor=pointer]:
+                - heading "How To De-Slop A Codebase Ruined By AI (with one skill) 11 minutes, 19 seconds" [level=3] [ref=e162]:
+                  - link "How To De-Slop A Codebase Ruined By AI (with one skill) 11 minutes, 19 seconds" [ref=e163]:
+                    - /url: /watch?v=3MP8D-mdheA&pp=0gcJCd8KAYcqIYzv
+                    - text: How To De-Slop A Codebase Ruined By AI (with one skill)
+                - generic [ref=e166]:
+                  - generic [ref=e167]: 24K views
+                  - generic [ref=e168]: •11 hours ago
+            - generic [ref=e170]:
+              - link [ref=e172] [cursor=pointer]:
+                - /url: /watch?v=9VNG0h4pLh0
+              - generic [ref=e176] [cursor=pointer]:
+                - heading "Never Trust An LLM 14 minutes, 1 second" [level=3] [ref=e177]:
+                  - link "Never Trust An LLM 14 minutes, 1 second" [ref=e178]:
+                    - /url: /watch?v=9VNG0h4pLh0
+                    - text: Never Trust An LLM
+                - generic [ref=e181]:
+                  - generic [ref=e182]: 37K views
+                  - generic [ref=e183]: •1 month ago
+            - generic [ref=e185]:
+              - link [ref=e187] [cursor=pointer]:
+                - /url: /watch?v=llwTBpPqo9A
+              - generic [ref=e191] [cursor=pointer]:
+                - heading "Claude Code tried to improve /init... Is it any better? 11 minutes, 18 seconds" [level=3] [ref=e192]:
+                  - link "Claude Code tried to improve /init... Is it any better? 11 minutes, 18 seconds" [ref=e193]:
+                    - /url: /watch?v=llwTBpPqo9A
+                    - text: Claude Code tried to improve /init... Is it any better?
+                - generic [ref=e196]:
+                  - generic [ref=e197]: 27K views
+                  - generic [ref=e198]: •1 month ago
+            - generic [ref=e200]:
+              - link [ref=e202] [cursor=pointer]:
+                - /url: /watch?v=hX7yG1KVYhI
+              - generic [ref=e206] [cursor=pointer]:
+                - 'heading "Building a REAL feature with Claude Code: every step explained 44 minutes" [level=3] [ref=e207]':
+                  - 'link "Building a REAL feature with Claude Code: every step explained 44 minutes" [ref=e208]':
+                    - /url: /watch?v=hX7yG1KVYhI
+                    - text: "Building a REAL feature with Claude Code: every step explained"
+                - generic [ref=e211]:
+                  - generic [ref=e212]: 98K views
+                  - generic [ref=e213]: •1 month ago
+            - generic [ref=e215]:
+              - link [ref=e217] [cursor=pointer]:
+                - /url: /watch?v=EJyuu6zlQCg
+              - generic [ref=e221] [cursor=pointer]:
+                - heading "5 Claude Code skills I use every single day 16 minutes" [level=3] [ref=e222]:
+                  - link "5 Claude Code skills I use every single day 16 minutes" [ref=e223]:
+                    - /url: /watch?v=EJyuu6zlQCg
+                    - text: 5 Claude Code skills I use every single day
+                - generic [ref=e226]:
+                  - generic [ref=e227]: 279K views
+                  - generic [ref=e228]: •1 month ago
+            - generic [ref=e230]:
+              - link [ref=e232] [cursor=pointer]:
+                - /url: /watch?v=Ah9p7v7nJWg
+              - generic [ref=e236] [cursor=pointer]:
+                - heading "The 7 phases of AI-driven development 8 minutes, 27 seconds" [level=3] [ref=e237]:
+                  - link "The 7 phases of AI-driven development 8 minutes, 27 seconds" [ref=e238]:
+                    - /url: /watch?v=Ah9p7v7nJWg
+                    - text: The 7 phases of AI-driven development
+                - generic [ref=e241]:
+                  - generic [ref=e242]: 39K views
+                  - generic [ref=e243]: •1 month ago
+          - button "Next" [ref=e246] [cursor=pointer]
+      - generic [ref=e255]:
+        - heading "Popular videos" [level=2] [ref=e258]:
+          - link "Popular videos" [ref=e261] [cursor=pointer]:
+            - /url: /@mattpocockuk/videos?view=0&sort=p&shelf_id=2
+            - generic [ref=e262]: Popular videos
+        - generic [ref=e267]:
+          - generic [ref=e269]:
+            - link [ref=e271] [cursor=pointer]:
+              - /url: /watch?v=EJyuu6zlQCg
+            - generic [ref=e275] [cursor=pointer]:
+              - heading "5 Claude Code skills I use every single day 16 minutes" [level=3] [ref=e276]:
+                - link "5 Claude Code skills I use every single day 16 minutes" [ref=e277]:
+                  - /url: /watch?v=EJyuu6zlQCg
+                  - text: 5 Claude Code skills I use every single day
+              - generic [ref=e280]:
+                - generic [ref=e281]: 279K views
+                - generic [ref=e282]: •1 month ago
+          - generic [ref=e284]:
+            - link [ref=e286] [cursor=pointer]:
+              - /url: /watch?v=kZ-zzHVUrO4
+            - generic [ref=e290] [cursor=pointer]:
+              - heading "How I use Claude Code for real engineering 10 minutes, 12 seconds" [level=3] [ref=e291]:
+                - link "How I use Claude Code for real engineering 10 minutes, 12 seconds" [ref=e292]:
+                  - /url: /watch?v=kZ-zzHVUrO4
+                  - text: How I use Claude Code for real engineering
+              - generic [ref=e295]:
+                - generic [ref=e296]: 253K views
+                - generic [ref=e297]: •6 months ago
+          - generic [ref=e299]:
+            - link [ref=e301] [cursor=pointer]:
+              - /url: /watch?v=jjMbPt_H3RQ
+            - generic [ref=e305] [cursor=pointer]:
+              - heading "Enums considered harmful 9 minutes, 23 seconds" [level=3] [ref=e306]:
+                - link "Enums considered harmful 9 minutes, 23 seconds" [ref=e307]:
+                  - /url: /watch?v=jjMbPt_H3RQ
+                  - text: Enums considered harmful
+              - generic [ref=e310]:
+                - generic [ref=e311]: 252K views
+                - generic [ref=e312]: •3 years ago
+          - generic [ref=e314]:
+            - link [ref=e316] [cursor=pointer]:
+              - /url: /watch?v=dLPgQRbVquo&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e320] [cursor=pointer]:
+              - 'heading "Generics: The most intimidating TypeScript feature 18 minutes" [level=3] [ref=e321]':
+                - 'link "Generics: The most intimidating TypeScript feature 18 minutes" [ref=e322]':
+                  - /url: /watch?v=dLPgQRbVquo&pp=0gcJCd8KAYcqIYzv
+                  - text: "Generics: The most intimidating TypeScript feature"
+              - generic [ref=e325]:
+                - generic [ref=e326]: 233K views
+                - generic [ref=e327]: •3 years ago
+          - generic [ref=e329]:
+            - link [ref=e331] [cursor=pointer]:
+              - /url: /watch?v=VqdVaix3Zvw
+            - generic [ref=e335] [cursor=pointer]:
+              - heading "var, const, let... now ‘using’? 4 minutes, 27 seconds" [level=3] [ref=e336]:
+                - link "var, const, let... now ‘using’? 4 minutes, 27 seconds" [ref=e337]:
+                  - /url: /watch?v=VqdVaix3Zvw
+                  - text: var, const, let... now ‘using’?
+              - generic [ref=e340]:
+                - generic [ref=e341]: 233K views
+                - generic [ref=e342]: •2 years ago
+          - generic [ref=e344]:
+            - link [ref=e346] [cursor=pointer]:
+              - /url: /watch?v=nKSk_TiR8YA&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e350] [cursor=pointer]:
+              - heading "Most devs don't understand how LLM tokens work 10 minutes, 58 seconds" [level=3] [ref=e351]:
+                - link "Most devs don't understand how LLM tokens work 10 minutes, 58 seconds" [ref=e352]:
+                  - /url: /watch?v=nKSk_TiR8YA&pp=0gcJCd8KAYcqIYzv
+                  - text: Most devs don't understand how LLM tokens work
+              - generic [ref=e355]:
+                - generic [ref=e356]: 225K views
+                - generic [ref=e357]: •7 months ago
+      - generic [ref=e361]:
+        - heading "Shorts" [level=2] [ref=e365]:
+          - generic [ref=e367]: Shorts
+        - button "More actions" [ref=e371] [cursor=pointer]

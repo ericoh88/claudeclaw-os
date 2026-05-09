@@ -1,0 +1,269 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: Boris Cherny
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]:
+              - generic [ref=e40]:
+                - img
+        - generic [ref=e42]:
+          - button "Search with your voice" [ref=e44] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e56]:
+    - generic [ref=e57]:
+      - generic [ref=e59]:
+        - tablist [ref=e64]:
+          - tab "All" [selected] [ref=e68] [cursor=pointer]:
+            - generic [ref=e70]: All
+          - tab "Shorts" [ref=e77] [cursor=pointer]:
+            - generic [ref=e79]: Shorts
+          - tab "Unwatched" [ref=e86] [cursor=pointer]:
+            - generic [ref=e88]: Unwatched
+          - tab "Watched" [ref=e95] [cursor=pointer]:
+            - generic [ref=e97]: Watched
+          - tab "Videos" [ref=e104] [cursor=pointer]:
+            - generic [ref=e106]: Videos
+          - tab "Recently uploaded" [ref=e113] [cursor=pointer]:
+            - generic [ref=e115]: Recently uploaded
+          - tab "Live" [ref=e122] [cursor=pointer]:
+            - generic [ref=e124]: Live
+        - generic [ref=e129]:
+          - button "Search filters" [ref=e131] [cursor=pointer]:
+            - generic [ref=e132]: Filters
+          - tooltip "tooltip"
+      - generic [ref=e143]:
+        - generic [ref=e145]:
+          - link [ref=e147] [cursor=pointer]:
+            - /url: /watch?v=julbw1JuAz0&pp=ygUMQm9yaXMgQ2hlcm55
+            - img [ref=e149]
+            - img [ref=e152]:
+              - generic [ref=e153]: 1:37:59
+            - generic:
+              - generic: Now playing
+              - generic:
+                - img
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e155]:
+              - heading "Building Claude Code with Boris Cherny 1 hour, 37 minutes" [level=3] [ref=e157]:
+                - link "Building Claude Code with Boris Cherny 1 hour, 37 minutes" [ref=e158]:
+                  - /url: /watch?v=julbw1JuAz0&pp=ygUMQm9yaXMgQ2hlcm55
+                  - text: Building Claude Code with Boris Cherny
+              - generic [ref=e161]:
+                - generic [ref=e162]: 270K views
+                - generic [ref=e163]: •1 month ago
+            - generic [ref=e164]:
+              - link "Go to channel The Pragmatic Engineer" [ref=e165]:
+                - /url: /@pragmaticengineer
+              - link "The Pragmatic Engineer" [ref=e171]:
+                - /url: /@pragmaticengineer
+            - generic [ref=e172]:
+              - generic [ref=e173]: Boris Cherny is the creator and Head of Claude Code at Anthropic. He previously spent five years at Meta as a Principal Engineer ...
+              - tooltip "tooltip"
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e181]: 17 chapters
+                - button "Intro | Lessons from Meta | Joining Anthropic | The origins of Claude Code | Boris's Claude Code workflow | Parallel agents | Code reviews | Claude Code's architecture | Permissions and sandboxing | Engineering culture at Anthropic | Claude Cowork | Observability and privacy | Agent swarms | LLMs and the printing press analogy | Standout engineer archetypes | What skills still matter for engineers | Book recommendations" [ref=e182]
+              - button "More" [ref=e187]
+        - generic [ref=e194]:
+          - link [ref=e196] [cursor=pointer]:
+            - /url: /watch?v=We7BZVKbCVw&pp=ygUMQm9yaXMgQ2hlcm55
+            - img [ref=e198]
+            - img [ref=e201]:
+              - generic [ref=e202]: 1:27:45
+            - generic:
+              - generic: Now playing
+              - generic:
+                - img
+          - generic [ref=e203] [cursor=pointer]:
+            - generic [ref=e204]:
+              - 'heading "Head of Claude Code: What happens after coding is solved | Boris Cherny 1 hour, 27 minutes" [level=3] [ref=e206]':
+                - 'link "Head of Claude Code: What happens after coding is solved | Boris Cherny 1 hour, 27 minutes" [ref=e207]':
+                  - /url: /watch?v=We7BZVKbCVw&pp=ygUMQm9yaXMgQ2hlcm55
+                  - text: "Head of Claude Code: What happens after coding is solved | Boris Cherny"
+              - generic [ref=e210]:
+                - generic [ref=e211]: 493K views
+                - generic [ref=e212]: •2 months ago
+            - generic [ref=e213]:
+              - link "Go to channel Lenny's Podcast" [ref=e214]:
+                - /url: /@LennysPodcast
+              - generic [ref=e216]:
+                - link "Lenny's Podcast" [ref=e220]:
+                  - /url: /@LennysPodcast
+                - img "Verified" [ref=e225]
+            - generic [ref=e227]:
+              - generic [ref=e228]: Boris Cherny is the creator and head of Claude Code at Anthropic. What began as a simple terminal-based prototype just a year ...
+              - tooltip "tooltip"
+            - generic [ref=e231]:
+              - generic [ref=e232]:
+                - generic [ref=e236]: 26 chapters
+                - button [ref=e237]
+              - button "More" [ref=e242]
+        - generic [ref=e252]:
+          - img [ref=e258]
+          - generic [ref=e260] [cursor=pointer]:
+            - generic [ref=e261]:
+              - link "Seedance 2.0 Official Launch" [ref=e264]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKOoGqsbyadX-BNGD_PcPi-CjiQrN-cTKhgGKq_2VhhVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLsCT9DTnVFYfcKrmeHQfDqH2WSI2_il3c0z2qFBP-nNNjLgHmyh4af8aafB9yxclLHVErT5FlmjnGr3tiRlrI4O0vgyJC9UFWcvr9B6Ma_pFvkIKak5XVFtB5biRO8akLhyoeifsYtqODhehZB8SHoI4pR7U8PMRO0O_4kS1S9l8xiOjbJzIDdh3-ZwdlBZlpuV6BxaPd0Gey5WxehmrBJKMSs3v1bUQHpcWnSCB4WyRXqqp7ch4K92UUncGqeFkcy5UDyRbo5J4PVqP5tnN_do8VDYfbZVsNWHwott-RtvjNC2omgQVkfuGH6LJZNWF_yYvxygcpg5slqQZvX4OPmBAUKf3TKtx__eWAKqhU-82PY5O0V040EfMFkgKX7HBRiRqNdg6DVfphk-JKTOXfQuXe353SS0JLIz1RvfiAWSu_67WJIFCAgTeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmOaCv8uUlAOaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCZTgxDKM8xTiyAkAmAsBugtBCAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI1fuCv8uUlAMV0QH_CB0L8CihEAEYAiAAEgJq3PD_BwE&num=2&cid=CAASwwHkaKP6U8pYm-SkntlgsqfPeIe8iwoP-dszNvP30ojksJyC78JmhRYVFmWozmdG429svoPYq7TzLjRqVWm-FqlzrVAJUNcJA3uR-ch6Y9-JbDEd5Nym1KFK7joeW2_sBbnLVBFO2-LWIxatkUXq8bNcLasecKFqdLJI9qTi8Q893s8BcrV4LR0aMhWSsrkOljU4ZudtKZggl12MyBOo-4lNz43kTV8S5zqIfDcsNBlAhzDU_it-n8KQYJ9NM9y3W9DEXwk&sig=AOD64_0ZY8PYtBj_musTA6vuY44SbtWFJw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 instant access, no wait. Join now or be out of AI revolution." [ref=e267]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKOoGqsbyadX-BNGD_PcPi-CjiQrN-cTKhgGKq_2VhhVkEAIgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBLsCT9DTnVFYfcKrmeHQfDqH2WSI2_il3c0z2qFBP-nNNjLgHmyh4af8aafB9yxclLHVErT5FlmjnGr3tiRlrI4O0vgyJC9UFWcvr9B6Ma_pFvkIKak5XVFtB5biRO8akLhyoeifsYtqODhehZB8SHoI4pR7U8PMRO0O_4kS1S9l8xiOjbJzIDdh3-ZwdlBZlpuV6BxaPd0Gey5WxehmrBJKMSs3v1bUQHpcWnSCB4WyRXqqp7ch4K92UUncGqeFkcy5UDyRbo5J4PVqP5tnN_do8VDYfbZVsNWHwott-RtvjNC2omgQVkfuGH6LJZNWF_yYvxygcpg5slqQZvX4OPmBAUKf3TKtx__eWAKqhU-82PY5O0V040EfMFkgKX7HBRiRqNdg6DVfphk-JKTOXfQuXe353SS0JLIz1RvfiAWSu_67WJIFCAgTeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmOaCv8uUlAOaCTBodHRwczovL3d3dy5ieXRlcGx1cy5jb20vZW4vYWN0aXZpdHkvc2VlZGFuY2UyLTCxCZTgxDKM8xTiyAkAmAsBugtBCAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI1fuCv8uUlAMV0QH_CB0L8CihEAEYAiAAEgJq3PD_BwE&num=2&cid=CAASwwHkaKP6U8pYm-SkntlgsqfPeIe8iwoP-dszNvP30ojksJyC78JmhRYVFmWozmdG429svoPYq7TzLjRqVWm-FqlzrVAJUNcJA3uR-ch6Y9-JbDEd5Nym1KFK7joeW2_sBbnLVBFO2-LWIxatkUXq8bNcLasecKFqdLJI9qTi8Q893s8BcrV4LR0aMhWSsrkOljU4ZudtKZggl12MyBOo-4lNz43kTV8S5zqIfDcsNBlAhzDU_it-n8KQYJ9NM9y3W9DEXwk&sig=AOD64_0ZY8PYtBj_musTA6vuY44SbtWFJw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e268]:
+                - generic [ref=e270]:
+                  - generic [ref=e271]: Sponsored
+                  - text: ·
+                - generic [ref=e273]: BytePlus
+            - button "My Ad Center" [ref=e276]
+        - generic [ref=e283]:
+          - link [ref=e285] [cursor=pointer]:
+            - /url: /watch?v=PQU9o_5rHC4&pp=ygUMQm9yaXMgQ2hlcm55
+          - generic [ref=e287] [cursor=pointer]:
+            - generic [ref=e288]:
+              - heading "Inside Claude Code With Its Creator Boris Cherny 50 minutes" [level=3] [ref=e290]:
+                - link "Inside Claude Code With Its Creator Boris Cherny 50 minutes" [ref=e291]:
+                  - /url: /watch?v=PQU9o_5rHC4&pp=ygUMQm9yaXMgQ2hlcm55
+                  - text: Inside Claude Code With Its Creator Boris Cherny
+              - generic [ref=e294]:
+                - generic [ref=e295]: 209K views
+                - generic [ref=e296]: •2 months ago
+            - generic [ref=e297]:
+              - link "Go to channel Y Combinator" [ref=e298]:
+                - /url: /@ycombinator
+              - generic [ref=e300]:
+                - link "Y Combinator" [ref=e304]:
+                  - /url: /@ycombinator
+                - img "Verified" [ref=e309]
+            - generic [ref=e311]:
+              - generic [ref=e312]: A very special guest on this episode of the Lightcone! Boris Cherny, the creator of Claude Code, sits down to share the incredible ...
+              - tooltip "tooltip"
+            - generic [ref=e315]:
+              - generic [ref=e316]:
+                - generic [ref=e320]: 22 chapters
+                - button "Intro | The most surprising moment in the rise of Claude Code | How Boris came up with the idea for Claude Code | The elegant simplicity of terminals | The first use cases | What’s in Boris’ CLAUDE.md? | How do you decide the terminal’s verbosity? | Beginner’s mindset is key as the models improve | Hyper specialists vs hyper generalists | The vision for Claude teams | Subagents | A world without plan mode? | Tips for founders to build for the future | How much life does the terminal still have? | Advice for dev tool founders | Claude Code and TypeScript parallels | Designing for the terminal was hard | Other advice for builders | Productivity per engineer | Why Boris chose to join Anthropic | How coding will change | Outro" [ref=e321]
+              - button "More" [ref=e326]
+        - generic [ref=e333]:
+          - link [ref=e335] [cursor=pointer]:
+            - /url: /watch?v=AmdLVWMdjOk&pp=ygUMQm9yaXMgQ2hlcm55
+          - generic [ref=e337] [cursor=pointer]:
+            - generic [ref=e338]:
+              - heading "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic 1 hour, 24 minutes" [level=3] [ref=e340]:
+                - link "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic 1 hour, 24 minutes" [ref=e341]:
+                  - /url: /watch?v=AmdLVWMdjOk&pp=ygUMQm9yaXMgQ2hlcm55
+                  - text: Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic
+              - generic [ref=e344]:
+                - generic [ref=e345]: 245K views
+                - generic [ref=e346]: •4 months ago
+            - generic [ref=e347]:
+              - link "Go to channel Ryan Peterman" [ref=e348]:
+                - /url: /@RyanLPeterman
+              - link "Ryan Peterman" [ref=e353]:
+                - /url: /@RyanLPeterman
+            - generic [ref=e354]:
+              - generic [ref=e355]: Boris Cherny is the Creator of Claude Code but few people know his full career story. I interviewed him about everything he ...
+              - tooltip "tooltip"
+            - img "4K" [ref=e360]:
+              - generic [ref=e361]: 4K
+            - generic [ref=e364]:
+              - generic [ref=e365]:
+                - generic [ref=e369]: 17 chapters
+                - button "Intro | Starting at FB | Early side projects and book rec | Being under leveled | Staff (IC6) promo story | Proximity to leadership learnings | Scoping out work for 100s of engs | Senior Staff (IC7) promo story | How to find side projects | Principal (IC8) promo story | Building credibility in a new org | Joining Anthropic | Why Claude Code succeeded | Claude Code use outside of code | What he thinks of competition | Advice for his younger self | Outro" [ref=e370]
+              - button "More" [ref=e375]
+        - generic [ref=e385]:
+          - img [ref=e391]
+          - generic [ref=e393] [cursor=pointer]:
+            - generic [ref=e394]:
+              - link "Parallels® Desktop" [ref=e397]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CkiPTqsbyadX-BNGD_PcPi-CjiQr1h8D8hQGKnsWx1xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAlO_8A6gDBMgDCqoEmAJP0H8dcXh9UKux4QIEHK3KVp_Z4ofT7xbJjxoCu-scIdIJbrvDqd5BofjGPmWBsMQKsKYjC4W2ecWhJn-MtAur7mACAUM2ZTOC13U6tqY9twk6vj1nUVcEhvZC_kKd51S72K6_pCAxZ0OUgnBddjS24DMM3t1W4RvznBLRFSWCGJCNtHEiNW3D7mloV0cUqiieZFpk00d3NVbT-CqqU0SER9zJENQZdB1Wb4IRlf5DO6TnqGvhv2lQVpca_ZeGzqNsJbt6iVWvzjgPnWZ1xyvXStN2WC4xT4StiKE7F6tGb5GpH7KooRQLKQNNhpk-1KdHVXrgkIGwvCIc4UT5EX0tZSAmBo8bGRLF6FagSmVkyRHBVPtRqo4AiAXH9braV5IFBwgTePyVxQSgBm6AB6jrkAOQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmOaCv8uUlAOaCS9odHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvL7EJmUHiHWMQt0_ICQDICYoCyAmXApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsSogw1YhYKFGNvbS5wYXJhbGxlbHMuY2xpZW50ahYKFGNvbS5wYXJhbGxlbHMuY2xpZW50eACIAQDSDAIQAZoNARKqDQJNWcgNAdINrQJodHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvLz91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9JnV0bV9pZD0yMzU0MzU5MzY3MSZleHRlbnNpb25pZD0mbWF0Y2h0eXBlPSZkZXZpY2U9YyZkZXZpY2Vtb2RlbD0mY3JlYXRpdmU9Nzk2NzI5MjU4MjU3Jm5ldHdvcms9JnBsYWNlbWVudD0meC1zb3VyY2U9cHBjJmNhbXBhaWduX25hbWU9UERmTS1EZW1hbmRHZW4tRU4tVGllcjEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNTQzNTkzNjcxuBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRetonOMcW6en7oXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI1fuCv8uUlAMV0QH_CB0L8CihEAEYAyAAEgIsBvD_BwE&num=3&cid=CAASwwHkaKP6U8pYm-SkntlgsqfPeIe8iwoP-dszNvP30ojksJyC78JmhRYVFmWozmdG429svoPYq7TzLjRqVWm-FqlzrVAJUNcJA3uR-ch6Y9-JbDEd5Nym1KFK7joeW2_sBbnLVBFO2-LWIxatkUXq8bNcLasecKFqdLJI9qTi8Q893s8BcrV4LR0aMhWSsrkOljU4ZudtKZggl12MyBOo-4lNz43kTV8S5zqIfDcsNBlAhzDU_it-n8KQYJ9NM9y3W9DEXwk&sig=AOD64_1FYV2VRMn-W_qW7pCNU0-__6fLGQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Windows on Mac. macOS Tahoe Optimized. Play PC Games on Intel, M1/M2/M3 chip Mac." [ref=e400]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CkiPTqsbyadX-BNGD_PcPi-CjiQr1h8D8hQGKnsWx1xWwkB8QAyAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAlO_8A6gDBMgDCqoEmAJP0H8dcXh9UKux4QIEHK3KVp_Z4ofT7xbJjxoCu-scIdIJbrvDqd5BofjGPmWBsMQKsKYjC4W2ecWhJn-MtAur7mACAUM2ZTOC13U6tqY9twk6vj1nUVcEhvZC_kKd51S72K6_pCAxZ0OUgnBddjS24DMM3t1W4RvznBLRFSWCGJCNtHEiNW3D7mloV0cUqiieZFpk00d3NVbT-CqqU0SER9zJENQZdB1Wb4IRlf5DO6TnqGvhv2lQVpca_ZeGzqNsJbt6iVWvzjgPnWZ1xyvXStN2WC4xT4StiKE7F6tGb5GpH7KooRQLKQNNhpk-1KdHVXrgkIGwvCIc4UT5EX0tZSAmBo8bGRLF6FagSmVkyRHBVPtRqo4AiAXH9braV5IFBwgTePyVxQSgBm6AB6jrkAOQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYmOaCv8uUlAOaCS9odHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvL7EJmUHiHWMQt0_ICQDICYoCyAmXApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlzaW56YWFh0AsSogw1YhYKFGNvbS5wYXJhbGxlbHMuY2xpZW50ahYKFGNvbS5wYXJhbGxlbHMuY2xpZW50eACIAQDSDAIQAZoNARKqDQJNWcgNAdINrQJodHRwczovL3d3dy5wYXJhbGxlbHMuY29tL3Byb2R1Y3RzL2Rlc2t0b3AvcHJvLz91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9JnV0bV9pZD0yMzU0MzU5MzY3MSZleHRlbnNpb25pZD0mbWF0Y2h0eXBlPSZkZXZpY2U9YyZkZXZpY2Vtb2RlbD0mY3JlYXRpdmU9Nzk2NzI5MjU4MjU3Jm5ldHdvcms9JnBsYWNlbWVudD0meC1zb3VyY2U9cHBjJmNhbXBhaWduX25hbWU9UERmTS1EZW1hbmRHZW4tRU4tVGllcjEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNTQzNTkzNjcxuBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRetonOMcW6en7oXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI1fuCv8uUlAMV0QH_CB0L8CihEAEYAyAAEgIsBvD_BwE&num=3&cid=CAASwwHkaKP6U8pYm-SkntlgsqfPeIe8iwoP-dszNvP30ojksJyC78JmhRYVFmWozmdG429svoPYq7TzLjRqVWm-FqlzrVAJUNcJA3uR-ch6Y9-JbDEd5Nym1KFK7joeW2_sBbnLVBFO2-LWIxatkUXq8bNcLasecKFqdLJI9qTi8Q893s8BcrV4LR0aMhWSsrkOljU4ZudtKZggl12MyBOo-4lNz43kTV8S5zqIfDcsNBlAhzDU_it-n8KQYJ9NM9y3W9DEXwk&sig=AOD64_1FYV2VRMn-W_qW7pCNU0-__6fLGQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e401]:
+                - generic [ref=e403]:
+                  - generic [ref=e404]: Sponsored
+                  - text: ·
+                - generic [ref=e406]: Parallels
+            - button "My Ad Center" [ref=e409]
+        - generic [ref=e416]:
+          - link [ref=e418] [cursor=pointer]:
+            - /url: /watch?v=6eBSHbLKuN0&pp=ygUMQm9yaXMgQ2hlcm55
+          - generic [ref=e420] [cursor=pointer]:
+            - generic [ref=e421]:
+              - heading "Mastering Claude Code in 30 minutes 28 minutes" [level=3] [ref=e423]:
+                - link "Mastering Claude Code in 30 minutes 28 minutes" [ref=e424]:
+                  - /url: /watch?v=6eBSHbLKuN0&pp=ygUMQm9yaXMgQ2hlcm55
+                  - text: Mastering Claude Code in 30 minutes
+              - generic [ref=e427]:
+                - generic [ref=e428]: 1.1M views
+                - generic [ref=e429]: •Streamed 11 months ago
+            - generic [ref=e430]:
+              - link "Go to channel Anthropic" [ref=e431]:
+                - /url: /@anthropic-ai
+              - link "Anthropic" [ref=e436]:
+                - /url: /@anthropic-ai
+            - generic [ref=e437]:
+              - text: Learn advanced features, shortcuts, and workflows to get the most from Claude Code.
+              - tooltip "tooltip"
+        - generic [ref=e438]:
+          - generic [ref=e441]:
+            - img [ref=e443]
+            - heading "Shorts" [level=2] [ref=e446]
+          - generic [ref=e448]:
+            - generic [ref=e451]:
+              - link [ref=e452] [cursor=pointer]:
+                - /url: /shorts/x5QC7Lvnt4A
+                - img [ref=e457]:
+                  - generic [ref=e458]: New
+              - generic [ref=e459] [cursor=pointer]:
+                - link "The creator of Claude Code Boris Cherny barely writes a line of code anymore, and the workflow is" [ref=e460]:
+                  - /url: /shorts/x5QC7Lvnt4A
+                - generic [ref=e461]: 3.9K views
+              - button "More actions" [ref=e463] [cursor=pointer]
+            - generic [ref=e471]:
+              - link [ref=e472] [cursor=pointer]:
+                - /url: /shorts/eCjYIj-fEDw
+              - generic [ref=e476] [cursor=pointer]:
+                - link "What Boris Cherny Learned From Building Claude Code" [ref=e477]:
+                  - /url: /shorts/eCjYIj-fEDw
+                - generic [ref=e478]: 37K views
+              - button "More actions" [ref=e480] [cursor=pointer]
+            - generic [ref=e488]:
+              - link [ref=e489] [cursor=pointer]:
+                - /url: /shorts/eJvoKhYiLac
+              - generic [ref=e493] [cursor=pointer]:
+                - link "Boris Cherny says the role of programmers is shifting from writing code to orchestrating agents" [ref=e494]:
+                  - /url: /shorts/eJvoKhYiLac
+                - generic [ref=e495]: 6.7K views
+              - button "More actions" [ref=e497] [cursor=pointer]
+          - button "Show more" [ref=e506] [cursor=pointer]:
+            - generic [ref=e507]: Show more
+        - generic [ref=e514]:
+          - link [ref=e516] [cursor=pointer]:
+            - /url: /shorts/-8-DjZRQl7Q
+          - generic [ref=e518] [cursor=pointer]:
+            - generic [ref=e519]:
+              - 'heading "Creator of Claude Code Boris Cherny on Anthropic’s safety values. #Vergecast by The Verge 10,816 views 2 months ago 1 minute, 5 seconds - play Short" [level=3] [ref=e521]':
+                - 'link "Creator of Claude Code Boris Cherny on Anthropic’s safety values. #Vergecast by The Verge 10,816 views 2 months ago 1 minute, 5 seconds - play Short" [ref=e522]':
+                  - /url: /shorts/-8-DjZRQl7Q
+                  - text: "Creator of Claude Code Boris Cherny on Anthropic’s safety values. #Vergecast"
+              - generic [ref=e525]:
+                - generic [ref=e526]: 10K views
+                - generic [ref=e527]: •2 months ago
+            - generic [ref=e528]:
+              - link "Go to channel The Verge" [ref=e529]:
+                - /url: /@TheVerge
+              - generic [ref=e530]:
+                - link "The Verge" [ref=e534]:
+                  - /url: /@TheVerge
+                - img "Verified" [ref=e539]
+            - generic [ref=e541]:
+              - generic [ref=e542]: "Creator of Claude Code Boris Cherny on Anthropic's safety values. Subscribe: http://goo.gl/G5RXGs Like The Verge on Facebook: ..."
+              - tooltip "tooltip"

@@ -1,0 +1,264 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e48]:
+    - generic [ref=e55]:
+      - generic [ref=e60]:
+        - generic [ref=e68]:
+          - heading "Wes Roth, Verified" [level=1] [ref=e70]:
+            - generic [ref=e71]:
+              - text: Wes Roth
+              - img [ref=e74]
+          - generic [ref=e75]:
+            - group [ref=e76]:
+              - generic [ref=e77]: "@WesRoth"
+            - generic [ref=e78]: •
+            - group [ref=e79]:
+              - generic "318 thousand subscribers" [ref=e80]: 318K subscribers
+              - generic [ref=e81]: •
+              - generic [ref=e82]: 798 videos
+          - generic [ref=e84] [cursor=pointer]:
+            - generic [ref=e85]: Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism.
+            - button "Description. Artificial Intelligence, AI, Machine Learning, Google DeepMi...tap for more." [ref=e86]:
+              - generic [ref=e87]: ...more
+        - generic [ref=e88]:
+          - link "natural20.com" [ref=e92] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbTk1dVFiZVhURWFKNGJSMDdUX0otRE9PejZzZ3xBQ3Jtc0tueVJ3Znk0alpBSkd6b3BWNm9EMzl0a3NUM2ozOEdSQThnWE9nOWRORVQtUnpCNm1pTXEyR2gxWmFqN3Bka0FmWnBfMWNJb3VrM1lkaWFqS1ZuQmM0RWhsRXdCekthUnd0eXFIQU1FWFBIcmhmbDJaTQ&q=https%3A%2F%2Fnatural20.com%2F
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - button "Subscribe" [ref=e97] [cursor=pointer]:
+                - generic [ref=e98]: Subscribe
+              - button "Join this channel" [ref=e104] [cursor=pointer]:
+                - generic [ref=e107]: Join
+            - link "Community" [ref=e114] [cursor=pointer]:
+              - /url: /@WesRoth/community
+              - generic [ref=e117]: Community
+      - tablist [ref=e124]:
+        - tablist [ref=e128]:
+          - tab "Home" [selected] [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: Home
+          - tab "Videos" [ref=e131] [cursor=pointer]:
+            - generic [ref=e132]: Videos
+          - tab "Shorts" [ref=e133] [cursor=pointer]:
+            - generic [ref=e134]: Shorts
+          - tab "Live" [ref=e135] [cursor=pointer]:
+            - generic [ref=e136]: Live
+          - tab "Podcasts" [ref=e137] [cursor=pointer]:
+            - generic [ref=e138]: Podcasts
+          - tab "Playlists" [ref=e139] [cursor=pointer]:
+            - generic [ref=e140]: Playlists
+          - tab "Posts" [ref=e141] [cursor=pointer]:
+            - generic [ref=e142]: Posts
+          - button "Search" [ref=e146] [cursor=pointer]
+        - button [ref=e150] [cursor=pointer]:
+          - generic [ref=e151]:
+            - img
+    - generic [ref=e156]:
+      - generic [ref=e164]:
+        - heading "\"No One is Prepared\" the next 1,000 days are CRUCIAL | Emad Mostaque 1 hour, 19 minutes" [level=3] [ref=e165]:
+          - link "\"No One is Prepared\" the next 1,000 days are CRUCIAL | Emad Mostaque" [ref=e166] [cursor=pointer]:
+            - /url: /watch?v=07fuMWzFSUw
+        - generic [ref=e169]:
+          - generic [ref=e170]: 121,011 views
+          - generic [ref=e171]: •5 months ago
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - heading "AI POD - Wes Roth and Dylan Curious Play all" [level=2] [ref=e178]:
+            - link "AI POD - Wes Roth and Dylan Curious" [ref=e181] [cursor=pointer]:
+              - /url: /playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk
+              - generic [ref=e182]: AI POD - Wes Roth and Dylan Curious
+            - link "Play all" [ref=e186] [cursor=pointer]:
+              - /url: /watch?v=0d727qv_MYs&list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk
+              - generic [ref=e189]: Play all
+          - generic [ref=e193]: Explore the Future of Intelligence – One Conversation at a Time Dive into thought-provoking interviews with the leading minds in artificial intelligence. From cutting-edge research to real-world applications, this playlist features unfiltered discussions with AI engineers, researchers, entrepreneurs, and visionaries. Whether you're a developer, enthusiast, or just curious about the future, these expert conversations will deepen your understanding of where AI is headed—and who's building it.
+        - generic [ref=e195]:
+          - generic [ref=e198]:
+            - generic [ref=e200]:
+              - link [ref=e202] [cursor=pointer]:
+                - /url: /watch?v=0d727qv_MYs
+              - generic [ref=e206] [cursor=pointer]:
+                - heading "You have TWO YEARS LEFT to prepare - Dr. Roman Yampolskiy 1 hour, 21 minutes" [level=3] [ref=e207]:
+                  - link "You have TWO YEARS LEFT to prepare - Dr. Roman Yampolskiy 1 hour, 21 minutes" [ref=e208]:
+                    - /url: /watch?v=0d727qv_MYs
+                    - text: You have TWO YEARS LEFT to prepare - Dr. Roman Yampolskiy
+                - generic [ref=e210]:
+                  - generic [ref=e215]:
+                    - text: Wes Roth
+                    - img [ref=e218]
+                    - text: and Dylan Curious
+                  - generic [ref=e219]:
+                    - generic [ref=e220]: 126K views
+                    - generic [ref=e221]: •5 months ago
+            - generic [ref=e223]:
+              - link [ref=e225] [cursor=pointer]:
+                - /url: /watch?v=07fuMWzFSUw
+              - generic [ref=e229] [cursor=pointer]:
+                - heading "\"No One is Prepared\" the next 1,000 days are CRUCIAL | Emad Mostaque 1 hour, 19 minutes" [level=3] [ref=e230]:
+                  - link "\"No One is Prepared\" the next 1,000 days are CRUCIAL | Emad Mostaque 1 hour, 19 minutes" [ref=e231]:
+                    - /url: /watch?v=07fuMWzFSUw
+                    - text: "\"No One is Prepared\" the next 1,000 days are CRUCIAL | Emad Mostaque"
+                - generic [ref=e233]:
+                  - generic [ref=e238]:
+                    - text: Wes Roth
+                    - img [ref=e241]
+                    - text: and Dylan Curious
+                  - generic [ref=e242]:
+                    - generic [ref=e243]: 121K views
+                    - generic [ref=e244]: •5 months ago
+            - generic [ref=e246]:
+              - link [ref=e248] [cursor=pointer]:
+                - /url: /watch?v=0e1ZzerTq70
+              - generic [ref=e252] [cursor=pointer]:
+                - heading "Claude just became OpenClaw 27 minutes" [level=3] [ref=e253]:
+                  - link "Claude just became OpenClaw 27 minutes" [ref=e254]:
+                    - /url: /watch?v=0e1ZzerTq70
+                    - text: Claude just became OpenClaw
+                - generic [ref=e256]:
+                  - generic [ref=e258]:
+                    - generic "Wes Roth" [ref=e261]:
+                      - link "Wes Roth" [ref=e262]:
+                        - /url: /@WesRoth
+                    - img "Verified" [ref=e267]
+                  - generic [ref=e269]:
+                    - generic [ref=e270]: 70K views
+                    - generic [ref=e271]: •1 month ago
+            - generic [ref=e273]:
+              - link [ref=e275] [cursor=pointer]:
+                - /url: /watch?v=ohAoH0Sma6Y
+              - generic [ref=e279] [cursor=pointer]:
+                - heading "This Former Google Director Just Revealed Everything... 39 minutes" [level=3] [ref=e280]:
+                  - link "This Former Google Director Just Revealed Everything... 39 minutes" [ref=e281]:
+                    - /url: /watch?v=ohAoH0Sma6Y
+                    - text: This Former Google Director Just Revealed Everything...
+                - generic [ref=e283]:
+                  - generic [ref=e285]:
+                    - generic "Wes Roth" [ref=e288]:
+                      - link "Wes Roth" [ref=e289]:
+                        - /url: /@WesRoth
+                    - img "Verified" [ref=e294]
+                  - generic [ref=e296]:
+                    - generic [ref=e297]: 59K views
+                    - generic [ref=e298]: •11 months ago
+            - generic [ref=e300]:
+              - link [ref=e302] [cursor=pointer]:
+                - /url: /watch?v=ZPwnp9uAJvE
+              - generic [ref=e306] [cursor=pointer]:
+                - 'heading "Dr Mike Israetel: We ALREADY Know How to Build ASI... Human Death Only Has DECADES Left 1 hour, 59 minutes" [level=3] [ref=e307]':
+                  - 'link "Dr Mike Israetel: We ALREADY Know How to Build ASI... Human Death Only Has DECADES Left 1 hour, 59 minutes" [ref=e308]':
+                    - /url: /watch?v=ZPwnp9uAJvE
+                    - text: "Dr Mike Israetel: We ALREADY Know How to Build ASI... Human Death Only Has DECADES Left"
+                - generic [ref=e310]:
+                  - generic [ref=e312]:
+                    - generic "Wes Roth" [ref=e315]:
+                      - link "Wes Roth" [ref=e316]:
+                        - /url: /@WesRoth
+                    - img "Verified" [ref=e321]
+                  - generic [ref=e323]:
+                    - generic [ref=e324]: 56K views
+                    - generic [ref=e325]: •10 months ago
+            - generic [ref=e327]:
+              - link [ref=e329] [cursor=pointer]:
+                - /url: /watch?v=PYKbNj8UiTs
+              - generic [ref=e333] [cursor=pointer]:
+                - heading "AI and the \"WHITE-COLLAR BLOODBATH\" (Post-Labor Economics deep dive with David Shapiro) 40 minutes" [level=3] [ref=e334]:
+                  - link "AI and the \"WHITE-COLLAR BLOODBATH\" (Post-Labor Economics deep dive with David Shapiro) 40 minutes" [ref=e335]:
+                    - /url: /watch?v=PYKbNj8UiTs
+                    - text: AI and the "WHITE-COLLAR BLOODBATH" (Post-Labor Economics deep dive with David Shapiro)
+                - generic [ref=e337]:
+                  - generic [ref=e339]:
+                    - generic "Wes Roth" [ref=e342]:
+                      - link "Wes Roth" [ref=e343]:
+                        - /url: /@WesRoth
+                    - img "Verified" [ref=e348]
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: 53K views
+                    - generic [ref=e352]: •10 months ago
+          - button "Next" [ref=e355] [cursor=pointer]
+      - generic [ref=e364]:
+        - heading "Videos" [level=2] [ref=e367]:
+          - link "Videos" [ref=e370] [cursor=pointer]:
+            - /url: /@WesRoth/videos?view=0&sort=dd&shelf_id=3
+            - generic [ref=e371]: Videos
+        - generic [ref=e376]:
+          - generic [ref=e378]:
+            - link [ref=e380] [cursor=pointer]:
+              - /url: /watch?v=bFO0uAMPx1g
+            - generic [ref=e384] [cursor=pointer]:
+              - heading "Hermes Agent is INSANE... 40 minutes" [level=3] [ref=e385]:
+                - link "Hermes Agent is INSANE... 40 minutes" [ref=e386]:
+                  - /url: /watch?v=bFO0uAMPx1g
+                  - text: Hermes Agent is INSANE...
+              - generic [ref=e389]:
+                - generic [ref=e390]: 53K views
+                - generic [ref=e391]: •2 days ago
+          - generic [ref=e393]:
+            - link [ref=e395] [cursor=pointer]:
+              - /url: /watch?v=evVs-Jtor50
+            - generic [ref=e399] [cursor=pointer]:
+              - heading "OpenAI just WON... 16 minutes" [level=3] [ref=e400]:
+                - link "OpenAI just WON... 16 minutes" [ref=e401]:
+                  - /url: /watch?v=evVs-Jtor50
+                  - text: OpenAI just WON...
+              - generic [ref=e404]:
+                - generic [ref=e405]: 58K views
+                - generic [ref=e406]: •5 days ago
+          - generic [ref=e408]:
+            - link [ref=e410] [cursor=pointer]:
+              - /url: /watch?v=ITT9xWeicWM
+            - generic [ref=e414] [cursor=pointer]:
+              - heading "Mythos leaks, SpaceX buys Cursor and OpenAI drops GPT Image 2.0 19 minutes" [level=3] [ref=e415]:
+                - link "Mythos leaks, SpaceX buys Cursor and OpenAI drops GPT Image 2.0 19 minutes" [ref=e416]:
+                  - /url: /watch?v=ITT9xWeicWM
+                  - text: Mythos leaks, SpaceX buys Cursor and OpenAI drops GPT Image 2.0
+              - generic [ref=e419]:
+                - generic [ref=e420]: 53K views
+                - generic [ref=e421]: •7 days ago
+          - generic [ref=e423]:
+            - link [ref=e425] [cursor=pointer]:
+              - /url: /watch?v=hrIY-clbdg8&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e429] [cursor=pointer]:
+              - heading "OpenAI's GPT 5.5 is wild... 22 minutes" [level=3] [ref=e430]:
+                - link "OpenAI's GPT 5.5 is wild... 22 minutes" [ref=e431]:
+                  - /url: /watch?v=hrIY-clbdg8&pp=0gcJCd8KAYcqIYzv
+                  - text: OpenAI's GPT 5.5 is wild...
+              - generic [ref=e434]:
+                - generic [ref=e435]: 82K views
+                - generic [ref=e436]: •8 days ago
+          - generic [ref=e438]:
+            - link [ref=e440] [cursor=pointer]:
+              - /url: /watch?v=ZVAGTidLVyc
+            - generic [ref=e444] [cursor=pointer]:
+              - heading "Claude just forced them to reveal THE TRUTH... 22 minutes" [level=3] [ref=e445]:
+                - link "Claude just forced them to reveal THE TRUTH... 22 minutes" [ref=e446]:
+                  - /url: /watch?v=ZVAGTidLVyc
+                  - text: Claude just forced them to reveal THE TRUTH...
+              - generic [ref=e449]:
+                - generic [ref=e450]: 72K views
+                - generic [ref=e451]: •13 days ago
+          - generic [ref=e453]:
+            - link [ref=e455] [cursor=pointer]:
+              - /url: /watch?v=3jNp14bJpgs
+            - generic [ref=e459] [cursor=pointer]:
+              - 'heading "HERMES AGENT SETUP: the OpenClaw killer is here 42 minutes" [level=3] [ref=e460]':
+                - 'link "HERMES AGENT SETUP: the OpenClaw killer is here 42 minutes" [ref=e461]':
+                  - /url: /watch?v=3jNp14bJpgs
+                  - text: "HERMES AGENT SETUP: the OpenClaw killer is here"
+              - generic [ref=e464]:
+                - generic [ref=e465]: 63K views
+                - generic [ref=e466]: •2 weeks ago

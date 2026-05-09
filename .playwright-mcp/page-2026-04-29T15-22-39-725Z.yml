@@ -1,0 +1,488 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: MY
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e34]
+            - button "Search" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=e49]:
+        - button "Settings" [ref=e54] [cursor=pointer]
+        - link "Sign in" [ref=e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DwQ0duoTeAAU&hl=en&ec=65620
+          - generic [ref=e61]: Sign in
+  - main [ref=e66]:
+    - generic [ref=e77]:
+      - generic [ref=e78]: Sign in to confirm you’re not a bot
+      - generic [ref=e79]:
+        - text: This helps protect our community.
+        - link "Learn more" [ref=e80] [cursor=pointer]:
+          - /url: https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube
+      - link "Sign in" [ref=e84] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DwQ0duoTeAAU&hl=en
+        - generic [ref=e85]: Sign in
+    - generic [ref=e92]:
+      - generic [ref=e94]:
+        - heading "Build Self-Improving Claude Code Skills. The Results Are Crazy." [level=1] [ref=e96]
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e99]:
+              - link [ref=e100] [cursor=pointer]:
+                - /url: /@simonscrapes
+              - generic [ref=e102]:
+                - generic "Simon Scrapes" [ref=e106]:
+                  - link "Simon Scrapes" [ref=e107] [cursor=pointer]:
+                    - /url: /@simonscrapes
+                - generic "77.2 thousand subscribers" [ref=e108]: 77.2K subscribers
+            - generic [ref=e112]:
+              - button "Subscribe to Simon Scrapes." [ref=e114] [cursor=pointer]:
+                - generic [ref=e115]: Subscribe
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - img
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - generic [ref=e127]:
+                - button "like this video along with 2,239 other people" [ref=e131] [cursor=pointer]:
+                  - generic [ref=e134]: 2.2K
+                - button "Dislike this video" [ref=e141] [cursor=pointer]
+              - button "Share" [ref=e149] [cursor=pointer]:
+                - generic [ref=e152]: Share
+            - button "Save to playlist" [ref=e159] [cursor=pointer]:
+              - generic [ref=e162]: Save
+            - button "More actions" [ref=e167] [cursor=pointer]
+        - generic [ref=e175] [cursor=pointer]:
+          - generic [ref=e176]:
+            - generic [ref=e178]:
+              - text: 101K views 1 month ago
+              - link "#claudecodetutorial" [ref=e179]:
+                - /url: /hashtag/claudecodetutorial
+              - link "#claudecode" [ref=e180]:
+                - /url: /hashtag/claudecode
+            - tooltip "tooltip"
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - generic [ref=e185]:
+                - text: "🚀 Build agentic systems that run your business:"
+                - link "https://skool.com/scrapes" [ref=e187]:
+                  - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWQ3Rzdxdm5fVnY4cTNHVzdnYTdFeWhldkhiUXxBQ3Jtc0tra0lVSEVmYlBnVTBUQW1vWUk3TTF5cHBTR0Nub2czNWp2NnV2MXRtY2I0Y19UMnA3Q1FBblh0ekZDM1JlOWh3c2UxRjZPUE9rSDAybG9fLU5TYW93cUp5OElabnVvWFNiWUhEdk1JTTFxM1JNN2xybw&q=https%3A%2F%2Fskool.com%2Fscrapes&v=wQ0duoTeAAU
+                - text: Don't miss the next build -
+                - 'link "YouTube Channel Link: @simonscrapes" [ref=e190]':
+                  - /url: /channel/UCdCR4-uYOg5ju-IUuDnfnQA
+                  - text: / @simonscrapes
+              - generic: …
+            - button "...more" [ref=e192]
+      - text: •
+      - generic [ref=e197]:
+        - generic [ref=e206]:
+          - generic [ref=e207] [cursor=pointer]:
+            - generic [ref=e208]:
+              - link "Seedance 2.0 Official Launch" [ref=e211]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChHbDPSLyaY2fEOWDmsMP1-_GuQ7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBIEDT9CpOkvkOdPYKqoRk4xjxwsiae0J7UJ5vUj2qtWHaJZaX1eSPHKaog_sRLXBFathB_yFKfkWZCS7bcT6MzazGP-_adPew5-pm0CGNzKaCH-0ikQiLabmRY82Y2xruFZ0C5lZwxcoatCHbnBUCeOim4x8wU6Rd2jVqILS2PM0Ld-rTBVatvDVjaS7Y7w9sS17X-wRqOPg1S8NYefcoCRrGBCDQ7G_J0Rdk03t8VNu_UWT7Kj1FDyMNRXvahkZ_BzLOG-2Yd4RodrcUNxELBOb-fPlYfk6BmZapL8OTGgDToW4QHD6V98iK9jg0mAZ8NTaOrHqKIfW0G6on54JQWoeoh_Mf_c9xDN0pzfclXI06n-qwiT41GZG0fN_F-Er4NX6uDlHfTDo5q2I3DzN4tnOaRd_8LnvyP1Dr1upmgSAV4TDa3oX-TfqopvtMi1qadAnrSfh1nUFDys0iIxQLTrredqR4Uh07bXpNFaBNGZyFSEjY6-RUEKjrWXLZuTXXnoFj4gFkrv-u1iSBQoIE2gCeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYiMvM166TlAPyCB9jYS15dC1ob3N0LXB1Yi00MjM0MTQ1OTk5MTQ1ODIxmgkwaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wsQmU4MQyjPMU4sgJAJgLAaELSGKJy__olXq6C0UIARAFGBYgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIzbHN166TlAMV5YFmAh3XtzHnEAEYASAAEgI-vfD_BwE&num=1&cid=CAASwwHkaGy79MK3xIPAisYUJBaZNpIp1hmqHwNlVaF2IHziPHh4dqrxwUKTel77uoWT9_wAoWG-G_3vVs6mFm5-SrgFhWsm63laCSWm0Ds4pbVaN1UHMPlsqx3oJZRczQR6DUwxQ3RRAs52zqlV0dF1VFCZuE4BVNB7ZIwFHVfLYW6F8azbfcDP-PNoqz1-8259etnW33guQkY8xPtrC1VD1C-xDkVVt8kpqeGs9AMb7AwNKrRkV6CU507u2D1Wzvda2XqDetk&sig=AOD64_0oIm4-WPqONDwu_DHm6kLnB5i2Uw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 official release, no wait. Be first, not left in AI dust." [ref=e214]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChHbDPSLyaY2fEOWDmsMP1-_GuQ7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBIEDT9CpOkvkOdPYKqoRk4xjxwsiae0J7UJ5vUj2qtWHaJZaX1eSPHKaog_sRLXBFathB_yFKfkWZCS7bcT6MzazGP-_adPew5-pm0CGNzKaCH-0ikQiLabmRY82Y2xruFZ0C5lZwxcoatCHbnBUCeOim4x8wU6Rd2jVqILS2PM0Ld-rTBVatvDVjaS7Y7w9sS17X-wRqOPg1S8NYefcoCRrGBCDQ7G_J0Rdk03t8VNu_UWT7Kj1FDyMNRXvahkZ_BzLOG-2Yd4RodrcUNxELBOb-fPlYfk6BmZapL8OTGgDToW4QHD6V98iK9jg0mAZ8NTaOrHqKIfW0G6on54JQWoeoh_Mf_c9xDN0pzfclXI06n-qwiT41GZG0fN_F-Er4NX6uDlHfTDo5q2I3DzN4tnOaRd_8LnvyP1Dr1upmgSAV4TDa3oX-TfqopvtMi1qadAnrSfh1nUFDys0iIxQLTrredqR4Uh07bXpNFaBNGZyFSEjY6-RUEKjrWXLZuTXXnoFj4gFkrv-u1iSBQoIE2gCeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYiMvM166TlAPyCB9jYS15dC1ob3N0LXB1Yi00MjM0MTQ1OTk5MTQ1ODIxmgkwaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wsQmU4MQyjPMU4sgJAJgLAaELSGKJy__olXq6C0UIARAFGBYgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIzbHN166TlAMV5YFmAh3XtzHnEAEYASAAEgI-vfD_BwE&num=1&cid=CAASwwHkaGy79MK3xIPAisYUJBaZNpIp1hmqHwNlVaF2IHziPHh4dqrxwUKTel77uoWT9_wAoWG-G_3vVs6mFm5-SrgFhWsm63laCSWm0Ds4pbVaN1UHMPlsqx3oJZRczQR6DUwxQ3RRAs52zqlV0dF1VFCZuE4BVNB7ZIwFHVfLYW6F8azbfcDP-PNoqz1-8259etnW33guQkY8xPtrC1VD1C-xDkVVt8kpqeGs9AMb7AwNKrRkV6CU507u2D1Wzvda2XqDetk&sig=AOD64_0oIm4-WPqONDwu_DHm6kLnB5i2Uw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e215]:
+                - generic [ref=e217]:
+                  - generic [ref=e218]: Sponsored
+                  - text: ·
+                - generic [ref=e220]: BytePlus
+            - button "My Ad Center" [ref=e223]
+          - link "Visit site" [ref=e230] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChHbDPSLyaY2fEOWDmsMP1-_GuQ7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBIEDT9CpOkvkOdPYKqoRk4xjxwsiae0J7UJ5vUj2qtWHaJZaX1eSPHKaog_sRLXBFathB_yFKfkWZCS7bcT6MzazGP-_adPew5-pm0CGNzKaCH-0ikQiLabmRY82Y2xruFZ0C5lZwxcoatCHbnBUCeOim4x8wU6Rd2jVqILS2PM0Ld-rTBVatvDVjaS7Y7w9sS17X-wRqOPg1S8NYefcoCRrGBCDQ7G_J0Rdk03t8VNu_UWT7Kj1FDyMNRXvahkZ_BzLOG-2Yd4RodrcUNxELBOb-fPlYfk6BmZapL8OTGgDToW4QHD6V98iK9jg0mAZ8NTaOrHqKIfW0G6on54JQWoeoh_Mf_c9xDN0pzfclXI06n-qwiT41GZG0fN_F-Er4NX6uDlHfTDo5q2I3DzN4tnOaRd_8LnvyP1Dr1upmgSAV4TDa3oX-TfqopvtMi1qadAnrSfh1nUFDys0iIxQLTrredqR4Uh07bXpNFaBNGZyFSEjY6-RUEKjrWXLZuTXXnoFj4gFkrv-u1iSBQoIE2gCeIaSjKUdoAakAYAHn9-6hR2QBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYiMvM166TlAPyCB9jYS15dC1ob3N0LXB1Yi00MjM0MTQ1OTk5MTQ1ODIxmgkwaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wsQmU4MQyjPMU4sgJAJgLAaELSGKJy__olXq6C0UIARAFGBYgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAga6Awl2aXNpbnphYWHQCxKiDCJqGwoZY29tLmJ5dGVwbHVzLmJ5dGVwbHVzbGl2ZXgAiAEA0gwCEAGaDQESqg0CTVnIDQHSDesBaHR0cHM6Ly93d3cuYnl0ZXBsdXMuY29tL2VuL2FjdGl2aXR5L3NlZWRhbmNlMi0wP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249c2lnbnVwX3NlZWRhbmNlX2VhX2VuZ2xpc2hfMjAyNjA0MTRfZmxmJnV0bV90ZXJtPTIwMjYwNDE0X2FsbF9hYmlsaXR5X3NlZWRhbmNlMi4wJnV0bV9jb250ZW50PXRlY2RvJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc0ODEyNDA1MLAOxv6B-xi4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF2OHblRUD3CKuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIzbHN166TlAMV5YFmAh3XtzHnEAEYASAAEgI-vfD_BwE&num=1&cid=CAASwwHkaGy79MK3xIPAisYUJBaZNpIp1hmqHwNlVaF2IHziPHh4dqrxwUKTel77uoWT9_wAoWG-G_3vVs6mFm5-SrgFhWsm63laCSWm0Ds4pbVaN1UHMPlsqx3oJZRczQR6DUwxQ3RRAs52zqlV0dF1VFCZuE4BVNB7ZIwFHVfLYW6F8azbfcDP-PNoqz1-8259etnW33guQkY8xPtrC1VD1C-xDkVVt8kpqeGs9AMb7AwNKrRkV6CU507u2D1Wzvda2XqDetk&sig=AOD64_0oIm4-WPqONDwu_DHm6kLnB5i2Uw&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=e231]: Visit site
+        - generic [ref=e236] [cursor=pointer]:
+          - link [ref=e237]:
+            - /url: /watch?v=qKU-e0x2EmE&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+            - generic [ref=e244]: 16:32
+          - generic [ref=e246]:
+            - generic [ref=e247]:
+              - heading "Stop Fixing Your Claude Skills. Autoresearch Does It For You 16 minutes" [level=3] [ref=e248]:
+                - link "Stop Fixing Your Claude Skills. Autoresearch Does It For You 16 minutes" [ref=e249]:
+                  - /url: /watch?v=qKU-e0x2EmE&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+                  - text: Stop Fixing Your Claude Skills. Autoresearch Does It For You
+              - generic [ref=e251]:
+                - group [ref=e252]:
+                  - generic [ref=e253]: Nick Saraev
+                - group [ref=e254]:
+                  - generic [ref=e255]: 151K views
+                  - generic [ref=e256]: •
+                  - generic [ref=e257]: 1 month ago
+            - button "More actions" [ref=e260]
+        - generic [ref=e267] [cursor=pointer]:
+          - link [ref=e268]:
+            - /url: /watch?v=S_oN3vlzpMw
+            - generic [ref=e275]: 35:26
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e279]:
+                - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e280]:
+                  - /url: /watch?v=S_oN3vlzpMw
+                  - text: How AI agents & Claude skills work (Clearly Explained)
+              - generic [ref=e282]:
+                - group [ref=e283]:
+                  - generic [ref=e284]: Greg Isenberg
+                - group [ref=e285]:
+                  - generic [ref=e286]: 231K views
+                  - generic [ref=e287]: •
+                  - generic [ref=e288]: 2 weeks ago
+            - button "More actions" [ref=e291]
+        - generic [ref=e298] [cursor=pointer]:
+          - link [ref=e299]:
+            - /url: /watch?v=fQNjxT0lNyo
+            - generic [ref=e306]: 4:51
+          - generic [ref=e308]:
+            - generic [ref=e309]:
+              - heading "Developing An Effective Cyber-Attack Response Framework 4 minutes, 51 seconds" [level=3] [ref=e310]:
+                - link "Developing An Effective Cyber-Attack Response Framework 4 minutes, 51 seconds" [ref=e311]:
+                  - /url: /watch?v=fQNjxT0lNyo
+                  - text: Developing An Effective Cyber-Attack Response Framework
+              - generic [ref=e313]:
+                - group [ref=e314]:
+                  - generic [ref=e315]: BB_GAMING
+                - group [ref=e316]:
+                  - generic [ref=e317]: 2 views
+                  - generic [ref=e318]: •
+                  - generic [ref=e319]: 2 days ago
+                - group [ref=e320]:
+                  - generic [ref=e324]: New
+            - button "More actions" [ref=e327]
+        - generic [ref=e334] [cursor=pointer]:
+          - link [ref=e335]:
+            - /url: /watch?v=yfeHoOkn2TI
+            - generic [ref=e342]: 10:44
+          - generic [ref=e344]:
+            - generic [ref=e345]:
+              - heading "How to 10x Your Claude Code Projects (Karpathy's Method) 10 minutes, 44 seconds" [level=3] [ref=e346]:
+                - link "How to 10x Your Claude Code Projects (Karpathy's Method) 10 minutes, 44 seconds" [ref=e347]:
+                  - /url: /watch?v=yfeHoOkn2TI
+                  - text: How to 10x Your Claude Code Projects (Karpathy's Method)
+              - generic [ref=e349]:
+                - group [ref=e350]:
+                  - generic [ref=e351]: Austin Marchese
+                - group [ref=e352]:
+                  - generic [ref=e353]: 18K views
+                  - generic [ref=e354]: •
+                  - generic [ref=e355]: 5 days ago
+                - group [ref=e356]:
+                  - generic [ref=e360]: New
+            - button "More actions" [ref=e363]
+        - generic [ref=e370] [cursor=pointer]:
+          - link [ref=e371]:
+            - /url: /watch?v=X7YMMyd2Qnk
+            - generic [ref=e378]: 9:51
+          - generic [ref=e380]:
+            - generic [ref=e381]:
+              - heading "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [level=3] [ref=e382]:
+                - link "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [ref=e383]:
+                  - /url: /watch?v=X7YMMyd2Qnk
+                  - text: Claude Design Basics | Master 95% in 10 Minutes
+              - generic [ref=e385]:
+                - group [ref=e386]:
+                  - generic [ref=e387]: Tristen O'Brien
+                - group [ref=e388]:
+                  - generic [ref=e389]: 39K views
+                  - generic [ref=e390]: •
+                  - generic [ref=e391]: 2 days ago
+                - group [ref=e392]:
+                  - generic [ref=e396]: New
+            - button "More actions" [ref=e399]
+        - generic [ref=e406] [cursor=pointer]:
+          - link [ref=e407]:
+            - /url: /watch?v=p37qo3oLai8
+            - generic [ref=e414]: 13:40
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - heading "The Easiest Way to Get Ahead With Claude Code 13 minutes, 40 seconds" [level=3] [ref=e418]:
+                - link "The Easiest Way to Get Ahead With Claude Code 13 minutes, 40 seconds" [ref=e419]:
+                  - /url: /watch?v=p37qo3oLai8
+                  - text: The Easiest Way to Get Ahead With Claude Code
+              - generic [ref=e421]:
+                - group [ref=e422]:
+                  - generic [ref=e423]: Simon Scrapes
+                - group [ref=e424]:
+                  - generic [ref=e425]: 34K views
+                  - generic [ref=e426]: •
+                  - generic [ref=e427]: 1 month ago
+            - button "More actions" [ref=e430]
+        - generic [ref=e437] [cursor=pointer]:
+          - link [ref=e438]:
+            - /url: /watch?v=0qqV4yv-Hss
+            - generic [ref=e445]: 18:24
+          - generic [ref=e447]:
+            - generic [ref=e448]:
+              - heading "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [level=3] [ref=e449]:
+                - link "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [ref=e450]:
+                  - /url: /watch?v=0qqV4yv-Hss
+                  - text: Give Me 20 Minutes. I’ll Teach You 80% of Claude Code.
+              - generic [ref=e452]:
+                - group [ref=e453]:
+                  - generic [ref=e454]: Simon Scrapes
+                - group [ref=e455]:
+                  - generic [ref=e456]: 6.1K views
+                  - generic [ref=e457]: •
+                  - generic [ref=e458]: 23 hours ago
+                - group [ref=e459]:
+                  - generic [ref=e463]: New
+            - button "More actions" [ref=e466]
+        - generic [ref=e473] [cursor=pointer]:
+          - link [ref=e474]:
+            - /url: /watch?v=7Sn10hZWPuQ
+            - generic [ref=e481]: 15:55
+          - generic [ref=e483]:
+            - generic [ref=e484]:
+              - heading "The Only Claude Code Updates You Need to Know (Apr 2026) 15 minutes" [level=3] [ref=e485]:
+                - link "The Only Claude Code Updates You Need to Know (Apr 2026) 15 minutes" [ref=e486]:
+                  - /url: /watch?v=7Sn10hZWPuQ
+                  - text: The Only Claude Code Updates You Need to Know (Apr 2026)
+              - generic [ref=e488]:
+                - group [ref=e489]:
+                  - generic [ref=e490]: Simon Scrapes
+                - group [ref=e491]:
+                  - generic [ref=e492]: 16K views
+                  - generic [ref=e493]: •
+                  - generic [ref=e494]: 4 weeks ago
+            - button "More actions" [ref=e497]
+        - generic [ref=e504] [cursor=pointer]:
+          - link [ref=e505]:
+            - /url: /watch?v=CXeCIgc982I
+            - generic [ref=e512]: 9:36
+          - generic [ref=e514]:
+            - generic [ref=e515]:
+              - heading "The Claude Code Skills Trap (Most People Fall For This) 9 minutes, 36 seconds" [level=3] [ref=e516]:
+                - link "The Claude Code Skills Trap (Most People Fall For This) 9 minutes, 36 seconds" [ref=e517]:
+                  - /url: /watch?v=CXeCIgc982I
+                  - text: The Claude Code Skills Trap (Most People Fall For This)
+              - generic [ref=e519]:
+                - group [ref=e520]:
+                  - generic [ref=e521]: Simon Scrapes
+                - group [ref=e522]:
+                  - generic [ref=e523]: 20K views
+                  - generic [ref=e524]: •
+                  - generic [ref=e525]: 1 month ago
+            - button "More actions" [ref=e528]
+        - generic [ref=e535] [cursor=pointer]:
+          - link [ref=e536]:
+            - /url: /watch?v=EJyuu6zlQCg&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e543]: 16:42
+          - generic [ref=e545]:
+            - generic [ref=e546]:
+              - heading "5 Claude Code skills I use every single day 16 minutes" [level=3] [ref=e547]:
+                - link "5 Claude Code skills I use every single day 16 minutes" [ref=e548]:
+                  - /url: /watch?v=EJyuu6zlQCg&pp=ugUEEgJlbg%3D%3D
+                  - text: 5 Claude Code skills I use every single day
+              - generic [ref=e550]:
+                - group [ref=e551]:
+                  - generic [ref=e552]: Matt Pocock
+                - group [ref=e553]:
+                  - generic [ref=e554]: 278K views
+                  - generic [ref=e555]: •
+                  - generic [ref=e556]: 1 month ago
+            - button "More actions" [ref=e559]
+        - generic [ref=e566] [cursor=pointer]:
+          - link [ref=e567]:
+            - /url: /watch?v=uBWuKh1nZ2Y&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e574]: 19:53
+          - generic [ref=e576]:
+            - generic [ref=e577]:
+              - heading "The only AutoResearch tutorial you’ll ever need 19 minutes" [level=3] [ref=e578]:
+                - link "The only AutoResearch tutorial you’ll ever need 19 minutes" [ref=e579]:
+                  - /url: /watch?v=uBWuKh1nZ2Y&pp=ugUEEgJlbg%3D%3D
+                  - text: The only AutoResearch tutorial you’ll ever need
+              - generic [ref=e581]:
+                - group [ref=e582]:
+                  - generic [ref=e583]: David Ondrej
+                - group [ref=e584]:
+                  - generic [ref=e585]: 198K views
+                  - generic [ref=e586]: •
+                  - generic [ref=e587]: 1 month ago
+            - button "More actions" [ref=e590]
+        - generic [ref=e597] [cursor=pointer]:
+          - link [ref=e598]:
+            - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e605]: 10:30
+          - generic [ref=e607]:
+            - generic [ref=e608]:
+              - heading "Github are you joking? 10 minutes, 30 seconds" [level=3] [ref=e609]:
+                - link "Github are you joking? 10 minutes, 30 seconds" [ref=e610]:
+                  - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Github are you joking?
+              - generic [ref=e612]:
+                - group [ref=e613]:
+                  - generic [ref=e614]:
+                    - text: The PrimeTime
+                    - img [ref=e617]
+                - group [ref=e618]:
+                  - generic [ref=e619]: 357K views
+                  - generic [ref=e620]: •
+                  - generic [ref=e621]: 1 day ago
+                - group [ref=e622]:
+                  - generic [ref=e626]: New
+            - button "More actions" [ref=e629]
+        - generic [ref=e636] [cursor=pointer]:
+          - link [ref=e637]:
+            - /url: /watch?v=4Cb_l2LJAW8&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e644]: 24:42
+          - generic [ref=e646]:
+            - generic [ref=e647]:
+              - heading "Claude Code + Karpathy Autoresearch = The New Meta 24 minutes" [level=3] [ref=e648]:
+                - link "Claude Code + Karpathy Autoresearch = The New Meta 24 minutes" [ref=e649]:
+                  - /url: /watch?v=4Cb_l2LJAW8&pp=ugUEEgJlbg%3D%3D
+                  - text: Claude Code + Karpathy Autoresearch = The New Meta
+              - generic [ref=e651]:
+                - group [ref=e652]:
+                  - generic [ref=e653]: Nick Saraev
+                - group [ref=e654]:
+                  - generic [ref=e655]: 154K views
+                  - generic [ref=e656]: •
+                  - generic [ref=e657]: 1 month ago
+            - button "More actions" [ref=e660]
+        - generic [ref=e667] [cursor=pointer]:
+          - link [ref=e668]:
+            - /url: /watch?v=kRmZ5zmMS2o
+            - generic [ref=e675]: 18:59
+          - generic [ref=e677]:
+            - generic [ref=e678]:
+              - heading "NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community 18 minutes" [level=3] [ref=e679]:
+                - link "NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community 18 minutes" [ref=e680]:
+                  - /url: /watch?v=kRmZ5zmMS2o
+                  - text: NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community
+              - generic [ref=e682]:
+                - group [ref=e683]:
+                  - generic [ref=e684]:
+                    - text: Chris Messina
+                    - img [ref=e687]
+                - group [ref=e688]:
+                  - generic [ref=e689]: 755K views
+                  - generic [ref=e690]: •
+                  - generic [ref=e691]: 1 month ago
+            - button "More actions" [ref=e694]
+        - generic [ref=e701] [cursor=pointer]:
+          - link [ref=e702]:
+            - /url: /watch?v=-u_igSQHAIo
+            - generic [ref=e709]: 27:11
+          - generic [ref=e711]:
+            - generic [ref=e712]:
+              - heading "Every Level of Claude Code Skills in 27 mins 27 minutes" [level=3] [ref=e713]:
+                - link "Every Level of Claude Code Skills in 27 mins 27 minutes" [ref=e714]:
+                  - /url: /watch?v=-u_igSQHAIo
+                  - text: Every Level of Claude Code Skills in 27 mins
+              - generic [ref=e716]:
+                - group [ref=e717]:
+                  - generic [ref=e718]: Simon Scrapes
+                - group [ref=e719]:
+                  - generic [ref=e720]: 49K views
+                  - generic [ref=e721]: •
+                  - generic [ref=e722]: 1 month ago
+            - button "More actions" [ref=e725]
+        - generic [ref=e732] [cursor=pointer]:
+          - link [ref=e733]:
+            - /url: /watch?v=38t5UBCa4OI
+            - generic [ref=e740]: 17:49
+          - generic [ref=e742]:
+            - generic [ref=e743]:
+              - heading "Every Claude Code Workflow Explained (& When to Use Each) 17 minutes" [level=3] [ref=e744]:
+                - link "Every Claude Code Workflow Explained (& When to Use Each) 17 minutes" [ref=e745]:
+                  - /url: /watch?v=38t5UBCa4OI
+                  - text: Every Claude Code Workflow Explained (& When to Use Each)
+              - generic [ref=e747]:
+                - group [ref=e748]:
+                  - generic [ref=e749]: Simon Scrapes
+                - group [ref=e750]:
+                  - generic [ref=e751]: 83K views
+                  - generic [ref=e752]: •
+                  - generic [ref=e753]: 3 weeks ago
+            - button "More actions" [ref=e756]
+        - generic [ref=e763] [cursor=pointer]:
+          - link [ref=e764]:
+            - /url: /watch?v=9ToOfgZ4qqQ&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e771]: 11:00
+          - generic [ref=e773]:
+            - generic [ref=e774]:
+              - heading "I Stopped Hitting Claude Code Usage Limits (Here's How) 11 minutes" [level=3] [ref=e775]:
+                - link "I Stopped Hitting Claude Code Usage Limits (Here's How) 11 minutes" [ref=e776]:
+                  - /url: /watch?v=9ToOfgZ4qqQ&pp=ugUEEgJlbg%3D%3D
+                  - text: I Stopped Hitting Claude Code Usage Limits (Here's How)
+              - generic [ref=e778]:
+                - group [ref=e779]:
+                  - generic [ref=e780]: Brad | AI & Automation
+                - group [ref=e781]:
+                  - generic [ref=e782]: 98K views
+                  - generic [ref=e783]: •
+                  - generic [ref=e784]: 2 weeks ago
+            - button "More actions" [ref=e787]
+        - generic [ref=e794] [cursor=pointer]:
+          - link [ref=e795]:
+            - /url: /watch?v=-4nUCaMNBR8&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e802]: 8:36
+          - generic [ref=e804]:
+            - generic [ref=e805]:
+              - heading "Self-Improving Skills in Claude Code 8 minutes, 36 seconds" [level=3] [ref=e806]:
+                - link "Self-Improving Skills in Claude Code 8 minutes, 36 seconds" [ref=e807]:
+                  - /url: /watch?v=-4nUCaMNBR8&pp=ugUEEgJlbg%3D%3D
+                  - text: Self-Improving Skills in Claude Code
+              - generic [ref=e809]:
+                - group [ref=e810]:
+                  - generic [ref=e811]: Developers Digest
+                - group [ref=e812]:
+                  - generic [ref=e813]: 50K views
+                  - generic [ref=e814]: •
+                  - generic [ref=e815]: 3 months ago
+            - button "More actions" [ref=e818]
+        - generic [ref=e825] [cursor=pointer]:
+          - link [ref=e826]:
+            - /url: /watch?v=-9uojnGzcJo
+            - generic [ref=e833]: 14:37
+          - generic [ref=e835]:
+            - generic [ref=e836]:
+              - heading "200+ Hours of Claude Code Lessons in 14 Minutes (for business owners) 14 minutes, 37 seconds" [level=3] [ref=e837]:
+                - link "200+ Hours of Claude Code Lessons in 14 Minutes (for business owners) 14 minutes, 37 seconds" [ref=e838]:
+                  - /url: /watch?v=-9uojnGzcJo
+                  - text: 200+ Hours of Claude Code Lessons in 14 Minutes (for business owners)
+              - generic [ref=e840]:
+                - group [ref=e841]:
+                  - generic [ref=e842]: Simon Scrapes
+                - group [ref=e843]:
+                  - generic [ref=e844]: 17K views
+                  - generic [ref=e845]: •
+                  - generic [ref=e846]: 1 month ago
+            - button "More actions" [ref=e849]
+        - generic [ref=e856] [cursor=pointer]:
+          - link [ref=e857]:
+            - /url: /watch?v=Y09u_S3w2c8
+            - generic [ref=e864]: 39:22
+          - generic [ref=e866]:
+            - generic [ref=e867]:
+              - heading "Every Level of Claude Code Explained in 39 Minutes 39 minutes" [level=3] [ref=e868]:
+                - link "Every Level of Claude Code Explained in 39 Minutes 39 minutes" [ref=e869]:
+                  - /url: /watch?v=Y09u_S3w2c8
+                  - text: Every Level of Claude Code Explained in 39 Minutes
+              - generic [ref=e871]:
+                - group [ref=e872]:
+                  - generic [ref=e873]: Simon Scrapes
+                - group [ref=e874]:
+                  - generic [ref=e875]: 169K views
+                  - generic [ref=e876]: •
+                  - generic [ref=e877]: 2 months ago
+            - button "More actions" [ref=e880]
+        - button "Show more" [ref=e890] [cursor=pointer]:
+          - generic [ref=e891]: Show more

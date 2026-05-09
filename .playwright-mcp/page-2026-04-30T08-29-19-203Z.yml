@@ -1,0 +1,182 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: MY
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e34]
+            - button "Search" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e54]:
+    - generic [ref=e61]:
+      - generic [ref=e66]:
+        - generic [ref=e74]:
+          - heading "Mario Zechner" [level=1] [ref=e76]
+          - generic [ref=e77]:
+            - group [ref=e78]:
+              - generic [ref=e79]: "@mariozechner8024"
+            - generic [ref=e80]: •
+            - group [ref=e81]:
+              - generic "2.94 thousand subscribers" [ref=e82]: 2.94K subscribers
+              - generic [ref=e83]: •
+              - generic [ref=e84]: 98 videos
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e88]: More about this channel
+            - button "Description. More about this channel...tap for more." [ref=e89]:
+              - generic [ref=e90]: ...more
+        - button "Subscribe" [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: Subscribe
+      - tablist [ref=e104]:
+        - tablist [ref=e108]:
+          - tab "Home" [selected] [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]: Home
+          - tab "Videos" [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: Videos
+          - tab "Shorts" [ref=e113] [cursor=pointer]:
+            - generic [ref=e114]: Shorts
+          - tab "Live" [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]: Live
+          - tab "Playlists" [ref=e117] [cursor=pointer]:
+            - generic [ref=e118]: Playlists
+          - button "Search" [ref=e122] [cursor=pointer]:
+            - generic [ref=e125]:
+              - img
+    - generic [ref=e132]:
+      - generic [ref=e136]:
+        - heading "Videos" [level=2] [ref=e139]:
+          - link "Videos" [ref=e142] [cursor=pointer]:
+            - /url: /@mariozechner8024/videos?view=0&sort=dd&shelf_id=1
+            - generic [ref=e143]: Videos
+        - generic [ref=e145]:
+          - generic [ref=e148]:
+            - generic [ref=e150]:
+              - link [ref=e152] [cursor=pointer]:
+                - /url: /watch?v=G5qIcvN1qBY
+              - generic [ref=e156] [cursor=pointer]:
+                - heading "Kärnten Ehrungen Dashboard 3 minutes, 54 seconds" [level=3] [ref=e157]:
+                  - link "Kärnten Ehrungen Dashboard 3 minutes, 54 seconds" [ref=e158]:
+                    - /url: /watch?v=G5qIcvN1qBY
+                    - text: Kärnten Ehrungen Dashboard
+                - generic [ref=e161]:
+                  - generic [ref=e162]: 465 views
+                  - generic [ref=e163]: •5 months ago
+            - generic [ref=e165]:
+              - link [ref=e167] [cursor=pointer]:
+                - /url: /watch?v=PZmUk3ZiA3g
+              - generic [ref=e171] [cursor=pointer]:
+                - heading "StoryOne Selbstversuch - Teil 7 3 minutes, 10 seconds" [level=3] [ref=e172]:
+                  - link "StoryOne Selbstversuch - Teil 7 3 minutes, 10 seconds" [ref=e173]:
+                    - /url: /watch?v=PZmUk3ZiA3g
+                    - text: StoryOne Selbstversuch - Teil 7
+                - generic [ref=e176]:
+                  - generic [ref=e177]: 159 views
+                  - generic [ref=e178]: •5 months ago
+            - generic [ref=e180]:
+              - link [ref=e182] [cursor=pointer]:
+                - /url: /watch?v=1f_-extiZUA
+              - generic [ref=e186] [cursor=pointer]:
+                - heading "StoryOne Selbstversuch - Teil 6 1 minute, 16 seconds" [level=3] [ref=e187]:
+                  - link "StoryOne Selbstversuch - Teil 6 1 minute, 16 seconds" [ref=e188]:
+                    - /url: /watch?v=1f_-extiZUA
+                    - text: StoryOne Selbstversuch - Teil 6
+                - generic [ref=e191]:
+                  - generic [ref=e192]: 64 views
+                  - generic [ref=e193]: •5 months ago
+            - generic [ref=e195]:
+              - link [ref=e197] [cursor=pointer]:
+                - /url: /watch?v=W2lCPAj_wGw
+              - generic [ref=e201] [cursor=pointer]:
+                - heading "StoryOne Selbstversuch - Teil 5 3 minutes, 36 seconds" [level=3] [ref=e202]:
+                  - link "StoryOne Selbstversuch - Teil 5 3 minutes, 36 seconds" [ref=e203]:
+                    - /url: /watch?v=W2lCPAj_wGw
+                    - text: StoryOne Selbstversuch - Teil 5
+                - generic [ref=e206]:
+                  - generic [ref=e207]: 65 views
+                  - generic [ref=e208]: •5 months ago
+            - generic [ref=e210]:
+              - link [ref=e212] [cursor=pointer]:
+                - /url: /watch?v=9phwQFjPyjs
+              - generic [ref=e216] [cursor=pointer]:
+                - heading "StoryOne Selbstversuch - Teil 4 13 minutes, 46 seconds" [level=3] [ref=e217]:
+                  - link "StoryOne Selbstversuch - Teil 4 13 minutes, 46 seconds" [ref=e218]:
+                    - /url: /watch?v=9phwQFjPyjs
+                    - text: StoryOne Selbstversuch - Teil 4
+                - generic [ref=e221]:
+                  - generic [ref=e222]: 78 views
+                  - generic [ref=e223]: •5 months ago
+            - generic [ref=e225]:
+              - link [ref=e227] [cursor=pointer]:
+                - /url: /watch?v=9QDWk5x8eWg
+              - generic [ref=e231] [cursor=pointer]:
+                - heading "StoryOne Selbstversuch - Teil 3 3 minutes, 30 seconds" [level=3] [ref=e232]:
+                  - link "StoryOne Selbstversuch - Teil 3 3 minutes, 30 seconds" [ref=e233]:
+                    - /url: /watch?v=9QDWk5x8eWg
+                    - text: StoryOne Selbstversuch - Teil 3
+                - generic [ref=e236]:
+                  - generic [ref=e237]: 114 views
+                  - generic [ref=e238]: •5 months ago
+          - button "Next" [ref=e241] [cursor=pointer]
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - heading "Shorts" [level=2] [ref=e254]:
+            - generic [ref=e256]: Shorts
+          - button "More actions" [ref=e260] [cursor=pointer]
+        - generic [ref=e263]:
+          - generic [ref=e266]:
+            - generic [ref=e268]:
+              - link [ref=e269] [cursor=pointer]:
+                - /url: /shorts/iO7vkjEl9b8
+              - generic [ref=e273] [cursor=pointer]:
+                - link "Doom on an ESP32-S3 + SPI display (ST7789) controlled by the world's worst gamepad" [ref=e274]:
+                  - /url: /shorts/iO7vkjEl9b8
+                - generic [ref=e275]: 877 views
+              - button "More actions" [ref=e277] [cursor=pointer]
+            - generic [ref=e284]:
+              - link [ref=e285] [cursor=pointer]:
+                - /url: /shorts/Rwyu8kRUg5M
+              - generic [ref=e289] [cursor=pointer]:
+                - link "Fabian's screaming cauldron" [ref=e290]:
+                  - /url: /shorts/Rwyu8kRUg5M
+                - generic [ref=e291]: 612 views
+              - button "More actions" [ref=e293] [cursor=pointer]
+            - generic [ref=e300]:
+              - link [ref=e301] [cursor=pointer]:
+                - /url: /shorts/g_eOakjCrZQ
+              - generic [ref=e305] [cursor=pointer]:
+                - link "skychat progressive web app" [ref=e306]:
+                  - /url: /shorts/g_eOakjCrZQ
+                - generic [ref=e307]: 121 views
+              - button "More actions" [ref=e309] [cursor=pointer]
+            - generic [ref=e316]:
+              - link [ref=e317] [cursor=pointer]:
+                - /url: /shorts/DlLSCDCjD-4
+              - generic [ref=e321] [cursor=pointer]:
+                - link "Replying to a mention on Mastodon in ledit" [ref=e322]:
+                  - /url: /shorts/DlLSCDCjD-4
+                - generic [ref=e323]: 70 views
+              - button "More actions" [ref=e325] [cursor=pointer]
+            - generic [ref=e332]:
+              - link [ref=e333] [cursor=pointer]:
+                - /url: /shorts/fNeb56k9ujU
+              - generic [ref=e337] [cursor=pointer]:
+                - link "Tusky vs. Ledit media playbacl" [ref=e338]:
+                  - /url: /shorts/fNeb56k9ujU
+                - generic [ref=e339]: 246 views
+              - button "More actions" [ref=e341] [cursor=pointer]
+          - button "Next" [ref=e349] [cursor=pointer]

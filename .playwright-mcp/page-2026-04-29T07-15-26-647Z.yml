@@ -1,0 +1,191 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2673]:
+    - generic [ref=e2675]:
+      - generic [ref=e2676]:
+        - generic [ref=e2678]:
+          - link "Early AI-dopters" [ref=e2679] [cursor=pointer]:
+            - /url: /earlyaidopters
+            - generic [ref=e2683]: Early AI-dopters
+          - button [ref=e2688] [cursor=pointer]:
+            - img [ref=e2690]
+        - generic [ref=e2697]:
+          - img [ref=e2700]
+          - textbox "Search" [ref=e2702]: claudex
+          - button [ref=e2703] [cursor=pointer]:
+            - img [ref=e2705]
+        - generic [ref=e2708]:
+          - button [ref=e2714] [cursor=pointer]:
+            - img [ref=e2716]
+          - generic [ref=e2719]:
+            - generic: 99+
+            - button [ref=e2724] [cursor=pointer]:
+              - img [ref=e2726]
+          - button "Eric Oh" [ref=e2734] [cursor=pointer]:
+            - generic "Eric Oh" [ref=e2737]:
+              - img "Eric Oh" [ref=e2738]
+      - generic [ref=e2740]:
+        - button "Community 1"
+        - button "Classroom 0" [ref=e2741] [cursor=pointer]
+        - button "Members 0" [ref=e2742] [cursor=pointer]
+    - generic [ref=e2745]:
+      - generic [ref=e2750]:
+        - img [ref=e2753]
+        - textbox "Search" [ref=e2755]: claudex
+        - button [ref=e2756] [cursor=pointer]:
+          - img [ref=e2758]
+      - generic [ref=e2761]:
+        - button [ref=e2767] [cursor=pointer]:
+          - img [ref=e2769]
+        - generic [ref=e2772]:
+          - generic: 99+
+          - button [ref=e2777] [cursor=pointer]:
+            - img [ref=e2779]
+        - button "Eric Oh" [ref=e2787] [cursor=pointer]:
+          - generic "Eric Oh" [ref=e2790]:
+            - img "Eric Oh" [ref=e2791]
+    - generic [ref=e2793]:
+      - generic [ref=e2797]:
+        - generic [ref=e2803] [cursor=pointer]:
+          - generic [ref=e2804]:
+            - generic [ref=e2805]:
+              - link "Mark Kashef" [ref=e2809]:
+                - /url: /@mark-kashef-7464?g=earlyaidopters
+                - generic [ref=e2810]:
+                  - generic "Mark Kashef" [ref=e2811]:
+                    - img "Mark Kashef" [ref=e2812]
+                  - img [ref=e2814]:
+                    - generic [ref=e2816]: "9"
+              - generic [ref=e2817]:
+                - generic [ref=e2818]:
+                  - link "Mark Kashef" [ref=e2822]:
+                    - /url: /@mark-kashef-7464?g=earlyaidopters
+                    - generic [ref=e2825]: Mark Kashef
+                  - generic [ref=e2826]: 👑
+                  - generic [ref=e2827]: 🔥
+                - generic [ref=e2828]:
+                  - generic [ref=e2830]: 12h •
+                  - link "📹 Courses & Podcasts" [ref=e2831]:
+                    - /url: /earlyaidopters?c=846e1c8a25cd421492f3421e8e1ac8cb
+                    - generic [ref=e2832]: 📹 Courses & Podcasts
+            - link "/claudex - Codex grills Claude Code's plans before you build" [ref=e2833]:
+              - /url: /earlyaidopters/claudex-codex-grills-claude-codes-plans-before-you-build
+              - generic [ref=e2837]:
+                - text: /
+                - emphasis [ref=e2838]: claudex
+                - text: "- Codex grills Claude Code's plans before you build"
+            - generic [ref=e2840]:
+              - text: This is a slash command I put together called /
+              - emphasis [ref=e2841]: claudex
+              - text: "that joins forces between Claude Code and Codex so you stop building on top of mid-tier plans Here's ... full flags in the repo) Visual breakdown of the loop: https://app.excalidraw.com/l/6djVV8pnCbO/61FndaBXWE4 Repo: https://github.com/promptadvisers/"
+              - emphasis [ref=e2842]: claudex
+              - text: "... Cursor subscription just so Codex could roast Claude Code's plans - with one slash command that internalizes the whole back-and-forth Commands included: /"
+              - emphasis [ref=e2843]: claudex
+            - generic [ref=e2844]:
+              - generic [ref=e2845]:
+                - button [ref=e2846]:
+                  - img [ref=e2848]
+                - generic [ref=e2853]: "28"
+              - generic [ref=e2854]:
+                - img [ref=e2857]
+                - generic [ref=e2859]: "18"
+              - generic [ref=e2860]:
+                - generic [ref=e2861]:
+                  - generic "Mark Kashef" [ref=e2864]:
+                    - img "Mark Kashef" [ref=e2865]
+                  - generic "Ana Doliveira" [ref=e2868]:
+                    - img "Ana Doliveira" [ref=e2869]
+                  - generic "Erik Hinds" [ref=e2872]:
+                    - img "Erik Hinds" [ref=e2873]
+                  - generic "Alex Fox" [ref=e2876]:
+                    - img "Alex Fox" [ref=e2877]
+                  - link "Dube T" [ref=e2879]:
+                    - /url: /earlyaidopters/claudex-codex-grills-claude-codes-plans-before-you-build?p=af05f979
+                    - generic "Dube T" [ref=e2881]:
+                      - img "Dube T" [ref=e2882]
+                - link "New comment 4h ago" [ref=e2884]:
+                  - /url: /earlyaidopters/claudex-codex-grills-claude-codes-plans-before-you-build?p=af05f979
+          - generic [ref=e2885]:
+            - img "/claudex - Codex grills Claude Code's plans before you build" [ref=e2886]
+            - img [ref=e2888]
+        - status [ref=e2891]
+        - generic [ref=e2893]:
+          - generic [ref=e2894]:
+            - button "Previous" [disabled] [ref=e2895]:
+              - img [ref=e2897]
+              - generic [ref=e2899]: Previous
+            - button "1" [ref=e2900] [cursor=pointer]:
+              - generic [ref=e2901]: "1"
+            - button "Next" [disabled] [ref=e2902]:
+              - generic [ref=e2903]: Next
+              - img [ref=e2905]
+          - generic [ref=e2907]: 1-1 of 1
+      - generic [ref=e2910]:
+        - generic [ref=e2912]:
+          - img "Early AI-dopters" [ref=e2914]
+          - generic [ref=e2917]:
+            - generic [ref=e2918]:
+              - link "Early AI-dopters" [ref=e2921] [cursor=pointer]:
+                - /url: /earlyaidopters
+              - generic [ref=e2922] [cursor=pointer]: skool.com/earlyaidopters
+            - generic [ref=e2925]:
+              - generic [ref=e2926]: Become the AI expert in the room.
+              - generic [ref=e2928]: Expert-led courses, 1:1 coaching, daily insights from the field.
+              - generic [ref=e2930]: All signal, none of the hype 🦾
+            - generic [ref=e2933]:
+              - generic [ref=e2934]:
+                - link "1.3k Members" [ref=e2936] [cursor=pointer]:
+                  - /url: /earlyaidopters/-/members
+                  - generic [ref=e2937]:
+                    - generic [ref=e2938]: 1.3k
+                    - generic [ref=e2939]: Members
+                - link "45 Online" [ref=e2940] [cursor=pointer]:
+                  - /url: /earlyaidopters/-/members?t=online
+                  - generic [ref=e2941]:
+                    - generic [ref=e2942]: "45"
+                    - generic [ref=e2943]: Online
+                - link "16 Admins" [ref=e2944] [cursor=pointer]:
+                  - /url: /earlyaidopters/-/members?t=admin
+                  - generic [ref=e2945]:
+                    - generic [ref=e2946]: "16"
+                    - generic [ref=e2947]: Admins
+              - generic [ref=e2948]:
+                - link "Andre Franklin" [ref=e2951] [cursor=pointer]:
+                  - /url: /@andre-franklin-4232?g=earlyaidopters
+                  - generic "Andre Franklin" [ref=e2953]:
+                    - img "Andre Franklin" [ref=e2954]
+                - link "Sean Crowe" [ref=e2957] [cursor=pointer]:
+                  - /url: /@sean-crowe-4976?g=earlyaidopters
+                  - generic "Sean Crowe" [ref=e2959]:
+                    - img "Sean Crowe" [ref=e2960]
+                - link "Jody Graffunder" [ref=e2963] [cursor=pointer]:
+                  - /url: /@jody-graffunder-5729?g=earlyaidopters
+                  - generic "Jody Graffunder" [ref=e2965]:
+                    - img "Jody Graffunder" [ref=e2966]
+                - link "Larry Mandras" [ref=e2969] [cursor=pointer]:
+                  - /url: /@larry-mandras-4345?g=earlyaidopters
+                  - generic "Larry Mandras" [ref=e2971]:
+                    - img "Larry Mandras" [ref=e2972]
+                - link "Diogo Pedro" [ref=e2975] [cursor=pointer]:
+                  - /url: /@diogo-pacheco-pedro-2182?g=earlyaidopters
+                  - generic "Diogo Pedro" [ref=e2977]:
+                    - img "Diogo Pedro" [ref=e2978]
+                - link "Mark Aitch" [ref=e2981] [cursor=pointer]:
+                  - /url: /@mark-h-9721?g=earlyaidopters
+                  - generic "Mark Aitch" [ref=e2983]:
+                    - img "Mark Aitch" [ref=e2984]
+                - link "Utkarsh Deep" [ref=e2987] [cursor=pointer]:
+                  - /url: /@utkarsh-deep-3947?g=earlyaidopters
+                  - generic "Utkarsh Deep" [ref=e2989]:
+                    - img "Utkarsh Deep" [ref=e2990]
+                - link "Lawrence Jordan" [ref=e2993] [cursor=pointer]:
+                  - /url: /@lawrence-jordan-3607?g=earlyaidopters
+                  - generic "Lawrence Jordan" [ref=e2995]:
+                    - img "Lawrence Jordan" [ref=e2996]
+            - button "Settings" [ref=e2997] [cursor=pointer]:
+              - generic [ref=e2998]: Settings
+        - link "Powered by" [ref=e2999] [cursor=pointer]:
+          - /url: /signup?utm_source=skooldotcom&utm_medium=website&utm_content=powered_by_skool&utm_campaign=signup_skool_logo_link
+          - generic [ref=e3000]:
+            - generic [ref=e3001]: Powered by
+            - img [ref=e3003]
+  - alert [ref=e2671]: Search "claudex" in Early AI-dopters

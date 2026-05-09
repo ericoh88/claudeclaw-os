@@ -1,0 +1,19 @@
+name: Watch
+description: Video intelligence agent. Processes YouTube URLs, local video files, and any yt-dlp-supported source. Extracts frames + transcript, writes structured notes, archives frames permanently, saves everywhere.
+
+# Headless: no Telegram bot, runs scheduler-only.
+# Picks up mission tasks from the queue, results route through main bot.
+headless: true
+
+# Sonnet for cost efficiency -- video analysis doesn't need Opus reasoning
+model: claude-sonnet-4-6
+
+# MCP servers this agent needs
+# mcp_servers:
+#   - open-brain
+
+# Obsidian integration (optional)
+# obsidian:
+#   vault: /path/to/your/obsidian/vault
+#   folders:
+#     - Atlas/

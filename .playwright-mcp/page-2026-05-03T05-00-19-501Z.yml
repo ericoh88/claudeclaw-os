@@ -1,0 +1,117 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Agentic OS" [ref=e5] [cursor=pointer]:
+          - /url: https://skool.com/scrapes
+          - heading "Agentic OS" [level=1] [ref=e6]
+        - navigation [ref=e8]:
+          - button "Feed" [ref=e9] [cursor=pointer]:
+            - img [ref=e10]
+            - text: Feed
+          - button "Scheduled" [ref=e12] [cursor=pointer]:
+            - img [ref=e13]
+            - text: Scheduled
+          - button "Skills" [ref=e16] [cursor=pointer]:
+            - img [ref=e17]
+            - text: Skills
+          - button "Docs" [ref=e20] [cursor=pointer]:
+            - img [ref=e21]
+            - text: Docs
+          - button "Settings" [ref=e24] [cursor=pointer]:
+            - img [ref=e25]
+            - text: Settings
+    - generic [ref=e30]:
+      - generic [ref=e31]: WORKSPACE
+      - generic [ref=e32]:
+        - img [ref=e33]
+        - text: Root
+    - generic [ref=e130]:
+      - img [ref=e131]
+      - generic [ref=e134]: Brand context is missing. Run the onboarding flow to set up your voice, positioning, and ICP.
+      - button "Run Start-Here" [ref=e135] [cursor=pointer]
+    - main [ref=e36]:
+      - generic [ref=e37]:
+        - button "New Goal" [ref=e39] [cursor=pointer]:
+          - img [ref=e40]
+          - text: New Goal
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - text: Goals
+              - generic [ref=e136]: "1"
+              - button "By tag" [ref=e45] [cursor=pointer]
+            - generic [ref=e47]:
+              - text: Done
+              - generic [ref=e48]:
+                - button "24h" [ref=e49] [cursor=pointer]
+                - button "7d" [ref=e50] [cursor=pointer]
+                - button "30d" [ref=e51] [cursor=pointer]
+                - button "90d" [ref=e52] [cursor=pointer]
+                - button "By tag" [ref=e54] [cursor=pointer]
+          - generic [ref=e138]:
+            - button "Draft Test goal typing No details yet updated just now Discard Test goal typing" [ref=e142] [cursor=pointer]:
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - generic [ref=e146]: Draft
+                    - generic "Test goal typing"
+                  - generic "No details yet" [ref=e147]
+                  - generic [ref=e149]: updated just now
+                - button "Discard Test goal typing" [ref=e150]:
+                  - img [ref=e151]
+            - generic [ref=e157]: No completed tasks
+        - generic [ref=e59]:
+          - generic "Drag to resize" [ref=e60]
+          - generic [ref=e62]:
+            - generic [ref=e63]: New Goal
+            - button [ref=e64] [cursor=pointer]:
+              - img [ref=e65]
+          - generic [ref=e68]:
+            - textbox "Goal title..." [active] [ref=e69]: Test goal typing
+            - generic [ref=e70]:
+              - textbox "What do you want to do? (/ commands, @ tags, -- flags)" [ref=e73]
+              - generic [ref=e74]:
+                - button "Attach file" [ref=e75] [cursor=pointer]:
+                  - img [ref=e76]
+                - button "Discard draft" [ref=e78] [cursor=pointer]:
+                  - img [ref=e79]
+                - button "Opus" [ref=e83] [cursor=pointer]:
+                  - img [ref=e84]
+                  - text: Opus
+                  - img [ref=e87]
+                - button "Auto" [ref=e90] [cursor=pointer]:
+                  - img [ref=e91]
+                  - text: Auto
+                  - img [ref=e94]
+                - button "tag" [ref=e97] [cursor=pointer]:
+                  - img [ref=e98]
+                  - text: tag
+                - button "Task" [ref=e102] [cursor=pointer]:
+                  - text: Task
+                  - img [ref=e103]
+                - button "Send" [ref=e105] [cursor=pointer]:
+                  - img [ref=e106]
+                  - text: Send
+            - generic [ref=e108]:
+              - generic [ref=e109]: Try something like
+              - generic [ref=e110]:
+                - button "Manage skills Install, edit, or import a skill into the system" [ref=e111] [cursor=pointer]:
+                  - generic [ref=e112]: Manage skills
+                  - generic [ref=e113]: Install, edit, or import a skill into the system
+                - button "Create a scheduled task Automate something on a recurring schedule" [ref=e114] [cursor=pointer]:
+                  - generic [ref=e115]: Create a scheduled task
+                  - generic [ref=e116]: Automate something on a recurring schedule
+                - button "Use a skill... See what's installed and run one" [ref=e117] [cursor=pointer]:
+                  - generic [ref=e118]: Use a skill...
+                  - generic [ref=e119]: See what's installed and run one
+                - button "Connect to your apps (MCP)... Link an external service like Notion, Slack, etc." [ref=e120] [cursor=pointer]:
+                  - generic [ref=e121]: Connect to your apps (MCP)...
+                  - generic [ref=e122]: Link an external service like Notion, Slack, etc.
+                - button "Add a client Set up a new client workspace" [ref=e123] [cursor=pointer]:
+                  - generic [ref=e124]: Add a client
+                  - generic [ref=e125]: Set up a new client workspace
+                - button "Perform some research Find what's trending in your industry" [ref=e126] [cursor=pointer]:
+                  - generic [ref=e127]: Perform some research
+                  - generic [ref=e128]: Find what's trending in your industry
+  - alert [ref=e129]

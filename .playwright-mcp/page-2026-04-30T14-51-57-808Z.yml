@@ -1,0 +1,561 @@
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Dynamous Logo Dynamous AI Mastery" [ref=e6] [cursor=pointer]:
+          - /url: "#/"
+          - generic [ref=e7]:
+            - img "Dynamous Logo" [ref=e9]
+            - generic [ref=e10]: Dynamous AI Mastery
+        - button [ref=e11] [cursor=pointer]:
+          - img [ref=e12]
+    - main [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e19]:
+          - img "Pydantic AI" [ref=e21]
+          - img "Ollama" [ref=e23]
+          - img "OpenAI" [ref=e25]
+          - img "LangGraph" [ref=e27]
+          - img "Claude MCP" [ref=e29]
+          - img "Cursor" [ref=e31]
+          - img "Supabase" [ref=e33]
+          - img "Docker" [ref=e35]
+          - img "Roo Code" [ref=e37]
+          - img "Cline" [ref=e39]
+          - img "Qwen" [ref=e41]
+          - img "Claude" [ref=e43]
+        - generic [ref=e44]:
+          - 'link "NEW: Second Brain Bootcamp — Full 4-hour course to build your own AI second brain!Learn More →" [ref=e45] [cursor=pointer]':
+            - /url: "#/second-brain-bootcamp"
+            - generic [ref=e47]:
+              - img [ref=e48]
+              - paragraph [ref=e50]: "NEW: Second Brain Bootcamp — Full 4-hour course to build your own AI second brain!Learn More →"
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - generic [ref=e54]: Join a Thriving AI Community Today!
+              - heading "Master AI and Gain the Ultimate Unfair Advantage" [level=1] [ref=e55]
+              - paragraph [ref=e56]: "Join the #1 up-and-coming community for early AI adopters to master AI & AI Agents and transform their businesses and careers."
+              - generic [ref=e57]:
+                - button "Join the Community" [ref=e58] [cursor=pointer]:
+                  - generic [ref=e60]: Join the Community
+                  - img [ref=e62]
+                - button "Explore Course" [ref=e64] [cursor=pointer]:
+                  - generic [ref=e66]: Explore Course
+            - generic [ref=e69]:
+              - img [ref=e71]
+              - img [ref=e74]
+              - generic [ref=e79]:
+                - generic:
+                  - img [ref=e83]
+                  - 'button "Play Video: DynamousHomePageIntro" [ref=e86] [cursor=pointer]':
+                    - img [ref=e89]
+                - generic [ref=e95]:
+                  - generic "DynamousHomePageIntro" [ref=e97]
+                  - generic [ref=e99]:
+                    - generic [ref=e100]:
+                      - generic:
+                        - 'button "Play Video: DynamousHomePageIntro"'
+                      - img "Video Thumbnail" [ref=e102]
+                    - 'button "Play Video: DynamousHomePageIntro" [ref=e104] [cursor=pointer]':
+                      - img [ref=e107]
+                    - generic:
+                      - generic:
+                        - button "Play Video" [ref=e112] [cursor=pointer]:
+                          - img [ref=e115]
+                        - generic [ref=e119]:
+                          - generic: 2:21
+                          - slider "Playbar" [ref=e121] [cursor=pointer]
+                        - generic [ref=e125]:
+                          - button "Show captions menu" [ref=e128] [cursor=pointer]:
+                            - img [ref=e130]
+                          - button "Mute" [ref=e136] [cursor=pointer]:
+                            - img [ref=e138]
+                          - button "Show settings menu" [ref=e149] [cursor=pointer]:
+                            - img [ref=e151]
+                          - button "Fullscreen" [ref=e155] [cursor=pointer]:
+                            - img [ref=e157]
+      - generic [ref=e170]:
+        - generic [ref=e171]:
+          - heading "Lock in Your Price for LIFE" [level=3] [ref=e172]
+          - paragraph [ref=e173]: Exclusive early adopter offer — prices will increase soon!
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e177]: Early Adopter Discount
+            - generic [ref=e178]:
+              - generic [ref=e181]:
+                - heading "Monthly Membership" [level=4] [ref=e182]
+                - generic [ref=e183]:
+                  - generic [ref=e184]: $72
+                  - generic [ref=e185]: /month
+                - generic [ref=e186]:
+                  - generic [ref=e187]: Normally $80
+                  - text: 10% discount
+              - generic [ref=e188]:
+                - generic [ref=e189]: BEST VALUE
+                - generic [ref=e191]:
+                  - heading "Annual Membership" [level=4] [ref=e192]
+                  - generic [ref=e193]:
+                    - generic [ref=e194]: $712
+                    - generic [ref=e195]: /year
+                  - generic [ref=e196]:
+                    - generic [ref=e197]: Normally $949
+                    - text: 25% discount!
+          - generic [ref=e198]:
+            - heading "What's included:" [level=4] [ref=e199]
+            - list [ref=e200]:
+              - listitem [ref=e201]:
+                - img [ref=e202]
+                - generic [ref=e204]: NEW - Build Your Own AI Second Brain Course
+              - listitem [ref=e205]:
+                - img [ref=e206]
+                - generic [ref=e208]: Agentic Coding + AI Agent Mastery Courses
+              - listitem [ref=e209]:
+                - img [ref=e210]
+                - generic [ref=e212]: Access to all current & future courses
+              - listitem [ref=e213]:
+                - img [ref=e214]
+                - generic [ref=e216]: Weekly live sessions & workshops
+              - listitem [ref=e217]:
+                - img [ref=e218]
+                - generic [ref=e220]: Private community access
+              - listitem [ref=e221]:
+                - img [ref=e222]
+                - generic [ref=e224]: AI agent + automation templates & resources
+              - listitem [ref=e225]:
+                - img [ref=e226]
+                - generic [ref=e230]: BONUS - Full AI Second Brain reference build
+              - listitem [ref=e231]:
+                - img [ref=e232]
+                - generic [ref=e236]: BONUS - Templates for AI coding systems
+            - button "I'm in! Join now" [ref=e238] [cursor=pointer]:
+              - generic [ref=e240]: I'm in! Join now
+              - img [ref=e242]
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - generic [ref=e252]: Features & Benefits
+          - heading "Elevate Your AI Skills with an Ever Evolving Community" [level=2] [ref=e253]
+          - paragraph [ref=e254]: Our community offers everything you need to develop high caliber AI skills that stand the test of the time to help you advance your business or career.
+        - generic [ref=e255]:
+          - generic [ref=e256]:
+            - img [ref=e258]
+            - heading "AI Mastery Course" [level=3] [ref=e260]
+            - paragraph [ref=e261]: Continuously evolving course material to keep you at the cutting edge.
+          - generic [ref=e262]:
+            - img [ref=e264]
+            - heading "Weekly Live Sessions" [level=3] [ref=e266]
+            - paragraph [ref=e267]: Regular deep dives and interactive learning opportunities.
+          - generic [ref=e268]:
+            - img [ref=e270]
+            - heading "Daily Support" [level=3] [ref=e272]
+            - paragraph [ref=e273]: Direct, ongoing assistance from experts whenever you need help for anything AI.
+          - generic [ref=e274]:
+            - img [ref=e276]
+            - heading "Community of Early AI Adopters" [level=3] [ref=e279]
+            - paragraph [ref=e280]: Network with like-minded professionals at the forefront of AI innovation.
+          - generic [ref=e281]:
+            - img [ref=e283]
+            - heading "Agentic Coding Course" [level=3] [ref=e286]
+            - paragraph [ref=e287]: Master building reliable, repeatable systems around AI coding assistants.
+          - generic [ref=e288]:
+            - img [ref=e290]
+            - heading "Real-World Use Case Examples" [level=3] [ref=e292]
+            - paragraph [ref=e293]: Practical applications for immediate impact in your business or projects.
+          - generic [ref=e294]:
+            - img [ref=e296]
+            - heading "Guest AI Experts" [level=3] [ref=e299]
+            - paragraph [ref=e300]: Exclusive insights from industry leaders as community guests during live events.
+          - generic [ref=e301]:
+            - img [ref=e303]
+            - heading "Pre-built AI Agents & Templates" [level=3] [ref=e307]
+            - paragraph [ref=e308]: Jump-start your projects with ready-to-use solutions and frameworks.
+      - generic [ref=e313]:
+        - generic [ref=e314]:
+          - generic [ref=e316]: Who is this for?
+          - heading "The Community for You" [level=2] [ref=e317]
+          - paragraph [ref=e318]: Whether you're building a business or developing your technical skills, our community has what you need.
+        - generic [ref=e319]:
+          - generic [ref=e320]:
+            - generic [ref=e321]:
+              - img [ref=e324]
+              - heading "For Innovators & Founders" [level=3] [ref=e329]
+            - paragraph [ref=e332]: Learn how to integrate AI agents effectively to streamline your business operations, accelerate growth, and transform ideas into real-world success.
+          - generic [ref=e333]:
+            - generic [ref=e334]:
+              - img [ref=e337]
+              - heading "For Developers & Tech Enthusiasts" [level=3] [ref=e340]
+            - paragraph [ref=e343]: Master high-level AI skills and concepts essential for building robust, scalable, and production-ready AI agents - stay relevant as the AI field evolves rapidly.
+      - generic [ref=e348]:
+        - generic [ref=e349]:
+          - generic [ref=e351]: Develop Core Skills
+          - heading "What You'll Learn" [level=2] [ref=e352]
+          - paragraph [ref=e353]: Our comprehensive curriculum and community events will teach you everything you need for building and productizing AI agents and other AI solutions.
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - img [ref=e357]
+            - generic [ref=e359]: Building Production-Ready AI Agents
+          - generic [ref=e360]:
+            - img [ref=e362]
+            - generic [ref=e364]: AI Agent Architecture
+          - generic [ref=e365]:
+            - img [ref=e367]
+            - generic [ref=e369]: AI Knowledge Experts (RAG & More)
+          - generic [ref=e370]:
+            - img [ref=e372]
+            - generic [ref=e374]: Local AI (Secure & Private AI)
+          - generic [ref=e375]:
+            - img [ref=e377]
+            - generic [ref=e379]: Real-World AI Use Cases
+          - generic [ref=e380]:
+            - img [ref=e382]
+            - generic [ref=e384]: Using AI Coding Assistants
+          - generic [ref=e385]:
+            - img [ref=e387]
+            - generic [ref=e389]: Monetizing AI Agents
+          - generic [ref=e390]:
+            - img [ref=e392]
+            - generic [ref=e394]: Building Your Own AI Second Brain
+          - generic [ref=e395]:
+            - img [ref=e397]
+            - generic [ref=e399]: AI Tools and Frameworks
+        - generic [ref=e400]:
+          - heading "Why These Skills Matter" [level=3] [ref=e401]
+          - paragraph [ref=e402]: The demand for AI expertise is growing rapidly across industries.
+        - generic [ref=e403]:
+          - generic [ref=e404]:
+            - paragraph [ref=e407]: 92% of companies plan on investing more into AI in the next few years but only 1% consider their use of AI "mature".
+            - generic [ref=e408]:
+              - generic [ref=e409]: Mckinsey & Company
+              - link [ref=e410] [cursor=pointer]:
+                - /url: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work
+                - img [ref=e411]
+          - generic [ref=e415]:
+            - paragraph [ref=e418]: 82% of large companies plan to implement agents by 2027.
+            - generic [ref=e419]:
+              - generic [ref=e420]: Capgemini Research Institute
+              - link [ref=e421] [cursor=pointer]:
+                - /url: https://www.capgemini.com/wp-content/uploads/2024/05/Final-Web-Version-Report-Gen-AI-in-Organization-Refresh.pdf
+                - img [ref=e422]
+          - generic [ref=e426]:
+            - paragraph [ref=e429]: 80% of all customer interactions are projected to be handled by AI by 2030.
+            - generic [ref=e430]:
+              - generic [ref=e431]: Gartner
+              - link [ref=e432] [cursor=pointer]:
+                - /url: https://www.gartner.com/en/newsroom/press-releases/2023-08-30-gartner-reveals-three-technologies-that-will-transform-customer-service-and-support-by-2028
+                - img [ref=e433]
+          - generic [ref=e437]:
+            - paragraph [ref=e440]: 30% of Fortune 500 Companies Will Offer Service Through Only a Single, AI-enabled channel by 2028.
+            - generic [ref=e441]:
+              - generic [ref=e442]: Gartner
+              - link [ref=e443] [cursor=pointer]:
+                - /url: https://www.gartner.com/en/newsroom/press-releases/2024-12-11-gartner-predicts-that-30-percent-of-fortune-500-companies-will-offer-service-through-only-a-single-ai-enabled-channel-by-2028
+                - img [ref=e444]
+      - generic [ref=e450]:
+        - heading "Your Guide" [level=2] [ref=e452]
+        - generic [ref=e453]:
+          - generic [ref=e454]:
+            - paragraph [ref=e455]: Nice to meet you! I'm Cole Medin – a tech enthusiast, software developer, and entrepreneur with over five years dedicated to mastering AI, particularly generative AI and AI agents. With a YouTube channel that's grown to over 195,000 subscribers, I've helped thousands build and leverage AI to tackle real-world problems.
+            - paragraph [ref=e456]: My journey includes working as a software developer for a Fortune 500 company and consulting with numerous startups, guiding their AI strategies and integration. I've seen firsthand the immense potential—and pitfalls—of AI, equipping me to deliver practical, actionable insights that can transform your skills and your business.
+          - img "Cole Medin" [ref=e461]
+      - generic [ref=e464]:
+        - heading "Testimonials" [level=2] [ref=e466]
+        - generic [ref=e467]:
+          - heading "Featured testimony from the Dynamous community" [level=3] [ref=e468]
+          - generic [ref=e469]:
+            - paragraph [ref=e470]: "\"Being a business owner and building AI tools for my teams, I've found the Dynamous AI Mastery group the best resource out there for anyone interested in building AI Agents. I actually wish I could have started with this. Would have saved so much time. I've tried several communities, consumed lots of content, have even built and deployed AI tools for my own businesses. The AI Mastery Course alone is worth the annual price by itself. Great for any level. Have already made some great connections in the very active community. Cole is also very active, with content, answering questions in the community, asking for community input on topics to cover. He is very accessible and it's clear he cares. Best investment in my learning that I've made.\""
+            - generic [ref=e471]:
+              - generic [ref=e472]: SB
+              - generic [ref=e473]:
+                - heading "Sean Buck" [level=4] [ref=e474]
+                - paragraph [ref=e475]: "Cofounder: Level Method, Eskerium Biosciences, Polar Gold Extracts"
+        - paragraph [ref=e477]: See what community members have to say about the Dynamous experience.
+        - generic [ref=e478]:
+          - generic [ref=e479]:
+            - paragraph [ref=e480]: "\"I had zero coding experience and 3 apps failing on their 15th iterations. Three weeks after joining this community - learning from other members, getting direct feedback from Cole and brilliant people worldwide - I rebuilt all three from scratch. Those MVPs landed a 2-year contract and possibly early retirement. Other communities spam you with AI buzzwords. This one gets you results.\""
+            - generic [ref=e481]:
+              - generic [ref=e483]: J
+              - generic [ref=e484]:
+                - heading "Johnny Saye" [level=4] [ref=e485]
+                - paragraph [ref=e486]: Building AI for Government Operations
+          - generic [ref=e487]:
+            - paragraph [ref=e488]: "\"With the knowledge I gained from Dynamous, I convinced my project manager I could build a production-ready AI Search - making our client the first university with AI Search in the Netherlands. I've since positioned myself as AI Adoption Lead at my company, teaching colleagues how to build with AI and hosting hackathons. None of this was achievable if Dynamous wasn't there.\""
+            - generic [ref=e489]:
+              - generic [ref=e491]: C
+              - generic [ref=e492]:
+                - heading "Carsten de la Fonteijne" [level=4] [ref=e493]
+                - paragraph [ref=e494]: AI Adoption Lead, Netherlands
+          - generic [ref=e495]:
+            - paragraph [ref=e496]: "\"I can say unequivocally that I would not have the knowledge or skill sets I have today if I had not joined Dynamous. The teachings have been so eye-opening that they've impacted multiple business direction decisions my partner and I have made about the direction of our company. When Bridgestone's AI taskforce leader asked me where to start, my #1 recommendation was to have every one of his leaders go through the Dynamous Agentic Coding course.\""
+            - generic [ref=e497]:
+              - generic [ref=e499]: J
+              - generic [ref=e500]:
+                - heading "James Whitfield" [level=4] [ref=e501]
+                - paragraph [ref=e502]: Founder, Stable Mischief
+          - generic [ref=e503]:
+            - paragraph [ref=e504]: "\"Started with zero Python knowledge and no project idea. Burned through 2,000 CLI credits and somehow built a working stock research platform in 9 days. I got my CS degree 20 years ago and haven't really coded since. Without all these resources, this literally wouldn't exist. Dynamous reignited something I didn't know I still had in me.\""
+            - generic [ref=e505]:
+              - generic [ref=e507]: M
+              - generic [ref=e508]:
+                - heading "Marconi" [level=4] [ref=e509]
+                - paragraph [ref=e510]: CS Grad Turned AI Builder
+          - generic [ref=e511]:
+            - paragraph [ref=e512]: "\"Both courses have been hugely valuable - opened my eyes in so many ways. I'm actively using the Agentic Coding processes every day, and I see system improvements every time through the PIV loop. Cole's focus on planning and process has really helped me organize my approach to using Claude Code as an assistant and orchestrator.\""
+            - generic [ref=e513]:
+              - generic [ref=e515]: T
+              - generic [ref=e516]:
+                - heading "Tom Cohen" [level=4] [ref=e517]
+                - paragraph [ref=e518]: Dynamous Community Member
+          - generic [ref=e519]:
+            - paragraph [ref=e520]: "\"I have genuinely missed a place like this. I'm taking the Agentic Coding course now and I am blown away by the results I'm getting. I just went thoroughly through creating my own commands and WOW how powerful this approach is - this is not just a level up but three level ups. The environment at Dynamous is great. I'm grateful for the wealth of knowledge and friendliness.\""
+            - generic [ref=e521]:
+              - generic [ref=e523]: D
+              - generic [ref=e524]:
+                - heading "Dan Strane" [level=4] [ref=e525]
+                - paragraph [ref=e526]: Dynamous Community Member
+          - generic [ref=e527]:
+            - paragraph [ref=e528]: "\"I'm a designer, not a developer. I learned everything here at Dynamous and built an entire backend using AI coding tools. It honestly blew my mind what's possible when you combine design skills with AI tooling.\""
+            - generic [ref=e529]:
+              - generic [ref=e531]: K
+              - generic [ref=e532]:
+                - heading "Kavindu W" [level=4] [ref=e533]
+                - paragraph [ref=e534]: Designer & AI Builder
+          - generic [ref=e535]:
+            - paragraph [ref=e536]: "\"I watch a ton of YouTubers on automation and AI topics and Cole stands out. I've built my first paying product, and as I go through the Agentic Coding course I'm thankful for it because I can really understand under the hood what I'm doing.\""
+            - generic [ref=e537]:
+              - generic [ref=e539]: D
+              - generic [ref=e540]:
+                - heading "Donovan Watts" [level=4] [ref=e541]
+                - paragraph [ref=e542]: Dynamous Community Member
+          - generic [ref=e543]:
+            - paragraph [ref=e544]: "\"A lot of approaches covered on social media don't pass the sniff-test when viewed through the lens of a seasoned IT leader. Cole's content and approach gets you confidently to enterprise-grade solutions - and it certainly does pass that test.\""
+            - generic [ref=e545]:
+              - generic [ref=e547]: E
+              - generic [ref=e548]:
+                - heading "Eric Clepper" [level=4] [ref=e549]
+                - paragraph [ref=e550]: Seasoned IT Leader
+          - generic [ref=e551]:
+            - paragraph [ref=e552]: "\"I've been a developer for 25 years. Cole does a fantastic job of keeping things technical while still breaking it all down so it's easier to comprehend. I signed up for the courses, but I'm seeing the value of the community as well.\""
+            - generic [ref=e553]:
+              - generic [ref=e555]: K
+              - generic [ref=e556]:
+                - heading "Kevin Pedini" [level=4] [ref=e557]
+                - paragraph [ref=e558]: 25-Year Software Developer
+          - generic [ref=e559]:
+            - paragraph [ref=e560]: "\"Our goal this year is to build a team that fully leverages the opportunities Claude Code offers us. We currently have 15 developers and the plan is for most of them to complete the course so everyone starts from a solid knowledge base. This course is a key step toward reaching our goal.\""
+            - generic [ref=e561]:
+              - generic [ref=e563]: M
+              - generic [ref=e564]:
+                - heading "Morten Jacobsen" [level=4] [ref=e565]
+                - paragraph [ref=e566]: Head of Software, Aschehoug AS (Norway)
+          - generic [ref=e567]:
+            - paragraph [ref=e568]: "\"I do not pay for things like this. I'm completely self-taught, have not bought a single bootcamp, class, guide, or membership anywhere. However, I didn't hesitate after reading about Dynamous because I knew it was worth it before I even paid. No BS, no clickbait, no paywalls. Cole deserves all the growth and recognition he's gotten.\""
+            - generic [ref=e569]:
+              - generic [ref=e571]: "N"
+              - generic [ref=e572]:
+                - heading "Nathan Hart" [level=4] [ref=e573]
+                - paragraph [ref=e574]: Self-Taught Developer
+      - generic [ref=e577]:
+        - generic [ref=e578]:
+          - generic [ref=e580]: Learn with the best
+          - heading "Featured AI Courses" [level=2] [ref=e581]
+          - paragraph [ref=e582]: Exclusive AI courses available as resources in the community, including the AI Second Brain Bootcamp, Agentic Coding Course, and comprehensive AI Agent Mastery course!
+        - generic [ref=e585]:
+          - img [ref=e588]
+          - generic [ref=e598]:
+            - generic [ref=e600]: NEW - Full 4-Hour Course Available
+            - heading "AI Second Brain Bootcamp" [level=3] [ref=e601]
+            - paragraph [ref=e602]:
+              - text: Build a fully functional, personalized AI second brain that manages your inbox, ideates your content, tracks your habits, and more. 8 modules, each shipping a real deliverable.
+              - generic [ref=e603]: Full 4-hour course now available!
+            - link "Learn More About This Course" [ref=e604] [cursor=pointer]:
+              - /url: "#/second-brain-bootcamp"
+              - button "Learn More About This Course" [ref=e605]:
+                - generic [ref=e607]: Learn More About This Course
+                - img [ref=e609]
+        - generic [ref=e613]:
+          - img [ref=e616]
+          - generic [ref=e619]:
+            - generic [ref=e621]: Complete Course - All Modules Available
+            - heading "Agentic Coding Course" [level=3] [ref=e622]
+            - paragraph [ref=e623]:
+              - text: Learn to build reliable, repeatable systems around AI coding assistants. Master the planning → implementing → validating workflow to ship 10x faster.
+              - generic [ref=e624]: All 15 modules now available!
+            - link "Learn More About This Course" [ref=e625] [cursor=pointer]:
+              - /url: "#/agentic-coding-course"
+              - button "Learn More About This Course" [ref=e626]:
+                - generic [ref=e628]: Learn More About This Course
+                - img [ref=e630]
+        - generic [ref=e635]:
+          - img [ref=e637]
+          - heading "The AI Agent Mastery Course" [level=3] [ref=e641]
+          - paragraph [ref=e642]: A comprehensive course that teaches you everything you need to know about planning, building, and deploying AI agents. All 10 modules are available now — join the community for instant access!
+          - button "Join and Access the Course Immediately" [ref=e643] [cursor=pointer]:
+            - generic [ref=e645]: Join and Access the Course Immediately
+            - img [ref=e647]
+          - generic [ref=e649]:
+            - heading "Master these cutting-edge AI tools and frameworks" [level=4] [ref=e650]
+            - paragraph [ref=e651]: This list of technologies will be updated as AI evolves, and the focus will always be on core capabilities and skills that will stand the test of time.
+            - generic [ref=e652]:
+              - generic [ref=e654]:
+                - heading "Pydantic AI" [level=5] [ref=e657]
+                - heading "LangGraph" [level=5] [ref=e660]
+              - generic [ref=e662]:
+                - heading "n8n" [level=5] [ref=e665]
+                - heading "Model Context Protocol" [level=5] [ref=e668]
+              - generic [ref=e670]:
+                - generic [ref=e671]:
+                  - img [ref=e672]
+                  - heading "AI IDEs including:" [level=5] [ref=e675]
+                - generic [ref=e676]:
+                  - heading "Cursor" [level=5] [ref=e679]
+                  - heading "Windsurf" [level=5] [ref=e682]
+                  - heading "Cline" [level=5] [ref=e685]
+                  - heading "Roo Code" [level=5] [ref=e688]
+              - generic [ref=e690]:
+                - heading "Docker" [level=5] [ref=e693]
+                - heading "Supabase" [level=5] [ref=e696]
+              - generic [ref=e698]:
+                - heading "React" [level=5] [ref=e701]
+                - heading "Stripe" [level=5] [ref=e704]
+              - generic [ref=e706]:
+                - generic [ref=e707]:
+                  - img [ref=e708]
+                  - heading "Working with LLMs including:" [level=5] [ref=e718]
+                - generic [ref=e719]:
+                  - heading "OpenAI" [level=5] [ref=e722]
+                  - heading "Claude" [level=5] [ref=e725]
+                  - heading "Qwen" [level=5] [ref=e728]
+                  - heading "Mistral" [level=5] [ref=e731]
+          - generic [ref=e732]:
+            - heading "Complete Course Curriculum" [level=4] [ref=e733]
+            - paragraph [ref=e734]: All 10 modules are now available. Join the community for instant access to the full course.
+            - generic [ref=e735]:
+              - generic [ref=e737]:
+                - generic [ref=e738]:
+                  - generic [ref=e739]: Module 1
+                  - generic [ref=e740]: Available Now
+                - heading "Introduction" [level=5] [ref=e741]
+                - paragraph [ref=e742]: Get started with the fundamentals of AI agents and understand the basics of the course.
+              - generic [ref=e744]:
+                - generic [ref=e745]:
+                  - generic [ref=e746]: Module 2
+                  - generic [ref=e747]: Available Now
+                - heading "The AI Agent Process" [level=5] [ref=e748]
+                - paragraph [ref=e749]: Learn the end-to-end process of planning, building, and deploying AI agents.
+              - generic [ref=e751]:
+                - generic [ref=e752]:
+                  - generic [ref=e753]: Module 3
+                  - generic [ref=e754]: Available Now
+                - heading "AI Agent Prototyping with n8n" [level=5] [ref=e755]
+                - paragraph [ref=e756]: Prototype your AI agents using n8n - a no-code AI automation platform.
+              - generic [ref=e758]:
+                - generic [ref=e759]:
+                  - generic [ref=e760]: Module 4
+                  - generic [ref=e761]: Available Now
+                - heading "Full AI Agent Build with Pydantic AI" [level=5] [ref=e762]
+                - paragraph [ref=e763]: Build a complete AI agent using Pydantic AI - a robust Python AI Agent framework.
+              - generic [ref=e765]:
+                - generic [ref=e766]:
+                  - generic [ref=e767]: Module 5
+                  - generic [ref=e768]: Available Now
+                - heading "AI Agent App (Frontend)" [level=5] [ref=e769]
+                - paragraph [ref=e770]: Design and implement a full application around your agent with a frontend, database, and APIs.
+              - generic [ref=e772]:
+                - generic [ref=e773]:
+                  - generic [ref=e774]: Module 6
+                  - generic [ref=e775]: Available Now
+                - heading "Deploying AI Agents" [level=5] [ref=e776]
+                - paragraph [ref=e777]: Learn how to deploy your AI agents to production environments and set up agent monitoring.
+              - generic [ref=e779]:
+                - generic [ref=e780]:
+                  - generic [ref=e781]: Module 7
+                  - generic [ref=e782]: Available Now
+                - heading "Advanced Agentic Architectures" [level=5] [ref=e783]
+                - paragraph [ref=e784]: Explore complex agentic workflows and architectural patterns for advanced use cases.
+              - generic [ref=e786]:
+                - generic [ref=e787]:
+                  - generic [ref=e788]: Module 8
+                  - generic [ref=e789]: Available Now
+                - heading "AI Agents Evals and Testing" [level=5] [ref=e790]
+                - paragraph [ref=e791]: Learn evaluation and testing strategies for AI agents to ensure reliability.
+              - generic [ref=e793]:
+                - generic [ref=e794]:
+                  - generic [ref=e795]: Module 9
+                  - generic [ref=e796]: Available Now
+                - heading "Monetizing AI Agents" [level=5] [ref=e797]
+                - paragraph [ref=e798]: Learn strategies and technical strategies for monetizing your AI agents.
+              - generic [ref=e801]:
+                - generic [ref=e802]:
+                  - generic [ref=e803]: Module 10
+                  - generic [ref=e804]: Available Now
+                - heading "Bonus Resources" [level=5] [ref=e805]
+                - paragraph [ref=e806]: Additional guides and advanced techniques to take your AI skills to the next level.
+          - generic [ref=e807]:
+            - heading "Upcoming Additional Courses" [level=4] [ref=e808]
+            - generic [ref=e809]:
+              - generic [ref=e811]:
+                - img [ref=e813]
+                - heading "Advanced Knowledge Agents" [level=5] [ref=e815]
+                - paragraph [ref=e816]: Master RAG, Memory, and more advanced techniques for building powerful knowledge agents.
+              - generic [ref=e818]:
+                - img [ref=e820]
+                - heading "Real World AI Agents" [level=5] [ref=e823]
+                - paragraph [ref=e824]: Learn to build AI agents for specific real-world use cases and business applications.
+              - generic [ref=e826]:
+                - img [ref=e828]
+                - heading "Deep Dive into Local AI" [level=5] [ref=e830]
+                - paragraph [ref=e831]: Comprehensive guide to using local AI for enhanced privacy, control, and reduced costs.
+      - generic [ref=e834]:
+        - generic [ref=e835]:
+          - heading "Frequently Asked Questions" [level=2] [ref=e836]
+          - paragraph [ref=e837]: Get answers to the most common questions about our AI mastery community.
+        - generic [ref=e839]:
+          - heading "Do I need coding experience?" [level=3] [ref=e841]:
+            - button "Do I need coding experience?" [ref=e842] [cursor=pointer]:
+              - text: Do I need coding experience?
+              - img [ref=e843]
+          - heading "What's the time commitment?" [level=3] [ref=e846]:
+            - button "What's the time commitment?" [ref=e847] [cursor=pointer]:
+              - text: What's the time commitment?
+              - img [ref=e848]
+          - heading "What if it's not for me?" [level=3] [ref=e851]:
+            - button "What if it's not for me?" [ref=e852] [cursor=pointer]:
+              - text: What if it's not for me?
+              - img [ref=e853]
+          - heading "What kind of support is available?" [level=3] [ref=e856]:
+            - button "What kind of support is available?" [ref=e857] [cursor=pointer]:
+              - text: What kind of support is available?
+              - img [ref=e858]
+          - heading "What can I build after joining?" [level=3] [ref=e861]:
+            - button "What can I build after joining?" [ref=e862] [cursor=pointer]:
+              - text: What can I build after joining?
+              - img [ref=e863]
+    - contentinfo [ref=e865]:
+      - generic [ref=e866]:
+        - generic [ref=e867]:
+          - generic [ref=e868]:
+            - generic [ref=e869]:
+              - img "Dynamous Logo" [ref=e871]
+              - generic [ref=e872]: Dynamous
+            - paragraph [ref=e873]: Join our community of AI professional and enthusiast to learn, connect, and stay ahead in the rapidly evolving world of artificial intelligence.
+          - generic [ref=e874]:
+            - link [ref=e875] [cursor=pointer]:
+              - /url: https://www.youtube.com/@ColeMedin
+              - img [ref=e876]
+            - link [ref=e879] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/cole-medin-727752184/
+              - img [ref=e880]
+            - link [ref=e884] [cursor=pointer]:
+              - /url: https://x.com/cole_medin
+              - img [ref=e885]
+            - link [ref=e888] [cursor=pointer]:
+              - /url: https://github.com/dynamous-community
+              - img [ref=e889]
+        - generic [ref=e892]:
+          - paragraph [ref=e893]: © 2026 Dynamous. All rights reserved.
+          - generic [ref=e894]:
+            - link "Privacy Policy" [ref=e895] [cursor=pointer]:
+              - /url: "#/privacy-policy"
+            - link "Terms of Service" [ref=e896] [cursor=pointer]:
+              - /url: "#/terms-of-service"

@@ -1,0 +1,134 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e4]:
+    - region "Announcement" [ref=e5]:
+      - paragraph [ref=e6]: Free Shipping Within West Malaysia For Orders RM180 And Above
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - link "Dorsata Honey" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - img "Dorsata Honey" [ref=e12]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - button "About" [ref=e18] [cursor=pointer]:
+                - text: About
+                - img [ref=e19]
+            - listitem [ref=e21]:
+              - button "Shop" [ref=e22] [cursor=pointer]:
+                - text: Shop
+                - img [ref=e23]
+            - listitem [ref=e25]:
+              - button "Explore" [ref=e26] [cursor=pointer]:
+                - text: Explore
+                - img [ref=e27]
+            - listitem [ref=e29]:
+              - link "Contact" [ref=e30] [cursor=pointer]:
+                - /url: /pages/contact
+        - generic [ref=e32]:
+          - button "Search" [ref=e33] [cursor=pointer]:
+            - img [ref=e34]
+            - generic [ref=e36]: Search
+          - link "Log in" [ref=e37] [cursor=pointer]:
+            - /url: /account/login
+            - img [ref=e38]
+            - generic [ref=e40]: Log in
+          - link "Cart" [ref=e41] [cursor=pointer]:
+            - /url: /cart
+            - img [ref=e42]
+            - generic [ref=e44]: Cart
+  - generic [ref=e45]:
+    - main [ref=e46]:
+      - generic [ref=e49]:
+        - heading "Power of Plant Phenolics" [level=1] [ref=e51]
+        - generic [ref=e52]:
+          - heading "Origin of Plant Phenolics" [level=2] [ref=e53]:
+            - strong [ref=e54]: Origin of Plant Phenolics
+          - paragraph [ref=e55]:
+            - text: The forest is our
+            - strong [ref=e56]: priceless green pharmacy.
+            - text: The mega diversity of Malaysia’s Oldest Rainforest
+            - strong [ref=e57]: yields a large variety of plant phenolics.
+            - text: Living freely in the wild, primitive Apis Dorsata (bees) having its natural instinct still intact,
+            - strong [ref=e58]: knows what is best
+            - text: in the rainforest. These bees help
+            - strong [ref=e59]: extract
+            - strong [ref=e60]: the abundance of phenolics
+            - text: from plants and transfuse them into honey!
+          - paragraph [ref=e61]: "Found in abundance in Dorsata Honey, plant phenolics support:"
+          - img [ref=e63]
+          - paragraph [ref=e64]: These benefits are vital to the optimal health of the brain and all major organs in our human body!
+          - paragraph [ref=e65]
+    - contentinfo [ref=e67]:
+      - generic [ref=e69]:
+        - generic [ref=e71]:
+          - paragraph [ref=e72]: Quick links
+          - list [ref=e73]:
+            - listitem [ref=e74]:
+              - link "Home" [ref=e75] [cursor=pointer]:
+                - /url: https://www.dorsatahoney.com/
+            - listitem [ref=e76]:
+              - link "Brand Story" [ref=e77] [cursor=pointer]:
+                - /url: /pages/brand-story
+            - listitem [ref=e78]:
+              - link "How To Purchase" [ref=e79] [cursor=pointer]:
+                - /url: /pages/how-to-purchase
+            - listitem [ref=e80]:
+              - link "FAQ" [ref=e81] [cursor=pointer]:
+                - /url: /pages/faq
+            - listitem [ref=e82]:
+              - link "Career" [ref=e83] [cursor=pointer]:
+                - /url: /pages/career
+            - listitem [ref=e84]:
+              - link "Dorsata Honey, High in Plant Phenolics" [ref=e85] [cursor=pointer]:
+                - /url: /pages/dorsata-honey-high-in-plant-phenolics
+            - listitem [ref=e86]:
+              - link "Power of Plant Phenolics" [ref=e87] [cursor=pointer]:
+                - /url: /pages/power-of-plant-phenolics
+        - generic [ref=e89]:
+          - paragraph [ref=e90]: Newsletter
+          - generic [ref=e93]:
+            - textbox "Email address" [ref=e94]
+            - button "Subscribe" [ref=e96] [cursor=pointer]
+      - separator [ref=e97]
+      - generic [ref=e99]:
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - link "Facebook" [ref=e103] [cursor=pointer]:
+              - /url: https://www.facebook.com/DorsataHoney
+              - img [ref=e104]
+              - generic [ref=e106]: Facebook
+          - listitem [ref=e107]:
+            - link "Twitter" [ref=e108] [cursor=pointer]:
+              - /url: https://twitter.com/dorsatahoney
+              - img [ref=e109]
+              - generic [ref=e111]: Twitter
+          - listitem [ref=e112]:
+            - link "Pinterest" [ref=e113] [cursor=pointer]:
+              - /url: https://www.pinterest.com/dorsatahoney
+              - img [ref=e114]
+              - generic [ref=e116]: Pinterest
+          - listitem [ref=e117]:
+            - link "Instagram" [ref=e118] [cursor=pointer]:
+              - /url: https://www.instagram.com/dorsatahoney/
+              - img [ref=e119]
+              - generic [ref=e123]: Instagram
+          - listitem [ref=e124]:
+            - link "YouTube" [ref=e125] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC6JVNyQpvRjWzbYKQ_-Y4UQ
+              - img [ref=e126]
+              - generic [ref=e128]: YouTube
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - text: © 2026,
+            - link "Dorsata Honey" [ref=e131] [cursor=pointer]:
+              - /url: /
+          - generic [ref=e132]:
+            - link:
+              - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+            - text: ", MFI DORSATA HONEY (002385043-T)"
+    - generic [ref=e133]: Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device

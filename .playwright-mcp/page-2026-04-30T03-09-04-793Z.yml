@@ -1,0 +1,16 @@
+- banner [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - button "Guide" [ref=e8] [cursor=pointer]
+      - generic:
+        - link:
+          - /url: /
+          - generic:
+            - generic:
+              - img
+    - search [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - combobox [expanded] [ref=e15]: Simon Scrapes claude code
+          - button [ref=e17] [cursor=pointer]
+        - button "Search" [ref=e22] [cursor=pointer]

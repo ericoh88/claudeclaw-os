@@ -1,0 +1,1290 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: MY
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e34]
+            - button "Search" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]:
+            - generic [ref=e964]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e49]:
+        - button "Settings" [ref=e54] [cursor=pointer]:
+          - generic [ref=e966]:
+            - img
+        - link "Sign in" [ref=e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DQZMljuD10sU&hl=en&ec=65620
+          - generic [ref=e968]:
+            - img
+          - generic [ref=e61]: Sign in
+  - main [ref=e66]:
+    - complementary [ref=e72]:
+      - generic "YouTube Video Player" [ref=e75]:
+        - button "Play" [ref=e79] [cursor=pointer]:
+          - img
+        - generic [ref=e80]:
+          - generic [ref=e81] [cursor=pointer]:
+            - slider "Seek slider" [ref=e82]
+            - generic:
+              - generic:
+                - generic:
+                  - slider "Click or scroll the panel for the precise seeking."
+          - generic [ref=e118]:
+            - generic [ref=e119]:
+              - button "Pause (k)" [ref=e120] [cursor=pointer]:
+                - img
+              - generic [ref=e121]:
+                - button "Mute (m)" [ref=e123] [cursor=pointer]:
+                  - img
+                - slider "Volume"
+              - button "0 Minutes 0 Seconds of 8 Minutes 35 Seconds" [ref=e970] [cursor=pointer]: 0:00 / 8:35
+              - button "Intro" [ref=e129] [cursor=pointer]:
+                - generic "Intro" [ref=e130]
+                - generic [ref=e131]:
+                  - img
+            - generic [ref=e132]:
+              - generic [ref=e133]:
+                - button "Autoplay is on" [ref=e134] [cursor=pointer]
+                - button "Subtitles/closed captions unavailable" [ref=e137] [cursor=pointer]:
+                  - generic [ref=e138]:
+                    - img
+                - button "Settings" [ref=e139] [cursor=pointer]:
+                  - img
+              - generic [ref=e140]:
+                - button "Theater mode (t)" [ref=e141] [cursor=pointer]:
+                  - img
+                - button "Full screen (f)" [ref=e142] [cursor=pointer]:
+                  - img
+    - generic [ref=e146]:
+      - generic [ref=e1465]:
+        - generic [ref=e1467]:
+          - generic [ref=e1468]:
+            - heading "In this video" [active] [level=2] [ref=e1470]:
+              - generic "In this video" [ref=e1471]
+            - button "Close" [ref=e1475] [cursor=pointer]:
+              - generic [ref=e1479]:
+                - img
+          - tablist [ref=e1485]:
+            - tab "Chapters" [ref=e1489] [cursor=pointer]:
+              - generic [ref=e1491]: Chapters
+            - tab "Transcript" [selected] [ref=e1498] [cursor=pointer]:
+              - generic [ref=e1500]: Transcript
+        - generic [ref=e1505]:
+          - generic [ref=e1510]:
+            - generic [ref=e1511]: Search transcript
+            - textbox "Search transcript" [ref=e1512]
+          - generic [ref=e1513]:
+            - generic [ref=e1514]:
+              - 'button "Chapter 1: Intro" [ref=e1517] [cursor=pointer]':
+                - 'heading "Chapter 1: Intro" [level=3] [ref=e1519]'
+              - generic [ref=e1520]:
+                - button "When you give Claude code the ability to instantly watch any video on the internet for free, it becomes genuinely unstoppable. With this Claude's skill," [ref=e1522] [cursor=pointer]:
+                  - generic [ref=e1525]:
+                    - generic [ref=e1526]: 0:00
+                    - text: When you give Claude code the ability to instantly watch any video on the internet for free, it becomes genuinely unstoppable. With this Claude's skill,
+                - button "8 seconds Claude can understand video as well as it reads PDFs, hours long YouTube videos, Instagram reels, looms, local" [ref=e1529] [cursor=pointer]:
+                  - generic [ref=e1532]:
+                    - generic [ref=e1533]: 0:08
+                    - generic [ref=e1534]: 8 seconds
+                    - text: Claude can understand video as well as it reads PDFs, hours long YouTube videos, Instagram reels, looms, local
+                - button "15 seconds files, anything. Before Claude was just guessing. Now it can watch the whole thing frame by frame instantly. It's like Neo plugging into the Matrix. By" [ref=e1536] [cursor=pointer]:
+                  - generic [ref=e1539]:
+                    - generic [ref=e1540]: 0:15
+                    - generic [ref=e1541]: 15 seconds
+                    - text: files, anything. Before Claude was just guessing. Now it can watch the whole thing frame by frame instantly. It's like Neo plugging into the Matrix. By
+                - button "24 seconds the time you've hit play, Claude's already watched the whole thing and become an expert. I've tried a bunch of transcript tools before developing this one, and they all let me down. They" [ref=e1543] [cursor=pointer]:
+                  - generic [ref=e1546]:
+                    - generic [ref=e1547]: 0:24
+                    - generic [ref=e1548]: 24 seconds
+                    - text: the time you've hit play, Claude's already watched the whole thing and become an expert. I've tried a bunch of transcript tools before developing this one, and they all let me down. They
+                - button "32 seconds either cost way too much or they only ever read the transcript and missed half the video. This skill gives Claude the frames and the audio together, so it" [ref=e1550] [cursor=pointer]:
+                  - generic [ref=e1553]:
+                    - generic [ref=e1554]: 0:32
+                    - generic [ref=e1555]: 32 seconds
+                    - text: either cost way too much or they only ever read the transcript and missed half the video. This skill gives Claude the frames and the audio together, so it
+                - button "40 seconds actually sees what's happening on screen. Right now, I'll walk you through exactly how it all works. The use case that completely changed how I consume" [ref=e1557] [cursor=pointer]:
+                  - generic [ref=e1560]:
+                    - generic [ref=e1561]: 0:40
+                    - generic [ref=e1562]: 40 seconds
+                    - text: actually sees what's happening on screen. Right now, I'll walk you through exactly how it all works. The use case that completely changed how I consume
+                - button "48 seconds content and how to set this up in your own clawed code in under 5 minutes." [ref=e1564] [cursor=pointer]:
+                  - generic [ref=e1567]:
+                    - generic [ref=e1568]: 0:48
+                    - generic [ref=e1569]: 48 seconds
+                    - text: content and how to set this up in your own clawed code in under 5 minutes.
+            - generic [ref=e1570]:
+              - 'button "Chapter 2: Watch Videos in Minutes" [ref=e1573] [cursor=pointer]':
+                - 'heading "Chapter 2: Watch Videos in Minutes" [level=3] [ref=e1575]'
+              - generic [ref=e1576]:
+                - button "52 seconds Here's what it actually looks like on a 45minute video done in less than a few minutes. On the left, I have a YC lecture from Sam Alman about how to" [ref=e1578] [cursor=pointer]:
+                  - generic [ref=e1581]:
+                    - generic [ref=e1582]: 0:52
+                    - generic [ref=e1583]: 52 seconds
+                    - text: Here's what it actually looks like on a 45minute video done in less than a few minutes. On the left, I have a YC lecture from Sam Alman about how to
+                - button "1 minute start a startup. I'm going to press play on that now and then grab the URL. All I have to do is go over to Claude and type /watch and then paste the URL here. Then" [ref=e1585] [cursor=pointer]:
+                  - generic [ref=e1588]:
+                    - generic [ref=e1589]: 1:00
+                    - generic [ref=e1590]: 1 minute
+                    - text: start a startup. I'm going to press play on that now and then grab the URL. All I have to do is go over to Claude and type /watch and then paste the URL here. Then
+                - button "1 minute, 8 seconds Claude gets to work grabbing the subtitles from YouTube for free," [ref=e1592] [cursor=pointer]:
+                  - generic [ref=e1595]:
+                    - generic [ref=e1596]: 1:08
+                    - generic [ref=e1597]: 1 minute, 8 seconds
+                    - text: Claude gets to work grabbing the subtitles from YouTube for free,
+                - button "1 minute, 12 seconds extracting the frames and analyzing them all together. So, the reason this is better than just pulling the transcript is because Claude can actually grab the frames from this video. In this lecture," [ref=e1599] [cursor=pointer]:
+                  - generic [ref=e1602]:
+                    - generic [ref=e1603]: 1:12
+                    - generic [ref=e1604]: 1 minute, 12 seconds
+                    - text: extracting the frames and analyzing them all together. So, the reason this is better than just pulling the transcript is because Claude can actually grab the frames from this video. In this lecture,
+                - button "1 minute, 21 seconds Sam goes through and shows a bunch of really great graphs. And this is important context for Claude because if you're only getting the transcript," [ref=e1606] [cursor=pointer]:
+                  - generic [ref=e1609]:
+                    - generic [ref=e1610]: 1:21
+                    - generic [ref=e1611]: 1 minute, 21 seconds
+                    - text: Sam goes through and shows a bunch of really great graphs. And this is important context for Claude because if you're only getting the transcript,
+                - button "1 minute, 28 seconds you're only getting half of the information. Now, here's where most of the existing video tools fall short because they base everything around the transcript. When something happens on" [ref=e1613] [cursor=pointer]:
+                  - generic [ref=e1616]:
+                    - generic [ref=e1617]: 1:28
+                    - generic [ref=e1618]: 1 minute, 28 seconds
+                    - text: you're only getting half of the information. Now, here's where most of the existing video tools fall short because they base everything around the transcript. When something happens on
+                - button "1 minute, 35 seconds screen and it's not explicitly referenced in the transcript, Claude doesn't know about it and you miss out on key context, which matters because half of the interesting stuff in a video" [ref=e1620] [cursor=pointer]:
+                  - generic [ref=e1623]:
+                    - generic [ref=e1624]: 1:35
+                    - generic [ref=e1625]: 1 minute, 35 seconds
+                    - text: screen and it's not explicitly referenced in the transcript, Claude doesn't know about it and you miss out on key context, which matters because half of the interesting stuff in a video
+                - button "1 minute, 44 seconds isn't said out loud. It happens on screen. So, this skill actually watches." [ref=e1627] [cursor=pointer]:
+                  - generic [ref=e1630]:
+                    - generic [ref=e1631]: 1:44
+                    - generic [ref=e1632]: 1 minute, 44 seconds
+                    - text: isn't said out loud. It happens on screen. So, this skill actually watches.
+                - button "1 minute, 48 seconds It pulls frame by frame screenshots and puts it together with a per second timestamped transcript to get Claude the full picture and full context. And just" [ref=e1634] [cursor=pointer]:
+                  - generic [ref=e1637]:
+                    - generic [ref=e1638]: 1:48
+                    - generic [ref=e1639]: 1 minute, 48 seconds
+                    - text: It pulls frame by frame screenshots and puts it together with a per second timestamped transcript to get Claude the full picture and full context. And just
+                - button "1 minute, 56 seconds like that, we're only 2 minutes into the lecture. Sam is still introducing what he's going to talk about today. And Claude has already ingested the entire" [ref=e1641] [cursor=pointer]:
+                  - generic [ref=e1644]:
+                    - generic [ref=e1645]: 1:56
+                    - generic [ref=e1646]: 1 minute, 56 seconds
+                    - text: like that, we're only 2 minutes into the lecture. Sam is still introducing what he's going to talk about today. And Claude has already ingested the entire
+                - button "2 minutes, 5 seconds thing. I have a structured summary of all of the speakers. I can see exactly what they talk about. And now I can actually query Claude on anything about" [ref=e1648] [cursor=pointer]:
+                  - generic [ref=e1651]:
+                    - generic [ref=e1652]: 2:05
+                    - generic [ref=e1653]: 2 minutes, 5 seconds
+                    - text: thing. I have a structured summary of all of the speakers. I can see exactly what they talk about. And now I can actually query Claude on anything about
+                - button "2 minutes, 13 seconds this context and then start to put it to work instantly right here in the terminal. That's a 45minute video done in less than 2 minutes watched," [ref=e1655] [cursor=pointer]:
+                  - generic [ref=e1658]:
+                    - generic [ref=e1659]: 2:13
+                    - generic [ref=e1660]: 2 minutes, 13 seconds
+                    - text: this context and then start to put it to work instantly right here in the terminal. That's a 45minute video done in less than 2 minutes watched,
+                - button "2 minutes, 23 seconds analyzed, and applied. That's the matrix moment. You're not watching content anymore. You're actually downloading context automatically and putting it to" [ref=e1662] [cursor=pointer]:
+                  - generic [ref=e1665]:
+                    - generic [ref=e1666]: 2:23
+                    - generic [ref=e1667]: 2 minutes, 23 seconds
+                    - text: analyzed, and applied. That's the matrix moment. You're not watching content anymore. You're actually downloading context automatically and putting it to
+                - button "2 minutes, 30 seconds work straight away. And you're probably thinking at the moment there's the some expensive API doing the heavy lifting here. But there isn't. But before we get into that, let's get into the setup. By" [ref=e1669] [cursor=pointer]:
+                  - generic [ref=e1672]:
+                    - generic [ref=e1673]: 2:30
+                    - generic [ref=e1674]: 2 minutes, 30 seconds
+                    - text: work straight away. And you're probably thinking at the moment there's the some expensive API doing the heavy lifting here. But there isn't. But before we get into that, let's get into the setup. By
+                - button "2 minutes, 38 seconds the way, I'm giving this whole skill away for free on GitHub. The link is in the description below. Just run these install commands and the setup takes" [ref=e1676] [cursor=pointer]:
+                  - generic [ref=e1679]:
+                    - generic [ref=e1680]: 2:38
+                    - generic [ref=e1681]: 2 minutes, 38 seconds
+                    - text: the way, I'm giving this whole skill away for free on GitHub. The link is in the description below. Just run these install commands and the setup takes
+            - generic [ref=e1682]:
+              - 'button "Chapter 3: Setup" [ref=e1685] [cursor=pointer]':
+                - 'heading "Chapter 3: Setup" [level=3] [ref=e1687]'
+              - generic [ref=e1688]:
+                - button "2 minutes, 45 seconds care of the rest. Once the skill is installed, Claude runs the setup script and installs any dependencies that you don't have already. It authenticates with the transcription API. Don't worry," [ref=e1690] [cursor=pointer]:
+                  - generic [ref=e1693]:
+                    - generic [ref=e1694]: 2:45
+                    - generic [ref=e1695]: 2 minutes, 45 seconds
+                    - text: care of the rest. Once the skill is installed, Claude runs the setup script and installs any dependencies that you don't have already. It authenticates with the transcription API. Don't worry,
+                - button "2 minutes, 56 seconds this one is pretty much free and we'll get to it in a second. But under the hood, the pipeline is actually surprisingly simple. Now, here's the part that nobody really talks about." [ref=e1697] [cursor=pointer]:
+                  - generic [ref=e1700]:
+                    - generic [ref=e1701]: 2:56
+                    - generic [ref=e1702]: 2 minutes, 56 seconds
+                    - text: this one is pretty much free and we'll get to it in a second. But under the hood, the pipeline is actually surprisingly simple. Now, here's the part that nobody really talks about.
+                - button "3 minutes, 4 seconds Claude can't actually watch video because Anthropic doesn't have a video model yet. There are some other providers that can, like Google's Gemini" [ref=e1704] [cursor=pointer]:
+                  - generic [ref=e1707]:
+                    - generic [ref=e1708]: 3:04
+                    - generic [ref=e1709]: 3 minutes, 4 seconds
+                    - text: Claude can't actually watch video because Anthropic doesn't have a video model yet. There are some other providers that can, like Google's Gemini
+                - button "3 minutes, 11 seconds model, but they're pretty expensive and they don't integrate nicely with Claude. So, if you're watching a lot of content, that bill stacks up pretty fast." [ref=e1711] [cursor=pointer]:
+                  - generic [ref=e1714]:
+                    - generic [ref=e1715]: 3:11
+                    - generic [ref=e1716]: 3 minutes, 11 seconds
+                    - text: model, but they're pretty expensive and they don't integrate nicely with Claude. So, if you're watching a lot of content, that bill stacks up pretty fast.
+                - button "3 minutes, 18 seconds Luckily, there's a smarter way to do this because if you really break it down, a video is just two things. It's a bunch of frames and a transcript. That's it. So, instead of paying for another" [ref=e1718] [cursor=pointer]:
+                  - generic [ref=e1721]:
+                    - generic [ref=e1722]: 3:18
+                    - generic [ref=e1723]: 3 minutes, 18 seconds
+                    - text: Luckily, there's a smarter way to do this because if you really break it down, a video is just two things. It's a bunch of frames and a transcript. That's it. So, instead of paying for another
+                - button "3 minutes, 26 seconds expensive model, I can just split the video into those two pieces and hand it to Claude in a format that it already knows how to read, pictures and text." [ref=e1725] [cursor=pointer]:
+                  - generic [ref=e1728]:
+                    - generic [ref=e1729]: 3:26
+                    - generic [ref=e1730]: 3 minutes, 26 seconds
+                    - text: expensive model, I can just split the video into those two pieces and hand it to Claude in a format that it already knows how to read, pictures and text.
+                - button "3 minutes, 33 seconds Now, this is the part I love because the skill is doing this with two of the oldest, most battle tested command line tools on the internet, YouTube DLP and" [ref=e1732] [cursor=pointer]:
+                  - generic [ref=e1735]:
+                    - generic [ref=e1736]: 3:33
+                    - generic [ref=e1737]: 3 minutes, 33 seconds
+                    - text: Now, this is the part I love because the skill is doing this with two of the oldest, most battle tested command line tools on the internet, YouTube DLP and
+                - button "3 minutes, 41 seconds FFmpeg. These aren't MCPs. They're not some new rapper. There's no third party service involved in the middle here. They install once right on your machine." [ref=e1739] [cursor=pointer]:
+                  - generic [ref=e1742]:
+                    - generic [ref=e1743]: 3:41
+                    - generic [ref=e1744]: 3 minutes, 41 seconds
+                    - text: FFmpeg. These aren't MCPs. They're not some new rapper. There's no third party service involved in the middle here. They install once right on your machine.
+            - generic [ref=e1745]:
+              - 'button "Chapter 4: Under the Hood" [ref=e1748] [cursor=pointer]':
+                - 'heading "Chapter 4: Under the Hood" [level=3] [ref=e1750]'
+              - generic [ref=e1751]:
+                - button "3 minutes, 48 seconds Millions of developers have used them for over a decade now. They're rock solid and completely free. And they're what every video tool you've ever touched is probably using under the" [ref=e1753] [cursor=pointer]:
+                  - generic [ref=e1756]:
+                    - generic [ref=e1757]: 3:48
+                    - generic [ref=e1758]: 3 minutes, 48 seconds
+                    - text: Millions of developers have used them for over a decade now. They're rock solid and completely free. And they're what every video tool you've ever touched is probably using under the
+                - button "3 minutes, 56 seconds hood. YTDLP is the downloader. You can think of it as a right-click save video," [ref=e1760] [cursor=pointer]:
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: 3:56
+                    - generic [ref=e1765]: 3 minutes, 56 seconds
+                    - text: hood. YTDLP is the downloader. You can think of it as a right-click save video,
+                - button "4 minutes, 1 second but it works on basically the whole internet. FFmpeg is the video engine. It takes the video and turns it into two things that Claude actually wants." [ref=e1767] [cursor=pointer]:
+                  - generic [ref=e1770]:
+                    - generic [ref=e1771]: 4:01
+                    - generic [ref=e1772]: 4 minutes, 1 second
+                    - text: but it works on basically the whole internet. FFmpeg is the video engine. It takes the video and turns it into two things that Claude actually wants.
+                - button "4 minutes, 8 seconds First, screenshots which are taken every few seconds all the way through the video. And then second, the audio file," [ref=e1774] [cursor=pointer]:
+                  - generic [ref=e1777]:
+                    - generic [ref=e1778]: 4:08
+                    - generic [ref=e1779]: 4 minutes, 8 seconds
+                    - text: First, screenshots which are taken every few seconds all the way through the video. And then second, the audio file,
+                - button "4 minutes, 13 seconds which is pulled out as a clean little file ready to be transcribed into text using Whisper. Now, Claude has the full picture. When we put these two together," [ref=e1781] [cursor=pointer]:
+                  - generic [ref=e1784]:
+                    - generic [ref=e1785]: 4:13
+                    - generic [ref=e1786]: 4 minutes, 13 seconds
+                    - text: which is pulled out as a clean little file ready to be transcribed into text using Whisper. Now, Claude has the full picture. When we put these two together,
+                - button "4 minutes, 20 seconds it's flipping through the screenshots like a flip book, reading the transcript like a script, and the timestamps line up exactly, so it knows on screen when" [ref=e1788] [cursor=pointer]:
+                  - generic [ref=e1791]:
+                    - generic [ref=e1792]: 4:20
+                    - generic [ref=e1793]: 4 minutes, 20 seconds
+                    - text: it's flipping through the screenshots like a flip book, reading the transcript like a script, and the timestamps line up exactly, so it knows on screen when
+                - button "4 minutes, 27 seconds something is being said. So, that's the whole pipeline. YouTube DP and FFmpeg doing all the heavy lifting locally on your laptop for free. The only thing we" [ref=e1795] [cursor=pointer]:
+                  - generic [ref=e1798]:
+                    - generic [ref=e1799]: 4:27
+                    - generic [ref=e1800]: 4 minutes, 27 seconds
+                    - text: something is being said. So, that's the whole pipeline. YouTube DP and FFmpeg doing all the heavy lifting locally on your laptop for free. The only thing we
+                - button "4 minutes, 34 seconds actually have to pay for here is the transcription and claude usage. Captions transcription is pretty much free. The skill just pulls them and if it doesn't," [ref=e1802] [cursor=pointer]:
+                  - generic [ref=e1805]:
+                    - generic [ref=e1806]: 4:34
+                    - generic [ref=e1807]: 4 minutes, 34 seconds
+                    - text: actually have to pay for here is the transcription and claude usage. Captions transcription is pretty much free. The skill just pulls them and if it doesn't,
+                - button "4 minutes, 42 seconds it transcribes the audio using whisper hosted on Grock or OpenAI. I prefer Grock because it's extremely fast and their free tier covers basically" [ref=e1809] [cursor=pointer]:
+                  - generic [ref=e1812]:
+                    - generic [ref=e1813]: 4:42
+                    - generic [ref=e1814]: 4 minutes, 42 seconds
+                    - text: it transcribes the audio using whisper hosted on Grock or OpenAI. I prefer Grock because it's extremely fast and their free tier covers basically
+                - button "4 minutes, 50 seconds anything you throw at it. So most videos cost you literally nothing to transcribe. I even used this exact skill to grow a universal context layer for" [ref=e1816] [cursor=pointer]:
+                  - generic [ref=e1819]:
+                    - generic [ref=e1820]: 4:50
+                    - generic [ref=e1821]: 4 minutes, 50 seconds
+                    - text: anything you throw at it. So most videos cost you literally nothing to transcribe. I even used this exact skill to grow a universal context layer for
+                - button "4 minutes, 58 seconds content research. And I'll show you exactly how it works in a minute. And I can literally hear the keyboards cluttering right now. Brad, this is going to torch your token budget. But" [ref=e1823] [cursor=pointer]:
+                  - generic [ref=e1826]:
+                    - generic [ref=e1827]: 4:58
+                    - generic [ref=e1828]: 4 minutes, 58 seconds
+                    - text: content research. And I'll show you exactly how it works in a minute. And I can literally hear the keyboards cluttering right now. Brad, this is going to torch your token budget. But
+                - button "5 minutes, 6 seconds this actually surprised me. So let's do the math. The skill scales frame count to video length. And it actually caps anything over 30 minutes to 100 frames." [ref=e1830] [cursor=pointer]:
+                  - generic [ref=e1833]:
+                    - generic [ref=e1834]: 5:06
+                    - generic [ref=e1835]: 5 minutes, 6 seconds
+                    - text: this actually surprised me. So let's do the math. The skill scales frame count to video length. And it actually caps anything over 30 minutes to 100 frames.
+                - button "5 minutes, 13 seconds So a 30 minute video and a 1 hour video pretty much cost the same amount in dollar terms. And that's about $1 per run. I ran every test in this video" [ref=e1837] [cursor=pointer]:
+                  - generic [ref=e1840]:
+                    - generic [ref=e1841]: 5:13
+                    - generic [ref=e1842]: 5 minutes, 13 seconds
+                    - text: So a 30 minute video and a 1 hour video pretty much cost the same amount in dollar terms. And that's about $1 per run. I ran every test in this video
+            - generic [ref=e1843]:
+              - 'button "Chapter 5: The Cost Math" [ref=e1846] [cursor=pointer]':
+                - 'heading "Chapter 5: The Cost Math" [level=3] [ref=e1848]'
+              - generic [ref=e1849]:
+                - button "5 minutes, 22 seconds three times in parallel and burned less than 10% of my session. And that's over 5 hours of video watched live by Claude with transcription. And the" [ref=e1851] [cursor=pointer]:
+                  - generic [ref=e1854]:
+                    - generic [ref=e1855]: 5:22
+                    - generic [ref=e1856]: 5 minutes, 22 seconds
+                    - text: three times in parallel and burned less than 10% of my session. And that's over 5 hours of video watched live by Claude with transcription. And the
+                - button "5 minutes, 30 seconds transcription part is where it gets ridiculous. Every YouTube video comes with the free transcript. The skill just pulls them. There's no whisper, no API" [ref=e1858] [cursor=pointer]:
+                  - generic [ref=e1861]:
+                    - generic [ref=e1862]: 5:30
+                    - generic [ref=e1863]: 5 minutes, 30 seconds
+                    - text: transcription part is where it gets ridiculous. Every YouTube video comes with the free transcript. The skill just pulls them. There's no whisper, no API
+                - button "5 minutes, 37 seconds call. It's totally free. And that goes for a bunch of other sites, too. Whisper only kicks in for the stuff without captions, like a raw m4, a loom, or" [ref=e1865] [cursor=pointer]:
+                  - generic [ref=e1868]:
+                    - generic [ref=e1869]: 5:37
+                    - generic [ref=e1870]: 5 minutes, 37 seconds
+                    - text: call. It's totally free. And that goes for a bunch of other sites, too. Whisper only kicks in for the stuff without captions, like a raw m4, a loom, or
+                - button "5 minutes, 44 seconds Instagram reel. Grock's free tier actually gives you 2 hours of transcriptions per hour, which covers more than you'll realistically throw at it. I've used this skill every day for 2 weeks, and I'm still on the free tier." [ref=e1872] [cursor=pointer]:
+                  - generic [ref=e1875]:
+                    - generic [ref=e1876]: 5:44
+                    - generic [ref=e1877]: 5 minutes, 44 seconds
+                    - text: Instagram reel. Grock's free tier actually gives you 2 hours of transcriptions per hour, which covers more than you'll realistically throw at it. I've used this skill every day for 2 weeks, and I'm still on the free tier.
+                - button "5 minutes, 55 seconds It's crazy. Look, I'm not saying this is perfect, and there's probably optimizations I haven't thought of, but for most people watching, this is essentially free. If you got ideas to" [ref=e1879] [cursor=pointer]:
+                  - generic [ref=e1882]:
+                    - generic [ref=e1883]: 5:55
+                    - generic [ref=e1884]: 5 minutes, 55 seconds
+                    - text: It's crazy. Look, I'm not saying this is perfect, and there's probably optimizations I haven't thought of, but for most people watching, this is essentially free. If you got ideas to
+                - button "6 minutes, 4 seconds make it cheaper or quicker, drop them in the comments below. Once I realized this was basically free, I started running it on everything, which is how I ended up" [ref=e1886] [cursor=pointer]:
+                  - generic [ref=e1889]:
+                    - generic [ref=e1890]: 6:04
+                    - generic [ref=e1891]: 6 minutes, 4 seconds
+                    - text: make it cheaper or quicker, drop them in the comments below. Once I realized this was basically free, I started running it on everything, which is how I ended up
+                - button "6 minutes, 12 seconds building the system I'll show you at the end. and it's one that's generally changed how I consume content. Here's the part that actually makes this skill" [ref=e1893] [cursor=pointer]:
+                  - generic [ref=e1896]:
+                    - generic [ref=e1897]: 6:12
+                    - generic [ref=e1898]: 6 minutes, 12 seconds
+                    - text: building the system I'll show you at the end. and it's one that's generally changed how I consume content. Here's the part that actually makes this skill
+                - button "6 minutes, 19 seconds a mustave. It works on any URL YTLP supports, which is over a thousand sites. So, this isn't just limited to the big social media companies or" [ref=e1900] [cursor=pointer]:
+                  - generic [ref=e1903]:
+                    - generic [ref=e1904]: 6:19
+                    - generic [ref=e1905]: 6 minutes, 19 seconds
+                    - text: a mustave. It works on any URL YTLP supports, which is over a thousand sites. So, this isn't just limited to the big social media companies or
+                - button "6 minutes, 27 seconds YouTube, and it even works if you have the files locally download. So, that opens up a bunch of use cases that you probably wouldn't expect. So, this is what I'm doing for content research." [ref=e1907] [cursor=pointer]:
+                  - generic [ref=e1910]:
+                    - generic [ref=e1911]: 6:27
+                    - generic [ref=e1912]: 6 minutes, 27 seconds
+                    - text: YouTube, and it even works if you have the files locally download. So, that opens up a bunch of use cases that you probably wouldn't expect. So, this is what I'm doing for content research.
+            - generic [ref=e1913]:
+              - 'button "Chapter 6: Analyze Video Hooks" [ref=e1916] [cursor=pointer]':
+                - 'heading "Chapter 6: Analyze Video Hooks" [level=3] [ref=e1918]'
+              - generic [ref=e1919]:
+                - button "6 minutes, 36 seconds Now, I take a winning video from the internet, and I ask Claude to break down the hook. Claude tells me the visual setup, the exact words, where the patent" [ref=e1921] [cursor=pointer]:
+                  - generic [ref=e1924]:
+                    - generic [ref=e1925]: 6:36
+                    - generic [ref=e1926]: 6 minutes, 36 seconds
+                    - text: Now, I take a winning video from the internet, and I ask Claude to break down the hook. Claude tells me the visual setup, the exact words, where the patent
+                - button "6 minutes, 43 seconds interrupt lands, and what's on screen at the moment of the hook. Stuff that used to take me 10 minutes per video pausing and scrubbing. Now it's just a paste." [ref=e1928] [cursor=pointer]:
+                  - generic [ref=e1931]:
+                    - generic [ref=e1932]: 6:43
+                    - generic [ref=e1933]: 6 minutes, 43 seconds
+                    - text: interrupt lands, and what's on screen at the moment of the hook. Stuff that used to take me 10 minutes per video pausing and scrubbing. Now it's just a paste.
+                - button "6 minutes, 50 seconds And for developers, there's another use case, debugging screen recordings. If you're a developer and a UI bug shows up, you record a 30-se secondond screen" [ref=e1935] [cursor=pointer]:
+                  - generic [ref=e1938]:
+                    - generic [ref=e1939]: 6:50
+                    - generic [ref=e1940]: 6 minutes, 50 seconds
+                    - text: And for developers, there's another use case, debugging screen recordings. If you're a developer and a UI bug shows up, you record a 30-se secondond screen
+                - button "6 minutes, 57 seconds recording, drop it into Claude, and ask what happens right before the crash." [ref=e1942] [cursor=pointer]:
+                  - generic [ref=e1945]:
+                    - generic [ref=e1946]: 6:57
+                    - generic [ref=e1947]: 6 minutes, 57 seconds
+                    - text: recording, drop it into Claude, and ask what happens right before the crash.
+                - button "7 minutes, 2 seconds Claude reads the frames around that moment, finds a state change, and tells you the exact frame the issue starts with. That alone has saved me hours. The" [ref=e1949] [cursor=pointer]:
+                  - generic [ref=e1952]:
+                    - generic [ref=e1953]: 7:02
+                    - generic [ref=e1954]: 7 minutes, 2 seconds
+                    - text: Claude reads the frames around that moment, finds a state change, and tells you the exact frame the issue starts with. That alone has saved me hours. The
+            - generic [ref=e1955]:
+              - 'button "Chapter 7: Review QA Videos" [ref=e1958] [cursor=pointer]':
+                - 'heading "Chapter 7: Review QA Videos" [level=3] [ref=e1960]'
+              - generic [ref=e1961]:
+                - button "7 minutes, 9 seconds skill also has a zoom flag, start time and end time. So you can drop those in and cl and focus frame by frame extraction on a specific window of a" [ref=e1963] [cursor=pointer]:
+                  - generic [ref=e1966]:
+                    - generic [ref=e1967]: 7:09
+                    - generic [ref=e1968]: 7 minutes, 9 seconds
+                    - text: skill also has a zoom flag, start time and end time. So you can drop those in and cl and focus frame by frame extraction on a specific window of a
+                - button "7 minutes, 18 seconds video. So you can ask about a 10-second segment of a 2-hour video without burning your entire context window." [ref=e1970] [cursor=pointer]:
+                  - generic [ref=e1973]:
+                    - generic [ref=e1974]: 7:18
+                    - generic [ref=e1975]: 7 minutes, 18 seconds
+                    - text: video. So you can ask about a 10-second segment of a 2-hour video without burning your entire context window.
+                - button "7 minutes, 22 seconds Whatever you're using video for, you can probably stop watching it manually because of this skill. So earlier I told you that once you start using this thing, it seriously starts to change how" [ref=e1977] [cursor=pointer]:
+                  - generic [ref=e1980]:
+                    - generic [ref=e1981]: 7:22
+                    - generic [ref=e1982]: 7 minutes, 22 seconds
+                    - text: Whatever you're using video for, you can probably stop watching it manually because of this skill. So earlier I told you that once you start using this thing, it seriously starts to change how
+                - button "7 minutes, 31 seconds you consume content. Now I want to show you my personal favorite use case for it, which is feeding my second brain. I keep a knowledge base in Obsidian with notes, snippets, and ideas for content." [ref=e1984] [cursor=pointer]:
+                  - generic [ref=e1987]:
+                    - generic [ref=e1988]: 7:31
+                    - generic [ref=e1989]: 7 minutes, 31 seconds
+                    - text: you consume content. Now I want to show you my personal favorite use case for it, which is feeding my second brain. I keep a knowledge base in Obsidian with notes, snippets, and ideas for content.
+                - button "7 minutes, 40 seconds And the bottleneck for me has always been throughput because there's just so much good content out there by creators at the moment. There's not enough time to watch it all and write it all down." [ref=e1991] [cursor=pointer]:
+                  - generic [ref=e1994]:
+                    - generic [ref=e1995]: 7:40
+                    - generic [ref=e1996]: 7 minutes, 40 seconds
+                    - text: And the bottleneck for me has always been throughput because there's just so much good content out there by creators at the moment. There's not enough time to watch it all and write it all down.
+            - generic [ref=e1997]:
+              - 'button "Chapter 8: Content Intelligence" [ref=e2000] [cursor=pointer]':
+                - 'heading "Chapter 8: Content Intelligence" [level=3] [ref=e2002]'
+              - generic [ref=e2003]:
+                - button "7 minutes, 47 seconds So, I let Claude do both. I give it every single competitor that I think makes great content. And then from there, Claude uses the watch skill to" [ref=e2005] [cursor=pointer]:
+                  - generic [ref=e2008]:
+                    - generic [ref=e2009]: 7:47
+                    - generic [ref=e2010]: 7 minutes, 47 seconds
+                    - text: So, I let Claude do both. I give it every single competitor that I think makes great content. And then from there, Claude uses the watch skill to
+                - button "7 minutes, 55 seconds automatically watch it and feed it straight into my second brain. So, Claude watches each of these videos," [ref=e2012] [cursor=pointer]:
+                  - generic [ref=e2015]:
+                    - generic [ref=e2016]: 7:55
+                    - generic [ref=e2017]: 7 minutes, 55 seconds
+                    - text: automatically watch it and feed it straight into my second brain. So, Claude watches each of these videos,
+                - button "8 minutes frames, audio, everything, and then comes back with a clean structure and notes about what made the video work. It builds that straight into the second" [ref=e2019] [cursor=pointer]:
+                  - generic [ref=e2022]:
+                    - generic [ref=e2023]: 8:00
+                    - generic [ref=e2024]: 8 minutes
+                    - text: frames, audio, everything, and then comes back with a clean structure and notes about what made the video work. It builds that straight into the second
+                - button "8 minutes, 7 seconds brain. And this is where things start to compound because the skill and your second brain are watching more and more videos, getting more and more context," [ref=e2026] [cursor=pointer]:
+                  - generic [ref=e2029]:
+                    - generic [ref=e2030]: 8:07
+                    - generic [ref=e2031]: 8 minutes, 7 seconds
+                    - text: brain. And this is where things start to compound because the skill and your second brain are watching more and more videos, getting more and more context,
+                - button "8 minutes, 13 seconds and it's getting better and better over time, getting smarter automatically. The second brain side of this whole thing is a video on its own. And I walk through" [ref=e2033] [cursor=pointer]:
+                  - generic [ref=e2036]:
+                    - generic [ref=e2037]: 8:13
+                    - generic [ref=e2038]: 8 minutes, 13 seconds
+                    - text: and it's getting better and better over time, getting smarter automatically. The second brain side of this whole thing is a video on its own. And I walk through
+                - button "8 minutes, 21 seconds exactly how I run mine, content research, competitor intel, every podcast video I've ever listened to, all in one searchable layer in Obsidian. If that's where you want to take this," [ref=e2040] [cursor=pointer]:
+                  - generic [ref=e2043]:
+                    - generic [ref=e2044]: 8:21
+                    - generic [ref=e2045]: 8 minutes, 21 seconds
+                    - text: exactly how I run mine, content research, competitor intel, every podcast video I've ever listened to, all in one searchable layer in Obsidian. If that's where you want to take this,
+                - button "8 minutes, 30 seconds that's the next video to watch. It's linked up here. If this was useful, hit subscribe. Thanks for watching and I'll see you in the next" [ref=e2047] [cursor=pointer]:
+                  - generic [ref=e2050]:
+                    - generic [ref=e2051]: 8:30
+                    - generic [ref=e2052]: 8 minutes, 30 seconds
+                    - text: that's the next video to watch. It's linked up here. If this was useful, hit subscribe. Thanks for watching and I'll see you in the next
+      - generic [ref=e148]:
+        - heading "My Claude Code Can INSTANTLY Watch Any Video (Here's How)" [level=1] [ref=e150]
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - link [ref=e154] [cursor=pointer]:
+                - /url: /@bradbonanno
+              - generic [ref=e156]:
+                - generic "Brad | AI & Automation" [ref=e160]:
+                  - link "Brad | AI & Automation" [ref=e161] [cursor=pointer]:
+                    - /url: /@bradbonanno
+                - generic "3.7 thousand subscribers" [ref=e162]: 3.7K subscribers
+            - generic [ref=e166]:
+              - button "Subscribe to Brad | AI & Automation." [ref=e168] [cursor=pointer]:
+                - generic [ref=e169]: Subscribe
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - img
+          - generic [ref=e176]:
+            - generic [ref=e177]:
+              - generic [ref=e181]:
+                - button "like this video along with 59 other people" [ref=e185] [cursor=pointer]:
+                  - generic [ref=e972]:
+                    - img
+                  - generic [ref=e1137]:
+                    - generic [ref=e1138]:
+                      - generic [ref=e1140]: "1"
+                      - generic [ref=e1141]: "2"
+                      - generic [ref=e1142]: "3"
+                      - generic [ref=e1143]: "4"
+                      - generic [ref=e1144]: "5"
+                      - generic [ref=e1145]: "6"
+                      - generic [ref=e1146]: "7"
+                      - generic [ref=e1147]: "8"
+                      - generic [ref=e1148]: "9"
+                      - generic [ref=e1149]: "0"
+                      - generic [ref=e1150]: "1"
+                      - generic [ref=e1151]: "2"
+                      - generic [ref=e1152]: "3"
+                      - generic [ref=e1153]: "4"
+                      - generic [ref=e1154]: "5"
+                      - generic [ref=e1155]: "6"
+                      - generic [ref=e1156]: "7"
+                      - generic [ref=e1157]: "8"
+                      - generic [ref=e1158]: "9"
+                      - generic [ref=e1159]: "0"
+                      - generic [ref=e1160]: "1"
+                      - generic [ref=e1161]: "2"
+                      - generic [ref=e1162]: "3"
+                      - generic [ref=e1163]: "4"
+                      - generic [ref=e1164]: "5"
+                      - generic [ref=e1165]: "6"
+                      - generic [ref=e1166]: "7"
+                      - generic [ref=e1167]: "8"
+                      - generic [ref=e1168]: "9"
+                    - generic [ref=e1170]:
+                      - generic [ref=e1172]: "1"
+                      - generic [ref=e1173]: "2"
+                      - generic [ref=e1174]: "3"
+                      - generic [ref=e1175]: "4"
+                      - generic [ref=e1176]: "5"
+                      - generic [ref=e1177]: "6"
+                      - generic [ref=e1178]: "7"
+                      - generic [ref=e1179]: "8"
+                      - generic [ref=e1180]: "9"
+                      - generic [ref=e1181]: "0"
+                      - generic [ref=e1182]: "1"
+                      - generic [ref=e1183]: "2"
+                      - generic [ref=e1184]: "3"
+                      - generic [ref=e1185]: "4"
+                      - generic [ref=e1186]: "5"
+                      - generic [ref=e1187]: "6"
+                      - generic [ref=e1188]: "7"
+                      - generic [ref=e1189]: "8"
+                      - generic [ref=e1190]: "9"
+                      - generic [ref=e1191]: "0"
+                      - generic [ref=e1192]: "1"
+                      - generic [ref=e1193]: "2"
+                      - generic [ref=e1194]: "3"
+                      - generic [ref=e1195]: "4"
+                      - generic [ref=e1196]: "5"
+                      - generic [ref=e1197]: "6"
+                      - generic [ref=e1198]: "7"
+                      - generic [ref=e1199]: "8"
+                      - generic [ref=e1200]: "9"
+                - button "Dislike this video" [ref=e195] [cursor=pointer]:
+                  - generic [ref=e974]:
+                    - img
+              - button "Share" [ref=e203] [cursor=pointer]:
+                - generic [ref=e976]:
+                  - img
+                - generic [ref=e206]: Share
+            - generic [ref=e210]:
+              - button "Save to playlist" [ref=e213] [cursor=pointer]:
+                - generic [ref=e978]:
+                  - img
+                - generic [ref=e216]: Save
+              - generic [ref=e221]:
+                - button "Download" [ref=e223] [cursor=pointer]:
+                  - generic [ref=e980]:
+                    - img
+                  - generic [ref=e226]: Download
+                - tooltip "tooltip"
+            - button "More actions" [ref=e231] [cursor=pointer]:
+              - generic [ref=e982]:
+                - img
+        - generic [ref=e239]:
+          - generic [ref=e241]:
+            - generic "557 views" [ref=e2053]:
+              - generic [ref=e1203]:
+                - generic [ref=e1204]:
+                  - generic [ref=e1206]: "1"
+                  - generic [ref=e1207]: "2"
+                  - generic [ref=e1208]: "3"
+                  - generic [ref=e1209]: "4"
+                  - generic [ref=e1210]: "5"
+                  - generic [ref=e1211]: "6"
+                  - generic [ref=e1212]: "7"
+                  - generic [ref=e1213]: "8"
+                  - generic [ref=e1214]: "9"
+                  - generic [ref=e1215]: "0"
+                  - generic [ref=e1216]: "1"
+                  - generic [ref=e1217]: "2"
+                  - generic [ref=e1218]: "3"
+                  - generic [ref=e1219]: "4"
+                  - generic [ref=e1220]: "5"
+                  - generic [ref=e1221]: "6"
+                  - generic [ref=e1222]: "7"
+                  - generic [ref=e1223]: "8"
+                  - generic [ref=e1224]: "9"
+                  - generic [ref=e1225]: "0"
+                  - generic [ref=e1226]: "1"
+                  - generic [ref=e1227]: "2"
+                  - generic [ref=e1228]: "3"
+                  - generic [ref=e1229]: "4"
+                  - generic [ref=e1230]: "5"
+                  - generic [ref=e1231]: "6"
+                  - generic [ref=e1232]: "7"
+                  - generic [ref=e1233]: "8"
+                  - generic [ref=e1234]: "9"
+                - generic [ref=e1236]:
+                  - generic [ref=e1238]: "1"
+                  - generic [ref=e1239]: "2"
+                  - generic [ref=e1240]: "3"
+                  - generic [ref=e1241]: "4"
+                  - generic [ref=e1242]: "5"
+                  - generic [ref=e1243]: "6"
+                  - generic [ref=e1244]: "7"
+                  - generic [ref=e1245]: "8"
+                  - generic [ref=e1246]: "9"
+                  - generic [ref=e1247]: "0"
+                  - generic [ref=e1248]: "1"
+                  - generic [ref=e1249]: "2"
+                  - generic [ref=e1250]: "3"
+                  - generic [ref=e1251]: "4"
+                  - generic [ref=e1252]: "5"
+                  - generic [ref=e1253]: "6"
+                  - generic [ref=e1254]: "7"
+                  - generic [ref=e1255]: "8"
+                  - generic [ref=e1256]: "9"
+                  - generic [ref=e1257]: "0"
+                  - generic [ref=e1258]: "1"
+                  - generic [ref=e1259]: "2"
+                  - generic [ref=e1260]: "3"
+                  - generic [ref=e1261]: "4"
+                  - generic [ref=e1262]: "5"
+                  - generic [ref=e1263]: "6"
+                  - generic [ref=e1264]: "7"
+                  - generic [ref=e1265]: "8"
+                  - generic [ref=e1266]: "9"
+                - generic [ref=e1268]:
+                  - generic [ref=e1270]: "1"
+                  - generic [ref=e1271]: "2"
+                  - generic [ref=e1272]: "3"
+                  - generic [ref=e1273]: "4"
+                  - generic [ref=e1274]: "5"
+                  - generic [ref=e1275]: "6"
+                  - generic [ref=e1276]: "7"
+                  - generic [ref=e1277]: "8"
+                  - generic [ref=e1278]: "9"
+                  - generic [ref=e1279]: "0"
+                  - generic [ref=e1280]: "1"
+                  - generic [ref=e1281]: "2"
+                  - generic [ref=e1282]: "3"
+                  - generic [ref=e1283]: "4"
+                  - generic [ref=e1284]: "5"
+                  - generic [ref=e1285]: "6"
+                  - generic [ref=e1286]: "7"
+                  - generic [ref=e1287]: "8"
+                  - generic [ref=e1288]: "9"
+                  - generic [ref=e1289]: "0"
+                  - generic [ref=e1290]: "1"
+                  - generic [ref=e1291]: "2"
+                  - generic [ref=e1292]: "3"
+                  - generic [ref=e1293]: "4"
+                  - generic [ref=e1294]: "5"
+                  - generic [ref=e1295]: "6"
+                  - generic [ref=e1296]: "7"
+                  - generic [ref=e1297]: "8"
+                  - generic [ref=e1298]: "9"
+              - generic [ref=e1300]: views
+            - generic [ref=e242]: Apr 29, 2026
+          - generic [ref=e243]:
+            - generic [ref=e1303]:
+              - text: "Watch Skill on GitHub (FREE):"
+              - link "https://github.com/bradautomates/clau..." [ref=e1305] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUpUaENwU0ZxTUtRZWd2RE1YZFpsRno0RHN3Z3xBQ3Jtc0tseW84d1o1Mlp0UGNMaWlZM1JTeXZ0TDhxclg2cW1Da3FCWmxsdUpDcTBWa2w2RERjd2JsMGJxWFRxVzJHN2hGRUFuUTF3Q2lZeWcxTUx5SXJPVEE2NmFWVXRkZ3FucVBLdldFSWR5MXhkcVlpX0pvYw&q=https%3A%2F%2Fgithub.com%2Fbradautomates%2Fclaude-video&v=QZMljuD10sU
+              - text: "AI Strategy Call:"
+              - link "https://cal.com/bradley-bonanno/ai-st..." [ref=e1307] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjVEMVh6R2J0czZFTXZUUFl4Rkw1OVZ1Q3daQXxBQ3Jtc0tuNTZKN3p6WTIwX2ZoQnlNNE5FaTBDZ1p0MDVBX3I5NEFaY3N1WmpkLWczRUlyNGt6b0Q5UmdJaEE3ZzBSZ0tNZ2FrZHYyZmgtV3JTUzFtNnk5Zlo0VWpWSVN3V3FacnR6blRGTkQ2R3ZGbnFabFZhSQ&q=https%3A%2F%2Fcal.com%2Fbradley-bonanno%2Fai-strategy-call&v=QZMljuD10sU
+              - text: "Connect with Me:"
+              - 'link "LinkedIn Channel Link: bradbonanno" [ref=e1310] [cursor=pointer]':
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU05LWktUmVJa0Y2ek8zUkRFV2pKVWR3b2ZZZ3xBQ3Jtc0tsQmFHYUVRd0xaWWlET1Z6MmpuQ1cyZF90Wkl0Rk9kSzF2NlhrbWxDUlM1TmJBbjlBR0ZKV0pkZnhWTHhkd2QtaXhjdFZ5YlJGNjZsUGhYRkt5dHJEUVNtMFZ3NF9IMlJvNHZJa2pjd3VsRTY2amd5dw&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbradbonanno%2F&v=QZMljuD10sU
+                - text: / bradbonanno
+              - text: "Skills Marketplace Waitlist:"
+              - link "https://brad-b.kit.com/f9a7349a1c" [ref=e1313] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRGT2FXSW5fUUhBOHMxeU0zdUx5UGdUM3dCZ3xBQ3Jtc0ttX2ZQZTg4WTRqVXVrZWoxektuVjNHMk5oRU8zTlVScVREOWVabndOdy03am1uQ2FfWG9kWnR6TUZyN0xPQnU4MnFHOWtyeVpoVzFRUHhKZHM5SEJxcXczNjVrTC14enJ0WExzQ2hDaERLelNkb1Y5UQ&q=https%3A%2F%2Fbrad-b.kit.com%2Ff9a7349a1c&v=QZMljuD10sU
+              - text: "Claude Code can't watch video. Anthropic still has not shipped a video model, so by default Claude is blind to anything that lives inside an mp4, a YouTube link, an Instagram reel, or a Loom. Every other transcript tool I tried before this one only ever read the words and missed half of what was actually on screen, which is where most of the interesting stuff in a video lives. This Claude skill fixes that by handing Claude both the frames and the timestamped transcript at once, so it can actually watch any video, not just read its captions. In this Claude Code tutorial I walk you through the exact pipeline behind the skill. yt-dlp pulls the file from any of over a thousand sites it supports. ffmpeg slices the video into frames and a clean audio track. Free YouTube captions come in straight from the source when they exist, and Groq Whisper fills the gap when they don't. I run a 45 minute lecture through it in under two minutes, walk through the cost math (about a dollar per run, transcription almost always free on Groq's tier), and finish on the use case that actually changed how I consume content: feeding every video I would have watched manually straight into my Obsidian second brain. Whether you make YouTube content, run a research-heavy job, manage a flooded inbox, or build software, this skill replaces the manual scrubbing, pausing and re-watching with a paste. It's a Claude agent skill anyone can install in under five minutes, not just developers. Timestamps"
+              - link "0 seconds" [ref=e1315] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU
+                - text: 0:00
+              - text: — Intro
+              - link "52 seconds" [ref=e1317] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=52s
+                - text: 0:52
+              - text: — Watch Videos in Minutes
+              - link "2 minutes, 43 seconds" [ref=e1319] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=163s
+                - text: 2:43
+              - text: — Setup
+              - link "3 minutes, 43 seconds" [ref=e1321] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=223s
+                - text: 3:43
+              - text: — Under the Hood
+              - link "5 minutes, 18 seconds" [ref=e1323] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=318s
+                - text: 5:18
+              - text: — The Cost Math
+              - link "6 minutes, 30 seconds" [ref=e1325] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=390s
+                - text: 6:30
+              - text: — Analyze Video Hooks
+              - link "7 minutes, 3 seconds" [ref=e1327] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=423s
+                - text: 7:03
+              - text: — Review QA Videos
+              - link "7 minutes, 42 seconds" [ref=e1329] [cursor=pointer]:
+                - /url: /watch?v=QZMljuD10sU&t=462s
+                - text: 7:42
+              - text: — Content Intelligence
+            - generic [ref=e1332]:
+              - generic [ref=e1333]:
+                - generic [ref=e1334]: How this was made
+                - generic [ref=e1335]: Auto-dubbed
+                - generic [ref=e1337]:
+                  - text: Audio tracks for some languages were automatically generated.
+                  - link "Learn more" [ref=e1339] [cursor=pointer]:
+                    - /url: //support.google.com/youtube/answer/15569972?hl=en
+              - generic [ref=e1341]:
+                - heading "Chapters View all" [level=2] [ref=e1343]:
+                  - generic [ref=e1345]:
+                    - generic [ref=e1347]: Chapters
+                    - button "View all" [ref=e1351] [cursor=pointer]:
+                      - generic [ref=e1352]: View all
+                - generic [ref=e1356]:
+                  - generic [ref=e1358]:
+                    - link "Intro 0:00" [ref=e1360] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU
+                      - generic [ref=e1363]:
+                        - heading "Intro" [level=4] [ref=e1364]
+                        - generic [ref=e1365]: 0:00
+                    - link "Watch Videos in Minutes 0:52" [ref=e1367] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=52s
+                      - generic [ref=e1370]:
+                        - heading "Watch Videos in Minutes" [level=4] [ref=e1371]
+                        - generic [ref=e1372]: 0:52
+                    - link "Setup 2:43" [ref=e1374] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=163s
+                      - generic [ref=e1377]:
+                        - heading "Setup" [level=4] [ref=e1378]
+                        - generic [ref=e1379]: 2:43
+                    - link "Under the Hood 3:43" [ref=e1381] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=223s
+                      - generic [ref=e1384]:
+                        - heading "Under the Hood" [level=4] [ref=e1385]
+                        - generic [ref=e1386]: 3:43
+                    - link "The Cost Math 5:18" [ref=e1388] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=318s
+                      - generic [ref=e1391]:
+                        - heading "The Cost Math" [level=4] [ref=e1392]
+                        - generic [ref=e1393]: 5:18
+                    - link "Analyze Video Hooks 6:30" [ref=e1395] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=390s
+                      - generic [ref=e1398]:
+                        - heading "Analyze Video Hooks" [level=4] [ref=e1399]
+                        - generic [ref=e1400]: 6:30
+                    - link "Review QA Videos 7:03" [ref=e1402] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=423s
+                      - generic [ref=e1405]:
+                        - heading "Review QA Videos" [level=4] [ref=e1406]
+                        - generic [ref=e1407]: 7:03
+                    - link "Content Intelligence 7:42" [ref=e1409] [cursor=pointer]:
+                      - /url: /watch?v=QZMljuD10sU&t=462s
+                      - generic [ref=e1412]:
+                        - heading "Content Intelligence" [level=4] [ref=e1413]
+                        - generic [ref=e1414]: 7:42
+                  - generic [ref=e1418] [cursor=pointer]:
+                    - img
+              - generic [ref=e1419]:
+                - generic [ref=e1421]: Transcript
+                - paragraph [ref=e1423]: Follow along using the transcript.
+                - button "Show transcript" [ref=e1428] [cursor=pointer]:
+                  - generic [ref=e1429]: Show transcript
+              - generic [ref=e1433]:
+                - link "Brad | AI & Automation 3.7K subscribers" [ref=e1434] [cursor=pointer]:
+                  - /url: /@bradbonanno
+                  - generic [ref=e1435]:
+                    - heading "Brad | AI & Automation" [level=3] [ref=e1436]
+                    - generic [ref=e1437]: 3.7K subscribers
+                - generic [ref=e1440]:
+                  - link "Videos" [ref=e1443] [cursor=pointer]:
+                    - /url: /channel/UCLHfIq7P2CkA62ReystiOrw/videos
+                    - generic [ref=e1447]:
+                      - img
+                    - generic [ref=e1448]: Videos
+                  - link "About" [ref=e1454] [cursor=pointer]:
+                    - /url: /channel/UCLHfIq7P2CkA62ReystiOrw/about
+                    - generic [ref=e1458]:
+                      - img
+                    - generic [ref=e1459]: About
+            - button "Show less" [ref=e1463] [cursor=pointer]
+      - text: •
+      - generic [ref=e257]:
+        - generic [ref=e259] [cursor=pointer]:
+          - link [ref=e260]:
+            - /url: /watch?v=rbu7Zu5X1zI&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e267]: 53:41
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - heading "How I animate 3Blue1Brown | A Manim demo with Ben Sparks 53 minutes" [level=3] [ref=e271]:
+                - link "How I animate 3Blue1Brown | A Manim demo with Ben Sparks 53 minutes" [ref=e272]:
+                  - /url: /watch?v=rbu7Zu5X1zI&pp=0gcJCd8KAYcqIYzv
+                  - text: How I animate 3Blue1Brown | A Manim demo with Ben Sparks
+              - generic [ref=e274]:
+                - group [ref=e275]:
+                  - generic [ref=e276]:
+                    - text: 3Blue1Brown
+                    - img [ref=e279]:
+                      - generic [ref=e984]:
+                        - img
+                - group [ref=e280]:
+                  - generic [ref=e281]: 3M views
+                  - generic [ref=e282]: •
+                  - generic [ref=e283]: 1 year ago
+            - button "More actions" [ref=e286]:
+              - generic [ref=e986]:
+                - img
+        - generic [ref=e293] [cursor=pointer]:
+          - link [ref=e294]:
+            - /url: /watch?v=RQWpF2Gb-gU&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e301]: 36:54
+          - generic [ref=e303]:
+            - generic [ref=e304]:
+              - heading "But what is quantum computing? (Grover's Algorithm) 36 minutes" [level=3] [ref=e305]:
+                - link "But what is quantum computing? (Grover's Algorithm) 36 minutes" [ref=e306]:
+                  - /url: /watch?v=RQWpF2Gb-gU&pp=ugUEEgJlbg%3D%3D
+                  - text: But what is quantum computing? (Grover's Algorithm)
+              - generic [ref=e308]:
+                - group [ref=e309]:
+                  - generic [ref=e310]:
+                    - text: 3Blue1Brown
+                    - img [ref=e313]:
+                      - generic [ref=e988]:
+                        - img
+                - group [ref=e314]:
+                  - generic [ref=e315]: 3.4M views
+                  - generic [ref=e316]: •
+                  - generic [ref=e317]: 11 months ago
+            - button "More actions" [ref=e320]:
+              - generic [ref=e990]:
+                - img
+        - generic [ref=e327] [cursor=pointer]:
+          - link [ref=e328]:
+            - /url: /watch?v=5SQwtLneyvM
+            - generic [ref=e335]: 10:20
+          - generic [ref=e337]:
+            - generic [ref=e338]:
+              - heading "How I Track My Progress + Free Goal Tracker Template [ ENG SUBS ] 10 minutes, 20 seconds" [level=3] [ref=e339]:
+                - link "How I Track My Progress + Free Goal Tracker Template [ ENG SUBS ] 10 minutes, 20 seconds" [ref=e340]:
+                  - /url: /watch?v=5SQwtLneyvM
+                  - text: How I Track My Progress + Free Goal Tracker Template [ ENG SUBS ]
+              - generic [ref=e342]:
+                - group [ref=e343]:
+                  - generic [ref=e344]: Katty's Language Journey
+                - group [ref=e345]:
+                  - generic [ref=e346]: 53 views
+                  - generic [ref=e347]: •
+                  - generic [ref=e348]: 4 days ago
+                - group [ref=e349]:
+                  - generic [ref=e353]: New
+            - button "More actions" [ref=e356]:
+              - generic [ref=e992]:
+                - img
+        - generic [ref=e363] [cursor=pointer]:
+          - link [ref=e364]:
+            - /url: /watch?v=ntDIxaeo3Wg
+            - generic [ref=e371]: 35:49
+          - generic [ref=e373]:
+            - generic [ref=e374]:
+              - heading "Claude Code - Full Tutorial for Beginners 35 minutes" [level=3] [ref=e375]:
+                - link "Claude Code - Full Tutorial for Beginners 35 minutes" [ref=e376]:
+                  - /url: /watch?v=ntDIxaeo3Wg
+                  - text: Claude Code - Full Tutorial for Beginners
+              - generic [ref=e378]:
+                - group [ref=e379]:
+                  - generic [ref=e380]:
+                    - text: Tech With Tim
+                    - img [ref=e383]:
+                      - generic [ref=e994]:
+                        - img
+                - group [ref=e384]:
+                  - generic [ref=e385]: 829K views
+                  - generic [ref=e386]: •
+                  - generic [ref=e387]: 2 months ago
+            - button "More actions" [ref=e390]:
+              - generic [ref=e996]:
+                - img
+        - generic [ref=e397] [cursor=pointer]:
+          - link [ref=e398]:
+            - /url: /watch?v=wjZofJX0v4M&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e405]: 27:14
+          - generic [ref=e407]:
+            - generic [ref=e408]:
+              - heading "Transformers, the tech behind LLMs | Deep Learning Chapter 5 27 minutes" [level=3] [ref=e409]:
+                - link "Transformers, the tech behind LLMs | Deep Learning Chapter 5 27 minutes" [ref=e410]:
+                  - /url: /watch?v=wjZofJX0v4M&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Transformers, the tech behind LLMs | Deep Learning Chapter 5
+              - generic [ref=e412]:
+                - group [ref=e413]:
+                  - generic [ref=e414]:
+                    - text: 3Blue1Brown
+                    - img [ref=e417]:
+                      - generic [ref=e998]:
+                        - img
+                - group [ref=e418]:
+                  - generic [ref=e419]: 10M views
+                  - generic [ref=e420]: •
+                  - generic [ref=e421]: 2 years ago
+            - button "More actions" [ref=e424]:
+              - generic [ref=e1000]:
+                - img
+        - generic [ref=e431] [cursor=pointer]:
+          - link [ref=e432]:
+            - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e439]: 10:30
+          - generic [ref=e441]:
+            - generic [ref=e442]:
+              - heading "Github are you joking? 10 minutes, 30 seconds" [level=3] [ref=e443]:
+                - link "Github are you joking? 10 minutes, 30 seconds" [ref=e444]:
+                  - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Github are you joking?
+              - generic [ref=e446]:
+                - group [ref=e447]:
+                  - generic [ref=e448]:
+                    - text: The PrimeTime
+                    - img [ref=e451]:
+                      - generic [ref=e1002]:
+                        - img
+                - group [ref=e452]:
+                  - generic [ref=e453]: 321K views
+                  - generic [ref=e454]: •
+                  - generic [ref=e455]: 22 hours ago
+                - group [ref=e456]:
+                  - generic [ref=e460]: New
+            - button "More actions" [ref=e463]:
+              - generic [ref=e1004]:
+                - img
+        - generic [ref=e470] [cursor=pointer]:
+          - link [ref=e471]:
+            - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e478]: 16:16
+          - generic [ref=e480]:
+            - generic [ref=e481]:
+              - heading "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [level=3] [ref=e482]:
+                - link "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [ref=e483]:
+                  - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+                  - text: 32 Tricks to Level Up Claude Code in 16 Mins
+              - generic [ref=e485]:
+                - group [ref=e486]:
+                  - generic [ref=e487]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e490]:
+                      - generic [ref=e1006]:
+                        - img
+                - group [ref=e491]:
+                  - generic [ref=e492]: 51K views
+                  - generic [ref=e493]: •
+                  - generic [ref=e494]: 1 day ago
+                - group [ref=e495]:
+                  - generic [ref=e499]: New
+            - button "More actions" [ref=e502]:
+              - generic [ref=e1008]:
+                - img
+        - generic [ref=e509] [cursor=pointer]:
+          - link [ref=e510]:
+            - /url: /watch?v=Lg-meK5IU8Q
+            - generic [ref=e517]: 12:25
+          - generic [ref=e519]:
+            - generic [ref=e520]:
+              - heading "What AI Agent Skills Are and How They Work 12 minutes, 25 seconds" [level=3] [ref=e521]:
+                - link "What AI Agent Skills Are and How They Work 12 minutes, 25 seconds" [ref=e522]:
+                  - /url: /watch?v=Lg-meK5IU8Q
+                  - text: What AI Agent Skills Are and How They Work
+              - generic [ref=e524]:
+                - group [ref=e525]:
+                  - generic [ref=e526]:
+                    - text: IBM Technology
+                    - img [ref=e529]:
+                      - generic [ref=e1010]:
+                        - img
+                - group [ref=e530]:
+                  - generic [ref=e531]: 140K views
+                  - generic [ref=e532]: •
+                  - generic [ref=e533]: 9 days ago
+            - button "More actions" [ref=e536]:
+              - generic [ref=e1012]:
+                - img
+        - generic [ref=e543] [cursor=pointer]:
+          - link [ref=e544]:
+            - /url: /watch?v=X7YMMyd2Qnk
+            - generic [ref=e551]: 9:51
+          - generic [ref=e553]:
+            - generic [ref=e554]:
+              - heading "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [level=3] [ref=e555]:
+                - link "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [ref=e556]:
+                  - /url: /watch?v=X7YMMyd2Qnk
+                  - text: Claude Design Basics | Master 95% in 10 Minutes
+              - generic [ref=e558]:
+                - group [ref=e559]:
+                  - generic [ref=e560]: Tristen O'Brien
+                - group [ref=e561]:
+                  - generic [ref=e562]: 35K views
+                  - generic [ref=e563]: •
+                  - generic [ref=e564]: 2 days ago
+                - group [ref=e565]:
+                  - generic [ref=e569]: New
+            - button "More actions" [ref=e572]:
+              - generic [ref=e1014]:
+                - img
+        - generic [ref=e579] [cursor=pointer]:
+          - link [ref=e580]:
+            - /url: /watch?v=0Tch0N5nsRU
+            - generic [ref=e587]: 17:49
+          - generic [ref=e589]:
+            - generic [ref=e590]:
+              - 'heading "You’re not behind (yet): How to learn AI in 18 minutes 17 minutes" [level=3] [ref=e591]':
+                - 'link "You’re not behind (yet): How to learn AI in 18 minutes 17 minutes" [ref=e592]':
+                  - /url: /watch?v=0Tch0N5nsRU
+                  - text: "You’re not behind (yet): How to learn AI in 18 minutes"
+              - generic [ref=e594]:
+                - group [ref=e595]:
+                  - generic [ref=e596]:
+                    - text: Dan Martell
+                    - img [ref=e599]:
+                      - generic [ref=e1016]:
+                        - img
+                - group [ref=e600]:
+                  - generic [ref=e601]: 1.4M views
+                  - generic [ref=e602]: •
+                  - generic [ref=e603]: 1 month ago
+            - button "More actions" [ref=e606]:
+              - generic [ref=e1018]:
+                - img
+        - generic [ref=e613] [cursor=pointer]:
+          - link [ref=e614]:
+            - /url: /watch?v=EH5jx5qPabU&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e621]: 25:58
+          - generic [ref=e623]:
+            - generic [ref=e624]:
+              - heading "From Zero to Your First AI Agent in 25 Minutes (No Coding) 25 minutes" [level=3] [ref=e625]:
+                - link "From Zero to Your First AI Agent in 25 Minutes (No Coding) 25 minutes" [ref=e626]:
+                  - /url: /watch?v=EH5jx5qPabU&pp=ugUEEgJlbg%3D%3D
+                  - text: From Zero to Your First AI Agent in 25 Minutes (No Coding)
+              - generic [ref=e628]:
+                - group [ref=e629]:
+                  - generic [ref=e631]:
+                    - text: Futurepedia
+                    - img [ref=e634]:
+                      - generic [ref=e1020]:
+                        - img
+                    - text: and AI Agent Lab
+                - group [ref=e635]:
+                  - generic [ref=e636]: 3.5M views
+                  - generic [ref=e637]: •
+                  - generic [ref=e638]: 11 months ago
+            - button "More actions" [ref=e641]:
+              - generic [ref=e1022]:
+                - img
+        - generic [ref=e648] [cursor=pointer]:
+          - link [ref=e649]:
+            - /url: /watch?v=sXGrFTe0ZfE&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e656]: 17:01
+          - generic [ref=e658]:
+            - generic [ref=e659]:
+              - heading "I Built a One-Person Content Research Team Using AI - Claude Cowork Feels ILLEGAL 17 minutes" [level=3] [ref=e660]:
+                - link "I Built a One-Person Content Research Team Using AI - Claude Cowork Feels ILLEGAL 17 minutes" [ref=e661]:
+                  - /url: /watch?v=sXGrFTe0ZfE&pp=0gcJCd8KAYcqIYzv
+                  - text: I Built a One-Person Content Research Team Using AI - Claude Cowork Feels ILLEGAL
+              - generic [ref=e663]:
+                - group [ref=e664]:
+                  - generic [ref=e665]: Brad | AI & Automation
+                - group [ref=e666]:
+                  - generic [ref=e667]: 6.5K views
+                  - generic [ref=e668]: •
+                  - generic [ref=e669]: 3 months ago
+            - button "More actions" [ref=e672]:
+              - generic [ref=e1024]:
+                - img
+        - generic [ref=e679] [cursor=pointer]:
+          - link [ref=e680]:
+            - /url: /watch?v=0_dSWLOHKng
+            - generic [ref=e687]: 21:18
+          - generic [ref=e689]:
+            - generic [ref=e690]:
+              - 'heading "Claude Cowork for Beginners: Build Your AI Second Brain 21 minutes" [level=3] [ref=e691]':
+                - 'link "Claude Cowork for Beginners: Build Your AI Second Brain 21 minutes" [ref=e692]':
+                  - /url: /watch?v=0_dSWLOHKng
+                  - text: "Claude Cowork for Beginners: Build Your AI Second Brain"
+              - generic [ref=e694]:
+                - group [ref=e695]:
+                  - generic [ref=e696]:
+                    - text: Jeff Su
+                    - img [ref=e699]:
+                      - generic [ref=e1026]:
+                        - img
+                - group [ref=e700]:
+                  - generic [ref=e701]: 32K views
+                  - generic [ref=e702]: •
+                  - generic [ref=e703]: 22 hours ago
+                - group [ref=e704]:
+                  - generic [ref=e708]: New
+            - button "More actions" [ref=e711]:
+              - generic [ref=e1028]:
+                - img
+        - generic [ref=e718] [cursor=pointer]:
+          - link [ref=e719]:
+            - /url: /watch?v=yhFccHgf_FQ&list=RDyhFccHgf_FQ&start_radio=1&pp=oAcB
+            - generic [ref=e725]:
+              - generic [ref=e1030]:
+                - img
+              - generic [ref=e727]: 1:05:25
+          - generic [ref=e729]:
+            - generic [ref=e730]:
+              - heading "PEACE - Soaking worship instrumental | Prayer and Devotional 1 hour, 5 minutes" [level=3] [ref=e731]:
+                - link "PEACE - Soaking worship instrumental | Prayer and Devotional 1 hour, 5 minutes" [ref=e732]:
+                  - /url: /watch?v=yhFccHgf_FQ&list=RDyhFccHgf_FQ&start_radio=1&pp=oAcB
+                  - text: PEACE - Soaking worship instrumental | Prayer and Devotional
+              - generic [ref=e734]:
+                - group [ref=e735]:
+                  - generic [ref=e736]:
+                    - text: Central Record
+                    - img [ref=e739]:
+                      - generic [ref=e1032]:
+                        - img
+                - group [ref=e740]:
+                  - generic [ref=e741]: 9.4M views
+                  - generic [ref=e742]: •
+                  - generic [ref=e743]: 1 year ago
+            - button "More actions" [ref=e746]:
+              - generic [ref=e1034]:
+                - img
+        - generic [ref=e753] [cursor=pointer]:
+          - link [ref=e754]:
+            - /url: /watch?v=mfv0V1SxbNA
+            - generic [ref=e761]: 53:44
+          - generic [ref=e763]:
+            - generic [ref=e764]:
+              - heading "Building the PERFECT Linux PC with Linus Torvalds 53 minutes" [level=3] [ref=e765]:
+                - link "Building the PERFECT Linux PC with Linus Torvalds 53 minutes" [ref=e766]:
+                  - /url: /watch?v=mfv0V1SxbNA
+                  - text: Building the PERFECT Linux PC with Linus Torvalds
+              - generic [ref=e768]:
+                - group [ref=e769]:
+                  - generic [ref=e770]:
+                    - text: Linus Tech Tips
+                    - img [ref=e773]:
+                      - generic [ref=e1036]:
+                        - img
+                - group [ref=e774]:
+                  - generic [ref=e775]: 6.7M views
+                  - generic [ref=e776]: •
+                  - generic [ref=e777]: 4 months ago
+            - button "More actions" [ref=e780]:
+              - generic [ref=e1038]:
+                - img
+        - generic [ref=e787] [cursor=pointer]:
+          - link [ref=e788]:
+            - /url: /watch?v=WSPChlfxJyA&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e795]: 19:13
+          - generic [ref=e797]:
+            - generic [ref=e798]:
+              - 'heading "Full Claude Tutorial: Beginner to Advanced in 19 Minutes 19 minutes" [level=3] [ref=e799]':
+                - 'link "Full Claude Tutorial: Beginner to Advanced in 19 Minutes 19 minutes" [ref=e800]':
+                  - /url: /watch?v=WSPChlfxJyA&pp=ugUEEgJlbg%3D%3D
+                  - text: "Full Claude Tutorial: Beginner to Advanced in 19 Minutes"
+              - generic [ref=e802]:
+                - group [ref=e803]:
+                  - generic [ref=e804]:
+                    - text: Futurepedia
+                    - img [ref=e807]:
+                      - generic [ref=e1040]:
+                        - img
+                - group [ref=e808]:
+                  - generic [ref=e809]: 322K views
+                  - generic [ref=e810]: •
+                  - generic [ref=e811]: 2 weeks ago
+            - button "More actions" [ref=e814]:
+              - generic [ref=e1042]:
+                - img
+        - generic [ref=e821] [cursor=pointer]:
+          - link [ref=e822]:
+            - /url: /watch?v=KZeIEiBrT_w
+            - generic [ref=e829]: 32:32
+          - generic [ref=e831]:
+            - generic [ref=e832]:
+              - heading "The Strange Math That Predicts (Almost) Anything 32 minutes" [level=3] [ref=e833]:
+                - link "The Strange Math That Predicts (Almost) Anything 32 minutes" [ref=e834]:
+                  - /url: /watch?v=KZeIEiBrT_w
+                  - text: The Strange Math That Predicts (Almost) Anything
+              - generic [ref=e836]:
+                - group [ref=e837]:
+                  - generic [ref=e838]:
+                    - text: Veritasium
+                    - img [ref=e841]:
+                      - generic [ref=e1044]:
+                        - img
+                - group [ref=e842]:
+                  - generic [ref=e843]: 11M views
+                  - generic [ref=e844]: •
+                  - generic [ref=e845]: 9 months ago
+            - button "More actions" [ref=e848]:
+              - generic [ref=e1046]:
+                - img
+        - generic [ref=e855] [cursor=pointer]:
+          - link [ref=e856]:
+            - /url: /watch?v=_qZvORxGqI0&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+            - generic [ref=e863]: 24:50
+          - generic [ref=e865]:
+            - generic [ref=e866]:
+              - heading "How to Never Hit Your Claude Session Limit Again 24 minutes" [level=3] [ref=e867]:
+                - link "How to Never Hit Your Claude Session Limit Again 24 minutes" [ref=e868]:
+                  - /url: /watch?v=_qZvORxGqI0&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+                  - text: How to Never Hit Your Claude Session Limit Again
+              - generic [ref=e870]:
+                - group [ref=e871]:
+                  - generic [ref=e872]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e875]:
+                      - generic [ref=e1048]:
+                        - img
+                - group [ref=e876]:
+                  - generic [ref=e877]: 93K views
+                  - generic [ref=e878]: •
+                  - generic [ref=e879]: 8 days ago
+            - button "More actions" [ref=e882]:
+              - generic [ref=e1050]:
+                - img
+        - generic [ref=e889] [cursor=pointer]:
+          - link [ref=e890]:
+            - /url: /watch?v=S_oN3vlzpMw
+            - generic [ref=e897]: 35:26
+          - generic [ref=e899]:
+            - generic [ref=e900]:
+              - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e901]:
+                - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e902]:
+                  - /url: /watch?v=S_oN3vlzpMw
+                  - text: How AI agents & Claude skills work (Clearly Explained)
+              - generic [ref=e904]:
+                - group [ref=e905]:
+                  - generic [ref=e906]: Greg Isenberg
+                - group [ref=e907]:
+                  - generic [ref=e908]: 230K views
+                  - generic [ref=e909]: •
+                  - generic [ref=e910]: 2 weeks ago
+            - button "More actions" [ref=e913]:
+              - generic [ref=e1052]:
+                - img
+        - generic [ref=e920] [cursor=pointer]:
+          - link [ref=e921]:
+            - /url: /watch?v=lTRiuFIWV54&list=RDlTRiuFIWV54&start_radio=1&pp=oAcB
+            - generic [ref=e927]:
+              - generic [ref=e1054]:
+                - img
+              - generic [ref=e929]: 1:01:14
+          - generic [ref=e931]:
+            - generic [ref=e932]:
+              - heading "1 A.M Study Session 📚 [lofi hip hop] 1 hour, 1 minute" [level=3] [ref=e933]:
+                - link "1 A.M Study Session 📚 [lofi hip hop] 1 hour, 1 minute" [ref=e934]:
+                  - /url: /watch?v=lTRiuFIWV54&list=RDlTRiuFIWV54&start_radio=1&pp=oAcB
+                  - text: 1 A.M Study Session 📚 [lofi hip hop]
+              - generic [ref=e936]:
+                - group [ref=e937]:
+                  - generic [ref=e938]:
+                    - text: Lofi Girl
+                    - img [ref=e941]:
+                      - generic [ref=e1056]:
+                        - img
+                - group [ref=e942]:
+                  - generic [ref=e943]: 132M views
+                  - generic [ref=e944]: •
+                  - generic [ref=e945]: 6 years ago
+            - button "More actions" [ref=e948]:
+              - generic [ref=e1058]:
+                - img
+        - button "Show more" [ref=e958] [cursor=pointer]:
+          - generic [ref=e959]: Show more
+      - heading "Comments" [level=2] [ref=e1064]:
+        - generic [ref=e1065]: Comments

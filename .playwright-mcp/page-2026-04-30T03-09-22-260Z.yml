@@ -1,0 +1,333 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: "\"simon scrapes\""
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e57]:
+        - tablist [ref=e62]:
+          - tab "All" [selected] [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: All
+          - tab "Shorts" [ref=e75] [cursor=pointer]:
+            - generic [ref=e77]: Shorts
+          - tab "Unwatched" [ref=e84] [cursor=pointer]:
+            - generic [ref=e86]: Unwatched
+          - tab "Watched" [ref=e93] [cursor=pointer]:
+            - generic [ref=e95]: Watched
+          - tab "Videos" [ref=e102] [cursor=pointer]:
+            - generic [ref=e104]: Videos
+          - tab "Recently uploaded" [ref=e111] [cursor=pointer]:
+            - generic [ref=e113]: Recently uploaded
+          - tab "Live" [ref=e120] [cursor=pointer]:
+            - generic [ref=e122]: Live
+        - generic [ref=e127]:
+          - button "Search filters" [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: Filters
+          - tooltip "tooltip"
+      - generic [ref=e141]:
+        - generic [ref=e143]:
+          - link [ref=e145] [cursor=pointer]:
+            - /url: /@simonscrapes
+          - generic [ref=e148]:
+            - link "Simon Scrapes @simonscrapes•77.5K subscribers Build agentic systems that run your business." [ref=e149] [cursor=pointer]:
+              - /url: /@simonscrapes
+              - generic [ref=e150]:
+                - generic [ref=e154]: Simon Scrapes
+                - generic [ref=e155]: "@simonscrapes•77.5K subscribers"
+                - generic [ref=e156]: Build agentic systems that run your business.
+            - link "Subscribe" [ref=e161] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253D%252522simon%252Bscrapes%252522%26continue_action%3DQUFFLUhqbk5jNkRDRE5maUkyemlSa1FMck4xUUZLYUgxUXxBQ3Jtc0tsZkVpbVZFVXRJWWhuRXRrMVI2YkZXX25aYUViTjVkeDRlUHp0TDI3WTA4TjFveHltU2tsV05BdHB4NzlOcUxVQ3E2enJtMjN6WDlkY3ZaSk5FUlpIOWxMc1lXdTEtd1NNUlJ0Y1JMWDY3bTF2d013UWZPWl9IR2FydDRmSDF2V2RKOTN1OVR4UlNQNndIalFVZDB6NU1Pb1dMSWFFS3hSbzdrZDI3Vm5VT0RNSDBQXzQtckNUYllLRk5QU05KVURoUHc1WmM&hl=en
+              - generic [ref=e162]: Subscribe
+        - generic [ref=e167]:
+          - heading "Latest from Simon Scrapes" [level=2] [ref=e170]:
+            - generic [ref=e172]: Latest from Simon Scrapes
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - generic [ref=e177]:
+                - link [ref=e179] [cursor=pointer]:
+                  - /url: /watch?v=0qqV4yv-Hss&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                  - img [ref=e181]
+                  - img [ref=e184]:
+                    - generic [ref=e185]: 18:24
+                  - generic:
+                    - generic: Now playing
+                    - generic:
+                      - img
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e187]:
+                    - heading "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [level=3] [ref=e189]:
+                      - link "Give Me 20 Minutes. I’ll Teach You 80% of Claude Code. 18 minutes" [ref=e190]:
+                        - /url: /watch?v=0qqV4yv-Hss&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                        - text: Give Me 20 Minutes. I’ll Teach You 80% of Claude Code.
+                    - generic [ref=e193]:
+                      - generic [ref=e194]: 8.7K views
+                      - generic [ref=e195]: •1 day ago
+                  - generic [ref=e196]:
+                    - link "Go to channel Simon Scrapes" [ref=e197]:
+                      - /url: /@simonscrapes
+                    - link "Simon Scrapes" [ref=e203]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e204]:
+                    - text: "Build agentic systems that run your business: https://skool.com/scrapes Don't miss the next build ..."
+                    - tooltip "tooltip"
+                  - img "New" [ref=e209]:
+                    - generic [ref=e210]: New
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - generic [ref=e218]: 5 moments
+                      - button "Claude Code Foundations | Mastering Context Management | CLAUDE.md Done Well | Personalizing Your Setup (Skills, Hooks & More) | The Agentic OS Layer" [ref=e219]
+                    - button "More" [ref=e224]
+              - generic [ref=e231]:
+                - link [ref=e233] [cursor=pointer]:
+                  - /url: /watch?v=-_aQquBH5PU&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                - generic [ref=e235] [cursor=pointer]:
+                  - generic [ref=e236]:
+                    - heading "Claude Design Is Way Bigger Than You Think (Full Course) 1 hour, 24 minutes" [level=3] [ref=e238]:
+                      - link "Claude Design Is Way Bigger Than You Think (Full Course) 1 hour, 24 minutes" [ref=e239]:
+                        - /url: /watch?v=-_aQquBH5PU&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                        - text: Claude Design Is Way Bigger Than You Think (Full Course)
+                    - generic [ref=e242]:
+                      - generic [ref=e243]: 10K views
+                      - generic [ref=e244]: •3 days ago
+                  - generic [ref=e245]:
+                    - link "Go to channel Simon Scrapes" [ref=e246]:
+                      - /url: /@simonscrapes
+                    - link "Simon Scrapes" [ref=e252]:
+                      - /url: /@simonscrapes
+                  - generic [ref=e253]:
+                    - text: "Build agentic systems that run your business: https://skool.com/scrapes Don't miss the next build ..."
+                    - tooltip "tooltip"
+                  - img "New" [ref=e258]:
+                    - generic [ref=e259]: New
+                  - generic [ref=e262]:
+                    - generic [ref=e263]:
+                      - generic [ref=e267]: 12 chapters
+                      - button "Master Claude Design in One Video (Complete Build) | What is Claude Design? | Planning Your Design System | Methods for Creating Your Design System | Build a Design System Using Both Methods | Building Out The Design System inside Claude Design | Landing Page Design and Claude Design’s Best Features | The Final 10% - using Claude Code Skills | Mobile App Wireframe | Slides & Video Design | Slide Outputs & Comparison to Video | Top Tips & Token Usage" [ref=e268]
+                    - button "More" [ref=e273]
+            - generic "+8 more" [ref=e280] [cursor=pointer]
+        - generic [ref=e282]:
+          - link [ref=e284] [cursor=pointer]:
+            - /url: /watch?v=rW7NvKnIEqk&pp=ygUPInNpbW9uIHNjcmFwZXMi
+          - generic [ref=e286] [cursor=pointer]:
+            - generic [ref=e287]:
+              - heading "Claude just got another superpower (but they kept it quiet!) 7 minutes, 37 seconds" [level=3] [ref=e289]:
+                - link "Claude just got another superpower (but they kept it quiet!) 7 minutes, 37 seconds" [ref=e290]:
+                  - /url: /watch?v=rW7NvKnIEqk&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                  - text: Claude just got another superpower (but they kept it quiet!)
+              - generic [ref=e293]:
+                - generic [ref=e294]: 99K views
+                - generic [ref=e295]: •5 days ago
+            - generic [ref=e296]:
+              - link "Go to channel Simon Scrapes" [ref=e297]:
+                - /url: /@simonscrapes
+              - link "Simon Scrapes" [ref=e302]:
+                - /url: /@simonscrapes
+            - generic [ref=e303]:
+              - text: "Build agentic systems that run your business: https://skool.com/scrapes Don't miss the next build ..."
+              - tooltip "tooltip"
+            - generic [ref=e305]:
+              - img "New" [ref=e308]:
+                - generic [ref=e309]: New
+              - img "4K" [ref=e312]:
+                - generic [ref=e313]: 4K
+            - generic [ref=e316]:
+              - generic [ref=e317]:
+                - generic [ref=e320]: Summary
+                - button "Simon Scrapes explores new, lesser-known features in the Claude desktop app that enhance project management and context visibility. By integrating an agentic operating system directly into the interface, users can now handle complex workflows, manage file structures, and utilize multi-session layouts that previously required a terminal-based setup." [ref=e321]
+                - text: ·
+              - button "More" [ref=e326]
+        - generic [ref=e340] [cursor=pointer]:
+          - link [ref=e341]:
+            - /url: /watch?v=oX39b-Ymk_M
+            - generic [ref=e347]: 0:16
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - link "Nothing quite delights like the sound of sizzling meat on hot grill." [ref=e353]:
+                  - /url: /watch?v=oX39b-Ymk_M
+                - link "Visit Victoria Station in Medan Damansara for lunch, dinner or any other special occasion." [ref=e356]:
+                  - /url: /watch?v=oX39b-Ymk_M
+                - generic [ref=e357]:
+                  - button "Victoria Station" [ref=e361]
+                  - generic [ref=e365]:
+                    - generic [ref=e366]: Sponsored
+                    - text: ·
+                  - generic [ref=e368]: Victoria Station
+              - button "My Ad Center" [ref=e371]
+            - link "Dine now" [ref=e380]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CWvQU4Mfyafv8AYGQ_PcPjsX1kAy2vpOyhgGN2NehrhWwkB8QASAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGK_5C1PakCHTTAKynwkD6oAwSqBLQCT9CWCVjMKsVp5xHQ9XOCJeAJFLXLt3t_CCirhki0DHGUvB1aJHNuzxObqqto6_3B4gm97Fqp38vFbOmMAkRi5ZelGwGbrtXkYf4GIdRuEI1A5bK8EXRaPBmj_q08uKF93JAozLJk2YaHajjt6Qg0FLDGs-sYUFvGIQa0nCvJMprgorou56pzvBTIUuRoGtcemJOYrT1d9UVcmHvHQEp3dr5OU5KLzWBuUIgmgBCJMmcJ_AHso4mVFk5deNqqa0vfRVyfS_9sYoFQEADHWLRC2K8EhWNIy8byLnU6Zk-X-qlGtfA7C9O8eRYftgs-RHJyHkPWvYU-f5GFgeoaT6C3_Sv9bW8FRd1GaDEfsoDe5gvkl5cg6JIuAMrHqiYcipWGp1OvbxeIpyVqX_iN2YHC9qbzD8mIBfmwiNFXkgUNCBIw86easf6t_76hAZIFCAgTeJC-7ZUYoAZVgAeKt-GUGJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLb1gzOWItWW1rX02oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFiw2ujSzJSUA5oJHWh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNosQm8cCLNBRaJJsgJF8gJjwHICcIBmAsBugtBCAMQBRgGIAcoATAcQAFIAFhdYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAge6Awl2aXNpbnphYWHQCxPSDAIQAZoNAROqDQJNWcgNAdINaGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNoP3E9dmljdG9yaWErc3RhdGlvbittZWRhbitkYW1hbnNhcmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNTIzODkxMzIxuBP___________8BsBQDwBWBgIBA0BUB2BUBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAboXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI--zo0syUlAMVAQj_CB2OYh3CEAEYASAAEgJTOvD_BwE&num=1&cid=CAASwwHkaOMxcaXKryaZvBv6j5KBMADEK6FiiAwnlltXOYdmvX0h2qqN_9q5513SCYiMQ5ob1MFQexAY8ICP9m0TGUvx37wRmrBpM9k57_yBmL5-qi_4HwxH0-wn8tRtQd_9_c8-Oud5KM71zRqj9RIfceMYxcrQ3unfNb-QKjoiS4F2yU3WcwPhQ7WJx10sNnI1zT_408nD7HxEU2iXh3atVwX1TGIhnCIbdX86xflHNUO_fra8nkIPfEJqPYvEpaN-4RAu1jo&ad_cpn=%5BCPN%5D&sig=AOD64_0UYSls8lznzBns5-qckxJYj3JP6A&ctype=110&video_id=oX39b-Ymk_M&client=ca-pub-6219811747049371&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+              - generic [ref=e381]: Dine now
+        - generic [ref=e386]:
+          - link [ref=e388] [cursor=pointer]:
+            - /url: /watch?v=pUykUYkFVTM&pp=ygUPInNpbW9uIHNjcmFwZXMi
+          - generic [ref=e390] [cursor=pointer]:
+            - generic [ref=e391]:
+              - heading "Build Real AI Systems With Claude Code (Step-by-Step) 2 hours, 37 minutes" [level=3] [ref=e393]:
+                - link "Build Real AI Systems With Claude Code (Step-by-Step) 2 hours, 37 minutes" [ref=e394]:
+                  - /url: /watch?v=pUykUYkFVTM&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                  - text: Build Real AI Systems With Claude Code (Step-by-Step)
+              - generic [ref=e397]:
+                - generic [ref=e398]: 19K views
+                - generic [ref=e399]: •2 weeks ago
+            - generic [ref=e400]:
+              - link "Go to channel Simon Scrapes" [ref=e401]:
+                - /url: /@simonscrapes
+              - link "Simon Scrapes" [ref=e406]:
+                - /url: /@simonscrapes
+            - generic [ref=e407]:
+              - text: "Build agentic systems that run your business: https://skool.com/scrapes Don't miss the next build ..."
+              - tooltip "tooltip"
+            - generic [ref=e410]:
+              - generic [ref=e411]:
+                - generic [ref=e415]: 26 chapters
+                - button [ref=e416]
+              - button "More" [ref=e421]
+        - generic [ref=e428]:
+          - link [ref=e430] [cursor=pointer]:
+            - /url: /watch?v=c2kJ7j3CgUs&pp=ygUPInNpbW9uIHNjcmFwZXMi
+          - generic [ref=e432] [cursor=pointer]:
+            - generic [ref=e433]:
+              - heading "This is the Ultimate Claude Code Setup - Beats OpenClaw and Hermes! 19 minutes" [level=3] [ref=e435]:
+                - link "This is the Ultimate Claude Code Setup - Beats OpenClaw and Hermes! 19 minutes" [ref=e436]:
+                  - /url: /watch?v=c2kJ7j3CgUs&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                  - text: This is the Ultimate Claude Code Setup - Beats OpenClaw and Hermes!
+              - generic [ref=e439]:
+                - generic [ref=e440]: 30K views
+                - generic [ref=e441]: •11 days ago
+            - generic [ref=e442]:
+              - link "Go to channel Simon Scrapes" [ref=e443]:
+                - /url: /@simonscrapes
+              - link "Simon Scrapes" [ref=e448]:
+                - /url: /@simonscrapes
+            - generic [ref=e449]:
+              - text: "Build agentic systems that run your business: https://skool.com/scrapes Don't miss the next build ..."
+              - tooltip "tooltip"
+            - generic [ref=e452]:
+              - generic [ref=e453]:
+                - generic [ref=e457]: 8 chapters
+                - 'button "The Problem with Hermes & OpenClaw | The 5 Core Features of an Agentic System | Feature #1 - Building Persistent Memory | Feature #2 - Creating Self-Improving Skills | Feature #3 - The Multi-Goal Interface | Feature #4 - Setting Up Scheduled Tasks | Feature #5 - The Missing Ingredient | How The Full Agentic OS Works" [ref=e458]'
+              - button "More" [ref=e463]
+        - generic [ref=e470]:
+          - heading "People also watched" [level=2] [ref=e473]:
+            - generic [ref=e475]: People also watched
+          - generic [ref=e477]:
+            - generic [ref=e478]:
+              - generic [ref=e480]:
+                - link [ref=e482] [cursor=pointer]:
+                  - /url: /watch?v=UPtmKh1vMN8&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                - generic [ref=e484] [cursor=pointer]:
+                  - generic [ref=e485]:
+                    - heading "CLAUDE CODE ADVANCED COURSE — 3 HOURS 3 hours, 18 minutes" [level=3] [ref=e487]:
+                      - link "CLAUDE CODE ADVANCED COURSE — 3 HOURS 3 hours, 18 minutes" [ref=e488]:
+                        - /url: /watch?v=UPtmKh1vMN8&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                        - text: CLAUDE CODE ADVANCED COURSE — 3 HOURS
+                    - generic [ref=e491]:
+                      - generic [ref=e492]: 150K views
+                      - generic [ref=e493]: •1 month ago
+                  - generic [ref=e494]:
+                    - link "Go to channel Nick Saraev" [ref=e495]:
+                      - /url: /@nicksaraev
+                    - link "Nick Saraev" [ref=e500]:
+                      - /url: /@nicksaraev
+                  - generic [ref=e501]:
+                    - text: "New? Watch the beginner course first: https://www.youtube.com/watch?v=QoQBzR1NIqI Join Maker School & get customer #1 ..."
+                    - tooltip "tooltip"
+                  - generic [ref=e504]:
+                    - generic [ref=e505]:
+                      - generic [ref=e509]: 29 chapters
+                      - button [ref=e510]
+                    - button "More" [ref=e515]
+              - generic [ref=e522]:
+                - link [ref=e524] [cursor=pointer]:
+                  - /url: /watch?v=EJyuu6zlQCg&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                - generic [ref=e526] [cursor=pointer]:
+                  - generic [ref=e527]:
+                    - heading "5 Claude Code skills I use every single day 16 minutes" [level=3] [ref=e529]:
+                      - link "5 Claude Code skills I use every single day 16 minutes" [ref=e530]:
+                        - /url: /watch?v=EJyuu6zlQCg&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                        - text: 5 Claude Code skills I use every single day
+                    - generic [ref=e533]:
+                      - generic [ref=e534]: 279K views
+                      - generic [ref=e535]: •1 month ago
+                  - generic [ref=e536]:
+                    - link "Go to channel Matt Pocock" [ref=e537]:
+                      - /url: /@mattpocockuk
+                    - link "Matt Pocock" [ref=e542]:
+                      - /url: /@mattpocockuk
+                  - generic [ref=e543]:
+                    - text: Learn the 5 AI agent skills I use every day to steer Claude Code and dramatically improve code quality. Master process-driven ...
+                    - tooltip "tooltip"
+                  - generic [ref=e546]:
+                    - generic [ref=e547]:
+                      - generic [ref=e551]: 6 chapters
+                      - button "Intro | grill-me | write-a-prd | prd-to-issues | tdd | improve-codebase-architecture" [ref=e552]
+                    - button "More" [ref=e557]
+              - generic [ref=e564]:
+                - link [ref=e566] [cursor=pointer]:
+                  - /url: /watch?v=ILmwmgMcCnc&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                - generic [ref=e568] [cursor=pointer]:
+                  - generic [ref=e569]:
+                    - heading "Claude Code Built My ENTIRE Marketing Team! 12 minutes, 9 seconds" [level=3] [ref=e571]:
+                      - link "Claude Code Built My ENTIRE Marketing Team! 12 minutes, 9 seconds" [ref=e572]:
+                        - /url: /watch?v=ILmwmgMcCnc&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                        - text: Claude Code Built My ENTIRE Marketing Team!
+                    - generic [ref=e575]:
+                      - generic [ref=e576]: 19K views
+                      - generic [ref=e577]: •4 weeks ago
+                  - generic [ref=e578]:
+                    - link "Go to channel Duncan Rogoff | AI Automation" [ref=e579]:
+                      - /url: /@duncanrogoff
+                    - link "Duncan Rogoff | AI Automation" [ref=e584]:
+                      - /url: /@duncanrogoff
+                  - generic [ref=e585]:
+                    - text: "The #1 community for building a highly-profitable personal brand with AI and Claude Code. https://www.skool.com/buildroom/ ..."
+                    - tooltip "tooltip"
+                  - generic [ref=e588]:
+                    - generic [ref=e589]:
+                      - generic [ref=e593]: 14 chapters
+                      - button "How to Build an AI Marketing Team | What You'll Build Today | The Austin Lough Story | How the RSA Skill Architecture Works | How to Use Claude Code Skills | Skills vs. Custom GPTs Explained | How to Start in Claude Chat | How to Clone Yourself with AI | How to Extract Tone of Voice | How to Save Your Brand Files | How to Build the Orchestrator Agent | How to Run the Content Skill | How to Test Your System Live | Join The Build Room" [ref=e594]
+                    - button "More" [ref=e599]
+              - generic [ref=e606]:
+                - link [ref=e608] [cursor=pointer]:
+                  - /url: /watch?v=THA8Fov44QY&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                - generic [ref=e610] [cursor=pointer]:
+                  - generic [ref=e611]:
+                    - 'heading "Hermes Agent Full Setup Tutorial: How to Setup Your First AI Agent (Gemma 4) 14 minutes, 15 seconds" [level=3] [ref=e613]':
+                      - 'link "Hermes Agent Full Setup Tutorial: How to Setup Your First AI Agent (Gemma 4) 14 minutes, 15 seconds" [ref=e614]':
+                        - /url: /watch?v=THA8Fov44QY&pp=ygUPInNpbW9uIHNjcmFwZXMi
+                        - text: "Hermes Agent Full Setup Tutorial: How to Setup Your First AI Agent (Gemma 4)"
+                    - generic [ref=e617]:
+                      - generic [ref=e618]: 60K views
+                      - generic [ref=e619]: •3 weeks ago
+                  - generic [ref=e620]:
+                    - link "Go to channel Bart Slodyczka" [ref=e621]:
+                      - /url: /@BartSlodyczka
+                    - link "Bart Slodyczka" [ref=e626]:
+                      - /url: /@BartSlodyczka
+                  - generic [ref=e627]:
+                    - text: In this video I walk through the full setup of Hermes Agent from scratch. We plug it into Gemma 4 running locally through Ollama ...
+                    - tooltip "tooltip"
+                  - generic [ref=e630]:
+                    - generic [ref=e631]:
+                      - generic [ref=e634]: Summary
+                      - button "Bart Slodyczka explains how to install and configure a private Hermes Agent on a dedicated device. This guide covers connecting the agent to Telegram, integrating local AI models via Ollama, and setting up self-hosted Firecrawl for private web research." [ref=e635]
+                      - text: ·
+                    - button "More" [ref=e640]
+            - generic "+6 more" [ref=e647] [cursor=pointer]

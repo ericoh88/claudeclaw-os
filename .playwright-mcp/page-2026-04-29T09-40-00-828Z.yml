@@ -1,0 +1,770 @@
+- generic [ref=e91]:
+  - banner [ref=e67]:
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - button "Guide" [ref=e72] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img
+        - generic [ref=e92]:
+          - link "YouTube Home" [ref=e93] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e98]:
+              - img
+          - generic [ref=e99]: MY
+        - button "Skip navigation" [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]: Skip navigation
+      - generic [ref=e76]:
+        - search [ref=e77]:
+          - generic [ref=e78]:
+            - combobox "Search" [expanded] [ref=e108]
+            - button "Search" [ref=e82] [cursor=pointer]:
+              - generic [ref=e85]:
+                - img
+        - generic [ref=e110]:
+          - button "Search with your voice" [ref=e112] [cursor=pointer]:
+            - generic [ref=e116]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e120]:
+        - button "Settings" [ref=e125] [cursor=pointer]:
+          - generic [ref=e128]:
+            - img
+        - link "Sign in" [ref=e131] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DO6t94PrYimI&hl=en&ec=65620
+          - generic [ref=e135]:
+            - img
+          - generic [ref=e136]: Sign in
+  - main [ref=e141]:
+    - complementary [ref=e147]:
+      - generic "YouTube Video Player" [ref=e5]:
+        - generic [ref=e11]:
+          - generic:
+            - generic [ref=e151] [cursor=pointer]:
+              - img [ref=e152]
+              - generic [ref=e154]:
+                - generic "Monitor ERP" [ref=e155]
+                - generic "enquiry.monitorerp.com" [ref=e156]
+              - link "Learn more This link opens in new tab" [ref=e157]:
+                - generic [ref=e158]: Learn more
+            - generic [ref=e159]:
+              - generic "Sponsored" [ref=e161]
+              - button "My Ad Center" [ref=e163] [cursor=pointer]:
+                - generic [ref=e164]:
+                  - img
+              - link "enquiry.monitorerp.com This link opens in new tab" [ref=e167]:
+                - generic [ref=e168] [cursor=pointer]: enquiry.monitorerp.com
+            - button "Skip" [ref=e1193] [cursor=pointer]:
+              - generic [ref=e1194]: Skip
+              - generic [ref=e1195]:
+                - img
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - slider "Seek slider" [disabled] [ref=e17]
+            - generic:
+              - generic:
+                - generic:
+                  - slider "Click or scroll the panel for the precise seeking." [disabled]
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - button "Pause (k)" [ref=e28] [cursor=pointer]:
+                - img
+              - generic [ref=e29]:
+                - button "Mute (m)" [ref=e31] [cursor=pointer]:
+                  - img
+                - slider "Volume"
+              - button "0 Minutes 2 Seconds of 1 Minutes 17 Seconds" [ref=e1196] [cursor=pointer]: 0:02 / 1:17
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - button "Autoplay is on" [ref=e173] [cursor=pointer]
+                - button "Subtitles/closed captions unavailable" [pressed] [ref=e38] [cursor=pointer]:
+                  - generic [ref=e39]:
+                    - img
+                - button "Settings" [ref=e40] [cursor=pointer]:
+                  - img
+              - generic [ref=e41]:
+                - button "Theater mode (t)" [ref=e42] [cursor=pointer]:
+                  - img
+                - button "Full screen (f)" [ref=e43] [cursor=pointer]:
+                  - img
+    - generic [ref=e179]:
+      - generic [ref=e181]:
+        - 'heading "GitNexus: the 30k-star knowledge graph your AI agent needs (and doesn''t have)" [level=1] [ref=e183]'
+        - generic [ref=e184]:
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - link [ref=e187] [cursor=pointer]:
+                - /url: /@indiehackernews
+              - generic [ref=e189]:
+                - generic "Indie Hacker News" [ref=e193]:
+                  - link "Indie Hacker News" [ref=e194] [cursor=pointer]:
+                    - /url: /@indiehackernews
+                - generic "383 subscribers" [ref=e195]
+            - generic [ref=e199]:
+              - button "Subscribe to Indie Hacker News." [ref=e201] [cursor=pointer]:
+                - generic [ref=e202]: Subscribe
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - img
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - generic [ref=e214]:
+                - button "like this video along with 23 other people" [ref=e218] [cursor=pointer]:
+                  - generic [ref=e222]:
+                    - img
+                  - generic [ref=e223]: "23"
+                - button "Dislike this video" [ref=e230] [cursor=pointer]:
+                  - generic [ref=e234]:
+                    - img
+              - button "Share" [ref=e240] [cursor=pointer]:
+                - generic [ref=e244]:
+                  - img
+                - generic [ref=e245]: Share
+            - generic [ref=e249]:
+              - button "Save to playlist" [ref=e252] [cursor=pointer]:
+                - generic [ref=e256]:
+                  - img
+                - generic [ref=e257]: Save
+              - button "Remove ads" [ref=e263] [cursor=pointer]:
+                - generic [ref=e1197]:
+                  - img
+                - generic [ref=e268]: Remove ads
+            - button "More actions" [ref=e273] [cursor=pointer]:
+              - generic [ref=e277]:
+                - img
+        - generic [ref=e283]:
+          - generic [ref=e286]:
+            - text: 937 views Apr 27, 2026
+            - link "#ClaudeCode" [ref=e287] [cursor=pointer]:
+              - /url: /hashtag/claudecode
+            - link "#Cursor" [ref=e288] [cursor=pointer]:
+              - /url: /hashtag/cursor
+            - link "#MCP" [ref=e289] [cursor=pointer]:
+              - /url: /hashtag/mcp
+          - generic [ref=e290]:
+            - generic [ref=e1200]:
+              - text: "Your AI coding agent reads files one at a time and guesses at architecture. GitNexus builds a full knowledge graph of your codebase and feeds it to Claude Code, Cursor, and Codex via MCP — so they stop breaking things they didn't know were connected. 30k stars, 16 MCP tools, zero servers required. Here's what it actually does under the hood. 🔗 Repo:"
+              - link "https://github.com/abhigyanpatwari/Gi..." [ref=e1202] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnM0TEZSWjZ1R3NHU2h0TUh6eXRsX1A1bmVVd3xBQ3Jtc0trSk1kZ2t2MV9Kdmd4cjAtQ0xZUVhlOWUzT1hYd3Bmb3cxLXFtVVJ2V2JwZmZtNURpMDBjRklDYWt0Q1Y3Y05YeEU0Q2ZLSVlYTjlpckVqTUh2RGRTblo0Q294MHE2Z3ZURERWendhTjhJZ2EzdlI4NA&q=https%3A%2F%2Fgithub.com%2Fabhigyanpatwari%2FGitNexus&v=O6t94PrYimI
+              - text: "🌐 Web UI:"
+              - link "https://gitnexus.vercel.app" [ref=e1204] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JnQXpzZU04aXVfZk1XZ3ZKRjNyWUh4WTNRd3xBQ3Jtc0tsdk5WRDdPTDVqeDVDRFRTM1JudGtyN09nUi13Tk1NOHVEeHJ5Z0ZVQzFSbU8xR28wMmlGc2xNdWtpVmtuRmE2WXpoTEdtZjVnWkpUVkROSGhfSEtDUWlNbGEyeFhtMXBsaEFhaVV4NWx4ZkV6MlNMWQ&q=https%3A%2F%2Fgitnexus.vercel.app%2F&v=O6t94PrYimI
+              - text: "📦 npm:"
+              - link "https://www.npmjs.com/package/gitnexus" [ref=e1206] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVpIQS05b2wxTndZVW5DcE56emp5TnphWEQ1d3xBQ3Jtc0tsY3BVUzhGYk9XSkhRaGlVQWFESTIwMDViY2dZdVRxX0V1UTlZOHQxaFRUNHg0RVZLeDF4Rm5LampoUE5NQWFFVkpKZ29nc0tyWXNqV2lFZzRFUDVqNzc3VlJhSndqZG5MYjFsT1V1OXpoVzVQUmdJVQ&q=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fgitnexus&v=O6t94PrYimI
+              - text: CHAPTERS
+              - link "0 seconds" [ref=e1208] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI
+                - text: 00:00
+              - text: Intro
+              - link "1 minute, 10 seconds" [ref=e1210] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=70s
+                - text: 01:10
+              - text: The README
+              - link "2 minutes, 26 seconds" [ref=e1212] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=146s
+                - text: 02:26
+              - text: Why it matters
+              - link "3 minutes, 2 seconds" [ref=e1214] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=182s
+                - text: 03:02
+              - text: The spec sheet
+              - link "3 minutes, 24 seconds" [ref=e1216] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=204s
+                - text: 03:24
+              - text: 16 MCP tools
+              - link "4 minutes, 46 seconds" [ref=e1218] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=286s
+                - text: 04:46
+              - text: Under the hood
+              - link "5 minutes, 32 seconds" [ref=e1220] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=332s
+                - text: 05:32
+              - text: Installation
+              - link "6 minutes, 9 seconds" [ref=e1222] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=369s
+                - text: 06:09
+              - text: Latest release
+              - link "6 minutes, 50 seconds" [ref=e1224] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=410s
+                - text: 06:50
+              - text: Who it's for
+              - link "7 minutes, 31 seconds" [ref=e1226] [cursor=pointer]:
+                - /url: /watch?v=O6t94PrYimI&t=451s
+                - text: 07:31
+              - text: "Verdict Daily indie hacker news, AI deep dives, and builder stories:"
+              - link "https://indiehacker.news" [ref=e1228] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbENQMnllQ1BFbno2aDR6ZkVPbVdvM0FuM3FIZ3xBQ3Jtc0trb2VRVThoVmdzSHdjS25tOV8xbnhEY0J3LVc1S0xGbS1JU1pEcC1yMDdMT1NoTkxtbHgzN2NsYm42VkZDM0JFbTg4WXNsMU01MllIVmM0anlhTld5Wi10X1RxWHRTVXl0UFo1UWtMc1RTVXVIVW84dw&q=https%3A%2F%2Findiehacker.news%2F&v=O6t94PrYimI
+              - link "#GitNexus" [ref=e1230] [cursor=pointer]:
+                - /url: /hashtag/gitnexus
+              - link "#CodeIntelligence" [ref=e1232] [cursor=pointer]:
+                - /url: /hashtag/codeintelligence
+              - link "#MCP" [ref=e1234] [cursor=pointer]:
+                - /url: /hashtag/mcp
+              - link "#ClaudeCode" [ref=e1236] [cursor=pointer]:
+                - /url: /hashtag/claudecode
+              - link "#Cursor" [ref=e1238] [cursor=pointer]:
+                - /url: /hashtag/cursor
+              - link "#Codex" [ref=e1240] [cursor=pointer]:
+                - /url: /hashtag/codex
+              - link "#AIAgents" [ref=e1242] [cursor=pointer]:
+                - /url: /hashtag/aiagents
+              - link "#KnowledgeGraph" [ref=e1244] [cursor=pointer]:
+                - /url: /hashtag/knowledgegraph
+              - link "#DevTools" [ref=e1246] [cursor=pointer]:
+                - /url: /hashtag/devtools
+              - link "#OpenSource" [ref=e1248] [cursor=pointer]:
+                - /url: /hashtag/opensource
+            - generic [ref=e1251]:
+              - generic [ref=e1253]:
+                - heading "Chapters View all" [level=2] [ref=e1255]:
+                  - generic [ref=e1257]:
+                    - generic [ref=e1259]: Chapters
+                    - button "View all" [ref=e1263] [cursor=pointer]:
+                      - generic [ref=e1264]: View all
+                - generic [ref=e1268]:
+                  - generic [ref=e1270]:
+                    - link "Intro 0:00" [ref=e1272] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI
+                      - generic [ref=e1275]:
+                        - heading "Intro" [level=4] [ref=e1276]
+                        - generic [ref=e1277]: 0:00
+                    - link "The README 1:10" [ref=e1279] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=70s
+                      - generic [ref=e1282]:
+                        - heading "The README" [level=4] [ref=e1283]
+                        - generic [ref=e1284]: 1:10
+                    - link "Why it matters 2:26" [ref=e1286] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=146s
+                      - generic [ref=e1289]:
+                        - heading "Why it matters" [level=4] [ref=e1290]
+                        - generic [ref=e1291]: 2:26
+                    - link "The spec sheet 3:02" [ref=e1293] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=182s
+                      - generic [ref=e1296]:
+                        - heading "The spec sheet" [level=4] [ref=e1297]
+                        - generic [ref=e1298]: 3:02
+                    - link "16 MCP tools 3:24" [ref=e1300] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=204s
+                      - generic [ref=e1303]:
+                        - heading "16 MCP tools" [level=4] [ref=e1304]
+                        - generic [ref=e1305]: 3:24
+                    - link "Under the hood 4:46" [ref=e1307] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=286s
+                      - generic [ref=e1310]:
+                        - heading "Under the hood" [level=4] [ref=e1311]
+                        - generic [ref=e1312]: 4:46
+                    - link "Installation 5:32" [ref=e1314] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=332s
+                      - generic [ref=e1317]:
+                        - heading "Installation" [level=4] [ref=e1318]
+                        - generic [ref=e1319]: 5:32
+                    - link "Latest release 6:09" [ref=e1321] [cursor=pointer]:
+                      - /url: /watch?v=O6t94PrYimI&t=369s
+                      - generic [ref=e1324]:
+                        - heading "Latest release" [level=4] [ref=e1325]
+                        - generic [ref=e1326]: 6:09
+                  - generic [ref=e1330] [cursor=pointer]:
+                    - img
+              - generic [ref=e1331]:
+                - generic [ref=e1333]: Transcript
+                - paragraph [ref=e1335]: Follow along using the transcript.
+                - button "Show transcript" [ref=e1340] [cursor=pointer]:
+                  - generic [ref=e1341]: Show transcript
+              - generic [ref=e1345]:
+                - link "Indie Hacker News 383 subscribers" [ref=e1346] [cursor=pointer]:
+                  - /url: /@indiehackernews
+                  - generic [ref=e1347]:
+                    - heading "Indie Hacker News" [level=3] [ref=e1348]
+                    - generic [ref=e1349]: 383 subscribers
+                - generic [ref=e1352]:
+                  - link "Videos" [ref=e1355] [cursor=pointer]:
+                    - /url: /channel/UCuwtMh6t7GCytXH8lBewdKw/videos
+                    - generic [ref=e1359]:
+                      - img
+                    - generic [ref=e1360]: Videos
+                  - link "About" [ref=e1366] [cursor=pointer]:
+                    - /url: /channel/UCuwtMh6t7GCytXH8lBewdKw/about
+                    - generic [ref=e1370]:
+                      - img
+                    - generic [ref=e1371]: About
+            - button "Show less" [ref=e1375] [cursor=pointer]
+      - text: •
+      - generic [ref=e296]:
+        - generic [ref=e305] [cursor=pointer]:
+          - generic "Sponsored - Monitor ERP enquiry.monitorerp.com" [ref=e307]:
+            - button "Monitor ERP Asia" [ref=e311]
+            - generic [ref=e314]:
+              - generic [ref=e315]: Monitor ERP
+              - generic [ref=e316]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]: Sponsored
+                  - text: ·
+                - generic [ref=e321]: enquiry.monitorerp.com
+          - link "Learn more" [ref=e323]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CMrL50dHxaYiVMeaortoP9rSDiALgyoP2f52rtYOJFMCNtwEQASAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGTx__eAakCVY_AQfX7kD6oAwSqBOUDT9AzlHfh5sMFYWY1PWC0Ie1jRgfcbMIscfTlwyw4FjSe_MTnS0sP4V61p4OEymy1JU8xNkJcz1LMfHxDBWw3o6P1uI0aawIts8NCisPUzZKX1_gARQcXTMLb-0hbbdBqk_qChdGRePUpUTu1NL71BZ2TqIf6HRazpXxgwRcgCMr8p833p2v-pdIj8Rji8dGYOAwIhI8epEdzSKFy2TSGP0zVyQ-iMJOTl88mgCWdGEqMN3ULrfnhzZHn14dNWkIGZRhOJLbIU6mXlmST9lWZIsM_81ysGdEXLfX30JE2n13cLfC16Vdz3VeBXqbufmrO8-TZTmts53oNYkdubAVhDUrPcIJXS_23mHv0lDsMhj3RfQsgyflnWaxLWEpRZ_mB_iIwNkSH_Fp-MM5eg2uIZORpV-fg8gm9-S-bY8h01SyYtwm29vJwE04RcL4opGW73FCV16V5k6jG23F9dor5QvJhvno1hR-YQV0Wu6W5_Dx92-BgkUH8y-YzI-cnH_T67HkC0fA75b0xm4bzqtCKDC4DGcUIsqpF48z2_1wvn3cL38cNtID--atYfXQmW9y5zPLqnoclY2871YBLmqMjRwSpMLUcCxnFmRTgEXDxrELW338GBM8SFddiqRzVnVmh11m3YRCIBf2fz6BEoAZUgAfVuIChApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH_QeoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLYmZ0YkhleHJLRG-oCAHSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFj4rd7-4ZKUA_IIH2NhLXl0LWhvc3QtcHViLTE0NDM5OTMzMzg3Mzk5MjeaCShodHRwczovL3d3dy5tb25pdG9yZXJwLmNvbS9hc2lhL2VucXVpcnkvsQmaRNFYy8XCm8gJGMgJjwGYCwGhC_iwAT2GFld4ugtFCAEQARgGIAEoATAQQAFIAWAAaABwAogBAJgBAaIBEgoAGAAgAFgBYABwAagCAdgCAqgBAdgBAYACAYgCBLoDBXZpc2lu0AsT0gwCEAGaDQETqg0CTVnIDQHSDVBodHRwczovL3d3dy5tb25pdG9yZXJwLmNvbS9hc2lhL2VucXVpcnkvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0xODMyMjAxODMwMbgT____________AbAUAcAVyYCAQNAVAdgVAZAWAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFwfhEedZvyQSuhcGKAAwADgB0BgB8BgBshkBN8IZAggB&gclid=EAIaIQobChMIyMHe_uGSlAMVZpRLBR122gAhEAEYASAAEgI2UvD_BwE&num=1&cid=CAASwwHkaJ-zyv192ByjnBdV-zf4SKLdBJCqG28B88HnjTmWW7jB_mmK5FRlQla8wIUriy37nvaHnFIovWOEM6NTDBlMra5ivbt3tmtbtPCUc0jUUfVsefrbP7iEBuzAzTakMkzt2LY9jKLMBsBC_3TNdhE4aQ_QG8uzad83ZAfB1MBiOPwwvzBO9y6HmMHCCZsmsQu0HhKo1i8FC3qPlI4vy3rjpS1X1InnwJHBPQKS8jJPUJEKA4hgCNvhLkPMDR-5mF0zm4s&ad_cpn=%5BAD_CPN%5D&sig=AOD64_2O5FCmZ6OqMvUc8gPriCBrR1PLWg&label=video_click_to_advertiser_site&ctype=110&ms=%5BCLICK_MS%5D&adclksrc=%5BCLICK_SOURCE%5D
+            - generic [ref=e324]: Learn more
+          - button "My Ad Center" [ref=e330]:
+            - generic [ref=e334]:
+              - img
+        - generic [ref=e341]:
+          - generic [ref=e350]:
+            - generic [ref=e351] [cursor=pointer]:
+              - generic [ref=e352]:
+                - link "Build AI Agents Free" [ref=e355]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKg7v0dHxaYCzL5vC3LUPwvWkoA23tfDWhgHq9pPZ7xWwkB8QASAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGBmbTAA6gDBMgDCqoE-QJP0H2ksfJCf8KtwiMuZKr1PYJCATR_TxuhMlgBI0FMG2Y-vpPX3ioF9fVcqBXnuuD8MiYBwIyvfPhRM_ePw73K0Y5mteF3-ajMpUlFojn9i0VTyP-Fe89i3vfbxaXiN96cSDYS76SWmXCZ_L4Tp8gp8EyfzGCkUC2t8yMm1VnSl8_ycwYj2BKdVxYyYyd7YJo_HzjMaXRHUJJXAura0NP_G8TofmWP95k90YyNR4nuurTgh8pe6ewFiKEzmpBr1ceqKwciIERkZJ2BE0wuGQmPt_GDj5uxNQZTtm666eAiiUXLRqDf6I5E313bOYceNkIOGX2PAlzJVvmkX_GMnd-A3efnVn__BctblBudM5K123zJhsqIoe--9DCSnXjzm4gbhOxlFf11IUpjmx5qWCW3YAEniJqk6bhHBimY9uKwlt92wxnG2gOh9AmGPTlAFRcmp4WZzS5bbhdXg-yIQcwg37ZT_mDfzDWXWKI5fQ7eMaToYG_Jxu_99IgF7LrjqFiSBQoIE2gCeI-Zu6UZoAZugAeUq9eWGZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIw9z-4ZKUA_IIH2NhLXl0LWhvc3QtcHViLTE0NDM5OTMzMzg3Mzk5MjeaCStodHRwczovL2ludC5hbGliYWJhY2xvdWQuY29tL3NlLzEwMjMzMzUxNTkvsQlSz1T0_MsOQsgJAMgJigKYCwGhC_iwAT2GFld4ugs6CAEQBRgEIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwJzadALEtIMAhABmg0BEqoNAk1ZyA0B0g1TaHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU5Lz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MDc4MzU3NTa4E____________wGIFAKwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFwVp09G4h8LkuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIwN_c_uGSlAMVGyG3AB3COgnUEAEYASAAEgIVEfD_BwE&num=1&cid=CAASwwHkaHjYFlsV21_CcRew5n4ev6b4tV9PhkCcC36huO42qVxUUo3idGEwgAK3Ncm0wmI3-VsoGtO1HtFpwWnec62IXNDFXUxcG75azAt_ARWVHOrHDs_G0SdOWTRYfLcjXU6Jb8FaoAGaP8FR03vwXmrCsA71SAgwBv8flOqpzFGnT_hkmJ4M_13LTsk83mfP0hZB38mrJ191Jn5B5WTKPVKWBSJE7M965LXExkhIF6hTW0URJm8kowMFI2vuXf09JDaoIvU&sig=AOD64_0LJb5IDPg7iz-h88d_KledjQYjyA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Built for advanced reasoning, scalable efficiency, and real-world performance" [ref=e358]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKg7v0dHxaYCzL5vC3LUPwvWkoA23tfDWhgHq9pPZ7xWwkB8QASAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGBmbTAA6gDBMgDCqoE-QJP0H2ksfJCf8KtwiMuZKr1PYJCATR_TxuhMlgBI0FMG2Y-vpPX3ioF9fVcqBXnuuD8MiYBwIyvfPhRM_ePw73K0Y5mteF3-ajMpUlFojn9i0VTyP-Fe89i3vfbxaXiN96cSDYS76SWmXCZ_L4Tp8gp8EyfzGCkUC2t8yMm1VnSl8_ycwYj2BKdVxYyYyd7YJo_HzjMaXRHUJJXAura0NP_G8TofmWP95k90YyNR4nuurTgh8pe6ewFiKEzmpBr1ceqKwciIERkZJ2BE0wuGQmPt_GDj5uxNQZTtm666eAiiUXLRqDf6I5E313bOYceNkIOGX2PAlzJVvmkX_GMnd-A3efnVn__BctblBudM5K123zJhsqIoe--9DCSnXjzm4gbhOxlFf11IUpjmx5qWCW3YAEniJqk6bhHBimY9uKwlt92wxnG2gOh9AmGPTlAFRcmp4WZzS5bbhdXg-yIQcwg37ZT_mDfzDWXWKI5fQ7eMaToYG_Jxu_99IgF7LrjqFiSBQoIE2gCeI-Zu6UZoAZugAeUq9eWGZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIw9z-4ZKUA_IIH2NhLXl0LWhvc3QtcHViLTE0NDM5OTMzMzg3Mzk5MjeaCStodHRwczovL2ludC5hbGliYWJhY2xvdWQuY29tL3NlLzEwMjMzMzUxNTkvsQlSz1T0_MsOQsgJAMgJigKYCwGhC_iwAT2GFld4ugs6CAEQBRgEIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwJzadALEtIMAhABmg0BEqoNAk1ZyA0B0g1TaHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU5Lz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MDc4MzU3NTa4E____________wGIFAKwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFwVp09G4h8LkuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIwN_c_uGSlAMVGyG3AB3COgnUEAEYASAAEgIVEfD_BwE&num=1&cid=CAASwwHkaHjYFlsV21_CcRew5n4ev6b4tV9PhkCcC36huO42qVxUUo3idGEwgAK3Ncm0wmI3-VsoGtO1HtFpwWnec62IXNDFXUxcG75azAt_ARWVHOrHDs_G0SdOWTRYfLcjXU6Jb8FaoAGaP8FR03vwXmrCsA71SAgwBv8flOqpzFGnT_hkmJ4M_13LTsk83mfP0hZB38mrJ191Jn5B5WTKPVKWBSJE7M965LXExkhIF6hTW0URJm8kowMFI2vuXf09JDaoIvU&sig=AOD64_0LJb5IDPg7iz-h88d_KledjQYjyA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e359]:
+                  - generic [ref=e361]:
+                    - generic [ref=e362]: Sponsored
+                    - text: ·
+                  - generic [ref=e364]: Alibaba Cloud
+              - button "My Ad Center" [ref=e367]:
+                - generic [ref=e371]:
+                  - img
+            - link "Visit site" [ref=e376] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKg7v0dHxaYCzL5vC3LUPwvWkoA23tfDWhgHq9pPZ7xWwkB8QASAAYMubgoXAF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGBmbTAA6gDBMgDCqoE-QJP0H2ksfJCf8KtwiMuZKr1PYJCATR_TxuhMlgBI0FMG2Y-vpPX3ioF9fVcqBXnuuD8MiYBwIyvfPhRM_ePw73K0Y5mteF3-ajMpUlFojn9i0VTyP-Fe89i3vfbxaXiN96cSDYS76SWmXCZ_L4Tp8gp8EyfzGCkUC2t8yMm1VnSl8_ycwYj2BKdVxYyYyd7YJo_HzjMaXRHUJJXAura0NP_G8TofmWP95k90YyNR4nuurTgh8pe6ewFiKEzmpBr1ceqKwciIERkZJ2BE0wuGQmPt_GDj5uxNQZTtm666eAiiUXLRqDf6I5E313bOYceNkIOGX2PAlzJVvmkX_GMnd-A3efnVn__BctblBudM5K123zJhsqIoe--9DCSnXjzm4gbhOxlFf11IUpjmx5qWCW3YAEniJqk6bhHBimY9uKwlt92wxnG2gOh9AmGPTlAFRcmp4WZzS5bbhdXg-yIQcwg37ZT_mDfzDWXWKI5fQ7eMaToYG_Jxu_99IgF7LrjqFiSBQoIE2gCeI-Zu6UZoAZugAeUq9eWGZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQLSCCkIgEEQARheMgKCAjoMgEKAwICAgICAgAIqSNmg0jVQFFjIw9z-4ZKUA_IIH2NhLXl0LWhvc3QtcHViLTE0NDM5OTMzMzg3Mzk5MjeaCStodHRwczovL2ludC5hbGliYWJhY2xvdWQuY29tL3NlLzEwMjMzMzUxNTkvsQlSz1T0_MsOQsgJAMgJigKYCwGhC_iwAT2GFld4ugs6CAEQBRgEIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwJzadALEtIMAhABmg0BEqoNAk1ZyA0B0g1TaHR0cHM6Ly9pbnQuYWxpYmFiYWNsb3VkLmNvbS9zZS8xMDIzMzM1MTU5Lz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MDc4MzU3NTa4E____________wGIFAKwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFwVp09G4h8LkuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIwN_c_uGSlAMVGyG3AB3COgnUEAEYASAAEgIVEfD_BwE&num=1&cid=CAASwwHkaHjYFlsV21_CcRew5n4ev6b4tV9PhkCcC36huO42qVxUUo3idGEwgAK3Ncm0wmI3-VsoGtO1HtFpwWnec62IXNDFXUxcG75azAt_ARWVHOrHDs_G0SdOWTRYfLcjXU6Jb8FaoAGaP8FR03vwXmrCsA71SAgwBv8flOqpzFGnT_hkmJ4M_13LTsk83mfP0hZB38mrJ191Jn5B5WTKPVKWBSJE7M965LXExkhIF6hTW0URJm8kowMFI2vuXf09JDaoIvU&sig=AOD64_0LJb5IDPg7iz-h88d_KledjQYjyA&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e377]: Visit site
+          - generic [ref=e382] [cursor=pointer]:
+            - link [ref=e383]:
+              - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+              - generic [ref=e390]: 10:30
+            - generic [ref=e392]:
+              - generic [ref=e393]:
+                - heading "Github are you joking? 10 minutes, 30 seconds" [level=3] [ref=e394]:
+                  - link "Github are you joking? 10 minutes, 30 seconds" [ref=e395]:
+                    - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+                    - text: Github are you joking?
+                - generic [ref=e397]:
+                  - group [ref=e398]:
+                    - generic [ref=e399]:
+                      - text: The PrimeTime
+                      - img [ref=e402]:
+                        - generic [ref=e404]:
+                          - img
+                  - group [ref=e405]:
+                    - generic [ref=e406]: 303K views
+                    - generic [ref=e407]: •
+                    - generic [ref=e408]: 20 hours ago
+                  - group [ref=e409]:
+                    - generic [ref=e413]: New
+              - button "More actions" [ref=e416]:
+                - generic [ref=e420]:
+                  - img
+          - generic [ref=e425] [cursor=pointer]:
+            - link [ref=e426]:
+              - /url: /watch?v=wVe3XOnio7M&pp=ugUEEgJlbg%3D%3D
+              - generic [ref=e433]: 15:25
+            - generic [ref=e435]:
+              - generic [ref=e436]:
+                - heading "The \"PI\" (coding) agent is so much more than just another amazing coding agent! 15 minutes" [level=3] [ref=e437]:
+                  - link "The \"PI\" (coding) agent is so much more than just another amazing coding agent! 15 minutes" [ref=e438]:
+                    - /url: /watch?v=wVe3XOnio7M&pp=ugUEEgJlbg%3D%3D
+                    - text: The "PI" (coding) agent is so much more than just another amazing coding agent!
+                - generic [ref=e440]:
+                  - group [ref=e441]:
+                    - generic [ref=e442]: Maximilian Schwarzmüller
+                  - group [ref=e443]:
+                    - generic [ref=e444]: 73K views
+                    - generic [ref=e445]: •
+                    - generic [ref=e446]: 1 month ago
+              - button "More actions" [ref=e449]:
+                - generic [ref=e453]:
+                  - img
+          - generic [ref=e458] [cursor=pointer]:
+            - link [ref=e459]:
+              - /url: /watch?v=NfkKtfz3mpo
+              - generic [ref=e466]: 6:05
+            - generic [ref=e468]:
+              - generic [ref=e469]:
+                - heading "Real-Time Face Recognition with 1 Image (DeepFace AI Demo) | Python Project | No Training Required 6 minutes, 5 seconds" [level=3] [ref=e470]:
+                  - link "Real-Time Face Recognition with 1 Image (DeepFace AI Demo) | Python Project | No Training Required 6 minutes, 5 seconds" [ref=e471]:
+                    - /url: /watch?v=NfkKtfz3mpo
+                    - text: Real-Time Face Recognition with 1 Image (DeepFace AI Demo) | Python Project | No Training Required
+                - generic [ref=e473]:
+                  - group [ref=e474]:
+                    - generic [ref=e475]: IndusCore Tech
+                  - group [ref=e476]:
+                    - generic [ref=e477]: 18 views
+                    - generic [ref=e478]: •
+                    - generic [ref=e479]: 6 days ago
+                  - group [ref=e480]:
+                    - generic [ref=e484]: New
+              - button "More actions" [ref=e487]:
+                - generic [ref=e491]:
+                  - img
+          - generic [ref=e496] [cursor=pointer]:
+            - link [ref=e497]:
+              - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+              - generic [ref=e504]: 16:16
+            - generic [ref=e506]:
+              - generic [ref=e507]:
+                - heading "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [level=3] [ref=e508]:
+                  - link "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [ref=e509]:
+                    - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+                    - text: 32 Tricks to Level Up Claude Code in 16 Mins
+                - generic [ref=e511]:
+                  - group [ref=e512]:
+                    - generic [ref=e513]:
+                      - text: Nate Herk | AI Automation
+                      - img [ref=e516]:
+                        - generic [ref=e518]:
+                          - img
+                  - group [ref=e519]:
+                    - generic [ref=e520]: 50K views
+                    - generic [ref=e521]: •
+                    - generic [ref=e522]: 1 day ago
+                  - group [ref=e523]:
+                    - generic [ref=e527]: New
+              - button "More actions" [ref=e530]:
+                - generic [ref=e534]:
+                  - img
+          - generic [ref=e539] [cursor=pointer]:
+            - link [ref=e540]:
+              - /url: /watch?v=kwSVtQ7dziU
+              - generic [ref=e547]: 1:06:32
+            - generic [ref=e549]:
+              - generic [ref=e550]:
+                - 'heading "Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI 1 hour, 6 minutes" [level=3] [ref=e551]':
+                  - 'link "Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI 1 hour, 6 minutes" [ref=e552]':
+                    - /url: /watch?v=kwSVtQ7dziU
+                    - text: "Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI"
+                - generic [ref=e554]:
+                  - group [ref=e555]:
+                    - generic [ref=e556]: "No Priors: AI, Machine Learning, Tech, & Startups"
+                  - group [ref=e557]:
+                    - generic [ref=e558]: 768K views
+                    - generic [ref=e559]: •
+                    - generic [ref=e560]: 1 month ago
+              - button "More actions" [ref=e563]:
+                - generic [ref=e567]:
+                  - img
+          - generic [ref=e572] [cursor=pointer]:
+            - link [ref=e573]:
+              - /url: /watch?v=2k5MMjuKo6E
+              - generic [ref=e580]: 13:34
+            - generic [ref=e582]:
+              - generic [ref=e583]:
+                - heading "You need to use this feature for Hermes Agent (but don't make my mistakes) 13 minutes, 34 seconds" [level=3] [ref=e584]:
+                  - link "You need to use this feature for Hermes Agent (but don't make my mistakes) 13 minutes, 34 seconds" [ref=e585]:
+                    - /url: /watch?v=2k5MMjuKo6E
+                    - text: You need to use this feature for Hermes Agent (but don't make my mistakes)
+                - generic [ref=e587]:
+                  - group [ref=e588]:
+                    - generic [ref=e589]: Gideon Ng Builds
+                  - group [ref=e590]:
+                    - generic [ref=e591]: 4.3K views
+                    - generic [ref=e592]: •
+                    - generic [ref=e593]: 9 days ago
+              - button "More actions" [ref=e596]:
+                - generic [ref=e600]:
+                  - img
+          - generic [ref=e605] [cursor=pointer]:
+            - link [ref=e606]:
+              - /url: /watch?v=474wZZHoWN4&pp=ugUEEgJlbg%3D%3D
+              - generic [ref=e613]: 28:50
+            - generic [ref=e615]:
+              - generic [ref=e616]:
+                - heading "The Beginner’s Guide to OpenAI Codex 28 minutes" [level=3] [ref=e617]:
+                  - link "The Beginner’s Guide to OpenAI Codex 28 minutes" [ref=e618]:
+                    - /url: /watch?v=474wZZHoWN4&pp=ugUEEgJlbg%3D%3D
+                    - text: The Beginner’s Guide to OpenAI Codex
+                - generic [ref=e620]:
+                  - group [ref=e621]:
+                    - generic [ref=e622]: Riley Brown
+                  - group [ref=e623]:
+                    - generic [ref=e624]: 8.2K views
+                    - generic [ref=e625]: •
+                    - generic [ref=e626]: 7 hours ago
+                  - group [ref=e627]:
+                    - generic [ref=e631]: New
+              - button "More actions" [ref=e634]:
+                - generic [ref=e638]:
+                  - img
+          - generic [ref=e643] [cursor=pointer]:
+            - link [ref=e644]:
+              - /url: /watch?v=QcxL0SXILC4
+              - generic [ref=e651]: 15:47
+            - generic [ref=e653]:
+              - generic [ref=e654]:
+                - heading "What are Skills, Agents, Prompts, Instructions and how to use them? 15 minutes" [level=3] [ref=e655]:
+                  - link "What are Skills, Agents, Prompts, Instructions and how to use them? 15 minutes" [ref=e656]:
+                    - /url: /watch?v=QcxL0SXILC4
+                    - text: What are Skills, Agents, Prompts, Instructions and how to use them?
+                - generic [ref=e658]:
+                  - group [ref=e659]:
+                    - generic [ref=e660]: Software Developer Diaries
+                  - group [ref=e661]:
+                    - generic [ref=e662]: 9.6K views
+                    - generic [ref=e663]: •
+                    - generic [ref=e664]: 1 month ago
+              - button "More actions" [ref=e667]:
+                - generic [ref=e671]:
+                  - img
+          - generic [ref=e676] [cursor=pointer]:
+            - link [ref=e677]:
+              - /url: /watch?v=bFO0uAMPx1g&pp=ugUEEgJlbg%3D%3D
+              - generic [ref=e684]: 40:52
+            - generic [ref=e686]:
+              - generic [ref=e687]:
+                - heading "Hermes Agent is INSANE... 40 minutes" [level=3] [ref=e688]:
+                  - link "Hermes Agent is INSANE... 40 minutes" [ref=e689]:
+                    - /url: /watch?v=bFO0uAMPx1g&pp=ugUEEgJlbg%3D%3D
+                    - text: Hermes Agent is INSANE...
+                - generic [ref=e691]:
+                  - group [ref=e692]:
+                    - generic [ref=e693]:
+                      - text: Wes Roth
+                      - img [ref=e696]:
+                        - generic [ref=e698]:
+                          - img
+                  - group [ref=e699]:
+                    - generic [ref=e700]: 49K views
+                    - generic [ref=e701]: •
+                    - generic [ref=e702]: 2 days ago
+                  - group [ref=e703]:
+                    - generic [ref=e707]: New
+              - button "More actions" [ref=e710]:
+                - generic [ref=e714]:
+                  - img
+          - generic [ref=e719] [cursor=pointer]:
+            - link [ref=e720]:
+              - /url: /watch?v=X7YMMyd2Qnk
+              - generic [ref=e727]: 9:51
+            - generic [ref=e729]:
+              - generic [ref=e730]:
+                - heading "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [level=3] [ref=e731]:
+                  - link "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [ref=e732]:
+                    - /url: /watch?v=X7YMMyd2Qnk
+                    - text: Claude Design Basics | Master 95% in 10 Minutes
+                - generic [ref=e734]:
+                  - group [ref=e735]:
+                    - generic [ref=e736]: Tristen O'Brien
+                  - group [ref=e737]:
+                    - generic [ref=e738]: 34K views
+                    - generic [ref=e739]: •
+                    - generic [ref=e740]: 2 days ago
+                  - group [ref=e741]:
+                    - generic [ref=e745]: New
+              - button "More actions" [ref=e748]:
+                - generic [ref=e752]:
+                  - img
+          - generic [ref=e757] [cursor=pointer]:
+            - link [ref=e758]:
+              - /url: /watch?v=iXd0t60YmMw
+              - generic [ref=e765]: 15:05
+            - generic [ref=e767]:
+              - generic [ref=e768]:
+                - heading "Karpathy's LLM Wiki - Full Beginner Setup Guide 15 minutes" [level=3] [ref=e769]:
+                  - link "Karpathy's LLM Wiki - Full Beginner Setup Guide 15 minutes" [ref=e770]:
+                    - /url: /watch?v=iXd0t60YmMw
+                    - text: Karpathy's LLM Wiki - Full Beginner Setup Guide
+                - generic [ref=e772]:
+                  - group [ref=e773]:
+                    - generic [ref=e774]:
+                      - text: Teacher's Tech
+                      - img [ref=e777]:
+                        - generic [ref=e779]:
+                          - img
+                  - group [ref=e780]:
+                    - generic [ref=e781]: 231K views
+                    - generic [ref=e782]: •
+                    - generic [ref=e783]: 2 weeks ago
+              - button "More actions" [ref=e786]:
+                - generic [ref=e790]:
+                  - img
+          - generic [ref=e795] [cursor=pointer]:
+            - link [ref=e796]:
+              - /url: /watch?v=EdZWPB1fIJc&pp=0gcJCd8KAYcqIYzv
+              - generic [ref=e803]: 8:46
+            - generic [ref=e805]:
+              - generic [ref=e806]:
+                - heading "Should You Learn Coding Now? Anthropic CEO Explains 8 minutes, 46 seconds" [level=3] [ref=e807]:
+                  - link "Should You Learn Coding Now? Anthropic CEO Explains 8 minutes, 46 seconds" [ref=e808]:
+                    - /url: /watch?v=EdZWPB1fIJc&pp=0gcJCd8KAYcqIYzv
+                    - text: Should You Learn Coding Now? Anthropic CEO Explains
+                - generic [ref=e810]:
+                  - group [ref=e811]:
+                    - generic [ref=e812]: Nikhil Kamath Clips
+                  - group [ref=e813]:
+                    - generic [ref=e814]: 508K views
+                    - generic [ref=e815]: •
+                    - generic [ref=e816]: 1 month ago
+              - button "More actions" [ref=e819]:
+                - generic [ref=e823]:
+                  - img
+          - generic [ref=e828] [cursor=pointer]:
+            - link [ref=e829]:
+              - /url: /watch?v=Lg-meK5IU8Q
+              - generic [ref=e836]: 12:25
+            - generic [ref=e838]:
+              - generic [ref=e839]:
+                - heading "What AI Agent Skills Are and How They Work 12 minutes, 25 seconds" [level=3] [ref=e840]:
+                  - link "What AI Agent Skills Are and How They Work 12 minutes, 25 seconds" [ref=e841]:
+                    - /url: /watch?v=Lg-meK5IU8Q
+                    - text: What AI Agent Skills Are and How They Work
+                - generic [ref=e843]:
+                  - group [ref=e844]:
+                    - generic [ref=e845]:
+                      - text: IBM Technology
+                      - img [ref=e848]:
+                        - generic [ref=e850]:
+                          - img
+                  - group [ref=e851]:
+                    - generic [ref=e852]: 140K views
+                    - generic [ref=e853]: •
+                    - generic [ref=e854]: 8 days ago
+              - button "More actions" [ref=e857]:
+                - generic [ref=e861]:
+                  - img
+          - generic [ref=e866] [cursor=pointer]:
+            - link [ref=e867]:
+              - /url: /watch?v=7j_NE6Pjv-E&pp=ugUEEgJlbg%3D%3D
+              - generic [ref=e874]: 20:18
+            - generic [ref=e876]:
+              - generic [ref=e877]:
+                - heading "Model Context Protocol (MCP), clearly explained (why it matters) 20 minutes" [level=3] [ref=e878]:
+                  - link "Model Context Protocol (MCP), clearly explained (why it matters) 20 minutes" [ref=e879]:
+                    - /url: /watch?v=7j_NE6Pjv-E&pp=ugUEEgJlbg%3D%3D
+                    - text: Model Context Protocol (MCP), clearly explained (why it matters)
+                - generic [ref=e881]:
+                  - group [ref=e882]:
+                    - generic [ref=e883]: Greg Isenberg
+                  - group [ref=e884]:
+                    - generic [ref=e885]: 1.2M views
+                    - generic [ref=e886]: •
+                    - generic [ref=e887]: 1 year ago
+              - button "More actions" [ref=e890]:
+                - generic [ref=e894]:
+                  - img
+          - generic [ref=e899] [cursor=pointer]:
+            - link [ref=e900]:
+              - /url: /watch?v=pvxNcQTcIy4&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+              - generic [ref=e907]: 9:57
+            - generic [ref=e909]:
+              - generic [ref=e910]:
+                - heading "Agent Skills or MCP in the era of Claude Code? 9 minutes, 57 seconds" [level=3] [ref=e911]:
+                  - link "Agent Skills or MCP in the era of Claude Code? 9 minutes, 57 seconds" [ref=e912]:
+                    - /url: /watch?v=pvxNcQTcIy4&pp=ugUEEgJlbtIHCQnfCgGHKiGM7w%3D%3D
+                    - text: Agent Skills or MCP in the era of Claude Code?
+                - generic [ref=e914]:
+                  - group [ref=e915]:
+                    - generic [ref=e916]: Confluent Developer
+                  - group [ref=e917]:
+                    - generic [ref=e918]: 169K views
+                    - generic [ref=e919]: •
+                    - generic [ref=e920]: 1 month ago
+              - button "More actions" [ref=e923]:
+                - generic [ref=e927]:
+                  - img
+          - generic [ref=e932] [cursor=pointer]:
+            - link [ref=e933]:
+              - /url: /watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D
+              - generic [ref=e940]: 16:22
+            - generic [ref=e942]:
+              - generic [ref=e943]:
+                - heading "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic 16 minutes" [level=3] [ref=e944]:
+                  - link "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic 16 minutes" [ref=e945]:
+                    - /url: /watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D
+                    - text: Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic
+                - generic [ref=e947]:
+                  - group [ref=e948]:
+                    - generic [ref=e949]: AI Engineer
+                  - group [ref=e950]:
+                    - generic [ref=e951]: 1.2M views
+                    - generic [ref=e952]: •
+                    - generic [ref=e953]: 4 months ago
+              - button "More actions" [ref=e956]:
+                - generic [ref=e960]:
+                  - img
+          - generic [ref=e965] [cursor=pointer]:
+            - link [ref=e966]:
+              - /url: /watch?v=9FoEsXNGLwI
+              - generic [ref=e973]: 8:27
+            - generic [ref=e975]:
+              - generic [ref=e976]:
+                - heading "Someone open-sourced a hedge fund (53k stars on GitHub) 8 minutes, 27 seconds" [level=3] [ref=e977]:
+                  - link "Someone open-sourced a hedge fund (53k stars on GitHub) 8 minutes, 27 seconds" [ref=e978]:
+                    - /url: /watch?v=9FoEsXNGLwI
+                    - text: Someone open-sourced a hedge fund (53k stars on GitHub)
+                - generic [ref=e980]:
+                  - group [ref=e981]:
+                    - generic [ref=e982]: Indie Hacker News
+                  - group [ref=e983]:
+                    - generic [ref=e984]: 139 views
+                    - generic [ref=e985]: •
+                    - generic [ref=e986]: 14 hours ago
+                  - group [ref=e987]:
+                    - generic [ref=e991]: New
+              - button "More actions" [ref=e994]:
+                - generic [ref=e998]:
+                  - img
+          - generic [ref=e1003] [cursor=pointer]:
+            - link [ref=e1004]:
+              - /url: /watch?v=CST89O0Ecy8
+              - generic [ref=e1011]: 4:55
+            - generic [ref=e1013]:
+              - generic [ref=e1014]:
+                - heading "Beginning of The End For AI? 4 minutes, 55 seconds" [level=3] [ref=e1015]:
+                  - link "Beginning of The End For AI? 4 minutes, 55 seconds" [ref=e1016]:
+                    - /url: /watch?v=CST89O0Ecy8
+                    - text: Beginning of The End For AI?
+                - generic [ref=e1018]:
+                  - group [ref=e1019]:
+                    - generic [ref=e1020]: Kyle Cook from Web Dev Simplified
+                  - group [ref=e1021]:
+                    - generic [ref=e1022]: 117K views
+                    - generic [ref=e1023]: •
+                    - generic [ref=e1024]: 1 day ago
+                  - group [ref=e1025]:
+                    - generic [ref=e1029]: New
+              - button "More actions" [ref=e1032]:
+                - generic [ref=e1036]:
+                  - img
+          - generic [ref=e1041] [cursor=pointer]:
+            - link [ref=e1042]:
+              - /url: /watch?v=aEL384kTznk
+              - generic [ref=e1049]: 8:34
+            - generic [ref=e1051]:
+              - generic [ref=e1052]:
+                - heading "I Quit My GitHub Job Because AI Breaks Software 8 minutes, 34 seconds" [level=3] [ref=e1053]:
+                  - link "I Quit My GitHub Job Because AI Breaks Software 8 minutes, 34 seconds" [ref=e1054]:
+                    - /url: /watch?v=aEL384kTznk
+                    - text: I Quit My GitHub Job Because AI Breaks Software
+                - generic [ref=e1056]:
+                  - group [ref=e1057]:
+                    - generic [ref=e1058]: Zen van Riel
+                  - group [ref=e1059]:
+                    - generic [ref=e1060]: 59K views
+                    - generic [ref=e1061]: •
+                    - generic [ref=e1062]: 12 days ago
+              - button "More actions" [ref=e1065]:
+                - generic [ref=e1069]:
+                  - img
+          - generic [ref=e1074] [cursor=pointer]:
+            - link [ref=e1075]:
+              - /url: /watch?v=6wdvSH61xGw&pp=ugUHEgVlbi1VUw%3D%3D
+              - generic [ref=e1082]: 20:32
+            - generic [ref=e1084]:
+              - generic [ref=e1085]:
+                - 'heading "Agent Skills vs MCP: What’s the difference? 20 minutes" [level=3] [ref=e1086]':
+                  - 'link "Agent Skills vs MCP: What’s the difference? 20 minutes" [ref=e1087]':
+                    - /url: /watch?v=6wdvSH61xGw&pp=ugUHEgVlbi1VUw%3D%3D
+                    - text: "Agent Skills vs MCP: What’s the difference?"
+                - generic [ref=e1089]:
+                  - group [ref=e1090]:
+                    - generic [ref=e1091]: Shaw Talebi
+                  - group [ref=e1092]:
+                    - generic [ref=e1093]: 71K views
+                    - generic [ref=e1094]: •
+                    - generic [ref=e1095]: 3 months ago
+              - button "More actions" [ref=e1098]:
+                - generic [ref=e1102]:
+                  - img
+          - button "Show more" [ref=e1110] [cursor=pointer]:
+            - generic [ref=e1111]: Show more
+      - heading "Comments" [level=2] [ref=e1120]:
+        - generic [ref=e1121]: Comments

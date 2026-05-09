@@ -1,0 +1,107 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Agentic OS" [ref=e5] [cursor=pointer]:
+          - /url: https://skool.com/scrapes
+          - heading "Agentic OS" [level=1] [ref=e6]
+        - navigation [ref=e8]:
+          - button "Feed" [ref=e9] [cursor=pointer]:
+            - img [ref=e10]
+            - text: Feed
+          - button "Scheduled" [ref=e12] [cursor=pointer]:
+            - img [ref=e13]
+            - text: Scheduled
+          - button "Skills" [ref=e16] [cursor=pointer]:
+            - img [ref=e17]
+            - text: Skills
+          - button "Docs" [ref=e20] [cursor=pointer]:
+            - img [ref=e21]
+            - text: Docs
+          - button "Settings" [ref=e24] [cursor=pointer]:
+            - img [ref=e25]
+            - text: Settings
+    - generic [ref=e30]:
+      - generic [ref=e31]: WORKSPACE
+      - generic [ref=e134]:
+        - img [ref=e135]
+        - text: Root
+    - generic [ref=e138]:
+      - img [ref=e139]
+      - generic [ref=e142]: Brand context is missing. Run the onboarding flow to set up your voice, positioning, and ICP.
+      - button "Run Start-Here" [ref=e143] [cursor=pointer]
+    - main [ref=e40]:
+      - generic [ref=e41]:
+        - button "New Goal" [ref=e43] [cursor=pointer]:
+          - img [ref=e44]
+          - text: New Goal
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - text: Goals
+              - button "By tag" [ref=e49] [cursor=pointer]
+            - generic [ref=e51]:
+              - text: Done
+              - generic [ref=e52]:
+                - button "24h" [ref=e53] [cursor=pointer]
+                - button "7d" [ref=e54] [cursor=pointer]
+                - button "30d" [ref=e55] [cursor=pointer]
+                - button "90d" [ref=e56] [cursor=pointer]
+                - button "By tag" [ref=e58] [cursor=pointer]
+          - generic [ref=e59]:
+            - generic [ref=e60]: No goals yet — enter one above to get started
+            - generic [ref=e62]: No goals yet — enter one above to get started
+        - generic [ref=e63]:
+          - generic "Drag to resize" [ref=e64]
+          - generic [ref=e66]:
+            - generic [ref=e67]: New Goal
+            - button [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+          - generic [ref=e72]:
+            - textbox "Goal title..." [active] [ref=e73]
+            - generic [ref=e74]:
+              - textbox "What do you want to do? (/ commands, @ tags, -- flags)" [ref=e77]
+              - generic [ref=e78]:
+                - button "Attach file" [ref=e79] [cursor=pointer]:
+                  - img [ref=e80]
+                - button "Discard draft" [disabled] [ref=e82]:
+                  - img [ref=e83]
+                - button "Opus" [ref=e87] [cursor=pointer]:
+                  - img [ref=e88]
+                  - text: Opus
+                  - img [ref=e91]
+                - button "Auto" [ref=e94] [cursor=pointer]:
+                  - img [ref=e95]
+                  - text: Auto
+                  - img [ref=e98]
+                - button "tag" [ref=e101] [cursor=pointer]:
+                  - img [ref=e102]
+                  - text: tag
+                - button "Task" [ref=e106] [cursor=pointer]:
+                  - text: Task
+                  - img [ref=e107]
+                - button "Send" [disabled] [ref=e109]:
+                  - img [ref=e110]
+                  - text: Send
+            - generic [ref=e112]:
+              - generic [ref=e113]: Try something like
+              - generic [ref=e114]:
+                - button "Manage skills Install, edit, or import a skill into the system" [ref=e115] [cursor=pointer]:
+                  - generic [ref=e116]: Manage skills
+                  - generic [ref=e117]: Install, edit, or import a skill into the system
+                - button "Create a scheduled task Automate something on a recurring schedule" [ref=e118] [cursor=pointer]:
+                  - generic [ref=e119]: Create a scheduled task
+                  - generic [ref=e120]: Automate something on a recurring schedule
+                - button "Use a skill... See what's installed and run one" [ref=e121] [cursor=pointer]:
+                  - generic [ref=e122]: Use a skill...
+                  - generic [ref=e123]: See what's installed and run one
+                - button "Connect to your apps (MCP)... Link an external service like Notion, Slack, etc." [ref=e124] [cursor=pointer]:
+                  - generic [ref=e125]: Connect to your apps (MCP)...
+                  - generic [ref=e126]: Link an external service like Notion, Slack, etc.
+                - button "Add a client Set up a new client workspace" [ref=e127] [cursor=pointer]:
+                  - generic [ref=e128]: Add a client
+                  - generic [ref=e129]: Set up a new client workspace
+                - button "Perform some research Find what's trending in your industry" [ref=e130] [cursor=pointer]:
+                  - generic [ref=e131]: Perform some research
+                  - generic [ref=e132]: Find what's trending in your industry
+  - alert [ref=e133]

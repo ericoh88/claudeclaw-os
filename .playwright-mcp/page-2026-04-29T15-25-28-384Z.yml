@@ -1,0 +1,1116 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e196]:
+            - img
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e198]:
+              - img
+          - generic [ref=e16]: MY
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]:
+              - generic [ref=e200]:
+                - img
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]:
+            - generic [ref=e202]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e203]:
+        - button "Settings" [ref=e208] [cursor=pointer]:
+          - generic [ref=e211]:
+            - img
+        - link "Sign in" [ref=e214] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9FoEsXNGLwI&hl=en&ec=65620
+          - generic [ref=e218]:
+            - img
+          - generic [ref=e219]: Sign in
+  - main [ref=e48]:
+    - generic [ref=e57]:
+      - generic [ref=e224]:
+        - img
+      - generic [ref=e59]:
+        - generic [ref=e60]: Sign in to confirm you’re not a bot
+        - generic [ref=e61]:
+          - text: This helps protect our community.
+          - link "Learn more" [ref=e62] [cursor=pointer]:
+            - /url: https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube
+        - link "Sign in" [ref=e66] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253D9FoEsXNGLwI&hl=en
+          - generic [ref=e67]: Sign in
+    - generic [ref=e74]:
+      - generic [ref=e1280]:
+        - generic [ref=e1282]:
+          - generic [ref=e1283]:
+            - heading "In this video" [active] [level=2] [ref=e1285]:
+              - generic "In this video" [ref=e1286]
+            - button "Close" [ref=e1290] [cursor=pointer]:
+              - generic [ref=e1294]:
+                - img
+          - tablist [ref=e1300]:
+            - tab "Chapters" [ref=e1304] [cursor=pointer]:
+              - generic [ref=e1306]: Chapters
+            - tab "Transcript" [selected] [ref=e1313] [cursor=pointer]:
+              - generic [ref=e1315]: Transcript
+        - generic [ref=e1320]:
+          - generic [ref=e1325]:
+            - generic [ref=e1326]: Search transcript
+            - textbox "Search transcript" [ref=e1327]
+          - generic [ref=e1328]:
+            - generic [ref=e1329]:
+              - 'button "Chapter 1: Intro" [ref=e1332] [cursor=pointer]':
+                - 'heading "Chapter 1: Intro" [level=3] [ref=e1334]'
+              - generic [ref=e1335]:
+                - button "Somebody just open sourced a hedge fund." [ref=e1337] [cursor=pointer]:
+                  - generic [ref=e1340]:
+                    - generic [ref=e1341]: 0:00
+                    - text: Somebody just open sourced a hedge fund.
+                - button "4 seconds Okay, so here's something kind of wild that's been climbing the GitHub trending list this weekend. There's a Python project called Trading Agents that just" [ref=e1344] [cursor=pointer]:
+                  - generic [ref=e1347]:
+                    - generic [ref=e1348]: 0:04
+                    - generic [ref=e1349]: 4 seconds
+                    - text: Okay, so here's something kind of wild that's been climbing the GitHub trending list this weekend. There's a Python project called Trading Agents that just
+                - button "12 seconds crossed 53,000 stars. And what it actually does is pretty unhinged when you think about it. It's a multi- aent LLM framework that mirrors the structure" [ref=e1351] [cursor=pointer]:
+                  - generic [ref=e1354]:
+                    - generic [ref=e1355]: 0:12
+                    - generic [ref=e1356]: 12 seconds
+                    - text: crossed 53,000 stars. And what it actually does is pretty unhinged when you think about it. It's a multi- aent LLM framework that mirrors the structure
+                - button "20 seconds of a real Wall Street trading firm. You spin it up, point it at a stock ticker," [ref=e1358] [cursor=pointer]:
+                  - generic [ref=e1361]:
+                    - generic [ref=e1362]: 0:20
+                    - generic [ref=e1363]: 20 seconds
+                    - text: of a real Wall Street trading firm. You spin it up, point it at a stock ticker,
+                - button "24 seconds and it runs an entire simulated firm under the hood." [ref=e1365] [cursor=pointer]:
+                  - generic [ref=e1368]:
+                    - generic [ref=e1369]: 0:24
+                    - generic [ref=e1370]: 24 seconds
+                    - text: and it runs an entire simulated firm under the hood.
+                - button "28 seconds [snorts]" [ref=e1372] [cursor=pointer]:
+                  - generic [ref=e1375]:
+                    - generic [ref=e1376]: 0:28
+                    - generic [ref=e1377]: 28 seconds
+                    - text: "[snorts]"
+                - button "28 seconds fundamentals analyst, sentiment analyst," [ref=e1379] [cursor=pointer]:
+                  - generic [ref=e1382]:
+                    - generic [ref=e1383]: 0:28
+                    - generic [ref=e1384]: 28 seconds
+                    - text: fundamentals analyst, sentiment analyst,
+                - button "30 seconds news analyst, technical analyst, bullish researcher, bearish researcher who actually debate each other, a trader agent, a riskmanagement team, and a" [ref=e1386] [cursor=pointer]:
+                  - generic [ref=e1389]:
+                    - generic [ref=e1390]: 0:30
+                    - generic [ref=e1391]: 30 seconds
+                    - text: news analyst, technical analyst, bullish researcher, bearish researcher who actually debate each other, a trader agent, a riskmanagement team, and a
+                - button "38 seconds portfolio manager who approves or rejects every transaction. All of them powered by LLMS talking to each other." [ref=e1393] [cursor=pointer]:
+                  - generic [ref=e1396]:
+                    - generic [ref=e1397]: 0:38
+                    - generic [ref=e1398]: 38 seconds
+                    - text: portfolio manager who approves or rejects every transaction. All of them powered by LLMS talking to each other.
+                - button "45 seconds 53,678 stars, 9,768 forks, Apache 2.0 license, and version" [ref=e1400] [cursor=pointer]:
+                  - generic [ref=e1403]:
+                    - generic [ref=e1404]: 0:45
+                    - generic [ref=e1405]: 45 seconds
+                    - text: 53,678 stars, 9,768 forks, Apache 2.0 license, and version
+                - button "53 seconds 0.2.4 shipped 3 days ago." [ref=e1407] [cursor=pointer]:
+                  - generic [ref=e1410]:
+                    - generic [ref=e1411]: 0:53
+                    - generic [ref=e1412]: 53 seconds
+                    - text: 0.2.4 shipped 3 days ago.
+                - button "57 seconds It started as a research paper out of UCLA in late 2024, then quietly got open sourced, and the GitHub repo has been doubling stars every couple months" [ref=e1414] [cursor=pointer]:
+                  - generic [ref=e1417]:
+                    - generic [ref=e1418]: 0:57
+                    - generic [ref=e1419]: 57 seconds
+                    - text: It started as a research paper out of UCLA in late 2024, then quietly got open sourced, and the GitHub repo has been doubling stars every couple months
+                - button "1 minute, 6 seconds since. Let me show you what's actually in it. So, the core idea is that real hedge funds don't have one person" [ref=e1421] [cursor=pointer]:
+                  - generic [ref=e1424]:
+                    - generic [ref=e1425]: 1:06
+                    - generic [ref=e1426]: 1 minute, 6 seconds
+                    - text: since. Let me show you what's actually in it. So, the core idea is that real hedge funds don't have one person
+            - generic [ref=e1427]:
+              - 'button "Chapter 2: The README" [ref=e1430] [cursor=pointer]':
+                - 'heading "Chapter 2: The README" [level=3] [ref=e1432]'
+              - generic [ref=e1433]:
+                - button "1 minute, 13 seconds picking stocks. They have entire teams and those teams argue with each other because that argument is what produces a defensible position. The authors looked" [ref=e1435] [cursor=pointer]:
+                  - generic [ref=e1438]:
+                    - generic [ref=e1439]: 1:13
+                    - generic [ref=e1440]: 1 minute, 13 seconds
+                    - text: picking stocks. They have entire teams and those teams argue with each other because that argument is what produces a defensible position. The authors looked
+                - button "1 minute, 22 seconds at how a typical trading firm actually operates, broke it into specialized roles, and built one LLM agent per role." [ref=e1442] [cursor=pointer]:
+                  - generic [ref=e1445]:
+                    - generic [ref=e1446]: 1:22
+                    - generic [ref=e1447]: 1 minute, 22 seconds
+                    - text: at how a typical trading firm actually operates, broke it into specialized roles, and built one LLM agent per role.
+                - button "1 minute, 29 seconds The analyst team is four agents working in parallel." [ref=e1449] [cursor=pointer]:
+                  - generic [ref=e1452]:
+                    - generic [ref=e1453]: 1:29
+                    - generic [ref=e1454]: 1 minute, 29 seconds
+                    - text: The analyst team is four agents working in parallel.
+                - button "1 minute, 33 seconds Fundamentals digs into the company financials, sentiment scrapes, social media and public mood, news monitors," [ref=e1456] [cursor=pointer]:
+                  - generic [ref=e1459]:
+                    - generic [ref=e1460]: 1:33
+                    - generic [ref=e1461]: 1 minute, 33 seconds
+                    - text: Fundamentals digs into the company financials, sentiment scrapes, social media and public mood, news monitors,
+                - button "1 minute, 40 seconds macroeconomic indicators, and technical runs, MACD and RSI, and the usual chart indicators. Then it gets interesting." [ref=e1463] [cursor=pointer]:
+                  - generic [ref=e1466]:
+                    - generic [ref=e1467]: 1:40
+                    - generic [ref=e1468]: 1 minute, 40 seconds
+                    - text: macroeconomic indicators, and technical runs, MACD and RSI, and the usual chart indicators. Then it gets interesting.
+                - button "1 minute, 48 seconds The researcher team has two agents, a bull and a bear, and they're explicitly designed to disagree. They take the analyst reports and they argue against" [ref=e1470] [cursor=pointer]:
+                  - generic [ref=e1473]:
+                    - generic [ref=e1474]: 1:48
+                    - generic [ref=e1475]: 1 minute, 48 seconds
+                    - text: The researcher team has two agents, a bull and a bear, and they're explicitly designed to disagree. They take the analyst reports and they argue against
+                - button "1 minute, 56 seconds each other for a configurable number of rounds before they hand off. The trader agent reads everything, decides timing and position size, and proposes a" [ref=e1477] [cursor=pointer]:
+                  - generic [ref=e1480]:
+                    - generic [ref=e1481]: 1:56
+                    - generic [ref=e1482]: 1 minute, 56 seconds
+                    - text: each other for a configurable number of rounds before they hand off. The trader agent reads everything, decides timing and position size, and proposes a
+                - button "2 minutes, 4 seconds transaction. The risk management team evaluates that proposal against volatility and liquidity. And finally," [ref=e1484] [cursor=pointer]:
+                  - generic [ref=e1487]:
+                    - generic [ref=e1488]: 2:04
+                    - generic [ref=e1489]: 2 minutes, 4 seconds
+                    - text: transaction. The risk management team evaluates that proposal against volatility and liquidity. And finally,
+                - button "2 minutes, 10 seconds the portfolio manager either approves or rejects it. The whole graph runs on LAN graph. So every agent transition is a node. You can resume from a checkpoint" [ref=e1491] [cursor=pointer]:
+                  - generic [ref=e1494]:
+                    - generic [ref=e1495]: 2:10
+                    - generic [ref=e1496]: 2 minutes, 10 seconds
+                    - text: the portfolio manager either approves or rejects it. The whole graph runs on LAN graph. So every agent transition is a node. You can resume from a checkpoint
+                - button "2 minutes, 18 seconds if it crashes and there's a persistent decision log that learns from how previous trades actually play it out." [ref=e1498] [cursor=pointer]:
+                  - generic [ref=e1501]:
+                    - generic [ref=e1502]: 2:18
+                    - generic [ref=e1503]: 2 minutes, 18 seconds
+                    - text: if it crashes and there's a persistent decision log that learns from how previous trades actually play it out.
+            - generic [ref=e1504]:
+              - 'button "Chapter 3: Why it matters" [ref=e1507] [cursor=pointer]':
+                - 'heading "Chapter 3: Why it matters" [level=3] [ref=e1509]'
+              - generic [ref=e1510]:
+                - button "2 minutes, 25 seconds Okay, so why is this a big deal when there are already a 100 other algorithmic trading frameworks out there? The honest answer is that most of" [ref=e1512] [cursor=pointer]:
+                  - generic [ref=e1515]:
+                    - generic [ref=e1516]: 2:25
+                    - generic [ref=e1517]: 2 minutes, 25 seconds
+                    - text: Okay, so why is this a big deal when there are already a 100 other algorithmic trading frameworks out there? The honest answer is that most of
+                - button "2 minutes, 33 seconds them are either really mechanical like rule-based moving average systems or they're blackbox machine learning models that spit out a buy or sell signal with" [ref=e1519] [cursor=pointer]:
+                  - generic [ref=e1522]:
+                    - generic [ref=e1523]: 2:33
+                    - generic [ref=e1524]: 2 minutes, 33 seconds
+                    - text: them are either really mechanical like rule-based moving average systems or they're blackbox machine learning models that spit out a buy or sell signal with
+                - button "2 minutes, 41 seconds no explanation. Trading agents sits in between. Every decision the system makes is fully traceable. You can read the" [ref=e1526] [cursor=pointer]:
+                  - generic [ref=e1529]:
+                    - generic [ref=e1530]: 2:41
+                    - generic [ref=e1531]: 2 minutes, 41 seconds
+                    - text: no explanation. Trading agents sits in between. Every decision the system makes is fully traceable. You can read the
+                - button "2 minutes, 48 seconds analyst reports. You can read the bull and bear debate transcripts. You can see exactly why the trader picked that position size. And you can see why the" [ref=e1533] [cursor=pointer]:
+                  - generic [ref=e1536]:
+                    - generic [ref=e1537]: 2:48
+                    - generic [ref=e1538]: 2 minutes, 48 seconds
+                    - text: analyst reports. You can read the bull and bear debate transcripts. You can see exactly why the trader picked that position size. And you can see why the
+                - button "2 minutes, 56 seconds portfolio manager rejected it. It's auditable in a way that traditional quant systems are not. The repo is" [ref=e1540] [cursor=pointer]:
+                  - generic [ref=e1543]:
+                    - generic [ref=e1544]: 2:56
+                    - generic [ref=e1545]: 2 minutes, 56 seconds
+                    - text: portfolio manager rejected it. It's auditable in a way that traditional quant systems are not. The repo is
+            - generic [ref=e1546]:
+              - 'button "Chapter 4: The spec sheet" [ref=e1549] [cursor=pointer]':
+                - 'heading "Chapter 4: The spec sheet" [level=3] [ref=e1551]'
+              - generic [ref=e1552]:
+                - button "3 minutes, 3 seconds written in Python, sits at 53,000 stars and 9,700 forks, ships under a permissive Apache 2.0 O license and the" [ref=e1554] [cursor=pointer]:
+                  - generic [ref=e1557]:
+                    - generic [ref=e1558]: 3:03
+                    - generic [ref=e1559]: 3 minutes, 3 seconds
+                    - text: written in Python, sits at 53,000 stars and 9,700 forks, ships under a permissive Apache 2.0 O license and the
+                - button "3 minutes, 12 seconds underlying paper is published on ARX as paper 242.20138 with full citations." [ref=e1561] [cursor=pointer]:
+                  - generic [ref=e1564]:
+                    - generic [ref=e1565]: 3:12
+                    - generic [ref=e1566]: 3 minutes, 12 seconds
+                    - text: underlying paper is published on ARX as paper 242.20138 with full citations.
+            - generic [ref=e1567]:
+              - 'button "Chapter 5: The 4 analysts" [ref=e1570] [cursor=pointer]':
+                - 'heading "Chapter 5: The 4 analysts" [level=3] [ref=e1572]'
+              - generic [ref=e1573]:
+                - button "3 minutes, 20 seconds Let me get into the actual agents because this is where the design choices start to matter. The fundamentals analyst pulls the latest filings, runs a" [ref=e1575] [cursor=pointer]:
+                  - generic [ref=e1578]:
+                    - generic [ref=e1579]: 3:20
+                    - generic [ref=e1580]: 3 minutes, 20 seconds
+                    - text: Let me get into the actual agents because this is where the design choices start to matter. The fundamentals analyst pulls the latest filings, runs a
+                - button "3 minutes, 28 seconds ratio analysis, and writes up an intrinsic value estimate. The sentiment analyst scores Reddit X and other social" [ref=e1582] [cursor=pointer]:
+                  - generic [ref=e1585]:
+                    - generic [ref=e1586]: 3:28
+                    - generic [ref=e1587]: 3 minutes, 28 seconds
+                    - text: ratio analysis, and writes up an intrinsic value estimate. The sentiment analyst scores Reddit X and other social
+                - button "3 minutes, 35 seconds signals to gauge near-term mood. The news analyst tracks global macro indicators and breaking events that move prices. The technical analyst runs MACD," [ref=e1589] [cursor=pointer]:
+                  - generic [ref=e1592]:
+                    - generic [ref=e1593]: 3:35
+                    - generic [ref=e1594]: 3 minutes, 35 seconds
+                    - text: signals to gauge near-term mood. The news analyst tracks global macro indicators and breaking events that move prices. The technical analyst runs MACD,
+                - button "3 minutes, 46 seconds RSI, Ballinger bands, the standard pattern detection toolkit. All four run in parallel. All four produce a written" [ref=e1596] [cursor=pointer]:
+                  - generic [ref=e1599]:
+                    - generic [ref=e1600]: 3:46
+                    - generic [ref=e1601]: 3 minutes, 46 seconds
+                    - text: RSI, Ballinger bands, the standard pattern detection toolkit. All four run in parallel. All four produce a written
+                - button "3 minutes, 53 seconds report and the system explicitly does not collapse them into a single vector. The disagreement between them is signal, not noise." [ref=e1603] [cursor=pointer]:
+                  - generic [ref=e1606]:
+                    - generic [ref=e1607]: 3:53
+                    - generic [ref=e1608]: 3 minutes, 53 seconds
+                    - text: report and the system explicitly does not collapse them into a single vector. The disagreement between them is signal, not noise.
+                - button "4 minutes, 1 second Then comes the layer that I think actually makes this interesting. After the analysts file their reports, two researcher agents read everything. One" [ref=e1610] [cursor=pointer]:
+                  - generic [ref=e1613]:
+                    - generic [ref=e1614]: 4:01
+                    - generic [ref=e1615]: 4 minutes, 1 second
+                    - text: Then comes the layer that I think actually makes this interesting. After the analysts file their reports, two researcher agents read everything. One
+                - button "4 minutes, 10 seconds of them is structurally bullish, the other is structurally bearish and they argue across multiple debate rounds. You can configure how many rounds they go." [ref=e1617] [cursor=pointer]:
+                  - generic [ref=e1620]:
+                    - generic [ref=e1621]: 4:10
+                    - generic [ref=e1622]: 4 minutes, 10 seconds
+                    - text: of them is structurally bullish, the other is structurally bearish and they argue across multiple debate rounds. You can configure how many rounds they go.
+                - button "4 minutes, 18 seconds The bull argues for opening the position, the bear argues against it." [ref=e1624] [cursor=pointer]:
+                  - generic [ref=e1627]:
+                    - generic [ref=e1628]: 4:18
+                    - generic [ref=e1629]: 4 minutes, 18 seconds
+                    - text: The bull argues for opening the position, the bear argues against it.
+                - button "4 minutes, 22 seconds They cite specific numbers from the analyst reports and at the end, the trader agent reads the full debate transcript and makes a call. After the" [ref=e1631] [cursor=pointer]:
+                  - generic [ref=e1634]:
+                    - generic [ref=e1635]: 4:22
+                    - generic [ref=e1636]: 4 minutes, 22 seconds
+                    - text: They cite specific numbers from the analyst reports and at the end, the trader agent reads the full debate transcript and makes a call. After the
+                - button "4 minutes, 30 seconds trader proposes the trade, the risk management team evaluates volatility and liquidity and the portfolio manager has" [ref=e1638] [cursor=pointer]:
+                  - generic [ref=e1641]:
+                    - generic [ref=e1642]: 4:30
+                    - generic [ref=e1643]: 4 minutes, 30 seconds
+                    - text: trader proposes the trade, the risk management team evaluates volatility and liquidity and the portfolio manager has
+                - button "4 minutes, 37 seconds final approval. If approved, the order goes to a simulated exchange. If rejected, the loop ends with a written explanation." [ref=e1645] [cursor=pointer]:
+                  - generic [ref=e1648]:
+                    - generic [ref=e1649]: 4:37
+                    - generic [ref=e1650]: 4 minutes, 37 seconds
+                    - text: final approval. If approved, the order goes to a simulated exchange. If rejected, the loop ends with a written explanation.
+            - generic [ref=e1651]:
+              - 'button "Chapter 6: Under the hood" [ref=e1654] [cursor=pointer]':
+                - 'heading "Chapter 6: Under the hood" [level=3] [ref=e1656]'
+              - generic [ref=e1657]:
+                - button "4 minutes, 46 seconds Under the hood, the whole orchestration runs on Langraph, which means every agent is a node in a directed graph and every transition between nodes is" [ref=e1659] [cursor=pointer]:
+                  - generic [ref=e1662]:
+                    - generic [ref=e1663]: 4:46
+                    - generic [ref=e1664]: 4 minutes, 46 seconds
+                    - text: Under the hood, the whole orchestration runs on Langraph, which means every agent is a node in a directed graph and every transition between nodes is
+                - button "4 minutes, 54 seconds checkpointed. That checkpoint resume feature is optin, but if you turn it on and a run crashes halfway through, you don't lose the analyst work. You resume" [ref=e1666] [cursor=pointer]:
+                  - generic [ref=e1669]:
+                    - generic [ref=e1670]: 4:54
+                    - generic [ref=e1671]: 4 minutes, 54 seconds
+                    - text: checkpointed. That checkpoint resume feature is optin, but if you turn it on and a run crashes halfway through, you don't lose the analyst work. You resume
+                - button "5 minutes, 3 seconds from where it stopped. There's also a persistent decision log that's always on. Every completed run appends its decision and its reasoning to a markdown" [ref=e1673] [cursor=pointer]:
+                  - generic [ref=e1676]:
+                    - generic [ref=e1677]: 5:03
+                    - generic [ref=e1678]: 5 minutes, 3 seconds
+                    - text: from where it stopped. There's also a persistent decision log that's always on. Every completed run appends its decision and its reasoning to a markdown
+                - button "5 minutes, 11 seconds file in your home directory. Then on the next run for the same ticker, the system fetches the realized return, computes alpha against the spy benchmark," [ref=e1680] [cursor=pointer]:
+                  - generic [ref=e1683]:
+                    - generic [ref=e1684]: 5:11
+                    - generic [ref=e1685]: 5 minutes, 11 seconds
+                    - text: file in your home directory. Then on the next run for the same ticker, the system fetches the realized return, computes alpha against the spy benchmark,
+                - button "5 minutes, 20 seconds generates a one paragraph reflection on what went right or wrong, and injects that history into the portfolio manager prompt. So the system literally learns from past trades." [ref=e1687] [cursor=pointer]:
+                  - generic [ref=e1690]:
+                    - generic [ref=e1691]: 5:20
+                    - generic [ref=e1692]: 5 minutes, 20 seconds
+                    - text: generates a one paragraph reflection on what went right or wrong, and injects that history into the portfolio manager prompt. So the system literally learns from past trades.
+            - generic [ref=e1693]:
+              - 'button "Chapter 7: Installation" [ref=e1696] [cursor=pointer]':
+                - 'heading "Chapter 7: Installation" [level=3] [ref=e1698]'
+              - generic [ref=e1699]:
+                - button "5 minutes, 31 seconds Setup is honestly painless. You clone the repo, create a Python environment," [ref=e1701] [cursor=pointer]:
+                  - generic [ref=e1704]:
+                    - generic [ref=e1705]: 5:31
+                    - generic [ref=e1706]: 5 minutes, 31 seconds
+                    - text: Setup is honestly painless. You clone the repo, create a Python environment,
+                - button "5 minutes, 36 seconds pip install, set the API key for whichever LLM provider you want to use," [ref=e1708] [cursor=pointer]:
+                  - generic [ref=e1711]:
+                    - generic [ref=e1712]: 5:36
+                    - generic [ref=e1713]: 5 minutes, 36 seconds
+                    - text: pip install, set the API key for whichever LLM provider you want to use,
+                - button "5 minutes, 41 seconds and run the CLI. It supports basically every major model. Open AAI GPT, Google Gemini, Anthropic, Claude, XAI, Grock," [ref=e1715] [cursor=pointer]:
+                  - generic [ref=e1718]:
+                    - generic [ref=e1719]: 5:41
+                    - generic [ref=e1720]: 5 minutes, 41 seconds
+                    - text: and run the CLI. It supports basically every major model. Open AAI GPT, Google Gemini, Anthropic, Claude, XAI, Grock,
+                - button "5 minutes, 51 seconds DeepSeek, Quen, TLM, Open Router, and Ola for local models. The CLI drops you into an interactive picker where you choose your ticker, your analysis date," [ref=e1722] [cursor=pointer]:
+                  - generic [ref=e1725]:
+                    - generic [ref=e1726]: 5:51
+                    - generic [ref=e1727]: 5 minutes, 51 seconds
+                    - text: DeepSeek, Quen, TLM, Open Router, and Ola for local models. The CLI drops you into an interactive picker where you choose your ticker, your analysis date,
+                - button "6 minutes, 2 seconds your provider, and how many debate rounds you want. Version 0.2.4 four shipped on April 25th, so 3 days ago," [ref=e1729] [cursor=pointer]:
+                  - generic [ref=e1732]:
+                    - generic [ref=e1733]: 6:02
+                    - generic [ref=e1734]: 6 minutes, 2 seconds
+                    - text: your provider, and how many debate rounds you want. Version 0.2.4 four shipped on April 25th, so 3 days ago,
+            - generic [ref=e1735]:
+              - 'button "Chapter 8: Latest release" [ref=e1738] [cursor=pointer]':
+                - 'heading "Chapter 8: Latest release" [level=3] [ref=e1740]'
+              - generic [ref=e1741]:
+                - button "6 minutes, 10 seconds and it's actually a pretty significant release. The big headline is structured output decision agents. The research manager, the trader, and the portfolio" [ref=e1743] [cursor=pointer]:
+                  - generic [ref=e1746]:
+                    - generic [ref=e1747]: 6:10
+                    - generic [ref=e1748]: 6 minutes, 10 seconds
+                    - text: and it's actually a pretty significant release. The big headline is structured output decision agents. The research manager, the trader, and the portfolio
+                - button "6 minutes, 19 seconds manager now use paidantic schemas with each provider's native structured output mode, which means decisions parse cleanly and the failure modes drop dramatically. They added DeepSeek, Quen," [ref=e1750] [cursor=pointer]:
+                  - generic [ref=e1753]:
+                    - generic [ref=e1754]: 6:19
+                    - generic [ref=e1755]: 6 minutes, 19 seconds
+                    - text: manager now use paidantic schemas with each provider's native structured output mode, which means decisions parse cleanly and the failure modes drop dramatically. They added DeepSeek, Quen,
+                - button "6 minutes, 29 seconds GLM, and Azure OpenAI as supported providers. Docker support shipped with multi-stage builds and there's a five tier rating scale now. Buy, overweight," [ref=e1757] [cursor=pointer]:
+                  - generic [ref=e1760]:
+                    - generic [ref=e1761]: 6:29
+                    - generic [ref=e1762]: 6 minutes, 29 seconds
+                    - text: GLM, and Azure OpenAI as supported providers. Docker support shipped with multi-stage builds and there's a five tier rating scale now. Buy, overweight,
+                - button "6 minutes, 41 seconds hold, underweight, sell, use consistently across the research manager, the portfolio manager, and the persistent decision log." [ref=e1764] [cursor=pointer]:
+                  - generic [ref=e1767]:
+                    - generic [ref=e1768]: 6:41
+                    - generic [ref=e1769]: 6 minutes, 41 seconds
+                    - text: hold, underweight, sell, use consistently across the research manager, the portfolio manager, and the persistent decision log.
+            - generic [ref=e1770]:
+              - 'button "Chapter 9: Who it''s for" [ref=e1773] [cursor=pointer]':
+                - 'heading "Chapter 9: Who it''s for" [level=3] [ref=e1775]'
+              - generic [ref=e1776]:
+                - button "6 minutes, 50 seconds So, who should actually pay attention to this? If you're a quant researcher doing systematic strategy work, this is a clean reference implementation of how to" [ref=e1778] [cursor=pointer]:
+                  - generic [ref=e1781]:
+                    - generic [ref=e1782]: 6:50
+                    - generic [ref=e1783]: 6 minutes, 50 seconds
+                    - text: So, who should actually pay attention to this? If you're a quant researcher doing systematic strategy work, this is a clean reference implementation of how to
+                - button "6 minutes, 57 seconds wire LLMs into a multi- aent decision graph. If you're a hobbyist trader who's been wanting to experiment with AIdriven analysis, you can spin this up against your own portfolio in about 10 minutes." [ref=e1785] [cursor=pointer]:
+                  - generic [ref=e1788]:
+                    - generic [ref=e1789]: 6:57
+                    - generic [ref=e1790]: 6 minutes, 57 seconds
+                    - text: wire LLMs into a multi- aent decision graph. If you're a hobbyist trader who's been wanting to experiment with AIdriven analysis, you can spin this up against your own portfolio in about 10 minutes.
+                - button "7 minutes, 9 seconds If you're a fintech founder building tooling for retail investors, this is a permissively licensed foundation you can fork and extend. And if you're just an" [ref=e1792] [cursor=pointer]:
+                  - generic [ref=e1795]:
+                    - generic [ref=e1796]: 7:09
+                    - generic [ref=e1797]: 7 minutes, 9 seconds
+                    - text: If you're a fintech founder building tooling for retail investors, this is a permissively licensed foundation you can fork and extend. And if you're just an
+                - button "7 minutes, 16 seconds indie hacker who's curious about how multi-agent LLM systems actually work in practice, this is one of the cleanest examples I've seen in any domain." [ref=e1799] [cursor=pointer]:
+                  - generic [ref=e1802]:
+                    - generic [ref=e1803]: 7:16
+                    - generic [ref=e1804]: 7 minutes, 16 seconds
+                    - text: indie hacker who's curious about how multi-agent LLM systems actually work in practice, this is one of the cleanest examples I've seen in any domain.
+            - generic [ref=e1805]:
+              - 'button "Chapter 10: Verdict" [ref=e1808] [cursor=pointer]':
+                - 'heading "Chapter 10: Verdict" [level=3] [ref=e1810]'
+              - generic [ref=e1811]:
+                - button "7 minutes, 26 seconds Okay, let's be honest about the trade-offs. Running this on every analysis cycle burns real money in LLM tokens because each ticker triggers four" [ref=e1813] [cursor=pointer]:
+                  - generic [ref=e1816]:
+                    - generic [ref=e1817]: 7:26
+                    - generic [ref=e1818]: 7 minutes, 26 seconds
+                    - text: Okay, let's be honest about the trade-offs. Running this on every analysis cycle burns real money in LLM tokens because each ticker triggers four
+                - button "7 minutes, 34 seconds parallel analyst calls plus multiple debate rounds plus the trader and portfolio manager calls. The authors explicitly say this is a research" [ref=e1820] [cursor=pointer]:
+                  - generic [ref=e1823]:
+                    - generic [ref=e1824]: 7:34
+                    - generic [ref=e1825]: 7 minutes, 34 seconds
+                    - text: parallel analyst calls plus multiple debate rounds plus the trader and portfolio manager calls. The authors explicitly say this is a research
+                - button "7 minutes, 42 seconds framework, not financial advice and you should not yolo your retirement into whatever the portfolio manager spits out. And the simulated exchange is a" [ref=e1827] [cursor=pointer]:
+                  - generic [ref=e1830]:
+                    - generic [ref=e1831]: 7:42
+                    - generic [ref=e1832]: 7 minutes, 42 seconds
+                    - text: framework, not financial advice and you should not yolo your retirement into whatever the portfolio manager spits out. And the simulated exchange is a
+                - button "7 minutes, 51 seconds back test. It's not a live broker integration. So you're going to have to wire that part yourself if you want to actually trade. But for everything that's a caveat, the project is real." [ref=e1834] [cursor=pointer]:
+                  - generic [ref=e1837]:
+                    - generic [ref=e1838]: 7:51
+                    - generic [ref=e1839]: 7 minutes, 51 seconds
+                    - text: back test. It's not a live broker integration. So you're going to have to wire that part yourself if you want to actually trade. But for everything that's a caveat, the project is real.
+                - button "8 minutes, 1 second Apache 2.0 license, 53,000 stars in 4 months, weekly releases, multi- language documentation, and an actual published" [ref=e1841] [cursor=pointer]:
+                  - generic [ref=e1844]:
+                    - generic [ref=e1845]: 8:01
+                    - generic [ref=e1846]: 8 minutes, 1 second
+                    - text: Apache 2.0 license, 53,000 stars in 4 months, weekly releases, multi- language documentation, and an actual published
+                - button "8 minutes, 9 seconds paper backing the architecture. If you build with LLM agents in 2026, and you have not at least cloned this repo and" [ref=e1848] [cursor=pointer]:
+                  - generic [ref=e1851]:
+                    - generic [ref=e1852]: 8:09
+                    - generic [ref=e1853]: 8 minutes, 9 seconds
+                    - text: paper backing the architecture. If you build with LLM agents in 2026, and you have not at least cloned this repo and
+                - button "8 minutes, 16 seconds read the Langraph wiring, you're missing one of the cleanest reference implementations out there. Repo link is in the description. Thanks for watching." [ref=e1855] [cursor=pointer]:
+                  - generic [ref=e1858]:
+                    - generic [ref=e1859]: 8:16
+                    - generic [ref=e1860]: 8 minutes, 16 seconds
+                    - text: read the Langraph wiring, you're missing one of the cleanest reference implementations out there. Repo link is in the description. Thanks for watching.
+                - button "8 minutes, 24 seconds I'll catch you tomorrow." [ref=e1862] [cursor=pointer]:
+                  - generic [ref=e1865]:
+                    - generic [ref=e1866]: 8:24
+                    - generic [ref=e1867]: 8 minutes, 24 seconds
+                    - text: I'll catch you tomorrow.
+      - generic [ref=e76]:
+        - heading "Someone open-sourced a hedge fund (53k stars on GitHub)" [level=1] [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - link [ref=e82] [cursor=pointer]:
+                - /url: /@indiehackernews
+              - generic [ref=e84]:
+                - generic "Indie Hacker News" [ref=e88]:
+                  - link "Indie Hacker News" [ref=e89] [cursor=pointer]:
+                    - /url: /@indiehackernews
+                - generic "521 subscribers" [ref=e90]
+            - generic [ref=e94]:
+              - button "Subscribe to Indie Hacker News." [ref=e96] [cursor=pointer]:
+                - generic [ref=e97]: Subscribe
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                - generic:
+                  - img
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e228]:
+                - button "like this video along with 174 other people" [ref=e232] [cursor=pointer]:
+                  - generic [ref=e236]:
+                    - img
+                  - generic [ref=e237]: "174"
+                - button "Dislike this video" [ref=e244] [cursor=pointer]:
+                  - generic [ref=e248]:
+                    - img
+              - button "Share" [ref=e108] [cursor=pointer]:
+                - generic [ref=e253]:
+                  - img
+                - generic [ref=e111]: Share
+            - button "Save to playlist" [ref=e118] [cursor=pointer]:
+              - generic [ref=e255]:
+                - img
+              - generic [ref=e121]: Save
+            - button "More actions" [ref=e126] [cursor=pointer]:
+              - generic [ref=e257]:
+                - img
+        - generic [ref=e134]:
+          - generic [ref=e137]:
+            - text: 1,420 views Apr 28, 2026
+            - link "#TradingAgents" [ref=e138] [cursor=pointer]:
+              - /url: /hashtag/tradingagents
+            - link "#LLMAgents" [ref=e139] [cursor=pointer]:
+              - /url: /hashtag/llmagents
+            - link "#OpenSource" [ref=e140] [cursor=pointer]:
+              - /url: /hashtag/opensource
+          - generic [ref=e141]:
+            - generic [ref=e1109]:
+              - text: "Somebody just open-sourced a hedge fund. TradingAgents is a Python framework that simulates an entire Wall Street trading firm using LLM agents. Four parallel analysts, two researcher agents that debate each other, a trader, a risk team, and a portfolio manager with final approval. 53k stars in four months, Apache 2.0, backed by an arXiv paper from UCLA. This is a deep dive on what's actually inside, why the bull-vs-bear debate loop matters, and the v0.2.4 release that just shipped structured-output decision agents and Docker support. 🔗 Repo:"
+              - link "https://github.com/TauricResearch/Tra..." [ref=e1111] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW9HQkpRZDVMLTJqMl95eGhQaVNGam12dEJwZ3xBQ3Jtc0tuYXBoV1NWS3V2X0tuOWQxRGlrUXJkcTFJSkd0YTBFQXMtSmlHZHY3ZUdEQ3dXeHpVVmV6dmF2VUdKVm51dl9EbjhSaE9aUUFSM3d5bF9oS0pfUWlYRnU5SE84d2taOV8xVXZ3MTMtYy10am9sNzU2MA&q=https%3A%2F%2Fgithub.com%2FTauricResearch%2FTradingAgents&v=9FoEsXNGLwI
+              - text: "📄 Paper:"
+              - link "https://arxiv.org/abs/2412.20138" [ref=e1113] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbllnQlRFZm1ERTN3bkJfdE52clpzelc1c0JwUXxBQ3Jtc0tubUxvcy1raldMaDduVjdHUGowTFhjV3d5TnZhQm9Ha1lrMlZWUlludkZWb0pMSnJmVU91c0tmS0Q2Nms5ZjF6WGFVNlBXN19jQU95M1pQZC1sYlFVR3BHN2tCem0tV1QxTkFRSTdkaXY5RnpyeGUyOA&q=https%3A%2F%2Farxiv.org%2Fabs%2F2412.20138&v=9FoEsXNGLwI
+              - text: CHAPTERS
+              - link "0 seconds" [ref=e1115] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI
+                - text: 00:00
+              - text: Intro
+              - link "1 minute, 9 seconds" [ref=e1117] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=69s
+                - text: 01:09
+              - text: The README
+              - link "2 minutes, 24 seconds" [ref=e1119] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=144s
+                - text: 02:24
+              - text: Why it matters
+              - link "3 minutes, 2 seconds" [ref=e1121] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=182s
+                - text: 03:02
+              - text: The spec sheet
+              - link "3 minutes, 19 seconds" [ref=e1123] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=199s
+                - text: 03:19
+              - text: The 4 analysts
+              - link "4 minutes, 45 seconds" [ref=e1125] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=285s
+                - text: 04:45
+              - text: Under the hood
+              - link "5 minutes, 30 seconds" [ref=e1127] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=330s
+                - text: 05:30
+              - text: Installation
+              - link "6 minutes, 4 seconds" [ref=e1129] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=364s
+                - text: 06:04
+              - text: Latest release
+              - link "6 minutes, 48 seconds" [ref=e1131] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=408s
+                - text: 06:48
+              - text: Who it's for
+              - link "7 minutes, 25 seconds" [ref=e1133] [cursor=pointer]:
+                - /url: /watch?v=9FoEsXNGLwI&t=445s
+                - text: 07:25
+              - text: "Verdict Daily indie hacker news, AI deep dives, and builder stories:"
+              - link "https://indiehacker.news" [ref=e1135] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXBKQjZDcFJiYkNUWkdQT0R1U3NnN3NrUzNtd3xBQ3Jtc0trNndsM3dMZzBWemlDQ2gxU1NRNzZ3cGt0Q1BGWnpBNldqQ3hUa1NPMjY0ZWFHcGc5MjlCMU5JcDJpYjVuWlNjZEZzX3c5SlU0YjYtYjMzMHpZRGlhOE9Dak9KREVfUUJjZDJNVWJJbW9wQWVKT25Hcw&q=https%3A%2F%2Findiehacker.news%2F&v=9FoEsXNGLwI
+              - link "#TradingAgents" [ref=e1137] [cursor=pointer]:
+                - /url: /hashtag/tradingagents
+              - link "#LLMAgents" [ref=e1139] [cursor=pointer]:
+                - /url: /hashtag/llmagents
+              - link "#OpenSource" [ref=e1141] [cursor=pointer]:
+                - /url: /hashtag/opensource
+              - link "#Quant" [ref=e1143] [cursor=pointer]:
+                - /url: /hashtag/quant
+              - link "#LangGraph" [ref=e1145] [cursor=pointer]:
+                - /url: /hashtag/langgraph
+              - link "#AIAgents" [ref=e1147] [cursor=pointer]:
+                - /url: /hashtag/aiagents
+              - link "#Fintech" [ref=e1149] [cursor=pointer]:
+                - /url: /hashtag/fintech
+              - link "#IndieHackers" [ref=e1151] [cursor=pointer]:
+                - /url: /hashtag/indiehackers
+            - generic [ref=e1154]:
+              - generic [ref=e1156]:
+                - heading "Chapters View all" [level=2] [ref=e1158]:
+                  - generic [ref=e1160]:
+                    - generic [ref=e1162]: Chapters
+                    - button "View all" [ref=e1166] [cursor=pointer]:
+                      - generic [ref=e1167]: View all
+                - generic [ref=e1171]:
+                  - generic [ref=e1173]:
+                    - link "Intro 0:00" [ref=e1175] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI
+                      - generic [ref=e1178]:
+                        - heading "Intro" [level=4] [ref=e1179]
+                        - generic [ref=e1180]: 0:00
+                    - link "The README 1:09" [ref=e1182] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=69s
+                      - generic [ref=e1185]:
+                        - heading "The README" [level=4] [ref=e1186]
+                        - generic [ref=e1187]: 1:09
+                    - link "Why it matters 2:24" [ref=e1189] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=144s
+                      - generic [ref=e1192]:
+                        - heading "Why it matters" [level=4] [ref=e1193]
+                        - generic [ref=e1194]: 2:24
+                    - link "The spec sheet 3:02" [ref=e1196] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=182s
+                      - generic [ref=e1199]:
+                        - heading "The spec sheet" [level=4] [ref=e1200]
+                        - generic [ref=e1201]: 3:02
+                    - link "The 4 analysts 3:19" [ref=e1203] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=199s
+                      - generic [ref=e1206]:
+                        - heading "The 4 analysts" [level=4] [ref=e1207]
+                        - generic [ref=e1208]: 3:19
+                    - link "Under the hood 4:45" [ref=e1210] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=285s
+                      - generic [ref=e1213]:
+                        - heading "Under the hood" [level=4] [ref=e1214]
+                        - generic [ref=e1215]: 4:45
+                    - link "Installation 5:30" [ref=e1217] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=330s&pp=0gcJCREDDuyUWbzu
+                      - generic [ref=e1220]:
+                        - heading "Installation" [level=4] [ref=e1221]
+                        - generic [ref=e1222]: 5:30
+                    - link "Latest release 6:04" [ref=e1224] [cursor=pointer]:
+                      - /url: /watch?v=9FoEsXNGLwI&t=364s
+                      - generic [ref=e1227]:
+                        - heading "Latest release" [level=4] [ref=e1228]
+                        - generic [ref=e1229]: 6:04
+                  - generic [ref=e1233] [cursor=pointer]:
+                    - img
+              - generic [ref=e1234]:
+                - generic [ref=e1236]: Transcript
+                - paragraph [ref=e1238]: Follow along using the transcript.
+                - button "Show transcript" [ref=e1243] [cursor=pointer]:
+                  - generic [ref=e1244]: Show transcript
+              - generic [ref=e1248]:
+                - link "Indie Hacker News 521 subscribers" [ref=e1249] [cursor=pointer]:
+                  - /url: /@indiehackernews
+                  - generic [ref=e1250]:
+                    - heading "Indie Hacker News" [level=3] [ref=e1251]
+                    - generic [ref=e1252]: 521 subscribers
+                - generic [ref=e1255]:
+                  - link "Videos" [ref=e1258] [cursor=pointer]:
+                    - /url: /channel/UCuwtMh6t7GCytXH8lBewdKw/videos
+                    - generic [ref=e1262]:
+                      - img
+                    - generic [ref=e1263]: Videos
+                  - link "About" [ref=e1269] [cursor=pointer]:
+                    - /url: /channel/UCuwtMh6t7GCytXH8lBewdKw/about
+                    - generic [ref=e1273]:
+                      - img
+                    - generic [ref=e1274]: About
+            - button "Show less" [ref=e1278] [cursor=pointer]
+      - text: •
+      - generic [ref=e151]:
+        - generic [ref=e160]:
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e162]:
+              - link "Seedance 2.0 First Come First" [ref=e165]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cq1ZnzSLyaY7uMp-Hr7wP7OToiA7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBKADT9D6S3hVuItC8K_ZClqAkSg1wVjzcNdKFIOg1AfNLEabHP8T-yTBQ_yJtB8rvQVdZLji9s_UE6fTgrNLerkdc8kz2LmIv-StstAFdPPyTOZjHspi-L88iy0xxuLFxeFW5lT-nHTTjfNSB4KUxXC7HjBhvxAeCLyCCu82aQUC-lD0gO2chrOyfKYmL_jJ6MrPByZzCEuXjQUzos2LY8_-Whu0W87LAagcbAP_jKpHnRmcydeQ8HkORa0nQGUb94DjWIkrirDeNvGse07IC9mxw6lTJpdcCxeZV6SKAxxP4CBkNbrBWvOWjwC20OA1vK3_Ryft0ofDMJnl3UFpBM0nxOWt8n4NJdwszuMByV0kO09MeisxJ5c2DuVy4ns4H4ATT_8jinRqdQJd3YJreSt-_99yz_Oi3488G21VOOXL0w6kEBaVEciG4GqvlY41b9_3kAwpiRCIk29kaXjpn2TyK2n16siaX1PBN7ePHR3YV3anih9P3E7Rqp7UQ8WTguPu4GIYFaclaW66WLlYYLQe0Y18dLwwEblN7en8lIUGUO6IBZK7_rtYkgUKCBNoAniGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNj2xJyvk5QD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJlODEMozzFOLICQCYCwGhCyeh02IhReswugs_CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awd2aXRwZXJi0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzojFnK-TlAMVn8OLAR1sMhrhEAEYASAAEgKRqvD_BwE&num=1&cid=CAASwwHkaJ_U8F1330nJwIcS_nNN8p6K8frPrTmfkqHRdWrRzgJaceLmB2L2QMoH_tgJttOwqnKZ0Yfaj4VFAargZS1NE4I1EPyj1KoyzNERZ9bZ_zGMLmU7Msov3eHIngrgojfp06TEw-Zi9eRuYlEc5HYcbF754d1f0NgEmqu5eau0O0ikUx-F53dSoxOPYN-s-HS7zoyN_DO1ogTL1pffVSqkOV2LYEuTsHk1T_BxVwvvFr-H8IPI4MlaQnARgN578ez8oqc&sig=AOD64_0KHOUHY4YJfv_M4M7xUP6gDNOpaA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Seedance 2.0 official release, no wait. Be first, not left in AI dust." [ref=e168]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cq1ZnzSLyaY7uMp-Hr7wP7OToiA7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBKADT9D6S3hVuItC8K_ZClqAkSg1wVjzcNdKFIOg1AfNLEabHP8T-yTBQ_yJtB8rvQVdZLji9s_UE6fTgrNLerkdc8kz2LmIv-StstAFdPPyTOZjHspi-L88iy0xxuLFxeFW5lT-nHTTjfNSB4KUxXC7HjBhvxAeCLyCCu82aQUC-lD0gO2chrOyfKYmL_jJ6MrPByZzCEuXjQUzos2LY8_-Whu0W87LAagcbAP_jKpHnRmcydeQ8HkORa0nQGUb94DjWIkrirDeNvGse07IC9mxw6lTJpdcCxeZV6SKAxxP4CBkNbrBWvOWjwC20OA1vK3_Ryft0ofDMJnl3UFpBM0nxOWt8n4NJdwszuMByV0kO09MeisxJ5c2DuVy4ns4H4ATT_8jinRqdQJd3YJreSt-_99yz_Oi3488G21VOOXL0w6kEBaVEciG4GqvlY41b9_3kAwpiRCIk29kaXjpn2TyK2n16siaX1PBN7ePHR3YV3anih9P3E7Rqp7UQ8WTguPu4GIYFaclaW66WLlYYLQe0Y18dLwwEblN7en8lIUGUO6IBZK7_rtYkgUKCBNoAniGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNj2xJyvk5QD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJlODEMozzFOLICQCYCwGhCyeh02IhReswugs_CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awd2aXRwZXJi0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzojFnK-TlAMVn8OLAR1sMhrhEAEYASAAEgKRqvD_BwE&num=1&cid=CAASwwHkaJ_U8F1330nJwIcS_nNN8p6K8frPrTmfkqHRdWrRzgJaceLmB2L2QMoH_tgJttOwqnKZ0Yfaj4VFAargZS1NE4I1EPyj1KoyzNERZ9bZ_zGMLmU7Msov3eHIngrgojfp06TEw-Zi9eRuYlEc5HYcbF754d1f0NgEmqu5eau0O0ikUx-F53dSoxOPYN-s-HS7zoyN_DO1ogTL1pffVSqkOV2LYEuTsHk1T_BxVwvvFr-H8IPI4MlaQnARgN578ez8oqc&sig=AOD64_0KHOUHY4YJfv_M4M7xUP6gDNOpaA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=e169]:
+                - generic [ref=e259]:
+                  - generic [ref=e260]: Sponsored
+                  - text: ·
+                - generic [ref=e171]: BytePlus
+            - button "My Ad Center" [ref=e174]:
+              - generic [ref=e262]:
+                - img
+          - link "Visit site" [ref=e181] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cq1ZnzSLyaY7uMp-Hr7wP7OToiA7N-cTKhgGKq_2VhhVkEAEgAGDLm4KFwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABxNmEvz2oAwTIAwqqBKADT9D6S3hVuItC8K_ZClqAkSg1wVjzcNdKFIOg1AfNLEabHP8T-yTBQ_yJtB8rvQVdZLji9s_UE6fTgrNLerkdc8kz2LmIv-StstAFdPPyTOZjHspi-L88iy0xxuLFxeFW5lT-nHTTjfNSB4KUxXC7HjBhvxAeCLyCCu82aQUC-lD0gO2chrOyfKYmL_jJ6MrPByZzCEuXjQUzos2LY8_-Whu0W87LAagcbAP_jKpHnRmcydeQ8HkORa0nQGUb94DjWIkrirDeNvGse07IC9mxw6lTJpdcCxeZV6SKAxxP4CBkNbrBWvOWjwC20OA1vK3_Ryft0ofDMJnl3UFpBM0nxOWt8n4NJdwszuMByV0kO09MeisxJ5c2DuVy4ns4H4ATT_8jinRqdQJd3YJreSt-_99yz_Oi3488G21VOOXL0w6kEBaVEciG4GqvlY41b9_3kAwpiRCIk29kaXjpn2TyK2n16siaX1PBN7ePHR3YV3anih9P3E7Rqp7UQ8WTguPu4GIYFaclaW66WLlYYLQe0Y18dLwwEblN7en8lIUGUO6IBZK7_rtYkgUKCBNoAniGkoylHaAGpAGAB5_fuoUdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAtIIKQiAQRABGF4yAoICOgyAQoDAgICAgICAAipI2aDSNVAUWNj2xJyvk5QD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJMGh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMLEJlODEMozzFOLICQCYCwGhCyeh02IhReswugs_CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6Awd2aXRwZXJi0AsSogwiahsKGWNvbS5ieXRlcGx1cy5ieXRlcGx1c2xpdmV4AIgBANIMAhABmg0BEqoNAk1ZyA0B0g3rAWh0dHBzOi8vd3d3LmJ5dGVwbHVzLmNvbS9lbi9hY3Rpdml0eS9zZWVkYW5jZTItMD91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPXNpZ251cF9zZWVkYW5jZV9lYV9lbmdsaXNoXzIwMjYwNDE0X2ZsZiZ1dG1fdGVybT0yMDI2MDQxNF9hbGxfYWJpbGl0eV9zZWVkYW5jZTIuMCZ1dG1fY29udGVudD10ZWNkbyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3NDgxMjQwNTCwDsb-gfsYuBP___________8BiBQBsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRdjh25UVA9wiroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIzojFnK-TlAMVn8OLAR1sMhrhEAEYASAAEgKRqvD_BwE&num=1&cid=CAASwwHkaJ_U8F1330nJwIcS_nNN8p6K8frPrTmfkqHRdWrRzgJaceLmB2L2QMoH_tgJttOwqnKZ0Yfaj4VFAargZS1NE4I1EPyj1KoyzNERZ9bZ_zGMLmU7Msov3eHIngrgojfp06TEw-Zi9eRuYlEc5HYcbF754d1f0NgEmqu5eau0O0ikUx-F53dSoxOPYN-s-HS7zoyN_DO1ogTL1pffVSqkOV2LYEuTsHk1T_BxVwvvFr-H8IPI4MlaQnARgN578ez8oqc&sig=AOD64_0KHOUHY4YJfv_M4M7xUP6gDNOpaA&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=e182]: Visit site
+        - generic [ref=e187] [cursor=pointer]:
+          - link [ref=e188]:
+            - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e269]: 10:30
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - heading "Github are you joking? 10 minutes, 30 seconds" [level=3] [ref=e273]:
+                - link "Github are you joking? 10 minutes, 30 seconds" [ref=e274]:
+                  - /url: /watch?v=b13m-iuu4XU&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Github are you joking?
+              - generic [ref=e276]:
+                - group [ref=e277]:
+                  - generic [ref=e278]:
+                    - text: The PrimeTime
+                    - img [ref=e281]:
+                      - generic [ref=e283]:
+                        - img
+                - group [ref=e284]:
+                  - generic [ref=e285]: 358K views
+                  - generic [ref=e286]: •
+                  - generic [ref=e287]: 1 day ago
+                - group [ref=e288]:
+                  - generic [ref=e292]: New
+            - button "More actions" [ref=e295]:
+              - generic [ref=e299]:
+                - img
+        - generic [ref=e190] [cursor=pointer]:
+          - link [ref=e191]:
+            - /url: /watch?v=gNMMuoTvSBc
+            - generic [ref=e309]: 4:20
+          - generic [ref=e311]:
+            - generic [ref=e312]:
+              - heading "Apple Reacts to the Framework Pro 4 minutes, 20 seconds" [level=3] [ref=e313]:
+                - link "Apple Reacts to the Framework Pro 4 minutes, 20 seconds" [ref=e314]:
+                  - /url: /watch?v=gNMMuoTvSBc
+                  - text: Apple Reacts to the Framework Pro
+              - generic [ref=e316]:
+                - group [ref=e317]:
+                  - generic [ref=e318]:
+                    - text: SAMTIME
+                    - img [ref=e321]:
+                      - generic [ref=e323]:
+                        - img
+                - group [ref=e324]:
+                  - generic [ref=e325]: 296K views
+                  - generic [ref=e326]: •
+                  - generic [ref=e327]: 1 day ago
+                - group [ref=e328]:
+                  - generic [ref=e332]: New
+            - button "More actions" [ref=e335]:
+              - generic [ref=e339]:
+                - img
+        - generic [ref=e193] [cursor=pointer]:
+          - link [ref=e194]:
+            - /url: /watch?v=18DheCuVYRI
+            - generic [ref=e349]: 3:54
+          - generic [ref=e351]:
+            - generic [ref=e352]:
+              - heading "Learning DSPy (v3.1 - 2026 Edition) · 4/15 · Building Blocks with Modules 3 minutes, 54 seconds" [level=3] [ref=e353]:
+                - link "Learning DSPy (v3.1 - 2026 Edition) · 4/15 · Building Blocks with Modules 3 minutes, 54 seconds" [ref=e354]:
+                  - /url: /watch?v=18DheCuVYRI
+                  - text: Learning DSPy (v3.1 - 2026 Edition) · 4/15 · Building Blocks with Modules
+              - generic [ref=e356]:
+                - group [ref=e357]:
+                  - generic [ref=e358]: DevStoriesEU
+                - group [ref=e359]:
+                  - generic [ref=e360]: 5 views
+                  - generic [ref=e361]: •
+                  - generic [ref=e362]: 5 days ago
+                - group [ref=e363]:
+                  - generic [ref=e367]: New
+            - button "More actions" [ref=e370]:
+              - generic [ref=e374]:
+                - img
+        - generic [ref=e379] [cursor=pointer]:
+          - link [ref=e380]:
+            - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e387]: 16:16
+          - generic [ref=e389]:
+            - generic [ref=e390]:
+              - heading "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [level=3] [ref=e391]:
+                - link "32 Tricks to Level Up Claude Code in 16 Mins 16 minutes" [ref=e392]:
+                  - /url: /watch?v=jqoFP9QapXI&pp=ugUEEgJlbg%3D%3D
+                  - text: 32 Tricks to Level Up Claude Code in 16 Mins
+              - generic [ref=e394]:
+                - group [ref=e395]:
+                  - generic [ref=e396]:
+                    - text: Nate Herk | AI Automation
+                    - img [ref=e399]:
+                      - generic [ref=e401]:
+                        - img
+                - group [ref=e402]:
+                  - generic [ref=e403]: 53K views
+                  - generic [ref=e404]: •
+                  - generic [ref=e405]: 2 days ago
+                - group [ref=e406]:
+                  - generic [ref=e410]: New
+            - button "More actions" [ref=e413]:
+              - generic [ref=e417]:
+                - img
+        - generic [ref=e422] [cursor=pointer]:
+          - link [ref=e423]:
+            - /url: /watch?v=q8holiIirgo&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e430]: 17:16
+          - generic [ref=e432]:
+            - generic [ref=e433]:
+              - 'heading "DeepSeek V4''s Secret: 98% Less Memory 17 minutes" [level=3] [ref=e434]':
+                - 'link "DeepSeek V4''s Secret: 98% Less Memory 17 minutes" [ref=e435]':
+                  - /url: /watch?v=q8holiIirgo&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: "DeepSeek V4's Secret: 98% Less Memory"
+              - generic [ref=e437]:
+                - group [ref=e438]:
+                  - generic [ref=e439]: Jia-Bin Huang
+                - group [ref=e440]:
+                  - generic [ref=e441]: 33K views
+                  - generic [ref=e442]: •
+                  - generic [ref=e443]: 22 hours ago
+                - group [ref=e444]:
+                  - generic [ref=e448]: New
+            - button "More actions" [ref=e451]:
+              - generic [ref=e455]:
+                - img
+        - generic [ref=e460] [cursor=pointer]:
+          - link [ref=e461]:
+            - /url: /watch?v=X7YMMyd2Qnk
+            - generic [ref=e468]: 9:51
+          - generic [ref=e470]:
+            - generic [ref=e471]:
+              - heading "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [level=3] [ref=e472]:
+                - link "Claude Design Basics | Master 95% in 10 Minutes 9 minutes, 51 seconds" [ref=e473]:
+                  - /url: /watch?v=X7YMMyd2Qnk
+                  - text: Claude Design Basics | Master 95% in 10 Minutes
+              - generic [ref=e475]:
+                - group [ref=e476]:
+                  - generic [ref=e477]: Tristen O'Brien
+                - group [ref=e478]:
+                  - generic [ref=e479]: 39K views
+                  - generic [ref=e480]: •
+                  - generic [ref=e481]: 2 days ago
+                - group [ref=e482]:
+                  - generic [ref=e486]: New
+            - button "More actions" [ref=e489]:
+              - generic [ref=e493]:
+                - img
+        - generic [ref=e498] [cursor=pointer]:
+          - link [ref=e499]:
+            - /url: /watch?v=JNyuX1zoOgU&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e506]: 40:57
+          - generic [ref=e508]:
+            - generic [ref=e509]:
+              - 'heading "How to Build the Future: Demis Hassabis 40 minutes" [level=3] [ref=e510]':
+                - 'link "How to Build the Future: Demis Hassabis 40 minutes" [ref=e511]':
+                  - /url: /watch?v=JNyuX1zoOgU&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: "How to Build the Future: Demis Hassabis"
+              - generic [ref=e513]:
+                - group [ref=e514]:
+                  - generic [ref=e515]:
+                    - text: Y Combinator
+                    - img [ref=e518]:
+                      - generic [ref=e520]:
+                        - img
+                - group [ref=e521]:
+                  - generic [ref=e522]: 2.1K views
+                  - generic [ref=e523]: •
+                  - generic [ref=e524]: 1 hour ago
+                - group [ref=e525]:
+                  - generic [ref=e529]: New
+            - button "More actions" [ref=e532]:
+              - generic [ref=e536]:
+                - img
+        - generic [ref=e541] [cursor=pointer]:
+          - link [ref=e542]:
+            - /url: /watch?v=u9ajq669Se0&pp=0gcJCd8KAYcqIYzv
+            - generic [ref=e548]:
+              - generic [ref=e551]:
+                - img
+              - generic [ref=e552]: LIVE
+          - generic [ref=e554]:
+            - generic [ref=e555]:
+              - heading "🚨🚨 Anthropic is Nuts, Github Sucks, Zig Forked, Delete your account 🚨🚨" [level=3] [ref=e556]:
+                - link "🚨🚨 Anthropic is Nuts, Github Sucks, Zig Forked, Delete your account 🚨🚨" [ref=e557]:
+                  - /url: /watch?v=u9ajq669Se0&pp=0gcJCd8KAYcqIYzv
+              - generic [ref=e559]:
+                - group [ref=e560]:
+                  - generic [ref=e561]:
+                    - text: The PrimeTime
+                    - img [ref=e564]:
+                      - generic [ref=e566]:
+                        - img
+                - group [ref=e567]:
+                  - generic [ref=e568]: 2.1K watching
+            - button "More actions" [ref=e571]:
+              - generic [ref=e575]:
+                - img
+        - generic [ref=e580] [cursor=pointer]:
+          - link [ref=e581]:
+            - /url: /watch?v=EdZWPB1fIJc
+            - generic [ref=e588]: 8:46
+          - generic [ref=e590]:
+            - generic [ref=e591]:
+              - heading "Should You Learn Coding Now? Anthropic CEO Explains 8 minutes, 46 seconds" [level=3] [ref=e592]:
+                - link "Should You Learn Coding Now? Anthropic CEO Explains 8 minutes, 46 seconds" [ref=e593]:
+                  - /url: /watch?v=EdZWPB1fIJc
+                  - text: Should You Learn Coding Now? Anthropic CEO Explains
+              - generic [ref=e595]:
+                - group [ref=e596]:
+                  - generic [ref=e597]: Nikhil Kamath Clips
+                - group [ref=e598]:
+                  - generic [ref=e599]: 509K views
+                  - generic [ref=e600]: •
+                  - generic [ref=e601]: 1 month ago
+            - button "More actions" [ref=e604]:
+              - generic [ref=e608]:
+                - img
+        - generic [ref=e613] [cursor=pointer]:
+          - link [ref=e614]:
+            - /url: /watch?v=LWx4FGam2aQ&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e621]: 1:04:41
+          - generic [ref=e623]:
+            - generic [ref=e624]:
+              - heading "Stop using Claude. Start using Codex? 1 hour, 4 minutes" [level=3] [ref=e625]:
+                - link "Stop using Claude. Start using Codex? 1 hour, 4 minutes" [ref=e626]:
+                  - /url: /watch?v=LWx4FGam2aQ&pp=ugUEEgJlbg%3D%3D
+                  - text: Stop using Claude. Start using Codex?
+              - generic [ref=e628]:
+                - group [ref=e629]:
+                  - generic [ref=e630]: Greg Isenberg
+                - group [ref=e631]:
+                  - generic [ref=e632]: 47K views
+                  - generic [ref=e633]: •
+                  - generic [ref=e634]: 1 day ago
+                - group [ref=e635]:
+                  - generic [ref=e639]: New
+            - button "More actions" [ref=e642]:
+              - generic [ref=e646]:
+                - img
+        - generic [ref=e651] [cursor=pointer]:
+          - link [ref=e652]:
+            - /url: /watch?v=dxq7WtWxi44&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e659]: 41:09
+          - generic [ref=e661]:
+            - generic [ref=e662]:
+              - heading "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most. 41 minutes" [level=3] [ref=e663]:
+                - link "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most. 41 minutes" [ref=e664]:
+                  - /url: /watch?v=dxq7WtWxi44&pp=ugUEEgJlbg%3D%3D
+                  - text: Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.
+              - generic [ref=e666]:
+                - group [ref=e667]:
+                  - generic [ref=e668]: AI News & Strategy Daily | Nate B Jones
+                - group [ref=e669]:
+                  - generic [ref=e670]: 86K views
+                  - generic [ref=e671]: •
+                  - generic [ref=e672]: 7 days ago
+            - button "More actions" [ref=e675]:
+              - generic [ref=e679]:
+                - img
+        - generic [ref=e684] [cursor=pointer]:
+          - link [ref=e685]:
+            - /url: /watch?v=E2DEHOEbzks&pp=ugUHEgVlbi1HQg%3D%3D
+            - generic [ref=e692]: 24:10
+          - generic [ref=e694]:
+            - generic [ref=e695]:
+              - 'heading "Model Context Protocol (MCP) Explained for Beginners: AI Flight Booking Demo! 24 minutes" [level=3] [ref=e696]':
+                - 'link "Model Context Protocol (MCP) Explained for Beginners: AI Flight Booking Demo! 24 minutes" [ref=e697]':
+                  - /url: /watch?v=E2DEHOEbzks&pp=ugUHEgVlbi1HQg%3D%3D
+                  - text: "Model Context Protocol (MCP) Explained for Beginners: AI Flight Booking Demo!"
+              - generic [ref=e699]:
+                - group [ref=e700]:
+                  - generic [ref=e701]:
+                    - text: KodeKloud
+                    - img [ref=e704]:
+                      - generic [ref=e706]:
+                        - img
+                - group [ref=e707]:
+                  - generic [ref=e708]: 986K views
+                  - generic [ref=e709]: •
+                  - generic [ref=e710]: 9 months ago
+            - button "More actions" [ref=e713]:
+              - generic [ref=e717]:
+                - img
+        - generic [ref=e722] [cursor=pointer]:
+          - link [ref=e723]:
+            - /url: /watch?v=oOCN30ulVyo&pp=ugUHEgVlbi1VUw%3D%3D
+            - generic [ref=e730]: 26:03
+          - generic [ref=e732]:
+            - generic [ref=e733]:
+              - heading "OpenClaw In 26 Minutes 26 minutes" [level=3] [ref=e734]:
+                - link "OpenClaw In 26 Minutes 26 minutes" [ref=e735]:
+                  - /url: /watch?v=oOCN30ulVyo&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: OpenClaw In 26 Minutes
+              - generic [ref=e737]:
+                - group [ref=e738]:
+                  - generic [ref=e739]:
+                    - text: Tina Huang
+                    - img [ref=e742]:
+                      - generic [ref=e744]:
+                        - img
+                - group [ref=e745]:
+                  - generic [ref=e746]: 45K views
+                  - generic [ref=e747]: •
+                  - generic [ref=e748]: 1 day ago
+                - group [ref=e749]:
+                  - generic [ref=e753]: New
+            - button "More actions" [ref=e756]:
+              - generic [ref=e760]:
+                - img
+        - generic [ref=e765] [cursor=pointer]:
+          - link [ref=e766]:
+            - /url: /watch?v=0_dSWLOHKng
+            - generic [ref=e773]: 21:18
+          - generic [ref=e775]:
+            - generic [ref=e776]:
+              - 'heading "Claude Cowork for Beginners: Build Your AI Second Brain 21 minutes" [level=3] [ref=e777]':
+                - 'link "Claude Cowork for Beginners: Build Your AI Second Brain 21 minutes" [ref=e778]':
+                  - /url: /watch?v=0_dSWLOHKng
+                  - text: "Claude Cowork for Beginners: Build Your AI Second Brain"
+              - generic [ref=e780]:
+                - group [ref=e781]:
+                  - generic [ref=e782]:
+                    - text: Jeff Su
+                    - img [ref=e785]:
+                      - generic [ref=e787]:
+                        - img
+                - group [ref=e788]:
+                  - generic [ref=e789]: 37K views
+                  - generic [ref=e790]: •
+                  - generic [ref=e791]: 1 day ago
+                - group [ref=e792]:
+                  - generic [ref=e796]: New
+            - button "More actions" [ref=e799]:
+              - generic [ref=e803]:
+                - img
+        - generic [ref=e808] [cursor=pointer]:
+          - link [ref=e809]:
+            - /url: /watch?v=S_oN3vlzpMw
+            - generic [ref=e816]: 35:26
+          - generic [ref=e818]:
+            - generic [ref=e819]:
+              - heading "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [level=3] [ref=e820]:
+                - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=e821]:
+                  - /url: /watch?v=S_oN3vlzpMw
+                  - text: How AI agents & Claude skills work (Clearly Explained)
+              - generic [ref=e823]:
+                - group [ref=e824]:
+                  - generic [ref=e825]: Greg Isenberg
+                - group [ref=e826]:
+                  - generic [ref=e827]: 231K views
+                  - generic [ref=e828]: •
+                  - generic [ref=e829]: 2 weeks ago
+            - button "More actions" [ref=e832]:
+              - generic [ref=e836]:
+                - img
+        - generic [ref=e841] [cursor=pointer]:
+          - link [ref=e842]:
+            - /url: /watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e849]: 16:22
+          - generic [ref=e851]:
+            - generic [ref=e852]:
+              - heading "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic 16 minutes" [level=3] [ref=e853]:
+                - link "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic 16 minutes" [ref=e854]:
+                  - /url: /watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D
+                  - text: Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic
+              - generic [ref=e856]:
+                - group [ref=e857]:
+                  - generic [ref=e858]: AI Engineer
+                - group [ref=e859]:
+                  - generic [ref=e860]: 1.2M views
+                  - generic [ref=e861]: •
+                  - generic [ref=e862]: 4 months ago
+            - button "More actions" [ref=e865]:
+              - generic [ref=e869]:
+                - img
+        - generic [ref=e874] [cursor=pointer]:
+          - link [ref=e875]:
+            - /url: /watch?v=VHxDoC8hqtI&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e882]: 13:19
+          - generic [ref=e884]:
+            - generic [ref=e885]:
+              - heading "Told you so 13 minutes, 19 seconds" [level=3] [ref=e886]:
+                - link "Told you so 13 minutes, 19 seconds" [ref=e887]:
+                  - /url: /watch?v=VHxDoC8hqtI&pp=ugUEEgJlbg%3D%3D
+                  - text: Told you so
+              - generic [ref=e889]:
+                - group [ref=e890]:
+                  - generic [ref=e891]: Maximilian Schwarzmüller
+                - group [ref=e892]:
+                  - generic [ref=e893]: 25K views
+                  - generic [ref=e894]: •
+                  - generic [ref=e895]: 1 day ago
+                - group [ref=e896]:
+                  - generic [ref=e900]: New
+            - button "More actions" [ref=e903]:
+              - generic [ref=e907]:
+                - img
+        - generic [ref=e912] [cursor=pointer]:
+          - link [ref=e913]:
+            - /url: /watch?v=B2wHaRDf3Qo&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e920]: 17:17
+          - generic [ref=e922]:
+            - generic [ref=e923]:
+              - heading "Hermes Agent w/ ChatGPT 5.5 is literally magic 17 minutes" [level=3] [ref=e924]:
+                - link "Hermes Agent w/ ChatGPT 5.5 is literally magic 17 minutes" [ref=e925]:
+                  - /url: /watch?v=B2wHaRDf3Qo&pp=ugUEEgJlbg%3D%3D
+                  - text: Hermes Agent w/ ChatGPT 5.5 is literally magic
+              - generic [ref=e927]:
+                - group [ref=e928]:
+                  - generic [ref=e929]: Alex Finn
+                - group [ref=e930]:
+                  - generic [ref=e931]: 21K views
+                  - generic [ref=e932]: •
+                  - generic [ref=e933]: 17 hours ago
+                - group [ref=e934]:
+                  - generic [ref=e938]: New
+            - button "More actions" [ref=e941]:
+              - generic [ref=e945]:
+                - img
+        - generic [ref=e950] [cursor=pointer]:
+          - link [ref=e951]:
+            - /url: /watch?v=urAMvpPhtqo
+            - generic [ref=e958]: 13:41
+          - generic [ref=e960]:
+            - generic [ref=e961]:
+              - heading "Why Everyone Is Quietly Quitting OpenClaw 13 minutes, 41 seconds" [level=3] [ref=e962]:
+                - link "Why Everyone Is Quietly Quitting OpenClaw 13 minutes, 41 seconds" [ref=e963]:
+                  - /url: /watch?v=urAMvpPhtqo
+                  - text: Why Everyone Is Quietly Quitting OpenClaw
+              - generic [ref=e965]:
+                - group [ref=e966]:
+                  - generic [ref=e967]: Squintist
+                - group [ref=e968]:
+                  - generic [ref=e969]: 85K views
+                  - generic [ref=e970]: •
+                  - generic [ref=e971]: 6 days ago
+                - group [ref=e972]:
+                  - generic [ref=e976]: New
+            - button "More actions" [ref=e979]:
+              - generic [ref=e983]:
+                - img
+        - generic [ref=e988] [cursor=pointer]:
+          - link [ref=e989]:
+            - /url: /watch?v=tS_fJJxMjn4&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e996]: 15:16
+          - generic [ref=e998]:
+            - generic [ref=e999]:
+              - 'heading "🚗 BYD : The biggest SCAM of the car industry ? 15 minutes" [level=3] [ref=e1000]':
+                - 'link "🚗 BYD : The biggest SCAM of the car industry ? 15 minutes" [ref=e1001]':
+                  - /url: /watch?v=tS_fJJxMjn4&pp=ugUEEgJlbg%3D%3D
+                  - text: "🚗 BYD : The biggest SCAM of the car industry ?"
+              - generic [ref=e1003]:
+                - group [ref=e1004]:
+                  - generic [ref=e1005]: Statrys
+                - group [ref=e1006]:
+                  - generic [ref=e1007]: 7.1M views
+                  - generic [ref=e1008]: •
+                  - generic [ref=e1009]: 12 days ago
+            - button "More actions" [ref=e1012]:
+              - generic [ref=e1016]:
+                - img
+        - button "Show more" [ref=e1024] [cursor=pointer]:
+          - generic [ref=e1025]: Show more
+      - heading "Comments" [level=2] [ref=e1034]:
+        - generic [ref=e1035]: Comments

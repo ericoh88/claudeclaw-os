@@ -1,0 +1,39 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: YouTube Transcript
+      - generic [ref=e5]:
+        - text: Create
+        - link "youtube video summaries" [ref=e6] [cursor=pointer]:
+          - /url: https://www.youtubesummaries.com/?utm_source=youtubetranscript&utm_medium=website&utm_campaign=youtubesummaries
+        - text: and more
+  - banner [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Get a transcript:" [level=1] [ref=e12]
+        - generic [ref=e15]:
+          - textbox "enter a youtube url ..." [ref=e17]
+          - button "Go" [ref=e19] [cursor=pointer]
+      - generic [ref=e21]:
+        - paragraph [ref=e22]: Or
+        - link "Add Merlin To Chrome It's Free" [ref=e23] [cursor=pointer]:
+          - /url: https://chromewebstore.google.com/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec?utm_source=youtubetranscript&utm_medium=website&utm_campaign=extension_install
+          - img [ref=e24]
+          - text: Add Merlin To Chrome It's Free
+  - generic [ref=e27]:
+    - generic [ref=e29]:
+      - generic [ref=e31]: 
+      - heading "Reading is Faster" [level=3] [ref=e32]
+      - paragraph [ref=e33]: Blah blah welcome to my video begone!
+    - generic [ref=e35]:
+      - generic [ref=e37]: 
+      - heading "Probably Won't Fail" [level=3] [ref=e38]
+      - paragraph [ref=e39]: Featuring the latest build of an undocumented API.
+    - generic [ref=e41]:
+      - generic [ref=e43]: 
+      - heading "Easy to Use" [level=3] [ref=e44]
+      - paragraph [ref=e45]: Website definitely made with a bootstrap template.
+  - contentinfo [ref=e46]:
+    - text: © Copyright & Powered by
+    - link "Merlin AI" [ref=e47] [cursor=pointer]:
+      - /url: https://getmerlin.in
