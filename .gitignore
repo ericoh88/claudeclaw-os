@@ -120,3 +120,8 @@ agents/*/agent.yaml.backup
 # CWDs (sub-agents start with cwd=agents/<id>).
 .claude/claudex/
 agents/*/.claude/claudex/
+.playwright-mcp/
+*.png
+*.jpeg
+.sandcastle/
+.plan

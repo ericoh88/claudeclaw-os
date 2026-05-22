@@ -197,6 +197,15 @@ async function transcribeAudioGroq(filePath: string): Promise<string> {
     ),
   );
 
+  // Language field -- force English to prevent Whisper auto-detecting Malay
+  parts.push(
+    Buffer.from(
+      `--${boundary}\r\n` +
+        `Content-Disposition: form-data; name="language"\r\n\r\n` +
+        `en\r\n`,
+    ),
+  );
+
   // Closing boundary
   parts.push(Buffer.from(`--${boundary}--\r\n`));
 
@@ -329,7 +338,7 @@ async function synthesizeSpeechGradium(text: string): Promise<Buffer> {
   const payload = JSON.stringify({
     text,
     voice_id: voiceId,
-    output_format: 'opus',
+    output_format: 'opus_48000_128',
     only_audio: true,
   });
 

@@ -17,8 +17,9 @@ import { logger } from './logger.js';
 import { messageQueue } from './message-queue.js';
 import { runAgent } from './agent.js';
 import { formatForTelegram, splitMessage } from './bot.js';
+import type { ScheduledTask, MissionTask } from './db.js';
 
-type Sender = (text: string) => Promise<void>;
+type Sender = (text: string, task?: ScheduledTask | MissionTask | null) => Promise<void>;
 
 /** Max time (ms) a scheduled task can run before being killed. */
 const TASK_TIMEOUT_MS = 10 * 60 * 1000; // 10 minutes
@@ -32,8 +33,8 @@ let sender: Sender;
 const runningTaskIds = new Set<string>();
 
 /**
- * Initialise the scheduler. Call once after the Telegram bot is ready.
- * @param send  Function that sends a message to the user's Telegram chat.
+ * Initialise the scheduler. Call once after the bot is ready.
+ * @param send  Source-aware sender that routes messages to the correct transport.
  */
 let schedulerAgentId = 'main';
 
@@ -89,7 +90,7 @@ async function runDueTasks(): Promise<void> {
       const timeout = setTimeout(() => abortController.abort(), TASK_TIMEOUT_MS);
 
       try {
-        await sender(`Scheduled task running: "${task.prompt.slice(0, 80)}${task.prompt.length > 80 ? '...' : ''}"`);
+        await sender(`Scheduled task running: "${task.prompt.slice(0, 80)}${task.prompt.length > 80 ? '...' : ''}"`, task);
 
         // Run as a fresh agent call (no session — scheduled tasks are autonomous)
         const result = await runAgent(task.prompt, undefined, () => {}, undefined, undefined, abortController, undefined, agentMcpAllowlist);
@@ -97,14 +98,14 @@ async function runDueTasks(): Promise<void> {
 
         if (result.aborted) {
           updateTaskAfterRun(task.id, nextRun, 'Timed out after 10 minutes', 'timeout');
-          await sender(`⏱ Task timed out after 10m: "${task.prompt.slice(0, 60)}..." — killed.`);
+          await sender(`⏱ Task timed out after 10m: "${task.prompt.slice(0, 60)}..." — killed.`, task);
           logger.warn({ taskId: task.id }, 'Task timed out');
           return;
         }
 
         const text = result.text?.trim() || 'Task completed with no output.';
         for (const chunk of splitMessage(formatForTelegram(text))) {
-          await sender(chunk);
+          await sender(chunk, task);
         }
 
         // Inject task output into the active chat session so user replies have context
@@ -124,7 +125,7 @@ async function runDueTasks(): Promise<void> {
 
         logger.error({ err, taskId: task.id }, 'Scheduled task failed');
         try {
-          await sender(`❌ Task failed: "${task.prompt.slice(0, 60)}..." — ${errMsg.slice(0, 200)}`);
+          await sender(`❌ Task failed: "${task.prompt.slice(0, 60)}..." — ${errMsg.slice(0, 200)}`, task);
         } catch {
           // ignore send failure
         }
@@ -178,7 +179,7 @@ async function runDueMissionTasks(): Promise<void> {
           completeMissionTask(mission.id, null, 'failed', 'Timed out after 10 minutes');
           logger.warn({ missionId: mission.id }, 'Mission task timed out');
           try {
-            await sender('Mission task timed out: "' + mission.title + '"');
+            await sender('Mission task timed out: "' + mission.title + '"', mission);
           } catch (sendErr) {
             // Sender can fail for Telegram API blips or chat-not-found. We
             // still want to see it so the user isn't silently unnotified.
@@ -190,9 +191,9 @@ async function runDueMissionTasks(): Promise<void> {
         completeMissionTask(mission.id, text, 'completed');
         logger.info({ missionId: mission.id }, 'Mission task completed');
 
-        // Send result to Telegram
+        // Send result to originating channel
         for (const chunk of splitMessage(formatForTelegram(text))) {
-          await sender(chunk);
+          await sender(chunk, mission);
         }
 
         // Inject into conversation context so agent can reference it

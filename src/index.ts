@@ -2,9 +2,10 @@ import fs from 'fs';
 import path from 'path';
 
 import { loadAgentConfig, listAgentIds, resolveAgentDir, resolveAgentClaudeMd, refreshWarRoomRoster } from './agent-config.js';
-import { createBot } from './bot.js';
+import { createBot, isTelegram409 } from './bot.js';
 import { checkPendingMigrations } from './migrations.js';
-import { ALLOWED_CHAT_ID, activeBotToken, STORE_DIR, PROJECT_ROOT, CLAUDECLAW_CONFIG, GOOGLE_API_KEY, setAgentOverrides, SECURITY_PIN_HASH, IDLE_LOCK_MINUTES, EMERGENCY_KILL_PHRASE, WARROOM_ENABLED, WARROOM_PORT } from './config.js';
+import { ALLOWED_CHAT_ID, activeBotToken, STORE_DIR, PROJECT_ROOT, CLAUDECLAW_CONFIG, GOOGLE_API_KEY, setAgentOverrides, SECURITY_PIN_HASH, IDLE_LOCK_MINUTES, EMERGENCY_KILL_PHRASE, WARROOM_ENABLED, WARROOM_PORT, DISCORD_BOT_TOKEN } from './config.js';
+import { initDiscord } from './discord.js';
 import { startDashboard } from './dashboard.js';
 import { initDatabase, cleanupOldMissionTasks, insertAuditLog } from './db.js';
 import { initSecurity, setAuditCallback } from './security.js';
@@ -17,6 +18,7 @@ import { initOAuthHealthCheck } from './oauth-health.js';
 import { initOrchestrator } from './orchestrator.js';
 import { initScheduler } from './scheduler.js';
 import { setTelegramConnected, setBotInfo } from './state.js';
+import { initNotifier, createSourceAwareSender, getSystemAlertSender, notify } from './notify.js';
 import { getVenvPython, killProcess } from './platform.js';
 
 // Parse --agent flag
@@ -207,9 +209,7 @@ async function main(): Promise<void> {
             + 'pip install -r warroom/requirements.txt\n\n'
             + 'Then restart the bot.';
           logger.error(msg);
-          if (ALLOWED_CHAT_ID) {
-            bot.api.sendMessage(ALLOWED_CHAT_ID, `War Room could not start.\n\n${msg}`).catch(() => {});
-          }
+          notify(`War Room could not start.\n\n${msg}`).catch(() => {});
         } else {
         // Dedicated log file for the warroom subprocess
         const warroomLogPath = '/tmp/warroom-debug.log';
@@ -276,9 +276,7 @@ async function main(): Promise<void> {
               respawnAttempts += 1;
               if (respawnAttempts > MAX_CRASH_RESPAWNS) {
                 logger.error(`War Room crashed ${MAX_CRASH_RESPAWNS} times. Giving up. Check /tmp/warroom-debug.log for errors.`);
-                if (ALLOWED_CHAT_ID) {
-                  bot.api.sendMessage(ALLOWED_CHAT_ID, `War Room crashed ${MAX_CRASH_RESPAWNS} times and has been disabled.\n\nCheck /tmp/warroom-debug.log, fix the issue, and restart the bot.`).catch(() => {});
-                }
+                notify(`War Room crashed ${MAX_CRASH_RESPAWNS} times and has been disabled.\n\nCheck /tmp/warroom-debug.log, fix the issue, and restart the bot.`).catch(() => {});
                 return;
               }
               delayMs = Math.min(30000, 500 * 2 ** Math.min(respawnAttempts, 6));
@@ -307,45 +305,25 @@ async function main(): Promise<void> {
           ? 'Python venv not found. Run:\n\npython3 -m venv warroom/.venv\nsource warroom/.venv/bin/activate\npip install -r warroom/requirements.txt'
           : 'warroom/server.py not found. Make sure the warroom/ directory exists.';
         logger.warn('War Room enabled but cannot start: %s', hint);
-        if (ALLOWED_CHAT_ID) {
-          bot.api.sendMessage(ALLOWED_CHAT_ID, `War Room is enabled but could not start.\n\n${hint}`).catch(() => {});
-        }
+        notify(`War Room is enabled but could not start.\n\n${hint}`).catch(() => {});
       }
     }
   }
 
+  // Initialise the multi-transport notifier (Telegram + Discord)
   if (ALLOWED_CHAT_ID) {
-    initScheduler(
-      async (text) => {
-        // Split long messages to respect Telegram's 4096 char limit.
-        // The scheduler's splitMessage handles chunking, but the sender
-        // callback is also called directly for status messages which may exceed the limit.
-        const { splitMessage } = await import('./bot.js');
-        for (const chunk of splitMessage(text)) {
-          await bot.api.sendMessage(ALLOWED_CHAT_ID, chunk, { parse_mode: 'HTML' }).catch((err) =>
-            logger.error({ err }, 'Scheduler failed to send message'),
-          );
-        }
-      },
-      AGENT_ID,
-    );
+    initNotifier(bot.api, ALLOWED_CHAT_ID);
+  }
 
-    // Proactive OAuth health monitoring — alerts via Telegram before the
-    // Claude CLI token expires. OPT-IN as of 2026-04-10: users were getting
-    // spammed with "Expiring soon" alerts on fresh installs (reported by
-    // Benjamin Elkrieff in Discord), and people who don't monitor their
-    // phone can't re-auth in time anyway. Enable only if you actually want
-    // the alerts by setting OAUTH_HEALTH_ENABLED=true in .env.
+  if (ALLOWED_CHAT_ID) {
+    // Source-aware sender: routes task results back to where they were created
+    initScheduler(createSourceAwareSender(), AGENT_ID);
+
+    // Proactive OAuth health monitoring — alerts to both channels before the
+    // Claude CLI token expires. OPT-IN as of 2026-04-10.
     const oauthHealthEnv = (await import('./env.js')).readEnvFile(['OAUTH_HEALTH_ENABLED']);
     if ((oauthHealthEnv.OAUTH_HEALTH_ENABLED || '').trim().toLowerCase() === 'true') {
-      initOAuthHealthCheck(async (text) => {
-        const { splitMessage } = await import('./bot.js');
-        for (const chunk of splitMessage(text)) {
-          await bot.api.sendMessage(ALLOWED_CHAT_ID, chunk, { parse_mode: 'HTML' }).catch((err) =>
-            logger.error({ err }, 'OAuth health alert failed'),
-          );
-        }
-      });
+      initOAuthHealthCheck(getSystemAlertSender());
     } else {
       logger.info('OAuth health check disabled (set OAUTH_HEALTH_ENABLED=true in .env to enable)');
     }
@@ -367,28 +345,65 @@ async function main(): Promise<void> {
 
   // Clear any existing webhook so polling works cleanly (e.g., if token was
   // previously used with a webhook-based bot or another ClaudeClaw instance).
+  // This also helps clear stale getUpdates sessions (Fix A: pre-start cleanup).
   try {
-    await bot.api.deleteWebhook({ drop_pending_updates: false });
+    await bot.api.deleteWebhook({ drop_pending_updates: true });
+    logger.info('Cleared webhook + pending updates (pre-start cleanup)');
   } catch (err) {
     logger.warn({ err }, 'Could not clear webhook (non-fatal)');
   }
 
-  await bot.start({
-    onStart: (botInfo) => {
-      setTelegramConnected(true);
-      setBotInfo(botInfo.username ?? '', botInfo.first_name ?? 'ClaudeClaw');
-      logger.info({ username: botInfo.username }, 'ClaudeClaw is running');
-      if (AGENT_ID === 'main') {
-        console.log(`\n  ClaudeClaw online: @${botInfo.username}`);
-        if (!ALLOWED_CHAT_ID) {
-          console.log(`  Send /chatid to get your chat ID for ALLOWED_CHAT_ID`);
+  // Start Discord bot (main agent only)
+  if (AGENT_ID === 'main' && DISCORD_BOT_TOKEN) {
+    initDiscord().catch((err) => logger.error({ err }, 'Discord failed to start'));
+  }
+
+  // Resilient bot startup: retries on Telegram 409 conflict with exponential backoff.
+  // Grammy treats 409 as fatal and kills the polling loop. We catch it and retry,
+  // giving the old session time to expire (~30s Telegram long-poll timeout).
+  const BACKOFF_DELAYS = [5, 15, 30, 60]; // seconds
+  const MAX_RETRIES = BACKOFF_DELAYS.length;
+
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      await bot.start({
+        drop_pending_updates: attempt > 0, // drop on retries to avoid stale updates
+        onStart: (botInfo) => {
+          setTelegramConnected(true);
+          setBotInfo(botInfo.username ?? '', botInfo.first_name ?? 'ClaudeClaw');
+          logger.info({ username: botInfo.username, attempt }, 'ClaudeClaw is running');
+          if (AGENT_ID === 'main') {
+            console.log(`\n  ClaudeClaw online: @${botInfo.username}`);
+            if (!ALLOWED_CHAT_ID) {
+              console.log(`  Send /chatid to get your chat ID for ALLOWED_CHAT_ID`);
+            }
+            console.log();
+          } else {
+            console.log(`\n  ClaudeClaw agent [${AGENT_ID}] online: @${botInfo.username}\n`);
+          }
+        },
+      });
+      break; // bot.start() resolved = polling ended cleanly (e.g. bot.stop() called)
+    } catch (err) {
+      if (isTelegram409(err) && attempt < MAX_RETRIES) {
+        const delay = BACKOFF_DELAYS[attempt];
+        logger.warn({ attempt: attempt + 1, maxRetries: MAX_RETRIES, delaySec: delay },
+          `Telegram 409 conflict. Retrying in ${delay}s...`);
+        // Notify user if possible (non-blocking)
+        if (ALLOWED_CHAT_ID) {
+          notify(`Bot startup hit 409 conflict (attempt ${attempt + 1}/${MAX_RETRIES + 1}). Retrying in ${delay}s...`).catch(() => {});
         }
-        console.log();
-      } else {
-        console.log(`\n  ClaudeClaw agent [${AGENT_ID}] online: @${botInfo.username}\n`);
+        await new Promise(r => setTimeout(r, delay * 1000));
+        // Clear stale session before retry
+        try {
+          await bot.api.deleteWebhook({ drop_pending_updates: true });
+        } catch { /* best effort */ }
+        continue;
       }
-    },
-  });
+      // Not a 409 or exhausted retries — propagate
+      throw err;
+    }
+  }
 }
 
 main().catch((err: unknown) => {

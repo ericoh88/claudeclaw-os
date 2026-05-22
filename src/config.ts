@@ -37,6 +37,9 @@ const envConfig = readEnvFile([
   'WARROOM_ENABLED',
   'WARROOM_PORT',
   'STREAM_STRATEGY',
+  'DISCORD_BOT_TOKEN',
+  'DISCORD_ALLOWED_USER_ID',
+  'DISCORD_NOTIFICATION_CHANNEL_ID',
 ]);
 
 // ── Multi-agent support ──────────────────────────────────────────────
@@ -260,4 +263,14 @@ export const WARROOM_PORT = parseInt(
   process.env.WARROOM_PORT || envConfig.WARROOM_PORT || '7860',
   10,
 );
+
+// ── Discord ─────────────────────────────────────────────────────────
+export const DISCORD_BOT_TOKEN =
+  process.env.DISCORD_BOT_TOKEN || envConfig.DISCORD_BOT_TOKEN || '';
+export const DISCORD_ALLOWED_USER_ID =
+  process.env.DISCORD_ALLOWED_USER_ID || envConfig.DISCORD_ALLOWED_USER_ID || '';
+// Fallback channel for Discord notifications when the originating channel
+// is unavailable or for system alerts. Right-click channel > Copy Channel ID.
+export const DISCORD_NOTIFICATION_CHANNEL_ID =
+  process.env.DISCORD_NOTIFICATION_CHANNEL_ID || envConfig.DISCORD_NOTIFICATION_CHANNEL_ID || '';
 

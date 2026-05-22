@@ -397,6 +397,20 @@ function createSchema(database: Database.Database): void {
     );
     CREATE INDEX IF NOT EXISTS idx_skill_usage_skill ON skill_usage(skill_id, triggered_at DESC);
 
+    -- Phase 4.4: Skill suggestions (auto-detected skill candidates)
+    CREATE TABLE IF NOT EXISTS skill_suggestions (
+      id          INTEGER PRIMARY KEY AUTOINCREMENT,
+      suggested_name TEXT NOT NULL,
+      description TEXT NOT NULL,
+      task_summary TEXT NOT NULL DEFAULT '',
+      tool_count  INTEGER NOT NULL DEFAULT 0,
+      source      TEXT NOT NULL DEFAULT 'llm',
+      status      TEXT NOT NULL DEFAULT 'pending',
+      agent_id    TEXT NOT NULL DEFAULT 'main',
+      chat_id     TEXT NOT NULL DEFAULT '',
+      created_at  INTEGER NOT NULL DEFAULT (strftime('%s','now'))
+    );
+
     -- Phase 6.2: Session summaries
     CREATE TABLE IF NOT EXISTS session_summaries (
       id          INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -510,6 +524,25 @@ function runMigrations(database: Database.Database): void {
   }
   if (!taskColNames.includes('last_status')) {
     database.exec(`ALTER TABLE scheduled_tasks ADD COLUMN last_status TEXT`);
+  }
+
+  // Source-aware notification routing: track where a task was created from
+  // so results can be routed back to the originating channel.
+  if (!taskColNames.includes('source')) {
+    database.exec(`ALTER TABLE scheduled_tasks ADD COLUMN source TEXT DEFAULT 'telegram'`);
+  }
+  if (!taskColNames.includes('source_chat_id')) {
+    database.exec(`ALTER TABLE scheduled_tasks ADD COLUMN source_chat_id TEXT`);
+  }
+
+  // Same for mission tasks
+  const missionCols = database.prepare(`PRAGMA table_info(mission_tasks)`).all() as Array<{ name: string }>;
+  const missionColNames = missionCols.map((c) => c.name);
+  if (!missionColNames.includes('source')) {
+    database.exec(`ALTER TABLE mission_tasks ADD COLUMN source TEXT DEFAULT 'dashboard'`);
+  }
+  if (!missionColNames.includes('source_chat_id')) {
+    database.exec(`ALTER TABLE mission_tasks ADD COLUMN source_chat_id TEXT`);
   }
 
   // ── Memory V2 migration ──────────────────────────────────────────────
@@ -670,8 +703,8 @@ function runMigrations(database: Database.Database): void {
   }
 
   // Mission Control: migrate assigned_agent from NOT NULL to nullable (allow unassigned tasks)
-  const missionCols = database.prepare(`PRAGMA table_info(mission_tasks)`).all() as Array<{ name: string; notnull: number }>;
-  const assignedCol = missionCols.find((c) => c.name === 'assigned_agent');
+  const missionCols2 = database.prepare(`PRAGMA table_info(mission_tasks)`).all() as Array<{ name: string; notnull: number }>;
+  const assignedCol = missionCols2.find((c) => c.name === 'assigned_agent');
   if (assignedCol && assignedCol.notnull === 1) {
     database.exec(`
       CREATE TABLE mission_tasks_new (
@@ -1233,6 +1266,8 @@ export interface ScheduledTask {
   agent_id: string;
   started_at: number | null;
   last_status: 'success' | 'failed' | 'timeout' | null;
+  source: string | null;
+  source_chat_id: string | null;
 }
 
 export function createScheduledTask(
@@ -1241,12 +1276,14 @@ export function createScheduledTask(
   schedule: string,
   nextRun: number,
   agentId = 'main',
+  source: string = 'telegram',
+  sourceChatId: string | null = null,
 ): void {
   const now = Math.floor(Date.now() / 1000);
   db.prepare(
-    `INSERT INTO scheduled_tasks (id, prompt, schedule, next_run, status, created_at, agent_id)
-     VALUES (?, ?, ?, ?, 'active', ?, ?)`,
-  ).run(id, prompt, schedule, nextRun, now, agentId);
+    `INSERT INTO scheduled_tasks (id, prompt, schedule, next_run, status, created_at, agent_id, source, source_chat_id)
+     VALUES (?, ?, ?, ?, 'active', ?, ?, ?, ?)`,
+  ).run(id, prompt, schedule, nextRun, now, agentId, source, sourceChatId);
 }
 
 export function getDueTasks(agentId = 'main'): ScheduledTask[] {
@@ -2159,6 +2196,8 @@ export interface MissionTask {
   created_at: number;
   started_at: number | null;
   completed_at: number | null;
+  source: string | null;
+  source_chat_id: string | null;
 }
 
 export function createMissionTask(
@@ -2168,12 +2207,14 @@ export function createMissionTask(
   assignedAgent: string | null = null,
   createdBy = 'dashboard',
   priority = 0,
+  source: string = 'dashboard',
+  sourceChatId: string | null = null,
 ): void {
   const now = Math.floor(Date.now() / 1000);
   db.prepare(
-    `INSERT INTO mission_tasks (id, title, prompt, assigned_agent, status, created_by, priority, created_at)
-     VALUES (?, ?, ?, ?, 'queued', ?, ?, ?)`,
-  ).run(id, title, prompt, assignedAgent, createdBy, priority, now);
+    `INSERT INTO mission_tasks (id, title, prompt, assigned_agent, status, created_by, priority, created_at, source, source_chat_id)
+     VALUES (?, ?, ?, ?, 'queued', ?, ?, ?, ?, ?)`,
+  ).run(id, title, prompt, assignedAgent, createdBy, priority, now, source, sourceChatId);
 }
 
 export function getUnassignedMissionTasks(): MissionTask[] {
@@ -2560,6 +2601,41 @@ export function getSkillUsageStats(): Array<{
   `).all() as Array<{
     skill_id: string; count: number; last_used: number; total_tokens: number;
   }>;
+}
+
+// ── Phase 4.4: Skill suggestions ──────────────────────────────────────
+
+export function saveSkillSuggestion(
+  suggestedName: string,
+  description: string,
+  taskSummary: string,
+  toolCount: number,
+  agentId: string,
+  chatId: string,
+  source = 'llm',
+): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare(
+    `INSERT INTO skill_suggestions (suggested_name, description, task_summary, tool_count, source, agent_id, chat_id, created_at)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+  ).run(suggestedName, description, taskSummary, toolCount, source, agentId, chatId, now);
+}
+
+export function getSkillSuggestions(status = 'pending'): Array<{
+  id: number; suggested_name: string; description: string; task_summary: string;
+  tool_count: number; source: string; status: string; created_at: number;
+}> {
+  return db.prepare(
+    `SELECT id, suggested_name, description, task_summary, tool_count, source, status, created_at
+     FROM skill_suggestions WHERE status = ? ORDER BY created_at DESC`,
+  ).all(status) as Array<{
+    id: number; suggested_name: string; description: string; task_summary: string;
+    tool_count: number; source: string; status: string; created_at: number;
+  }>;
+}
+
+export function updateSkillSuggestionStatus(id: number, status: string): void {
+  db.prepare('UPDATE skill_suggestions SET status = ? WHERE id = ?').run(status, id);
 }
 
 // ── Phase 6: Session summaries ────────────────────────────────────────

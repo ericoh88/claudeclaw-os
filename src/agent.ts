@@ -4,11 +4,13 @@ import path from 'path';
 import { query } from '@anthropic-ai/claude-agent-sdk';
 
 import { AGENT_MAX_TURNS, PROJECT_ROOT, agentCwd } from './config.js';
+import { logSkillUsage } from './db.js';
 import { readEnvFile } from './env.js';
 import { classifyError, AgentError } from './errors.js';
 import { logger } from './logger.js';
 import { getScrubbedSdkEnv } from './security.js';
 import { requireEnabled } from './kill-switches.js';
+import { evaluateSkillCandidate } from './skill-suggestion.js';
 
 // ── MCP server loading ──────────────────────────────────────────────
 // The Agent SDK's settingSources loads CLAUDE.md and permissions from
@@ -208,6 +210,8 @@ export async function runAgent(
   let lastCallCacheRead = 0;
   let lastCallInputTokens = 0;
   let streamedText = '';
+  const skillsInvoked: string[] = [];
+  const toolsUsed: string[] = [];
 
   // Refresh typing indicator on an interval while Claude works.
   // Telegram's "typing..." action expires after ~5s.
@@ -263,6 +267,22 @@ export async function runAgent(
       },
     })) {
       const ev = event as Record<string, unknown>;
+
+      // ── Tool & skill usage telemetry ──────────────────────────────
+      if (ev['type'] === 'assistant') {
+        const assistMsg = ev['message'] as Record<string, unknown> | undefined;
+        const assistContent = assistMsg?.['content'] as Array<{ type: string; name?: string; input?: Record<string, unknown> }> | undefined;
+        if (Array.isArray(assistContent)) {
+          for (const block of assistContent) {
+            if (block.type === 'tool_use' && block.name) {
+              toolsUsed.push(block.name);
+              if (block.name === 'Skill' && block.input?.['skill']) {
+                skillsInvoked.push(block.input['skill'] as string);
+              }
+            }
+          }
+        }
+      }
 
       if (ev['type'] === 'system' && ev['subtype'] === 'init') {
         newSessionId = ev['session_id'] as string;
@@ -390,6 +410,35 @@ export async function runAgent(
     throw classified;
   } finally {
     clearInterval(typingInterval);
+
+    // ── Log skill invocations to telemetry ──────────────────────────
+    const chatId = process.env.CLAUDECLAW_CHAT_ID ?? '';
+    const agentId = process.env.CLAUDECLAW_AGENT_ID ?? 'main';
+    if (skillsInvoked.length > 0) {
+      for (const skillName of skillsInvoked) {
+        try {
+          logSkillUsage(skillName, chatId, agentId, 0, true);
+        } catch (e) {
+          logger.warn({ err: e, skill: skillName }, 'Failed to log skill usage');
+        }
+      }
+      logger.info({ skills: skillsInvoked }, 'Skill usage logged');
+    }
+
+    // ── Auto-skill suggestion: evaluate if this task should be a skill ──
+    // Fire-and-forget: runs async via Gemini Flash, never blocks response.
+    if (resultText && message) {
+      void evaluateSkillCandidate(
+        message,
+        resultText,
+        toolsUsed,
+        skillsInvoked,
+        agentId,
+        chatId,
+      ).catch((err) => {
+        logger.warn({ err }, 'Skill suggestion evaluation failed (non-fatal)');
+      });
+    }
   }
 
   return { text: resultText, newSessionId, usage };

@@ -1,0 +1,13 @@
+# Gitleaks config for ClaudeClaw
+# Extends the default ruleset with project-specific allowlists
+
+title = "ClaudeClaw gitleaks config"
+
+[allowlist]
+  # These paths are safe to ignore (no secrets, or handled by .gitignore)
+  paths = [
+    '''node_modules/''',
+    '''dist/''',
+    '''package-lock\.json''',
+    '''.gitleaks\.toml''',
+  ]

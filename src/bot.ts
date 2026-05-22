@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import { Api, Bot, Context, InputFile, RawApi } from 'grammy';
+import { Api, Bot, BotError, Context, GrammyError, InputFile, RawApi } from 'grammy';
 
 import { runAgent, runAgentWithRetry, UsageInfo, AgentProgressEvent } from './agent.js';
 import { AgentError } from './errors.js';
@@ -40,6 +40,7 @@ import { trackUsage, getRateStatus } from './rate-tracker.js';
 import { buildCostFooter } from './cost-footer.js';
 import { setHighImportanceCallback } from './memory-ingest.js';
 import { messageQueue } from './message-queue.js';
+import { notify } from './notify.js';
 import { parseDelegation, delegateToAgent, getAvailableAgents } from './orchestrator.js';
 import { emitChatEvent, setProcessing, setActiveAbort, abortActiveQuery } from './state.js';
 import {
@@ -376,6 +377,10 @@ async function handleMessage(ctx: Context, message: string, forceVoiceReply = fa
   const chatId = ctx.chat!.id;
   const chatIdStr = chatId.toString();
 
+  // Set source context for subprocess (schedule-cli, mission-cli)
+  process.env.CLAUDECLAW_SOURCE = 'telegram';
+  process.env.CLAUDECLAW_CHAT_ID = chatIdStr;
+
   // Security gate
   if (!isAuthorised(chatId)) {
     logger.warn({ chatId }, 'Rejected message from unauthorised chat');
@@ -464,7 +469,7 @@ async function handleMessage(ctx: Context, message: string, forceVoiceReply = fa
         },
       );
 
-      const response = delegationResult.text?.trim() || 'Agent completed with no output.';
+      const response = delegationResult.text?.trim() || '[Agent completed but produced no summary. Ask for a recap.]';
       const header = `[${delegationResult.agentId} — ${Math.round(delegationResult.durationMs / 1000)}s]`;
 
       if (!skipLog) {
@@ -638,7 +643,7 @@ async function handleMessage(ctx: Context, message: string, forceVoiceReply = fa
       logger.info({ newSessionId: result.newSessionId }, 'Session saved');
     }
 
-    let rawResponse = result.text?.trim() || 'Done.';
+    let rawResponse = result.text?.trim() || '[Task completed — no summary was generated. Ask me to recap what I just did.]';
 
     // Exfiltration guard: scan for leaked secrets before sending to Telegram
     if (EXFILTRATION_GUARD_ENABLED) {
@@ -858,12 +863,12 @@ export function createBot(): Bot {
   });
 
   // Register callback for high-importance memory notifications.
-  // When a memory with importance >= 0.8 is created, notify via Telegram
+  // When a memory with importance >= 0.8 is created, notify via both channels
   // so the user can /pin it if it should be permanent.
   if (ALLOWED_CHAT_ID) {
     setHighImportanceCallback((memoryId, summary, importance) => {
       const msg = `🧠 New memory #${memoryId} [${importance.toFixed(1)}]: ${summary.slice(0, 200)}\n\n/pin ${memoryId} to make permanent`;
-      bot.api.sendMessage(ALLOWED_CHAT_ID, msg).catch(() => {});
+      notify(msg).catch(() => {});
     });
   }
 
@@ -1583,11 +1588,37 @@ export function createBot(): Bot {
   });
 
   // Graceful error handling — log but don't crash
-  bot.catch((err) => {
+  // Grammy throws 409 as fatal, killing the polling loop. We detect it here
+  // and set a flag so the resilient startup wrapper in index.ts can retry.
+  bot.catch((err: BotError) => {
+    const cause = err.error;
+    if (cause instanceof GrammyError && cause.error_code === 409) {
+      logger.warn({ method: cause.method, description: cause.description },
+        'Telegram 409 conflict — another instance may be polling. Will retry.');
+      // Let it propagate so bot.start() rejects and our retry loop catches it
+      throw err;
+    }
     logger.error({ err: err.message }, 'Telegram bot error');
   });
 
   return bot;
+}
+
+/**
+ * Detect whether an error is a Telegram 409 conflict (another getUpdates polling).
+ * Used by the resilient startup loop in index.ts.
+ */
+export function isTelegram409(err: unknown): boolean {
+  // Grammy wraps errors in BotError, and also throws GrammyError directly
+  // from the polling loop's handlePollingError.
+  if (err instanceof GrammyError) return err.error_code === 409;
+  if (err instanceof BotError) {
+    const cause = err.error;
+    return cause instanceof GrammyError && cause.error_code === 409;
+  }
+  // Fallback: check error message for 409 pattern
+  if (err instanceof Error && /409.*conflict|terminated by other/i.test(err.message)) return true;
+  return false;
 }
 
 /**
@@ -1598,10 +1629,10 @@ export function createBot(): Bot {
 export async function processMessageFromDashboard(
   botApi: Api<RawApi>,
   text: string,
+  overrideChatId?: string,
 ): Promise<void> {
-  if (!ALLOWED_CHAT_ID) return;
-
-  const chatIdStr = ALLOWED_CHAT_ID;
+  const chatIdStr = overrideChatId || ALLOWED_CHAT_ID;
+  if (!chatIdStr) return;
 
   logger.info({ messageLen: text.length, source: 'dashboard' }, 'Processing dashboard message');
 
@@ -1715,7 +1746,8 @@ async function processDashboardMessage(
     // NOT bubble Telegram's raw error description into the chat feed.
     // The dashboard already received the assistant message via SSE
     // above; the Telegram leg is best-effort.
-    if (responseText) {
+    // Skip relay for voice channels (non-numeric chat IDs like "voice-trading")
+    if (responseText && /^\-?\d+$/.test(chatIdStr)) {
       try {
         for (const part of splitMessage(formatForTelegram(responseText))) {
           await botApi.sendMessage(parseInt(chatIdStr), part, { parse_mode: 'HTML' });
@@ -1786,7 +1818,8 @@ export async function notifyWhatsAppIncoming(
   const text = `📱 <b>${escapeHtml(origin)}</b> — new message\n<i>/wa to view &amp; reply</i>`;
 
   try {
-    await api.sendMessage(parseInt(ALLOWED_CHAT_ID), text, { parse_mode: 'HTML' });
+    // System alert: routes to both Telegram + Discord
+    await notify(text, { preformatted: true });
   } catch (err) {
     logger.error({ err }, 'Failed to send WhatsApp notification');
   }
