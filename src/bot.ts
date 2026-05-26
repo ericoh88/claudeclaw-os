@@ -1707,7 +1707,7 @@ async function processDashboardMessage(
       setSession(chatIdStr, result.newSessionId, AGENT_ID);
     }
 
-    const rawResponse = result.text?.trim() || 'Done.';
+    const rawResponse = result.text?.trim() || '[Task completed — no summary was generated. Ask me to recap what I just did.]';
 
     // Save conversation turn
     saveConversationTurn(chatIdStr, text, rawResponse, result.newSessionId ?? sessionId, AGENT_ID);
@@ -1720,7 +1720,7 @@ async function processDashboardMessage(
     // text. Any photo URLs end up as separate assistant_photo events
     // (handled below) so the SPA can inline-render them.
     const { text: responseText, files: dashFileMarkers } = extractFileMarkers(rawResponse);
-    const cleanedForChat = responseText || (dashFileMarkers.length > 0 ? '' : 'Done.');
+    const cleanedForChat = responseText || (dashFileMarkers.length > 0 ? '' : '[Task completed — no summary was generated. Ask me to recap what I just did.]');
 
     // Emit assistant response to SSE clients
     if (cleanedForChat) {

@@ -210,6 +210,7 @@ export async function runAgent(
   let lastCallCacheRead = 0;
   let lastCallInputTokens = 0;
   let streamedText = '';
+  let lastAssistantText: string | null = null; // Fallback: last text from assistant content blocks
   const skillsInvoked: string[] = [];
   const toolsUsed: string[] = [];
 
@@ -268,10 +269,10 @@ export async function runAgent(
     })) {
       const ev = event as Record<string, unknown>;
 
-      // ── Tool & skill usage telemetry ──────────────────────────────
+      // ── Tool & skill usage telemetry + assistant text capture ─────
       if (ev['type'] === 'assistant') {
         const assistMsg = ev['message'] as Record<string, unknown> | undefined;
-        const assistContent = assistMsg?.['content'] as Array<{ type: string; name?: string; input?: Record<string, unknown> }> | undefined;
+        const assistContent = assistMsg?.['content'] as Array<{ type: string; name?: string; text?: string; input?: Record<string, unknown> }> | undefined;
         if (Array.isArray(assistContent)) {
           for (const block of assistContent) {
             if (block.type === 'tool_use' && block.name) {
@@ -279,6 +280,12 @@ export async function runAgent(
               if (block.name === 'Skill' && block.input?.['skill']) {
                 skillsInvoked.push(block.input['skill'] as string);
               }
+            }
+            // Capture assistant text blocks for fallback when result.text is null.
+            // Claude sometimes produces text alongside tool calls (e.g. explanations
+            // before AskUserQuestion) that the SDK result event doesn't capture.
+            if (block.type === 'text' && block.text && block.text.length > 20) {
+              lastAssistantText = block.text;
             }
           }
         }
@@ -427,10 +434,11 @@ export async function runAgent(
 
     // ── Auto-skill suggestion: evaluate if this task should be a skill ──
     // Fire-and-forget: runs async via Gemini Flash, never blocks response.
-    if (resultText && message) {
+    const textForEval = resultText ?? lastAssistantText;
+    if (textForEval && message) {
       void evaluateSkillCandidate(
         message,
-        resultText,
+        textForEval,
         toolsUsed,
         skillsInvoked,
         agentId,
@@ -441,7 +449,18 @@ export async function runAgent(
     }
   }
 
-  return { text: resultText, newSessionId, usage };
+  // If the SDK result had no text but Claude produced text in content blocks
+  // (e.g. explanations alongside tool calls like EnterPlanMode/AskUserQuestion),
+  // use the last substantial assistant text as fallback.
+  const finalText = resultText ?? lastAssistantText;
+  if (!resultText && lastAssistantText) {
+    logger.info(
+      { fallbackLen: lastAssistantText.length },
+      'Result text was null — using last assistant content block as fallback',
+    );
+  }
+
+  return { text: finalText, newSessionId, usage };
 }
 
 // ── Retry wrapper ─────────────────────────────────────────────────

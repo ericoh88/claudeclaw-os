@@ -259,7 +259,7 @@ async function handleDiscordMessage(msg: Message, content: string, voiceReply = 
       setSession(chatIdStr, result.newSessionId);
     }
 
-    const rawResponse = result.text?.trim() || 'Done.';
+    const rawResponse = result.text?.trim() || '[Task completed — no summary was generated. Ask me to recap what I just did.]';
     const { text: responseText, files } = extractFileMarkers(rawResponse);
 
     // Save conversation turn
